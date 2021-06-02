@@ -36,3 +36,58 @@ volunteers:
 - title: Reschedule Volunteer Time
   url: /volunteers/reschedule-volunteer-time/
   weight: "4"
+consignors:
+- title: Consignors 101
+  url: /consignors/
+  weight: "1"
+- title: Restocking Consignors
+  url: /consignors/restocking-consignors/
+  weight: "2"
+- title: White Tag Consignors
+  url: /consignors/white-tag-consignors/
+  weight: "3"
+- title: Attaching Tags
+  url: /consignors/attaching-tags/
+  weight: "4"
+- title: Cardstock Color List
+  url: /consignors/cardstock-color-list/
+  weight: "5"
+- title: Preparing Your Merchandise
+  url: /consignors/preparing-merchandise/
+  weight: "6"
+- title: Completing Tag Information
+  url: /consignors/completing-tag-information/
+  weight: "7"
+- title: Consignor Earnings
+  url: /consignors/consignor-earnings/
+  weight: "8"
+- title: Donating Unsold Items
+  url: /consignors/donating-unsold-items/
+  weight: "9"
+- title: Items Accepted
+  url: /consignors/items-accepted/items-accepted-2/
+  weight: "10"
+- title: Items Not Accepted
+  url: /consignors/items-accepted/items-we-cannot-accept/
+  weight: "11"
+- title: Boutique Brands
+  url: /consignors/items-accepted/boutique-brands/
+  weight: "12"
+- title: Homeschool Curricula
+  url: /consignors/consigning-homeschool-curricula/
+  weight: "13"
+- title: Pricing Your Items
+  url: /consignors/items-accepted/pricing-recommendations/
+  weight: "14"
+- title: Print Your Tags
+  url: /consignors/items-accepted/printing-your-tags/
+  weight: "15"
+- title: Valet Tagging
+  url: /consignors/valet-tagging/
+  weight: "16"
+- title: Drop Off
+  url: /consignors/dropping-off/
+  weight: "17"
+- title: Pick Up
+  url: /consignors/dropping-off/picking-up/
+  weight: "18"
