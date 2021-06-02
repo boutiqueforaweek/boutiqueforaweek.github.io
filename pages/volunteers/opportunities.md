@@ -1,7 +1,6 @@
 ---
 title: Volunteer Opportunities
 permalink: /volunteers/volunteer-opportunities/
-section: volunteers
 ---
 
 ![Volunteer Opportunities](/img/volunteer-opportunities.png)

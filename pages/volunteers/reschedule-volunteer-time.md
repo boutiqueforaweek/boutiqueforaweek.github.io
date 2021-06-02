@@ -1,7 +1,6 @@
 ---
 title: Reschedule Volunteer Time
 permalink: /volunteers/reschedule-volunteer-time/
-section: volunteers
 ---
 
 ![Reschedule Volunteer Time](/img/reschedule_volunteer_time.png)

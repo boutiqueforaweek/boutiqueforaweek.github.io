@@ -6,6 +6,18 @@ url: "http://127.0.0.1:4000"
 defaults:
   -
     scope:
+      path: "pages/volunteers/*"
+    values:
+      section: "volunteers"
+      image: "/img/col_left_volunteers.png"
+  -
+    scope:
+      path: "pages/consignors/*"
+    values:
+      section: "consignors"
+      image: "/img/col_left_consignors.png"
+  -
+    scope:
       path: ""
     values:
       layout: "default"

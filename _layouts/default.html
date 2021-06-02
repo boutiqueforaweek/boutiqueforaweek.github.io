@@ -9,14 +9,14 @@
   <div class="main_body">
     <div id="col_left">
       <div id="sub_nav">
-        <img src="/img/volunteers_menu.png" width="195" height="38" />
+        <img src="/img/{{ page.section }}_menu.png" width="195" height="38" />
         <ul>
           {% for item in site.data.menus[page.section] %}
           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
         </ul>
       </div>
-      <img src="/img/col_left_volunteers.png" width="276" height="487" id="volunteer_image" />
+      <img src="{{ page.image }}" width="276" height="487" id="volunteer_image" />
     </div>
     <div id="col_right">
       {{ content }}

@@ -1,10 +1,9 @@
 ---
 title: Bartering
 permalink: /volunteers/bartering/
-section: volunteers
 ---
 
-![Volunteer Opportunities](/img/bartering.png)
+![Bartering](/img/bartering.png)
 
 ## Non-Traditional Volunteer Opportunities
 

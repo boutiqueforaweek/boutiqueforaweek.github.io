@@ -1,7 +1,6 @@
 ---
 title: Volunteers 101
 permalink: /volunteers/
-section: volunteers
 ---
 
 ![Volunteers 101](/img/volunteers1011.png)
