@@ -36,6 +36,18 @@ defaults:
       image: "/img/col_left_register.png"
   -
     scope:
+      path: "pages/about/*"
+    values:
+      section: "about"
+      image: "/img/col_left_about.png"
+  -
+    scope:
+      path: "pages/privacy-policy.md"
+    values:
+      section: "about"
+      image: "/img/col_left_about.png"
+  -
+    scope:
       path: ""
     values:
       layout: "default"
