@@ -30,6 +30,12 @@ defaults:
       image: "/img/col_left_events.png"
   -
     scope:
+      path: "pages/register.md"
+    values:
+      section: "register"
+      image: "/img/col_left_register.png"
+  -
+    scope:
       path: ""
     values:
       layout: "default"
