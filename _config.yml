@@ -18,6 +18,12 @@ defaults:
       image: "/img/col_left_consignors.png"
   -
     scope:
+      path: "pages/shoppers/*"
+    values:
+      section: "shoppers"
+      image: "/img/col_left_shoppers.png"
+  -
+    scope:
       path: ""
     values:
       layout: "default"

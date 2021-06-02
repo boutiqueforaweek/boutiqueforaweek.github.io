@@ -91,3 +91,19 @@ consignors:
 - title: Pick Up
   url: /consignors/dropping-off/picking-up/
   weight: "18"
+shoppers:
+- title: Shoppers 101
+  url: /shoppers/
+  weight: "1"
+- title: New and Expecting Moms
+  url: /shoppers/first-time-moms/
+  weight: "2"
+- title: Mom's Night Out
+  url: /shoppers/moms-night-out/
+  weight: "3"
+- title: About Bringing Children
+  url: /shoppers/about-bringing-children/
+  weight: "4"
+- title: Shopping Tips
+  url: /shoppers/shopping-tips/
+  weight: "5"
