@@ -109,7 +109,7 @@ shoppers:
   weight: "5"
 schedule:
 - title: Schedule
-  url: /schedule/
+  url: /events/
   weight: "1"
 - title: When Can I Shop?
   url: /events/event-schedule/
