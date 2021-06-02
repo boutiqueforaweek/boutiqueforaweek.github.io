@@ -1,0 +1,11 @@
+title: Boutique for a Week
+description: >-
+  Voted Best Kids Consignment Sale in Central Florida
+url: "http://127.0.0.1:4000"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

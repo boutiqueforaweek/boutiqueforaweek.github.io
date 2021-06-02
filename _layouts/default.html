@@ -1,0 +1,27 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+  {% include head.html %}
+</head>
+<div id="page">
+  {% include header.html %}
+  <div class="main_body">
+    <div id="col_left">
+      <div id="sub_nav">
+        <img src="/img/volunteers_menu.png" width="195" height="38" />
+        <ul>
+          {% for item in site.data.menus[page.section] %}
+          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <img src="/img/col_left_volunteers.png" width="276" height="487" id="volunteer_image" />
+    </div>
+    <div id="col_right">
+      {{ content }}
+    </div>
+    </div>
+    <div class="clear"></div>
+</div>
+{% include footer.html %}

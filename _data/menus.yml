@@ -1,0 +1,38 @@
+navigation:
+- title: Consignors
+  url: /consignors/
+  identifier: consignors
+  weight: "1"
+- title: Volunteers
+  url: /volunteers/
+  identifier: volunteers
+  weight: "2"
+- title: Shoppers
+  url: /shoppers/
+  identifier: shoppers
+  weight: "3"
+- title: Schedule
+  url: /events/
+  identifier: schedule
+  weight: "4"
+- title: Register
+  url: /register/
+  identifier: register
+  weight: "5"
+- title: About
+  url: /about/who-we-are/
+  identifier: about
+  weight: "6"
+volunteers:
+- title: Volunteers 101
+  url: /volunteers/
+  weight: "1"
+- title: Volunteer Opportunities
+  url: /volunteers/volunteer-opportunities/
+  weight: "2"
+- title: Bartering
+  url: /volunteers/bartering/
+  weight: "3"
+- title: Reschedule Volunteer Time
+  url: /volunteers/reschedule-volunteer-time/
+  weight: "4"

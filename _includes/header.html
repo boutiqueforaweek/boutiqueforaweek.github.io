@@ -1,0 +1,12 @@
+  <div id="header">
+    <div id="nav">
+      <div id="logo">
+        <a href="/" id="bfaw_logo">Home</a></div>
+      <ul>
+        {% for item in site.data.menus.navigation %}
+        <li class="{{ item.identifier }}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <hr />
