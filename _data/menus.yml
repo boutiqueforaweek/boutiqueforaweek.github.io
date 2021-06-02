@@ -107,3 +107,16 @@ shoppers:
 - title: Shopping Tips
   url: /shoppers/shopping-tips/
   weight: "5"
+schedule:
+- title: Schedule
+  url: /schedule/
+  weight: "1"
+- title: When Can I Shop?
+  url: /events/event-schedule/
+  weight: "2"
+- title: Map & Location
+  url: /events/map-location/
+  weight: "3"
+- title: Printables
+  url: /events/printables/
+  weight: "4"

@@ -24,6 +24,12 @@ defaults:
       image: "/img/col_left_shoppers.png"
   -
     scope:
+      path: "pages/schedule/*"
+    values:
+      section: "schedule"
+      image: "/img/col_left_events.png"
+  -
+    scope:
       path: ""
     values:
       layout: "default"
