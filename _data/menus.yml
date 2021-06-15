@@ -64,33 +64,36 @@ consignors:
 - title: Donating Unsold Items
   url: /consignors/donating-unsold-items/
   weight: "9"
+items_to_sell:
 - title: Items Accepted
   url: /consignors/items-accepted/items-accepted-2/
-  weight: "10"
+  weight: "1"
 - title: Items Not Accepted
   url: /consignors/items-accepted/items-we-cannot-accept/
-  weight: "11"
+  weight: "2"
 - title: Boutique Brands
   url: /consignors/items-accepted/boutique-brands/
-  weight: "12"
+  weight: "3"
 - title: Homeschool Curricula
   url: /consignors/consigning-homeschool-curricula/
-  weight: "13"
+  weight: "4"
+pricing:
 - title: Pricing Your Items
   url: /consignors/items-accepted/pricing-recommendations/
-  weight: "14"
+  weight: "1"
 - title: Print Your Tags
   url: /consignors/items-accepted/printing-your-tags/
-  weight: "15"
+  weight: "2"
 - title: Valet Tagging
   url: /consignors/valet-tagging/
-  weight: "16"
+  weight: "3"
+drop_off_pick_up:
 - title: Drop Off
   url: /consignors/dropping-off/
-  weight: "17"
+  weight: "1"
 - title: Pick Up
   url: /consignors/dropping-off/picking-up/
-  weight: "18"
+  weight: "2"
 shoppers:
 - title: Shoppers 101
   url: /shoppers/

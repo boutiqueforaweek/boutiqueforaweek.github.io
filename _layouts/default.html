@@ -9,12 +9,24 @@
   <div class="main_body">
     <div id="col_left">
       <div id="sub_nav">
+        {% if page.section != 'consignors' %}
         <img src="/img/{{ page.section }}_menu.png" width="195" height="38" />
         <ul>
           {% for item in site.data.menus[page.section] %}
           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
         </ul>
+        {% else %}
+        {% assign menus = 'consignors,items_to_sell,pricing,drop_off_pick_up' | split: ',' %}
+        {% for menu in menus %}
+        <img src="/img/{{ menu }}_menu.png" width="195" height="38" />
+        <ul>
+          {% for item in site.data.menus[menu] %}
+          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
+        {% endif %}
       </div>
       <img src="{{ page.image }}" width="276" height="487" id="volunteer_image" />
     </div>
