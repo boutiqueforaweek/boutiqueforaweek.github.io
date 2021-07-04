@@ -31,4 +31,4 @@ Your items will be held safely until it’s time to restock.  On Wednesday, Vol
 
 We charge an $10 Restocking Consignor registration fee (payable through Paypal during the registration process).  This fee is non-refundable.
 
-[Registration](/register/) opens in the summer to classic Consignors for our Fall 2021 Sale.
+[Registration](/register/) opens on July 6th to classic Consignors for our Fall 2021 Sale.

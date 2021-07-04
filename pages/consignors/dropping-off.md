@@ -5,7 +5,7 @@ permalink: /consignors/dropping-off/
 
 ![Dropping Off](/img/header_DropOff.png "Used Childrens Clothing")
 
-## Drop Off for our Fall 2021 Sale is TBA.
+## Drop Off for our Fall 2021 Sale is Sunday, September 12th from 4:00 p.m. to 9:00 p.m. and Monday, September 13th from 9:30 a.m. to 12:30 p.m.
 
 ## You WILL need an appointment to Drop Off.
 

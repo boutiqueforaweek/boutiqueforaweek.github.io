@@ -7,7 +7,7 @@ permalink: /shoppers/moms-night-out/
 
 ## We are excited to bring back Mom’s Night Out for our Fall 2021 Sale!
 
-Join us for a fun and extended night of shopping catering to moms TBA. The event will include music, special vendors, and giveaways. RSVP to our event page on Facebook so we know you’re coming!
+Join us for a fun and extended night of shopping catering to moms on September 15th from 8:00 p.m. until 10:00 p.m. The event will include music, special vendors, and giveaways. RSVP to our event page on Facebook so we know you’re coming!
 
 ## Did we mention prizes?
 
