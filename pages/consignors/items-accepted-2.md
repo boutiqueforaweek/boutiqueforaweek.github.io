@@ -5,7 +5,7 @@ permalink: /consignors/items-accepted/items-accepted-2/
 
 ![Items Accepted](/img/items_accepted3.png "items_accepted3")
 
-**You must verify that your items are not under recall. Items can be checked on this ****[website](http://www.cpsc.gov/en/Recalls/)****. You will be required to sign a waiver at check in accepting liability of the items that you bring, stating you have ensured none of your items are recalled, and verifying that all your items meet safety standards.  **
+**You must verify that your items are not under recall. Items can be checked on this ****[website](http://www.cpsc.gov/en/Recalls/)****. You will be required to sign a waiver at check in accepting liability of the items that you bring, stating you have ensured none of your items are recalled, and verifying that all your items meet safety standards. **
 
 **Please note that items with a specified limit will be counted at Drop Off.**
 
@@ -16,7 +16,7 @@ permalink: /consignors/items-accepted/items-accepted-2/
 * Quality children’s clothing in excellent condition, manufactured in the last 4 years. We accept ALL brands of clothing, from Target brands to Old Navy, Gap, and even high end boutique items. All gently used clothing items sell well.
 * Anything baby/children if not listed in the [Items Not Accepted](/consignors/items-accepted/items-we-cannot-accept/) section!
 * Infant Bath tubs – less than one year old and in excellent condition.
-* Junior sizes 0-16 and Young Men’s sizes 28W-34W.  Sizes 12 through 16 must be trendy and manufactured in the last 2 years and MUST BE NAME BRANDS as that sells best in these larger sizes.
+* Junior sizes 0-16 and Young Men’s sizes 28W-34W. Sizes 12 through 16 must be trendy and manufactured in the last 2 years and MUST BE NAME BRANDS as that sells best in these larger sizes.
 * Maternity clothing purchased new in the last year.
 * Handmade items like hats, clothing, etc may be sold with approval only. Please [email us](mailto:info@boutiqueforaweek.com) pictures.
 * Baby equipment manufactured in the last 4 years. Check date on tag. Batteries MUST be included as needed! Please verify that your baby equipment meets all safety standards and is not on the [recall list](http://www.cpsc.gov/cgi-bin/prod.aspx "Government Recall List").
@@ -26,7 +26,7 @@ permalink: /consignors/items-accepted/items-accepted-2/
 * Disposable diapers and cloth diapers (in New condition)
 * Batteries MUST be included for battery-operated stuffed animals.
 * Juvenile/nursery furniture including: changing tables, rockers, gliders, children’s dressers, and bunk beds as well as children’s bedroom sets. All items MUST be assembled by Consignor. Please bring necessary tools.
-* Nursery Bedding – any bedding must be manufactured with in the past 3 years and must be name brand. All Bedding MUST be brought in zippered Comforter Bags or big Ziploc bags (available at Walmart).  Bedding does not sell well if it is not current or easy to see.  Any bedding improperly displayed will not be placed on the sales floor.
+* Nursery Bedding – any bedding must be manufactured with in the past 3 years and must be name brand. All Bedding MUST be brought in zippered Comforter Bags or big Ziploc bags (available at Walmart). Bedding does not sell well if it is not current or easy to see. Any bedding improperly displayed will not be placed on the sales floor.
 * Outdoor play equipment including Little Tikes and Step 2\. Equipment MUST be clean and in good condition!
 * Parenting and children’s books.
 * Kids DVDs, CDs, and CD-roms.

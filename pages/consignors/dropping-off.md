@@ -11,18 +11,18 @@ permalink: /consignors/dropping-off/
 
 * Schedule your Drop Off appointment [HERE](http://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW)!
 * Please note that the beginning and end of the Drop Off time tend to be the busiest times.
-* If you are volunteering during Drop Off, please arrive 30 minutes prior to the start of your shift to put out your items.  We cannot count your own Drop Off as volunteer hours.
+* If you are volunteering during Drop Off, please arrive 30 minutes prior to the start of your shift to put out your items. We cannot count your own Drop Off as volunteer hours.
 
 ## We review certain merchandise at Drop Off.
 
-Due to the limited facility space and a desire to serve our Shoppers and Consignors, we will be looking over all items before allowing them on the sale floor.  Ultimately, our focus is to help your items sell.
+Due to the limited facility space and a desire to serve our Shoppers and Consignors, we will be looking over all items before allowing them on the sale floor. Ultimately, our focus is to help your items sell.
 
 For your items to sell, they must be seen:
 
 * Crammed racks are challenging to browse.
-* Out-dated or stained clothing and bedding clutters already full areas.  These items are also automatically removed when discovered.
+* Out-dated or stained clothing and bedding clutters already full areas. These items are also automatically removed when discovered.
 
-We still want to stock all items that are clean, tagged correctly, sale quality, and fit the criteria on the [Items Accepted page](/consignors/items-accepted/items-accepted-2/).  Inspecting merchandise ensures the best sale possible for Consignors and Shoppers.  While we recognize this will lengthen the time it takes to Drop Off, Consignors who have prepared their items correctly should anticipate an efficient experience.
+We still want to stock all items that are clean, tagged correctly, sale quality, and fit the criteria on the [Items Accepted page](/consignors/items-accepted/items-accepted-2/). Inspecting merchandise ensures the best sale possible for Consignors and Shoppers. While we recognize this will lengthen the time it takes to Drop Off, Consignors who have prepared their items correctly should anticipate an efficient experience.
 
 ## Help prepare for Drop Off by reviewing these procedures.
 
@@ -31,9 +31,9 @@ When you arrive at Drop Off, follow this plan:
 * Park your vehicle and unload all items. We suggest wheeling your clothing items in on a stroller, cart, or wagon.
 * Go to the check-in table. Sign your registration confirmation page here and verify all your Consignor information with the available printouts.
 * If you are a [White Tag Consignor](/consignors/white-tag-consignors/) make sure to check in and verify your status prior to placing your items on the sale’s floor.
-* Get in line for the next available attendant at our inspection tables.  The attendants will first quickly review your larger items and toys.
-* You will be assigned a Volunteer who will assist you in placing your inspected items in designated places on the sale’s floor.  Racks, bins, and shelves are clearly labeled, and there are additional Volunteers available to direct you.
-* The attendant will continue inspecting your clothing and other items.  Return to the attendant to collect your remaining items and put them in the correct areas.
+* Get in line for the next available attendant at our inspection tables. The attendants will first quickly review your larger items and toys.
+* You will be assigned a Volunteer who will assist you in placing your inspected items in designated places on the sale’s floor. Racks, bins, and shelves are clearly labeled, and there are additional Volunteers available to direct you.
+* The attendant will continue inspecting your clothing and other items. Return to the attendant to collect your remaining items and put them in the correct areas.
 * Remember you must assemble cribs, pack ‘n’ plays, and swings.
 * Once all your items are in the proper spots and assembled, we ask that you exit quickly to keep traffic flowing smoothly! We realize that it is VERY tempting to browse, but please refrain and join us at your earliest possible shopping convenience!
 * There will still be Volunteer slots available (see check-in personnel), should you decide that you just have to get back early once you see all the goodies!

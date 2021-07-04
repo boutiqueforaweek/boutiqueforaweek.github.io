@@ -5,7 +5,7 @@ permalink: /shoppers/
 
 ![Shoppers 101](/img/shoppers1011.png "Shoppers 101")
 
-_All Sales Final!  No returns or exchanges!  We accept Cash or Credit Card.  Shoppers using cash can check out in our express lane.  Credit cards require a $15 minimum purchase.  We do not accept American Express._
+_All Sales Final! No returns or exchanges! We accept Cash or Credit Card. Shoppers using cash can check out in our express lane. Credit cards require a $15 minimum purchase. We do not accept American Express._
 
 Everyone is invited to shop at Boutique For A Week. Tell your friends, neighbors, co-workers, relatives, and anyone that shops for kids!
 

@@ -15,6 +15,6 @@ Thank you for printing copies of our flyer ([full page](/pdf/BFAW-Full.pdf) or [
 
 ## Handouts
 
-Please consider handing out extra copies of our [4 per page](/pdf/BFAW-4.pdf) handout or the [full page](/pdf/BFAW-Full.pdf) flyer to your friends!  Friends telling friends is the number one way we grow.
+Please consider handing out extra copies of our [4 per page](/pdf/BFAW-4.pdf) handout or the [full page](/pdf/BFAW-Full.pdf) flyer to your friends! Friends telling friends is the number one way we grow.
 
 Thanks for helping spread the word about Boutique For A Week!
