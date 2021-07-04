@@ -613,7 +613,7 @@ list-style:none;
 	height:230px;
 	float:left;
 }
-#copywrite {
+#copyright {
 width:950px;
 margin:50px auto 0px auto;
 height:100px;
@@ -622,23 +622,23 @@ font-size:12px;
 line-height:16px;
 color:#50290B;
 }
-#copywrite ul {
+#copyright ul {
 float:right;
 }
-#copywrite ul li {
+#copyright ul li {
 list-style:none;
 display:inline;
 padding-left:15px;
 }
-#copywrite ul li a {
+#copyright ul li a {
 	text-decoration:none;
 	color:#558268;
 }
-#copywrite ul li a:hover {
+#copyright ul li a:hover {
 	text-decoration:underline;
 	color:#B61E41;
 }
-#copywrite span {
+#copyright span {
 float:left;
 }
 /*card stock */
