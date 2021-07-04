@@ -5,4 +5,9 @@ permalink: /events/
 
 ![Schedule](/img/header_Schedule.png "Schedule")
 
-Our Fall 2021 Sale events calendar will be posted this summer!
+{% for day in site.data.schedule.dates %}
+<h2>{{ day.date }}</h2>
+{% for event in day.events %}
+<p><strong>{{ event.name }}</strong>: {{ event.time }}</p>
+{% endfor %}
+{% endfor %}
