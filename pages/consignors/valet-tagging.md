@@ -9,4 +9,4 @@ Valet Tagging is available to those who want to consign and earn a little extra 
 
 You will be required to drop off your items along with hangers, ziploc bags, card stock in the [appropriate color](/consignors/cardstock-color-list/), zip ties, safety pins, etc.  A Volunteer will enter all the tagging information and set the prices.  Then the Volunteer will tag your items and deliver them to [Drop Off.](/consignors/dropping-off/)
 
-You earn 40% of your selling price if you choose this option.  Other restrictions and deadlines apply, please [email us](mailto:kristen@boutiqueforaweek.net) if you are interested in Valet Tagging.
+You earn 40% of your selling price if you choose this option.  Other restrictions and deadlines apply, please [email us](mailto:info@boutiqueforaweek.com) if you are interested in Valet Tagging.

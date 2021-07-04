@@ -34,4 +34,4 @@ When you Pick Up, you may choose to donate any items you do not wish to carry ho
 
 ## Unsold items NOT picked up at this time will be donated to charity at the end of Pick Up!
 
-We regret that no reminder calls or alternate arrangements can be made. However, you can have a friend pick up your unsold items (and/or your earnings check) if you are unavailable to do so.  You must [email us](mailto:Kristen@BoutiqueForAWeek.net) your Consignor code and the name of the person to allow us to release your unsold items.  This includes releasing items to your spouse.
+We regret that no reminder calls or alternate arrangements can be made. However, you can have a friend pick up your unsold items (and/or your earnings check) if you are unavailable to do so.  You must [email us](mailto:info@boutiqueforaweek.com) your Consignor code and the name of the person to allow us to release your unsold items.  This includes releasing items to your spouse.
