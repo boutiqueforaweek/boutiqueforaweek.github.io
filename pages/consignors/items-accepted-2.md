@@ -19,7 +19,7 @@ permalink: /consignors/items-accepted/items-accepted-2/
 * Junior sizes 0-16 and Young Men’s sizes 28W-34W. Sizes 12 through 16 must be trendy and manufactured in the last 2 years and MUST BE NAME BRANDS as that sells best in these larger sizes.
 * Maternity clothing purchased new in the last year.
 * Handmade items like hats, clothing, etc may be sold with approval only. Please [email us](mailto:info@boutiqueforaweek.com) pictures.
-* Baby equipment manufactured in the last 4 years. Check date on tag. Batteries MUST be included as needed! Please verify that your baby equipment meets all safety standards and is not on the [recall list](http://www.cpsc.gov/cgi-bin/prod.aspx "Government Recall List").
+* Baby equipment manufactured in the last 4 years. Check date on tag. Batteries MUST be included as needed! Please verify that your baby equipment meets all safety standards and is not on the [recall list](https://www.cpsc.gov/Recalls "Government Recall List").
 * Socks and underwear in "Like New" condition, in a ziploc bag.
 * Toys in excellent condition. Batteries MUST be included as needed. Games, puzzles, etc. MUST include all pieces.
 * Shoes sizes infant through 8 (junior/adult)
