@@ -13,7 +13,7 @@ We are always amazed and blessed by the women who serve so faithfully at each sa
 
 By choosing a Volunteer slot at the sale, you are removing that slot from the website so that no one else can choose it and work it. We only have slots posted for positions we need filled! If you for any reason do not shop, we still need your volunteer position filled or we will be short a Volunteer at the sale. Whether you shop or not, you are obligated to fulfill your Volunteer slot. Thank you for understanding.
 
-## *If registration has closed, please <a href="mailto:info@boutiqueforaweek.com">email us</a> to reschedule.*
+## *If registration has closed, please <a href="mailto:{{ site.email }}">email us</a> to reschedule.*
 
 In an effort to ensure the quality of the sale by retaining a sufficient number of volunteer workers, Boutique For A Week will require that Volunteers fulfill their pledged obligation to work the shift(s) they have selected. Volunteers are expected to be on time and fulfill the entire shift, whether or not they have shopped the Preview Sale.</p>
 

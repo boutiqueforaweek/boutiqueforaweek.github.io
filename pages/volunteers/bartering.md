@@ -27,8 +27,8 @@ Arrange for news coverage with an area or regional magazine or newspaper and get
 
 ## Gift Cards
 
-Provide us with a $25 gift card. Since our supply needs vary from sale to sale, <a href="mailto:info@boutiqueforaweek.com">email</a> Boutique For A Week&nbsp;for the specific stores allowed.
+Provide us with a $25 gift card. Since our supply needs vary from sale to sale, <a href="mailto:{{ site.email }}">email</a> Boutique For A Week&nbsp;for the specific stores allowed.
 
 ## Meals: Are you a fabulous cook? We need to eat!
 
-If you are interested in volunteering in this way, please <a href="mailto:info@boutiqueforaweek.com">email us</a> for more information!
+If you are interested in volunteering in this way, please <a href="mailto:{{ site.email }}">email us</a> for more information!
