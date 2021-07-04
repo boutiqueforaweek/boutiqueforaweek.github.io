@@ -78,35 +78,3 @@
   <div id="copyright">
     <span style="color:#558268;">&copy; 2021 Boutique for a Week</span>
   </div>
-  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-  <script type='text/javascript' id='mimi-main-js-extra'>
-    /* <![CDATA[ */
-    var MadMimi = {
-      "thankyou": "Thank you for signing up!",
-      "thankyou_suppressed": "Thank you for signing up! Please check your email to confirm your subscription.",
-      "oops": "Oops! There was a problem. Please try again.",
-      "fix": "There was a problem. Please fill all required fields."
-    };
-    /* ]]> */
-  </script>
-  <script type='text/javascript' src='/js/mimi.min.js' id='mimi-main-js'></script>
-  <script type='text/javascript'>
-    var popup = document.getElementById('pum-5213');
-    const popupCookie = document.cookie
-      .split('; ')
-      .find(row => row.startsWith('pum-5213='));
-
-    if (!popupCookie) {
-      // Show popup.
-      popup.classList.add('show');
-    }
-
-    popup.addEventListener('click', function(e) {
-      if (e.target.classList.contains('pum-close')) {
-        // Hide popup and set cookie.
-        popup.classList.remove('show');
-        document.cookie = 'pum-5213=true';
-      }
-    }, false);
-
-  </script>
