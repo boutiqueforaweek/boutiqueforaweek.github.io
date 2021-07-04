@@ -13,4 +13,4 @@ Once you are registered, you will receive an email confirmation with a shopping 
 
 If registration is closed, come anyway and register at the sale! Spread the word to your new friends in your childbirth classes. You are welcome to bring your spouse, parents, and grandparents along to help you shop! However, this time is set aside for New/Expecting Moms so your friends will be unable to join you at this time.
 
-*Please note, infants in a stroller or car seat carrier are welcome to come, but because this is our busiest time with 300+ shoppers,we ask that you please make other arrangements for additional children.
+*Please note, infants in a stroller or car seat carrier are welcome to come, but because this is our busiest time with 300+ shoppers, we ask that you please make other arrangements for additional children.

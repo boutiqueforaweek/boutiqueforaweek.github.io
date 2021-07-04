@@ -9,12 +9,12 @@ permalink: /volunteers/volunteer-opportunities/
 
 Classic volunteer slots are scheduled just before, during, and after the sale. These slots require time at the sale&#8217;s location. <a href="https://www.mysalemanager.net/wrk_mobworkerlogin.aspx">Volunteer registration</a> for our Fall 2021 Sale opens on July 6th!
 
-Time slots are available in 4-hour shifts.  By volunteering, you will get to shop the day before Consignors and two days before the general public.
+Time slots are available in 4-hour shifts. By volunteering, you will get to shop the day before Consignors and two days before the general public.
 
 ## How to Prepare for your Volunteer Slot
 
 * Due to the tasks that you may be doing and the amount of shoppers at any given time, we ask that you make other arrangements for your children during your volunteer shift.
-* If you are consigning and sign up to volunteer during Drop Off, please arrive 30 minutes before your shift begins to put out your items.  We cannot count time spent on your own Drop Off as volunteer hours.
+* If you are consigning and sign up to volunteer during Drop Off, please arrive 30 minutes before your shift begins to put out your items. We cannot count time spent on your own Drop Off as volunteer hours.
 * Shifts should be scheduled around (and not during) your planned shopping times.
 * Plan to work your entire 4 hour shift.
 * Wear comfortable clothing but dress nicely since you represent Boutique For A Week!

@@ -13,7 +13,7 @@ FIRST PICK OF ALL THE GREATEST BARGAINS!
 
 Imagine short lines, great prices, and all the best items waiting for you because *Volunteers shop first at Boutique For A Week!*
 
-Your time, skills, and resources are invaluable contributions to the overall success of Boutique For A Week.  Quite simply, we cannot effectively handle all the finer details that make our sale great without you &#8211; our GREAT Volunteers! As our way of saying thank you, we open this early shopping time to you! However, we are not able to allow you to shop during your volunteer shift. This also means you may not set aside items before your appropriate shopping time. Please be sure to check the schedule and plan your shifts around your shopping time.
+Your time, skills, and resources are invaluable contributions to the overall success of Boutique For A Week. Quite simply, we cannot effectively handle all the finer details that make our sale great without you &#8211; our GREAT Volunteers! As our way of saying thank you, we open this early shopping time to you! However, we are not able to allow you to shop during your volunteer shift. This also means you may not set aside items before your appropriate shopping time. Please be sure to check the schedule and plan your shifts around your shopping time.
 
 **Volunteers may bring a spouse, grandparent and/or children under 18 to shop during the Volunteer Shopping Pre-Sale shopping time. No sisters, friends, aunts, etc. We are not able to make exceptions. Please only bring children if absolutely necessary. <u>Children under 12 must remain with a parent at all times.</u> The Fall 2021 Pre-Sale is September 14th.**
 
