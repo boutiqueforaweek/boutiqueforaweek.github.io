@@ -141,11 +141,8 @@ float:left;
 	background-image:url(../img/consignors_wide.jpg);
 	background-position:top left;
 }
-#nav li.consignors a:hover {
-	background-image:url(../img/consignors_wide.jpg);
-	background-position:bottom left;
-}
-#nav li.consignors a.active_link {
+#nav li.consignors a:hover,
+#nav li.consignors.active a {
 	background-image:url(../img/consignors_wide.jpg);
 	background-position:bottom left;
 }
@@ -157,10 +154,11 @@ float:left;
 	background-image:url(../img/volunteers_wide.jpg);
 	background-position:top left;
 }
-#nav li.volunteers a:hover {
+#nav li.volunteers a:hover,
+#nav li.volunteers.active a {
 	background-image:url(../img/volunteers_wide.jpg);
 	background-position:bottom left;
-	}
+}
 #nav li.shoppers a {
 	display:block;
 	width:119px;
@@ -169,7 +167,8 @@ float:left;
 	background-image:url(../img/shoppers_wide.jpg);
 	background-position:top left;
 }
-#nav li.shoppers a:hover {
+#nav li.shoppers a:hover,
+#nav li.shoppers.active a {
 	background-image:url(../img/shoppers_wide.jpg);
 	background-position:bottom left;
 }
@@ -181,7 +180,8 @@ float:left;
 	background-image:url(../img/schedule_wide.jpg);
 	background-position:top left;
 }
-#nav li.schedule a:hover {
+#nav li.schedule a:hover,
+#nav li.schedule.active a {
 	background-image:url(../img/schedule_wide.jpg);
 	background-position:bottom left;
 }
@@ -193,7 +193,8 @@ float:left;
 	background-image:url(../img/register_wide.jpg);
 	background-position:top left;
 }
-#nav li.register a:hover {
+#nav li.register a:hover,
+#nav li.register.active a {
 	background-image:url(../img/register_wide.jpg);
 	background-position:bottom left;
 
@@ -207,7 +208,8 @@ float:left;
 	background-image:url(../img/about_wide.jpg);
 	background-position:top left;
 }
-#nav li.about a:hover {
+#nav li.about a:hover,
+#nav li.about.active a {
 	background-image:url(../img/about_wide.jpg);
 	background-position:bottom left;
 } 

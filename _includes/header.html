@@ -1,10 +1,16 @@
+{% assign current_page = page.url | split: '/' %}
+{% assign current_menu = current_page[1] %}
+{% if current_menu == 'events' %}
+{% assign current_menu = 'schedule' %}
+{% endif %}
   <div id="header">
     <div id="nav">
       <div id="logo">
-        <a href="/" id="bfaw_logo">Home</a></div>
+        <a href="/" id="bfaw_logo">Home</a>
+      </div>
       <ul>
         {% for item in site.data.menus.navigation %}
-        <li class="{{ item.identifier }}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <li class="{{ item.identifier }}{% if item.identifier == current_menu %} active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>
         {% endfor %}
       </ul>
     </div>
