@@ -29,6 +29,6 @@ Your items will be held safely until it’s time to restock. On Wednesday, Volun
 * If you elect to drop off on Wednesday, you have two extra days to tag your items.
 * You are automatically added to our Consignor Waiting List: if a Consignor un-registers, you can be offered an opportunity to consign with our classic Consignors during the Pre-Sale times.
 
-We charge an $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
+We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
 
 [Registration](/register/) opens on July 6th to classic Consignors for our Fall 2021 Sale.
