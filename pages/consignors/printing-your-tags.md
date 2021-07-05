@@ -31,7 +31,7 @@ If it looks like one of the barcodes below, realign your current ink cartridge a
 
 If it looks like the one below or is faded, replace your ink cartridge with a new one and align the replacement cartridge.
 
-![](/img/badbarcode.jpg)
+![Bad Barcode](/img/badbarcode.jpg)
 
 ## Other Printing Options:
 
