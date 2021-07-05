@@ -7,4 +7,4 @@ permalink: /about/our-sponsors/
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
 
-If you are interested in being added as a Sponsor/Vendor please [contact us](mailto:{{ site.email }}subject=Becoming a Sponsor) for more details.
+If you are interested in being added as a Sponsor/Vendor please [contact us](mailto:{{ site.email }}subject=Becoming%20a%20Sponsor) for more details.

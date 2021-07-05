@@ -11,6 +11,6 @@ Do you have a family-friendly business (large or small) that could benefit from 
 
 Consider how BOUTIQUE FOR A WEEK marketing opportunities might BUILD YOUR BUSINESS!
 
-Email [Boutique For A Week](mailto:{{ site.email }}?subject=Advertising Opportunites) now for more information on opportunities to maximize your company visibility.
+Email [Boutique For A Week](mailto:{{ site.email }}?subject=Advertising%20Opportunites) now for more information on opportunities to maximize your company visibility.
 
 We will include your logo or an ad on our website, emails, Facebook and Twitter but we will not share or sell our contacts.
