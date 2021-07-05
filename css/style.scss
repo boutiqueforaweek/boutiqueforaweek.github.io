@@ -1,3 +1,6 @@
+---
+---
+
 form.mimi-form p {
   padding: 0
 }
@@ -578,7 +581,7 @@ html {
 
 body {
   height: 100%;
-  background-image: url('../img/body_bg.jpg');
+  background-image: url('/img/body_bg.jpg');
   background-repeat: repeat;
 }
 
@@ -618,7 +621,7 @@ h5 {
 }
 
 h6 {
-  background-image: url(../img/hr.jpg);
+  background-image: url(/img/hr.jpg);
   background-repeat: no-repeat;
   background-position: top left;
   width: 500px;
@@ -676,17 +679,17 @@ a:active {
   width: 262px;
   height: 160px;
   text-indent: -999999px;
-  background-image: url(../img/logo.gif);
+  background-image: url(/img/logo.gif);
   background-position: top left;
 }
 
 #logo a:hover {
-  background-image: url(../img/logo.gif);
+  background-image: url(/img/logo.gif);
   background-position: bottom left;
 }
 
 #nav {
-  background-image: url(../img/nav_bg.jpg);
+  background-image: url(/img/nav_bg.jpg);
   background-repeat: repeat-x;
   width: 950px;
   margin: 0 auto;
@@ -715,13 +718,13 @@ a:active {
   width: 138px;
   height: 65px;
   text-indent: -999999px;
-  background-image: url(../img/consignors_wide.jpg);
+  background-image: url(/img/consignors_wide.jpg);
   background-position: top left;
 }
 
 #nav li.consignors a:hover,
 #nav li.consignors.active a {
-  background-image: url(../img/consignors_wide.jpg);
+  background-image: url(/img/consignors_wide.jpg);
   background-position: bottom left;
 }
 
@@ -730,13 +733,13 @@ a:active {
   width: 120px;
   height: 65px;
   text-indent: -999999px;
-  background-image: url(../img/volunteers_wide.jpg);
+  background-image: url(/img/volunteers_wide.jpg);
   background-position: top left;
 }
 
 #nav li.volunteers a:hover,
 #nav li.volunteers.active a {
-  background-image: url(../img/volunteers_wide.jpg);
+  background-image: url(/img/volunteers_wide.jpg);
   background-position: bottom left;
 }
 
@@ -745,13 +748,13 @@ a:active {
   width: 119px;
   height: 65px;
   text-indent: -999999px;
-  background-image: url(../img/shoppers_wide.jpg);
+  background-image: url(/img/shoppers_wide.jpg);
   background-position: top left;
 }
 
 #nav li.shoppers a:hover,
 #nav li.shoppers.active a {
-  background-image: url(../img/shoppers_wide.jpg);
+  background-image: url(/img/shoppers_wide.jpg);
   background-position: bottom left;
 }
 
@@ -760,13 +763,13 @@ a:active {
   width: 117px;
   height: 65px;
   text-indent: -999999px;
-  background-image: url(../img/schedule_wide.jpg);
+  background-image: url(/img/schedule_wide.jpg);
   background-position: top left;
 }
 
 #nav li.schedule a:hover,
 #nav li.schedule.active a {
-  background-image: url(../img/schedule_wide.jpg);
+  background-image: url(/img/schedule_wide.jpg);
   background-position: bottom left;
 }
 
@@ -775,13 +778,13 @@ a:active {
   width: 110px;
   height: 65px;
   text-indent: -999999px;
-  background-image: url(../img/register_wide.jpg);
+  background-image: url(/img/register_wide.jpg);
   background-position: top left;
 }
 
 #nav li.register a:hover,
 #nav li.register.active a {
-  background-image: url(../img/register_wide.jpg);
+  background-image: url(/img/register_wide.jpg);
   background-position: bottom left;
 }
 
@@ -790,13 +793,13 @@ a:active {
   width: 105px;
   height: 65px;
   text-indent: -999999px;
-  background-image: url(../img/about_wide.jpg);
+  background-image: url(/img/about_wide.jpg);
   background-position: top left;
 }
 
 #nav li.about a:hover,
 #nav li.about.active a {
-  background-image: url(../img/about_wide.jpg);
+  background-image: url(/img/about_wide.jpg);
   background-position: bottom left;
 }
 
@@ -806,7 +809,7 @@ a:active {
   margin: 60px auto 0px auto;
   padding: 0;
   width: 1000px;
-  background-image: url(../img/basic_page_bg.jpg);
+  background-image: url(/img/basic_page_bg.jpg);
   background-repeat: repeat-y;
   background-position: top center;
 
@@ -814,7 +817,7 @@ a:active {
 
 #home {
   height: 550px;
-  background-image: url(../img/main_bg.gif);
+  background-image: url(/img/main_bg.gif);
   background-position: top center;
   background-repeat: repeat-y;
   margin: 0px;
@@ -827,7 +830,7 @@ a:active {
   _padding: 0px 55px 0 0px;
   *margin-top: 80px;
   _margin-top: 0px;
-  background-image: url(../img/main_bg.gif);
+  background-image: url(/img/main_bg.gif);
   background-position: top center;
   background-repeat: repeat-y;
 }
@@ -968,7 +971,7 @@ a:active {
 #col_right ul li {
   width: 480px;
   color: #6D5647;
-  list-style-image: url(../img/star.gif);
+  list-style-image: url(/img/star.gif);
   margin-bottom: 8px;
 }
 
@@ -1078,7 +1081,7 @@ a:active {
 #blog_col_left ul li {
   width: 480px;
   color: #6D5647;
-  list-style-image: url(../img/star.gif);
+  list-style-image: url(/img/star.gif);
   margin-bottom: 8px;
 }
 
