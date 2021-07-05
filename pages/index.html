@@ -4,18 +4,17 @@ layout:
 ---
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   {% include head.html %}
 </head>
 <body>
-  <title>Boutique For A Week </title>
   <div id="page">
     {% include header.html %}
     <div id="home">
       <div id="welcome_bg">
         <div style="clear: both;"></div>
-        <img src="/img/welcome.png" alt="Boutique For A Week" width="826" height="473" border="0" usemap="#Map" />
+        <img src="/img/welcome.png" alt="Boutique For A Week" width="826" height="473" usemap="#Map" />
         <map name="Map" id="Map">
           <area shape="rect" coords="3871,225,6995,237" href="#" alt="join us now!" />
         </map>
@@ -33,7 +32,7 @@ layout:
         <div class="pum-content popmake-content">
           <p style="text-align: center;">&nbsp;<img loading="lazy"
               src="/img/bfaw-logo-newsletter.png" width="250" height="153"
-              align="middle" alt="Boutique for a Week logo" /></p>
+              alt="Boutique for a Week logo" /></p>
           <div class="mimi-form-wrapper" id="form-10324">
             <form action="https://madmimi.com/signups/subscribe/10324" method="post" class="mimi-form">
               <p>
@@ -61,7 +60,7 @@ layout:
     <div class="clear"></div>
   </div>
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-  <script type="text/javascript" id="mimi-main-js-extra">
+  <script id="mimi-main-js-extra">
     /* <![CDATA[ */
     var MadMimi = {
       "thankyou": "Thank you for signing up!",
@@ -71,8 +70,8 @@ layout:
     };
     /* ]]> */
   </script>
-  <script type="text/javascript" src="/js/mimi.min.js" id="mimi-main-js"></script>
-  <script type="text/javascript">
+  <script src="/js/mimi.min.js" id="mimi-main-js"></script>
+  <script>
     var popup = document.getElementById('pum-5213');
     const popupCookie = document.cookie
       .split('; ')
