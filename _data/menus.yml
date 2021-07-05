@@ -117,9 +117,6 @@ schedule:
 - title: Map & Location
   url: /events/map-location/
   weight: "3"
-- title: Printables
-  url: /events/printables/
-  weight: "4"
 about:
 - title: Who We Are
   url: /about/who-we-are/
