@@ -130,21 +130,18 @@ about:
 - title: About Boutique For A Week
   url: /about/
   weight: "2"
-- title: Resources
-  url: /about/resources/
-  weight: "3"
 - title: Charities
   url: /about/charities/
-  weight: "4"
+  weight: "3"
 - title: Advertising Opportunities
   url: /about/advertise-with-us/
-  weight: "5"
+  weight: "4"
 - title: Fundraising Opportunities
   url: /about/fundraising/
-  weight: "6"
+  weight: "5"
 - title: Our Sponsors
   url: /about/our-sponsors/
-  weight: "7"
+  weight: "6"
 - title: Contact Us
   url: /about/contact-us/
-  weight: "8"
+  weight: "7"
