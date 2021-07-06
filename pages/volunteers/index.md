@@ -35,4 +35,4 @@ If you&#8217;re uncertain about volunteering, consider this endorsement from a m
 
 ## Volunteer Registration
 
-[Volunteer registration](https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) opens on July 6th for our Fall 2021 Sale.
+[Volunteer registration](/register/) is now open for our Fall 2021 Sale.
