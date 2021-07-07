@@ -1,0 +1,16 @@
+---
+title: "How to Shop Ahead at Boutique For A Week"
+---
+
+Making a plan to efficiently shop at Boutique For A Week ensures you are “set” until the next sale date. “Set” for most shoppers includes buying clothing and shoes for the next season, acquiring baby necessities and equipment, and finding new toys because, well, toys are fun. But have you considered other ways you might shop ahead at our sale?
+
+Now is the perfect time to start a list in your phone or on the fridge. Take a look at your calendar between the fall and spring sales and think through all the holidays, birthdays, and special events you have coming up. (Note to Consignors: consider the following list as well! There is still time to enter tags.) Ask yourself these questions:
+
+* **Do you know anyone due with a baby before the spring?** Often our newborn and smaller baby clothes are in like new condition, some even new with tags. Plus, there is always a large selection of teeny baby shoes, baby necessities, and equipment available. Most people would be thrilled to get a like new piece of baby equipment they might not otherwise have received or afforded. Put your friend and her baby on the list!
+* **What holidays and events do you like to have a special outfit for?** The Fall Sale typically provides ample offerings of dresses, outfits, and shoes perfect for Thanksgiving, December holidays, and special occasions like birthdays or weddings. If you’re adding to your family be on the look out for Big Sister/Brother and Little Sister/Brother items to help welcome baby to your family.
+* **Who has a birthday?** Don’t just think of your own kids. Make a list of your nieces, nephews, and kids whose parties you know you’ll be attending. One shopper shared how she shopped ahead for Christmas. “I found a brand new and in-the-box Rubiks cube for $2 for my 11 year old nephew, a Parents brand drum with other instruments inside for $5 for my 10 month old nephew, a marshmallow shooter for another nephew for $3 (plus the cost of a bag of marshmallows), a brand new jewelry making kit for my crafty niece for only $5, and a set of four chapter books about horses for another niece for $5.” By shopping ahead, this shopper saved herself both the cost and time of shopping retail.
+* **Are you planning a vacation this winter?** Put warm coats, sweaters, hats, mittens, footie pajamas, kid luggage, and anything else you foresee needing on your list.
+* **Will my kids participate in any sports or activities in the next few months?** Be ready to search our shoe racks for inexpensive sneakers or cleats, note on your clothing "want list" to keep an eye out for athletic shorts, and keep our craft area in mind for art class supplies.
+* **What else is going on?** If there is an upcoming baby baptism, First Reconciliation, or other religious event be sure to check out our book selection as well as jewelry offerings. If you know you’re sure to go to at least a couple baby showers, look through our baby stuff and grab things like picture albums, decorations, or clothes to have a general gift pile ready to pull from when the invitation arrives.
+
+Hopefully this list helps you better plan how you can shop ahead at Boutique For A Week and ultimately saves you some money. Check for a post next week for help on making a pre-shopping planning list for everything you need.
