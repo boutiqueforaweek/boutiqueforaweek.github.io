@@ -55,6 +55,7 @@ defaults:
       path: ""
       type: "posts"
     values:
+      layout: "blog"
       permalink: "/blog/:title/"
   -
     scope:
