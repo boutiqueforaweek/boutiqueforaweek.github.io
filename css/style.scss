@@ -132,97 +132,20 @@ a {
     display: inline;
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 19px 0;
     float: left;
 
-    &.consignors a {
+    a {
+      color: #d3968b;
       display: block;
-      width: 138px;
-      height: 65px;
-      text-indent: -999999px;
-      background-image: url(/img/consignors_wide.jpg);
-      background-position: top left;
-    }
-
-    &.consignors a:hover,
-    &.consignors.active a {
-      background-image: url(/img/consignors_wide.jpg);
-      background-position: bottom left;
-    }
-
-    &.volunteers a {
-      display: block;
-      width: 120px;
-      height: 65px;
-      text-indent: -999999px;
-      background-image: url(/img/volunteers_wide.jpg);
-      background-position: top left;
-    }
-
-    &.volunteers a:hover,
-    &.volunteers.active a {
-      background-image: url(/img/volunteers_wide.jpg);
-      background-position: bottom left;
-    }
-
-    &.shoppers a {
-      display: block;
-      width: 119px;
-      height: 65px;
-      text-indent: -999999px;
-      background-image: url(/img/shoppers_wide.jpg);
-      background-position: top left;
-    }
-
-    &.shoppers a:hover,
-    &.shoppers.active a {
-      background-image: url(/img/shoppers_wide.jpg);
-      background-position: bottom left;
-    }
-
-    &.schedule a {
-      display: block;
-      width: 117px;
-      height: 65px;
-      text-indent: -999999px;
-      background-image: url(/img/schedule_wide.jpg);
-      background-position: top left;
-    }
-
-    &.schedule a:hover,
-    &.schedule.active a {
-      background-image: url(/img/schedule_wide.jpg);
-      background-position: bottom left;
-    }
-
-    &.register a {
-      display: block;
-      width: 110px;
-      height: 65px;
-      text-indent: -999999px;
-      background-image: url(/img/register_wide.jpg);
-      background-position: top left;
-    }
-
-    &.register a:hover,
-    &.register.active a {
-      background-image: url(/img/register_wide.jpg);
-      background-position: bottom left;
-    }
-
-    &.about a {
-      display: block;
-      width: 105px;
-      height: 65px;
-      text-indent: -999999px;
-      background-image: url(/img/about_wide.jpg);
-      background-position: top left;
-    }
-
-    &.about a:hover,
-    &.about.active a {
-      background-image: url(/img/about_wide.jpg);
-      background-position: bottom left;
+      font-family: "SignPainter";
+      font-size: 28px;
+      height: 40px;
+      margin: 0 8px;
+      text-align: center;
+      text-decoration: none;
+      transform: scale(1, 1.3);
+      width: 100px;
     }
   }
 }
