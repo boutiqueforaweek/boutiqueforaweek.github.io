@@ -4,6 +4,7 @@ description: >-
 url: "https://boutiqueforaweek.com"
 email: info@boutiqueforaweek.com
 plugins:
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 defaults:
