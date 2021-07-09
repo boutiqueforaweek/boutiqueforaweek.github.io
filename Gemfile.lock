@@ -269,6 +269,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-redirect-from
   jekyll-sitemap
   tzinfo (~> 1.2)
   tzinfo-data
