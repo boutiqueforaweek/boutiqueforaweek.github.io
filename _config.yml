@@ -61,7 +61,7 @@ defaults:
       type: "posts"
     values:
       layout: "blog"
-      permalink: "/blog/:title/"
+      permalink: "/blog/:year/:month/:day/:title/"
   -
     scope:
       path: ""
