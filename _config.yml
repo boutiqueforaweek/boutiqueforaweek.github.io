@@ -4,8 +4,13 @@ description: >-
 url: "https://boutiqueforaweek.com"
 email: info@boutiqueforaweek.com
 plugins:
+  - jekyll-paginate-v2
   - jekyll-redirect-from
   - jekyll-sitemap
+
+pagination:
+  enabled: true
+  sort_reverse: true
 
 defaults:
   -
