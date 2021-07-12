@@ -2,6 +2,7 @@
 title: "Ten Common (and Not-So-Common) Places to Find Items for Boutique For A Week"
 redirect_from:
   - /ten-common-and-not-so-common-places-to-find-items-for-boutique-for-a-week/
+  - /blog/ten-common-and-not-so-common-places-to-find-items-for-boutique-for-a-week/
 ---
 
 _Today on the blog we welcome back Amy from [Gabriel's Good Tidings](http://gabrielsgoodtidings.blogspot.com/) to share with you some great ways to find items to consign._
