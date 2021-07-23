@@ -135,6 +135,11 @@ a {
     padding: 19px 0;
     float: left;
 
+    &:hover,
+    &.active {
+      background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='99.024' height='52.218' viewBox='0 0 26.2 13.816'><ellipse cx='17.6' cy='27.785' rx='13.148' ry='6.817' transform='matrix(.995049 -.099384 .099384 .995049 -7.174656 -18.990476)' fill='%23fbefe9' fill-rule='evenodd'/></svg>") no-repeat center 5px;
+    }
+
     a {
       color: #d3968b;
       display: block;
