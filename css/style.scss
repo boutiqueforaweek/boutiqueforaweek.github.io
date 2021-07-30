@@ -1,6 +1,11 @@
 ---
 ---
 
+@font-face {
+  font-family: "SignPainter";
+  src: url("/fonts/SignPainter HouseScript.ttf") format("truetype");
+}
+
 @keyframes spinner-loader {
   0% {
     transform: rotate(0);
