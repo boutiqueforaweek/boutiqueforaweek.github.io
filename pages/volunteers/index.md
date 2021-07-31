@@ -3,8 +3,6 @@ title: Volunteers 101
 permalink: /volunteers/
 ---
 
-![Volunteers 101](/img/volunteers1011.png)
-
 ## We need you!!! Volunteers are the heartbeat of the Boutique For A Week sale!
 
 ## Why Volunteer?

@@ -3,8 +3,6 @@ title: Printables
 permalink: /events/printables/
 ---
 
-![Printables](/img/printables.png "Printables")
-
 All printables are .PDF files and require Adobe Reader to read. If you cannot view them, please [download a free copy of Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html).
 
 Spring 2021 Sale printables will be available soon!

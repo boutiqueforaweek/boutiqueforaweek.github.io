@@ -3,8 +3,6 @@ title: Bartering
 permalink: /volunteers/bartering/
 ---
 
-![Bartering](/img/bartering.png)
-
 ## Non-Traditional Volunteer Opportunities
 
 Have a unique service to offer or a product we might need? &nbsp;Often non-traditional venues bless us more than you can imagine! Below please find a list of our specific needs.

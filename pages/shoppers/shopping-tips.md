@@ -3,8 +3,6 @@ title: Shopping Tips
 permalink: /shoppers/shopping-tips/
 ---
 
-![Shopping Tips](/img/shopping_tips1.png "Shopping Tips")
-
 * We accept cash as well as MasterCard, Visa, and debit cards ($15 minimum) with proper ID.
 * We are sorry, but dressing rooms are not available!
 * Wear comfortable shoes.

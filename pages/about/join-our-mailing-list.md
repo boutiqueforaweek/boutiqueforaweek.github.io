@@ -3,8 +3,6 @@ title: Join Our Mailin List
 permalink: /about/join-our-mailing-list/
 ---
 
-![Join Our Mailing List](/img/join_our_mailing_list.png "Join Our Mailing List")
-
 Thank you for your interest in joining the Boutique For A Week mailing list. Members of our mailing list receive occasional emails about upcoming sales.
 
 _Our policy is to never share or sell your email address with any person outside of Boutique For A Week. Please see our_ _[Privacy Policy](/privacy-policy/)_ page for more information.

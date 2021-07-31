@@ -3,8 +3,6 @@ title: About
 permalink: /about/
 ---
 
-![About Boutique For A Week](/img/header_AboutBoutiqueForAWeek.png "About Boutique for a Week")
-
 Boutique For A Week is a children’s consignment sale held twice a year. We specialize in the highest quality of nearly new children’s clothing, toys, educational materials, infant equipment, nursery furniture, maternity clothing, and MORE! It’s our endeavor to maintain those standards while also providing the most affordable prices to meet the needs of your family.
 
 We aspire to be the premier, upscale kid’s consignment sale in Central Florida and the ‘go to’ place for moms. We want you to look forward to the sale as the opportunity to outfit your child(ren) for every need at an affordable price. After all, kids grown much faster than our paychecks.

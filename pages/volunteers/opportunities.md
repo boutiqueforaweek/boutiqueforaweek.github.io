@@ -3,8 +3,6 @@ title: Volunteer Opportunities
 permalink: /volunteers/volunteer-opportunities/
 ---
 
-![Volunteer Opportunities](/img/volunteer-opportunities.png)
-
 ## Classic Volunteer Slots:
 
 Classic volunteer slots are scheduled just before, during, and after the sale. These slots require time at the sale&#8217;s location. <a href="https://www.mysalemanager.net/wrk_mobworkerlogin.aspx">Volunteer registration</a> for our Fall 2021 Sale is now open!

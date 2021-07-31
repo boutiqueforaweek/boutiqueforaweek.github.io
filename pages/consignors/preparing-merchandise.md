@@ -3,8 +3,6 @@ title: Preparing Merchandise
 permalink: /consignors/preparing-merchandise/
 ---
 
-![Preparing Merchandise](/img/preparing_merchandise.png "Preparing Merchandise")
-
 ## How to Prepare Your Merchandise
 
 Boutique For A Week only accepts quality, clean, and current items! See "[Items Accepted](/consignors/items-accepted/items-accepted-2/)" for additional information. Make sure you have scrutinized each item as though YOU were going to buy it. Check for stains, holes, missing parts, etc. Any items with these issues will be pulled from the sale floor and left unsorted at sale end.

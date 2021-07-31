@@ -3,8 +3,6 @@ title: Consignors 101
 permalink: /consignors/
 ---
 
-![Consignors 101](/img/consignor1012.png "Consignment Information")
-
 ## What is a Consignor?
 
 A _Boutique For A Week_ Consignor is anyone who has a minimum of 10 items to sell (or fewer “high dollar” items totaling at least $30). The more you consign the more money you can make. Plus you get to shop before we open to the public!

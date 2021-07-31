@@ -3,8 +3,6 @@ title: Homeschool Curricula
 permalink: /consignors/consigning-homeschool-curricula/
 ---
 
-![Homeschool Curricula](/img/homeschool_curricula1.png "Homeschool Curricula")
-
 To sell your home schooling curricula at our sale:
 
 * [Register](/register/) as a Consignor.

@@ -3,9 +3,7 @@ title: Reschedule Volunteer Time
 permalink: /volunteers/reschedule-volunteer-time/
 ---
 
-![Reschedule Volunteer Time](/img/reschedule_volunteer_time.png)
-
-# Need to reschedule your Volunteer slot?
+## Need to reschedule your Volunteer slot?
 
 ## *If registration has NOT closed, simply go online and make the necessary changes.*
 

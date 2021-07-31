@@ -3,8 +3,6 @@ title: Who We Are
 permalink: /about/who-we-are/
 ---
 
-![Who We Are](/img/who_we_are1.png "Owners")
-
 In April 2008, my mom (Sandie), my sister (Kelly), and I (Kristen) began dreaming of a business we could run together. Out of that dream Boutique For A Week was born. Our first sale was in November of 2008 and for five years our families were served well by running the sale together.
 
 ![The Boutique for a Week girls](/img/the-girls.jpg)

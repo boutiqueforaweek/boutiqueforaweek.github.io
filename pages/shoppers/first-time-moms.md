@@ -3,8 +3,6 @@ title: Expecting Moms
 permalink: /shoppers/first-time-moms/
 ---
 
-![Expecting Moms](/img/ExpectingMoms.png )
-
 Pregnant moms, moms with children under the age of 1, and foster or adopting moms may register to shop early by clicking [HERE](http://www.mysalemanager.net/mom_start.aspx?partnercode=BFAW).
 
 We have a large selection of gently used children’s clothing, port-a-cribs, swings, cribs, etc. all at greatly reduced prices and all available to YOU before we open to the public. **Our Fall 2021 New and Expecting Moms Pre-Sale is Tuesday, September 14th from 4:00 p.m. until 8:00 p.m.**

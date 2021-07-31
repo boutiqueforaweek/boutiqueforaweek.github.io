@@ -3,8 +3,6 @@ title: Charities
 permalink: /about/charities/
 ---
 
-![Charities](/img/Charities.png "Charities")
-
 Every sale we consider it a privilege to join with our Consignors to donate to worthy causes in our community. Our Fall 2021 Sale recipient is [The Christian Sharing Center](http://thesharingcenter.org/). We love participating in their stated mission- “to provide essential resources to those in need while ensuring dignity, reflecting Christian generosity, and sharing God’s love.”
 
 You can designate any item for donation by using a white tag. Consider donating all your items as a [White Tag Consignor](/consignors/white-tag-consignors/) (you get to shop an hour earlier than other Consignors)!

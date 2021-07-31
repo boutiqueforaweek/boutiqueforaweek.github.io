@@ -15,6 +15,15 @@
   }
 }
 
+h1 {
+  background: url("/img/hr.png") no-repeat 0 44px;
+  color: #b62041;
+  font-family: "SignPainter";
+  font-size: 55px;
+  font-weight: 100;
+  margin-bottom: 10px;
+}
+
 .pum-sub-form .spinner-loader:not(:required) {
   animation: 1.5s linear infinite spinner-loader;
   border-radius: 0.5em;

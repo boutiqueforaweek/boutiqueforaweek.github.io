@@ -3,8 +3,6 @@ title: Restocking Consignors
 permalink: /consignors/restocking-consignors/
 ---
 
-![Restocking Consignors](/img/header_RestockingConsignors.png "Restocking Consignors")
-
 ## We are excited to bring back Restocking Consignors to our Fall 2021 Sale.
 
 Restocking Consignors restock our shelves after the Pre-Sale shopping and before we open to the public.

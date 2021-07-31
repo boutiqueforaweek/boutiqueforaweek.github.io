@@ -3,8 +3,6 @@ title: Consignor Earnings
 permalink: /consignors/consignor-earnings/
 ---
 
-![Consignor Earnings](/img/consignor_earnings1.png "home based business")
-
 Consignors keep 65% of the selling price of each item!
 
 A $10 fee is charged during the registration process, paid through Paypal. This fee is non-refundable.

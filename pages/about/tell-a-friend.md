@@ -3,8 +3,6 @@ title: Tell a Friend
 permalink: /about/tell-a-friend/
 ---
 
-![Tell a Friend](/img/tell_a_friend1.png "Tell Your Friends")
-
 ## Tell your friends what you think of Boutique For A Week!
 
 Let them know about our incredible deals and the great finds that are only available at our sales. You’re our best form of advertisement, so please tell all of your friends! And, if you know anyone that would like to volunteer, send them our way too!

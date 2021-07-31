@@ -3,8 +3,6 @@ title: Pricing Your Items
 permalink: /consignors/items-accepted/pricing-recommendations/
 ---
 
-![Pricing Your Items](/img/pricing_your_items2.png "pricing_your_items2")
-
 ## General Tips
 
 * Consignors price their own items. Carefully consider the age and condition of an item when pricing.

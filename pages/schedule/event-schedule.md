@@ -3,8 +3,6 @@ title: Event Schedule
 permalink: /events/event-schedule/
 ---
 
-![Event Schedule](/img/header_WhenCanIShop.png "Event Schedule")
-
 ## Volunteers, Consignors, New/Expecting/Adopting/Foster Moms:
 
 * 8+ Hour Volunteers: Monday, September 13th, 5:00 p.m. – 9:00 p.m.

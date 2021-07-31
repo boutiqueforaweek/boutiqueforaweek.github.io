@@ -3,8 +3,6 @@ title: Register
 permalink: /register/
 ---
 
-![Register](/img/register1.png "Register")
-
 ## Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Fall 2021 Sale!
 
 Registration is done on a first come first serve basis. Registration is closed. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
