@@ -40,6 +40,9 @@ consignors:
 - title: Consignors 101
   url: /consignors/
   weight: "1"
+- title: Restocking Consignors
+  url: /consignors/restocking-consignors/
+  weight: "2"
 - title: White Tag Consignors
   url: /consignors/white-tag-consignors/
   weight: "3"
