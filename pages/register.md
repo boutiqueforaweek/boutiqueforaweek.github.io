@@ -3,9 +3,9 @@ title: Register
 permalink: /register/
 ---
 
-## Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Fall 2021 Sale!
+## Registration is open for [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers/) for our Fall 2021 Sale!
 
-Registration is done on a first come first serve basis. Registration is closed. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
+Registration is done on a first come first serve basis. Registration is closed. We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
 
 [Volunteer Registration](https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW)
 

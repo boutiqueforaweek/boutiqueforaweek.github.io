@@ -28,7 +28,7 @@ It’s the easiest way to clean out your closets and earn extra money for those 
 
 ## How do I become a Consignor?
 
-You must obtain a Consignor code by completing the [Online Consignor Registration](/register/). [Registration](/register/) is now open for our Fall 2021 Sale.
+You must obtain a Consignor code by completing the [Online Consignor Registration](/register/). [Restocking Consigner](/consignors/restocking-consignors/) [registration](/register/) is now open for our Fall 2021 Sale.
 
 Please note: all items must be entered into our tagging system by 11:59 p.m. on the Saturday before Sale Week.
 
