@@ -4,8 +4,11 @@ permalink: /events/
 ---
 
 {% for day in site.data.schedule.dates %}
-<h2>{{ day.date }}</h2>
+
+## {{ day.date }}
+
 {% for event in day.events %}
-<p><strong>{{ event.name }}</strong>: {{ event.time }}</p>
+**{{ event.name }}**: {{ event.time }}
+
 {% endfor %}
 {% endfor %}
