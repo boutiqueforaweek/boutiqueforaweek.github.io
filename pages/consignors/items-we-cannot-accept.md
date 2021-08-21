@@ -4,6 +4,7 @@ permalink: /consignors/items-accepted/items-we-cannot-accept/
 ---
 
 * Clothing manufactured more than 4 years ago. Check the inside tag! Most manufacturers print a copyright date on clothing tags.
+* Adult ladies clothing
 * Baby equipment manufactured more than 4 years ago. Check sticker if unsure.
 * Car seats which fail to meet all criteria listed on the [Items Accepted](/consignors/items-accepted/items-accepted-2/) page.
 * Cribs manufactured before July 2011\. Recent cribs are accepted.
