@@ -10,6 +10,7 @@ permalink: /consignors/items-accepted/items-we-cannot-accept/
 * Cribs manufactured before July 2011\. Recent cribs are accepted.
 * Recalled items
 * Screen print tees (GAP, Old Navy, TCP, etc. are acceptable, but no advertising tees such as YMCA tees or those from your last vacation spot!)
+* Housewares (unless for children)
 * Weathered/rusty bicycles
 * Items with stains, broken snaps or zippers, missing parts, etc.
 * VHS tapes
