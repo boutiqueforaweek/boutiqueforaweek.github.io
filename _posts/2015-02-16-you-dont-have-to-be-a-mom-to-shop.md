@@ -28,4 +28,4 @@ Here's a list of ten reasons why you should shop Boutique For A Week sale even i
 
 **10\. Twin Sheets.** If you have a twin sized guest bed, this is a great place to stock up on sheets for your guest room. Especially if you have nieces or nephews who sleep over often- you may just be able to find superhero or princess sheets they will adore! 
 
-So, I challenge you to encourage your non-mom friends to shop Boutique For A Week. They're certain to leave with some great bargains! And if you are planning on consigning, I encourage you to read [what is accepted](/consignors/items-accepted/items-accepted-2/) and [what is not accepted](/consignors/items-accepted/items-we-cannot-accept/) to sell at Boutique For A Week.
+So, I challenge you to encourage your non-mom friends to shop Boutique For A Week. They're certain to leave with some great bargains! And if you are planning on consigning, I encourage you to read [what is accepted]({% link pages/consignors/items-accepted-2.md %}) and [what is not accepted]({% link pages/consignors/items-we-cannot-accept.md %}) to sell at Boutique For A Week.

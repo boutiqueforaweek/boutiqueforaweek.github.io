@@ -9,7 +9,7 @@ Everyone is invited to shop at Boutique For A Week. Tell your friends, neighbor
 
 Remember that Volunteers and Consignors shop before we open to the public! New/Expecting/Adopting or Foster Moms can shop early too!
 
-Visit [Consignors](/consignors/), [White Tag Consignors](/consignors/white-tag-consignors/), [Volunteers](/volunteers/), and [New/Expecting Moms](/shoppers/first-time-moms/) for more details.
+Visit [Consignors]({% link pages/consignors/index.md %}), [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}), [Volunteers]({% link pages/volunteers/index.md %}), and [New/Expecting Moms]({% link pages/shoppers/first-time-moms.md %}) for more details.
 
 ## The public sale hours for our Fall 2021 Sale are:
 

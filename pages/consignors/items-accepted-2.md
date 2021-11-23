@@ -12,7 +12,7 @@ permalink: /consignors/items-accepted/items-accepted-2/
 * Maximum of 3 stuffed animals (non-battery operated).
 * Maximum of 20 pairs of quality, like new shoes.
 * Quality children’s clothing in excellent condition, manufactured in the last 4 years. We accept ALL brands of clothing, from Target brands to Old Navy, Gap, and even high end boutique items. All gently used clothing items sell well.
-* Anything baby/children if not listed in the [Items Not Accepted](/consignors/items-accepted/items-we-cannot-accept/) section!
+* Anything baby/children if not listed in the [Items Not Accepted]({% link pages/consignors/items-we-cannot-accept.md %}) section!
 * Infant Bath tubs – less than one year old and in excellent condition.
 * Junior sizes 0-16 and Young Men’s sizes 28W-34W. Sizes 12 through 16 must be trendy and manufactured in the last 2 years and MUST BE NAME BRANDS as that sells best in these larger sizes.
 * Maternity clothing purchased new in the last year.

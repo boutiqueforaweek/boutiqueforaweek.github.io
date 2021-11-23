@@ -10,7 +10,7 @@ My husband and I are on a constant endeavor to simplify our home...I like piles 
 
 So with a little research, we’ve found these handy lists. We thought we’d share them, we’re nice like that. :)
 
-We recommend you make one bin for “Boutique For A Week” and one for “Donate/Giveaway”. Then armed with your lists you can tackle one child’s clothes at a time. Oh and go ahead and [register to consign](/register/) now, so you don’t have to keep those clothes until the Fall.
+We recommend you make one bin for “Boutique For A Week” and one for “Donate/Giveaway”. Then armed with your lists you can tackle one child’s clothes at a time. Oh and go ahead and [register to consign]({% link pages/register.md %}) now, so you don’t have to keep those clothes until the Fall.
 
 I like this list a lot, its from [Chromama](http://chromama.blogspot.com/2011/05/basic-clothing-checklist-for-kids-or.html). It seems to cover all the bases.
 

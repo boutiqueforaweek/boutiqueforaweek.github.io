@@ -10,8 +10,8 @@ The public sale hours are:
 * Thursday, September 17th, 10:00 a.m. - 8:00 p.m., 50% off\* shopping open to Volunteers and Consignors at 5:00 p.m.
 * Friday, September 18th, 10:00 a.m. - 5:00 p.m., 50% off\* sale open to the public all day
 
-Consignors and Volunteers shopping times can be viewed [here](/events/).
+Consignors and Volunteers shopping times can be viewed [here]({% link pages/schedule/index.md %}).
 
-If you are interested in learning how you can shop even earlier, check out our [Volunteers page](/volunteers/) for more information.
+If you are interested in learning how you can shop even earlier, check out our [Volunteers page]({% link pages/volunteers/index.md %}) for more information.
 
 _\*50% off applies only to items specified by the Consignor._

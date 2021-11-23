@@ -19,12 +19,12 @@ I'm constantly purging and re-organizing our closets, drawers, and storage solut
 3\. Shop early.
 ===============
 
-[Consignors](/consignors/) have the added benefit of shopping before the public. This allows me to see the best selection and shop with a much smaller crowd. Consignors also gain access to the 50% off sale before the public, which allows me first grab at these items with rock-bottom prices.
+[Consignors]({% link pages/consignors/index.md %}) have the added benefit of shopping before the public. This allows me to see the best selection and shop with a much smaller crowd. Consignors also gain access to the 50% off sale before the public, which allows me first grab at these items with rock-bottom prices.
 
 4\. Browse early.
 =================
 
-Just like shopping early allows me to purchase before the public, consigning also allows me to browse through items prior to the public shopping times. For example, if I see an adorable dress for my daughter but don't want to pay full price, I can keep an eye on it and plan to drop back by for the 50% off shopping times and snag a deal on the dress. Discounted items are specified by the Consignor, so [be sure to check the tags](/faq-friday-17/) to see if your favorite item will go half price the final day.
+Just like shopping early allows me to purchase before the public, consigning also allows me to browse through items prior to the public shopping times. For example, if I see an adorable dress for my daughter but don't want to pay full price, I can keep an eye on it and plan to drop back by for the 50% off shopping times and snag a deal on the dress. Discounted items are specified by the Consignor, so [be sure to check the tags]({% post_url 2018-09-13-faq-thursday-edition %}) to see if your favorite item will go half price the final day.
 
 5\. Recycle items to a new home.
 ================================
@@ -44,7 +44,7 @@ When I show my kids items I'm considering for consignment, I ask them to pick th
 8\. Donate to the community.
 ============================
 
-Boutique For A Week [donates](/consignors/donating-unsold-items/) a large amount of items after each sale. If you choose to donate your unsold items, you can tag them with white cardstock (instead of your designated color) and they will be automatically sorted for donation. _(Note: Now if you are a [White Tag Consignor](/consignors/white-tag-consignors/), you can_ _shop even earlier!__)_
+Boutique For A Week [donates]({% link pages/consignors/donating-unsold-items.md %}) a large amount of items after each sale. If you choose to donate your unsold items, you can tag them with white cardstock (instead of your designated color) and they will be automatically sorted for donation. _(Note: Now if you are a [White Tag Consignor]({% link pages/consignors/white-tag-consignors.md %}), you can_ _shop even earlier!__)_
 
 9\. Make friends.
 =================
@@ -54,4 +54,4 @@ Through consigning at Boutique For A Week, I meet other women via the [Facebook 
 10\. It's fun.
 ==============
 
-Call me crazy, but I really do enjoy seeing a huge pile of items, entering them into the computer, printing tags, attaching tags to items, selling items, and picking up my check. It's a sense of gratitude I receive for all the reasons listed above and more. _[Registration](/register/) is open for our Spring 2019 Sale! If you want to learn more about consigning, start [here](/consignors/)._
+Call me crazy, but I really do enjoy seeing a huge pile of items, entering them into the computer, printing tags, attaching tags to items, selling items, and picking up my check. It's a sense of gratitude I receive for all the reasons listed above and more. _[Registration]({% link pages/register.md %}) is open for our Spring 2019 Sale! If you want to learn more about consigning, start [here]({% link pages/consignors/index.md %})._

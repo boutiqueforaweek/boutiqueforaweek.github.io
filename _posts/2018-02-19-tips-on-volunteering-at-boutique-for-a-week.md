@@ -4,7 +4,7 @@ title: "Tips on Volunteering at Boutique For A Week"
 
 _Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](http://gabrielsgoodtidings.blogspot.com/) to explain how to volunteer._
 
-I [shared last week](/boutique-for-a-week-needs-you-2/) about the benefits of volunteering at a Boutique For A Week. Today I have some practical tips to help your volunteer shift go as smooth as a knife cuts butter.
+I [shared last week]({% post_url 2018-02-14-boutique-for-a-week-needs-you %}) about the benefits of volunteering at a Boutique For A Week. Today I have some practical tips to help your volunteer shift go as smooth as a knife cuts butter.
 
 **1\. Eat before your shift.** Now, I wouldn't recommend stuffing yourself at an all-you-can-eat buffet, but I wouldn't come hungry either. Eat something healthy - something that will give you energy - and something you know settles well with your tummy. You likely won't have time to snack or eat often (or at all, if your volunteer shift is less than 4 hours), so plan accordingly.
 
@@ -14,8 +14,8 @@ I [shared last week](/boutique-for-a-week-needs-you-2/) about the benefits of vo
 
 **4\. Wear comfortable shoes and clothes.** You'll be on your feet a lot (if not the entire) volunteer shift, so dress accordingly. Wear shoes that are conducive for long-term standing, and clothes that are comfortable for being on the move. If you have long hair, consider bringing an elastic hair tie to pull it back. You won't know your exact role until you arrive, so be prepared to sort clothes, clean toys, organize books, hand out fliers, or a variety of other jobs.
 
-**5\. Bring some money.** One of the great benefits of volunteering is that you get a closer look at many of the items. Like I mentioned in [this post](/boutique-for-a-week-needs-you/), plan to shop after your volunteer shift and pick up some of those items you've been eyeing.
+**5\. Bring some money.** One of the great benefits of volunteering is that you get a closer look at many of the items. Like I mentioned in [this post]({% post_url 2018-02-14-boutique-for-a-week-needs-you %}), plan to shop after your volunteer shift and pick up some of those items you've been eyeing.
 
 **6\. Volunteer at your best time of day.** If you're a morning person, sign up for the 9 am shift. If you're a night owl, plan to sort clothes late into the evening. However your body is wired, be aware and plan to volunteer according to your best time of day.
 
-I hope many of you will consider volunteering at the Spring 2018 Sale. You can learn more about signing up to volunteer with Boutique For A Week by clicking [here](/volunteers/). Hope to see you there!
+I hope many of you will consider volunteering at the Spring 2018 Sale. You can learn more about signing up to volunteer with Boutique For A Week by clicking [here]({% link pages/volunteers/index.md %}). Hope to see you there!

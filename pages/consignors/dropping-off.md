@@ -20,7 +20,7 @@ For your items to sell, they must be seen:
 * Crammed racks are challenging to browse.
 * Out-dated or stained clothing and bedding clutters already full areas. These items are also automatically removed when discovered.
 
-We still want to stock all items that are clean, tagged correctly, sale quality, and fit the criteria on the [Items Accepted page](/consignors/items-accepted/items-accepted-2/). Inspecting merchandise ensures the best sale possible for Consignors and Shoppers. While we recognize this will lengthen the time it takes to Drop Off, Consignors who have prepared their items correctly should anticipate an efficient experience.
+We still want to stock all items that are clean, tagged correctly, sale quality, and fit the criteria on the [Items Accepted page]({% link pages/consignors/items-accepted-2.md %}). Inspecting merchandise ensures the best sale possible for Consignors and Shoppers. While we recognize this will lengthen the time it takes to Drop Off, Consignors who have prepared their items correctly should anticipate an efficient experience.
 
 ## Help prepare for Drop Off by reviewing these procedures.
 
@@ -28,7 +28,7 @@ When you arrive at Drop Off, follow this plan:
 
 * Park your vehicle and unload all items. We suggest wheeling your clothing items in on a stroller, cart, or wagon.
 * Go to the check-in table. Sign your registration confirmation page here and verify all your Consignor information with the available printouts.
-* If you are a [White Tag Consignor](/consignors/white-tag-consignors/) make sure to check in and verify your status prior to placing your items on the sale’s floor.
+* If you are a [White Tag Consignor]({% link pages/consignors/white-tag-consignors.md %}) make sure to check in and verify your status prior to placing your items on the sale’s floor.
 * Get in line for the next available attendant at our inspection tables. The attendants will first quickly review your larger items and toys.
 * You will be assigned a Volunteer who will assist you in placing your inspected items in designated places on the sale’s floor. Racks, bins, and shelves are clearly labeled, and there are additional Volunteers available to direct you.
 * The attendant will continue inspecting your clothing and other items. Return to the attendant to collect your remaining items and put them in the correct areas.
@@ -55,4 +55,4 @@ When you arrive at Drop Off, follow this plan:
 * Drop Off involves too many safety issues to allow children on the sales floor.
 * Please consider this when you schedule your Drop Off appointment.
 * If you must bring your children, bring your spouse or a friend to stay with your child in the lobby.
-* This rule is also in effect at [Pick Up](/consignors/dropping-off/picking-up/).
+* This rule is also in effect at [Pick Up]({% link pages/consignors/picking-up.md %}).

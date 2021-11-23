@@ -24,4 +24,4 @@ Time slots are available in 4-hour shifts. By volunteering, you will get to shop
 
 ## Non-Conventional Volunteer Opportunities/Bartering
 
-Do you have a unique service to offer or a product we might need? Click on &#8220;[Bartering](/volunteers/bartering/)&#8221; to see what you might be able to trade us for a shop early pass!
+Do you have a unique service to offer or a product we might need? Click on "[Bartering]({% link pages/volunteers/bartering.md %})"; to see what you might be able to trade us for a shop early pass!

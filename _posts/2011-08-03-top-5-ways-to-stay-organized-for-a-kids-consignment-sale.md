@@ -9,4 +9,4 @@ It seems that our children are growing out of clothes, toys, books, DVD’s at a
 * Step 3 – Attach tags.
 * Step 4 – Put items in bins and store somewhere until the sale – Completely ready to go!
 
-If you’ve not had time to do this, and still want to consign, many kid’s consignment sales have [‘valet’ tagging](/consignors/valet-tagging/), which usually means the Sale will do all the tagging for you for a reduced percentage of your sold items. Now go out there and tackle that pile of clothes and toys and make some extra cash!
+If you’ve not had time to do this, and still want to consign, many kid’s consignment sales have [‘valet’ tagging]({% link pages/consignors/valet-tagging.md %}), which usually means the Sale will do all the tagging for you for a reduced percentage of your sold items. Now go out there and tackle that pile of clothes and toys and make some extra cash!

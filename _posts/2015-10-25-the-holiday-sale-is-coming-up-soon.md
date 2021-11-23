@@ -6,7 +6,7 @@ Our first Holiday Sale is approaching quickly! This event is a smaller, shorter,
 
 **Smaller.** The focus is on toys, books, games, holiday outfits, winter clothes, and other items that make good gifts.
 
-**Shorter.** The sale [spans only three days](/events/) (but includes Saturday shopping!).
+**Shorter.** The sale [spans only three days]({% link pages/schedule/index.md %}) (but includes Saturday shopping!).
 
 **Specific.** Although we still plan to offer a large selection of items, the sale's goal is specific. We want you to shop for your holiday and winter needs.
 
@@ -18,7 +18,7 @@ For this sale to be successful, everyone needs to participate. We still need Con
 
 **Volunteers:** Consider the benefits of shopping early! The same apply to our Holiday Sale.
 
-If you haven't put the sale on your [calendar](/events/) yet, do it! You won't want to miss it. And if you still need to sign up as a [Volunteer](http://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) or [Consignor](/register/), don't hesitate. There are less spots and they are filling up fast.
+If you haven't put the sale on your [calendar]({% link pages/schedule/index.md %}) yet, do it! You won't want to miss it. And if you still need to sign up as a [Volunteer](http://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) or [Consignor]({% link pages/register.md %}), don't hesitate. There are less spots and they are filling up fast.
 
 We cannot wait to see you at the sale!
 

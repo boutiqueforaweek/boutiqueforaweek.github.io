@@ -2,7 +2,7 @@
 title: "Total Health Guidance Giveaway"
 ---
 
-![Total Health Guidance](/img/blog/image/totalhealthguidance.png)
+![Total Health Guidance](/img/blog/totalhealthguidance.png)
 
 John and Theresa Stiteler of [Total Health Guidance](http://www.totalhealthguidance.com/) are giving away one Nutritional Assessment and/or Weight Loss Assessment which both include a Personalized Action Plan (a $100 value).
 

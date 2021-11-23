@@ -5,7 +5,7 @@ permalink: /consignors/white-tag-consignors/
 
 ## Consignors who donate all of their items at sale end are known as White Tag Consignors.
 
-Any Consignor can choose to designate some of her items for donation by tagging them with a white tag, but a White Tag Consignor tags EXCLUSIVELY with white and donates all of her items.*  [Donating](/consignors/donating-unsold-items/) items benefits the community and saves time sorting after the sale!
+Any Consignor can choose to designate some of her items for donation by tagging them with a white tag, but a White Tag Consignor tags EXCLUSIVELY with white and donates all of her items.*  [Donating]({% link pages/consignors/donating-unsold-items.md %}) items benefits the community and saves time sorting after the sale!
 
 ## White Tag Consignors shop earlier than our regular Consignors!
 

@@ -4,7 +4,7 @@ title: "Tips on Preparing Your Shopping List"
 
 Sale week starts soon! Now is the perfect time to make your shopping list.
 
-Earlier this week we posted some [ideas to consider when shopping ahead](/how-to-shop-ahead-at-boutique-for-a-week-5/) at the sale. Here are some additional things to contemplate as you make your list:
+Earlier this week we posted some [ideas to consider when shopping ahead]({% post_url 2018-03-05-how-to-shop-ahead-at-boutique-for-a-week %}) at the sale. Here are some additional things to contemplate as you make your list:
 
 * **Who needs what to wear?** Think of each child individually. Go through closets and drawers to take stock of what clothing essentials your little one is low on. Don't neglect to plan for the next size up or the next season when you think about clothing and shoe needs. Outfits for upcoming special occasions should be included. Make sure you note what sizes to look for as well.
 * **What are your kids' favorite shows to watch or books to read?** Jot down "Doc McStuffins toys", "Dora videos", or "Boxcar Children books" so you remember to look for these items as you peruse those sections of the sale.

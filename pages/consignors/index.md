@@ -28,13 +28,13 @@ It’s the easiest way to clean out your closets and earn extra money for those 
 
 ## How do I become a Consignor?
 
-You must obtain a Consignor code by completing the [Online Consignor Registration](/register/). [Restocking Consigner](/consignors/restocking-consignors/) [registration](/register/) is now open for our Fall 2021 Sale.
+You must obtain a Consignor code by completing the [Online Consignor Registration]({% link pages/register.md %}). [Restocking Consigner]({% link pages/consignors/restocking-consignors.md %}) [registration]({% link pages/register.md %}) is now open for our Fall 2021 Sale.
 
 Please note: all items must be entered into our tagging system by 11:59 p.m. on the Saturday before Sale Week.
 
 **Consignors are invited and encouraged to shop during our Consignor Pre-Sale. This time is set aside at each sale especially for you to take advantage of the best selection. You may bring ONE person only (a spouse or a grandparent). Babies under 1 are permitted in strollers, but no other children under age 14 are allowed. The Fall 2021 Pre-Sale is September 14th.**
 
-**If you elect to tag exclusively with white cardstock and donate all of your items, you can shop even EARLIER! White Tag Consignors may begin shopping the Pre-Sale an hour earlier than classic Consignors****. Read the [White Tag Consignors](/consignors/white-tag-consignors/) page for more details.**
+**If you elect to tag exclusively with white cardstock and donate all of your items, you can shop even EARLIER! White Tag Consignors may begin shopping the Pre-Sale an hour earlier than classic Consignors****. Read the [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}) page for more details.**
 
 **Consignors are also invited to shop the 50% off sale early. Discount shopping starts September 16th for Consignors and Volunteers.**
 

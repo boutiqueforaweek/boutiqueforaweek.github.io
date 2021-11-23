@@ -4,7 +4,7 @@ title: "Support Your Cause"
 
 In looking forward to our upcoming Boutique For A Week Fall Sale, we want to make sure you’re well informed about how Boutique can help your special cause.
 
-![Give Back to your Charity](/img/blog/image/giveback.jpg)
+![Give Back to your Charity](/img/blog/giveback.jpg)
 
 Support Your Cause allows Boutique For A Week to give as well. This is how it works, it’s really simple. All sales made from ‘your cause’ participants and anyone else you want, are tallied up at the end of the sale, and Boutique For A Week will give 10% of the total amount of sales … so if shoppers come and spend $1,000 for ‘your cause’, then we’ll send a check for $100.00 to your group!
 

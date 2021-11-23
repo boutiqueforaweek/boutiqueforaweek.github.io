@@ -2,7 +2,7 @@
 title: "Consignor Makes $1000+"
 ---
 
-Boutique For A Week recently looked through our records and realized that we have several [consignors](/consignors/) who seem to have gotten ‘into a groove’ and figured out how to best use the Sale as a way to earn a lot of extra money. This is an interview we did about one of those amazing, ingenious, everyday moms! This mom made over $1,000 on our Spring, 2011 sale. Let’s hear what she has to say about how she did it.
+Boutique For A Week recently looked through our records and realized that we have several [consignors]({% link pages/consignors/index.md %}) who seem to have gotten ‘into a groove’ and figured out how to best use the Sale as a way to earn a lot of extra money. This is an interview we did about one of those amazing, ingenious, everyday moms! This mom made over $1,000 on our Spring, 2011 sale. Let’s hear what she has to say about how she did it.
 
 Q: Where do you get the items you consign?
 
@@ -34,4 +34,4 @@ A: I have gone to many consignment sales but have only actually consigned with B
 
 So, it seems that you really can do well by consigning with [Boutique For A Week](/). We LOVE our consignors to come with an attitude of wanting to make a lot of money and doing all they can to make that happen.
 
-It’s not too late for YOU to make a lot of money. If you’re already a consignor, keep looking around to see what might be a great seller and branch out a bit, as our $1,000 consignor did. Keep looking for ways to increase your bottom line. After all, every family can do well by pocketing an extra $1,000! We look forward to sharing about our next $1,000 Consignor for the Fall 2011 Sale. If you’re not registered to consign, that would be your first step … [get registered](/register/), and start tagging & pricing. You have almost 3 full weeks to get it done!
+It’s not too late for YOU to make a lot of money. If you’re already a consignor, keep looking around to see what might be a great seller and branch out a bit, as our $1,000 consignor did. Keep looking for ways to increase your bottom line. After all, every family can do well by pocketing an extra $1,000! We look forward to sharing about our next $1,000 Consignor for the Fall 2011 Sale. If you’re not registered to consign, that would be your first step … [get registered]({% link pages/register.md %}), and start tagging & pricing. You have almost 3 full weeks to get it done!

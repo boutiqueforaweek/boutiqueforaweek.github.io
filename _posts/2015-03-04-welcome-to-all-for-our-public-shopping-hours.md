@@ -2,7 +2,7 @@
 title: "Welcome to All for Our Public Shopping Hours!"
 ---
 
-We are so excited to open our sale to the Public! The shelves and racks are restocked and ready for EVERYONE to come out and shop. And don't forget tonight we'll be holding our special event: [Mom's Night Out](/shoppers/moms-night-out/).
+We are so excited to open our sale to the Public! The shelves and racks are restocked and ready for EVERYONE to come out and shop. And don't forget tonight we'll be holding our special event: [Mom's Night Out]({% link pages/shoppers/moms-night-out.md %}).
 
 The schedule for the duration of our Spring 2015 Sale is:
 

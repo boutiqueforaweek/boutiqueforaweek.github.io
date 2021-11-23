@@ -4,7 +4,7 @@ title: "Three Ways to Win Boutique Bucks"
 
 This weekend marks just two weeks until the next [Boutique For A Week](/) baby and kids consignment sale. With time passing by so quickly, we are offering Boutique Bucks gift cards for your weekend achievements. You have three ways to win!
 
-The first contest is to see how many [consignors](/consignors/) can [registered](/register/) in 3 days! So, for all of those who have been putting off registering for our upcoming sale, all you have to do to register on our website and enter here. You have until Monday, September 5th at midnight to register! Of those who register in this three day period, we will be giving away one $20 Boutique Bucks gift certificate.
+The first contest is to see how many [consignors]({% link pages/consignors/index.md %}) can [registered]({% link pages/register.md %}) in 3 days! So, for all of those who have been putting off registering for our upcoming sale, all you have to do to register on our website and enter here. You have until Monday, September 5th at midnight to register! Of those who register in this three day period, we will be giving away one $20 Boutique Bucks gift certificate.
 
 The second contest is for those of you that are already registered, you can enter for a chance to win by entering the most items into your inventory between now and Monday, September 5th. All you have to do is enter your items into the online computer system. The person who tags the most items between now and Monday at midnight will also receive one $20 Boutique Bucks gift certificate.
 

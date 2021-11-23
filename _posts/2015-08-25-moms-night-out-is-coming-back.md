@@ -16,6 +16,6 @@ This sale's Mom's Night Out is shaping up to be even more fun than last. We have
 
 Giveaway winners are chosen through a raffle. Entering the raffle is free. There are many opportunities to earn raffle tickets throughout the night, and we draw a winner roughly every 15 minutes. You must be present to win.
 
-Review all the different ways to earn raffle tickets on our [Mom's Night Out page](/shoppers/moms-night-out/), and don't forget to [RSVP to the event](https://www.facebook.com/events/1199115756770490/) on Facebook. The page will show some of the great prizes you can win, and we'll keep listing them leading up to the big night.
+Review all the different ways to earn raffle tickets on our [Mom's Night Out page]({% link pages/shoppers/moms-night-out.md %}), and don't forget to [RSVP to the event](https://www.facebook.com/events/1199115756770490/) on Facebook. The page will show some of the great prizes you can win, and we'll keep listing them leading up to the big night.
 
 We hope to see you there!

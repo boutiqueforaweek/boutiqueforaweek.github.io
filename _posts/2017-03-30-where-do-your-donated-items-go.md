@@ -2,7 +2,7 @@
 title: "Where Do Your Donated Items Go?"
 ---
 
-![](/img/blog/image/17390701_10154208258930836_6586378165903652142_o.jpg)
+![](/img/blog/17390701_10154208258930836_6586378165903652142_o.jpg)
 
 Every sale we consider it a privilege to join with our Consignors to donate to worthy causes in our community. Now we are expanding our donations abroad as well. For our Spring 2017 sale, we have two recipients of Consignor donations:
 

@@ -2,7 +2,7 @@
 title: "Join us as we give back to our community!"
 ---
 
-Have you heard about all the ways Boutique For A Week is [supporting our community](/about/charities/)? Won't you join us in helping those in need. Check out three ways you can partner with us in supporting our local community.
+Have you heard about all the ways Boutique For A Week is [supporting our community]({% link pages/about/charities.md %})? Won't you join us in helping those in need. Check out three ways you can partner with us in supporting our local community.
 
 #1 - Support Your Cause - You choose your cause, you shop, we give 10% of your purchase back to your cause. Your cause can be, youth groups, your Boy Scouts or Girl Scouts club, your local ministry, non-profits, etc. Just print this [form](/img/blog/Support-Your-Cause-Friday.pdf), fill it out and shop! It can't get any easier.
 

@@ -8,4 +8,4 @@ Restocking Consignors restock our shelves after the Pre-Sale shopping and before
 
 The benefits of Restocking Consignors might even outnumber a regular Consignors. While you still earn 65% of your selling price, can shop at the Consignor Pre-Sale, and pick up your check the same day as everyone else, you get two EXTRA days to tag and drop off two days later!
 
-If you haven't already signed up to consign, consider [registering](/register/) now as a Restocking Consignor. Visit our [Restocking Consignor page](/consignors/restocking-consignors/) for more information.
+If you haven't already signed up to consign, consider [registering]({% link pages/register.md %}) now as a Restocking Consignor. Visit our [Restocking Consignor page]({% link pages/consignors/restocking-consignors.md %}) for more information.

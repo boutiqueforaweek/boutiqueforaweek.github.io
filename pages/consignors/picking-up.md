@@ -13,7 +13,7 @@ We are committed to protecting each Consignor’s property. 
 
 ## Children are NOT permitted on the sales floor at Pick Up.
 
-Due to safety issues, we are no longer allowing children at Pick Up or [Drop Off](/consignors/dropping-off/). Please consider this when determining what time to come to Pick Up. If your children must come with you, they will need to remain in the lobby with your spouse or a friend to supervise them.
+Due to safety issues, we are no longer allowing children at Pick Up or [Drop Off]({% link pages/consignors/dropping-off.md %}). Please consider this when determining what time to come to Pick Up. If your children must come with you, they will need to remain in the lobby with your spouse or a friend to supervise them.
 
 ## Pick Up procedures:
 
@@ -28,7 +28,7 @@ Due to safety issues, we are no longer allowing children at Pick Up or [Drop Off
 
 ## Remember that any items you tagged with WHITE CARDSTOCK will be donated and will not be sorted.
 
-When you Pick Up, you may choose to donate any items you do not wish to carry home. However, we would appreciate you using WHITE CARDSTOCK instead and skipping the trip to Pick Up. This saves us the time of sorting your unsold items! If you choose to donate and skip Pick Up, your Consignor earning check will be mailed to you right away. _Remember, Consignors who donate shop earlier than regular Consignors._ For more information, visit our [White Tag Consignors](/consignors/white-tag-consignors/) page.
+When you Pick Up, you may choose to donate any items you do not wish to carry home. However, we would appreciate you using WHITE CARDSTOCK instead and skipping the trip to Pick Up. This saves us the time of sorting your unsold items! If you choose to donate and skip Pick Up, your Consignor earning check will be mailed to you right away. _Remember, Consignors who donate shop earlier than regular Consignors._ For more information, visit our [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}) page.
 
 ## Unsold items NOT picked up at this time will be donated to charity at the end of Pick Up!
 

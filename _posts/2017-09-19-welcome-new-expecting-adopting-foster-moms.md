@@ -2,7 +2,7 @@
 title: "Welcome New, Expecting, Adopting, and Foster Moms"
 ---
 
-![](/img/blog/image/new moms.jpg)
+![](/img/blog/new moms.jpg)
 
 Today is our busiest shopping day and one of our favorite times. We love the opportunity to provide so many essential baby items to new, expecting, adopting, and foster moms. You'll get the best selection on port-a cribs, strollers, exersaucers, car seats, and anything else you need for your little one!
 

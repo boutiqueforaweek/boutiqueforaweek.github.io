@@ -6,7 +6,7 @@ _Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](http://ga
 
 When most people think about Boutique For A Week, they begin to make a mental list of items to consign. Or, they begin to think about items they intend to purchase for their little ones.
 
-However, Boutique For A Week needs so much more than your items or your money - [volunteer](/volunteers/) your time!
+However, Boutique For A Week needs so much more than your items or your money - [volunteer]({% link pages/volunteers/index.md %}) your time!
 
 I have had the pleasure of volunteering at Boutique For A Week for several years now, and could share hours worth of stories, rewarding experiences, and fun memories with you. To keep myself from rambling, I've compiled all the benefits of volunteering into a short list of four reasons.
 
@@ -18,6 +18,6 @@ I have had the pleasure of volunteering at Boutique For A Week for several years
 
 **4\. Make Friends.** I used the word "pleasure" in the paragraph at the beginning of this list because that's truly what it is - a pleasure. Although volunteering is hard work, the company is well worth the work. Most Volunteers are people just like you- moms working hard to get top dollar for their gently used children's items and willing to put in a little extra effort. It's a great place to meet like-minded friends.
 
-If you're interested in volunteering but not sure how the details will work, click [here](/volunteers/volunteer-opportunities/) to learn about all of Boutique For A Week's volunteer options - including opportunities for grandparents and men! Likewise, if you have a unique skill that can partner with Boutique For A Week click [here](/volunteers/bartering/) to learn about their bartering opportunities.
+If you're interested in volunteering but not sure how the details will work, click [here]({% link pages/volunteers/opportunities.md %}) to learn about all of Boutique For A Week's volunteer options - including opportunities for grandparents and men! Likewise, if you have a unique skill that can partner with Boutique For A Week click [here]({% link pages/volunteers/bartering.md %}) to learn about their bartering opportunities.
 
 So, when will you volunteer?

@@ -7,9 +7,9 @@ permalink: /events/event-schedule/
 
 * 8+ Hour Volunteers: Monday, September 13th, 5:00 p.m. – 9:00 p.m.
 * 4+ Hour Volunteers: Monday, September 13th, 7:00 p.m. – 9:00 p.m.
-* [White Tag Consignors](/consignors/white-tag-consignors/): Tuesday, September 14th, 1:00 p.m. – 8:00 p.m.
+* [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}): Tuesday, September 14th, 1:00 p.m. – 8:00 p.m.
 * Consignors: Tuesday, September 14th, 2:00 p.m. – 8:00 p.m.
-* [New/Expecting/Adopting/Foster Moms](/shoppers/first-time-moms/): Tuesday, September 14th, 4:00 p.m. – 8:00 p.m.
+* [New/Expecting/Adopting/Foster Moms]({% link pages/shoppers/first-time-moms.md %}): Tuesday, September 14th, 4:00 p.m. – 8:00 p.m.
 * Friends of Consignors: Tuesday, September 14th, 6:00 p.m. – 8:00 p.m.
 * Volunteers and Consignors 50% off* sale: Thursday, September 16th, 4:00 p.m. – 8:00 p.m. and Friday, September 17th, 10:00 a.m. – 5:00 p.m.
 

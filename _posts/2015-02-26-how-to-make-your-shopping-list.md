@@ -4,7 +4,7 @@ title: "How to Make Your Shopping List"
 
 Sale week is next week! For Consignors this week can be a mad dash to enter all your tags and prepare your items. For everyone, the excitement is building. Now is the perfect time to make your shopping list.
 
-Last week we posted some ideas to consider when [trying to "shop ahead"](/shopping-ahead-at-boutique-for-a-week/) at the sale. Here are some additional things to contemplate as you make your list:
+Last week we posted some ideas to consider when [trying to "shop ahead"]({% post_url 2015-02-18-shopping-ahead-at-boutique-for-a-week %}) at the sale. Here are some additional things to contemplate as you make your list:
 
 * **Who needs what to wear?** Think of each child individually. Go through closets and drawers to take stock of what clothing essentials your little one is low on. Don't neglect to plan for the next size up or the next season when you think about clothing and shoe needs. Outfits for upcoming special occasions should be included. Make sure you note what sizes to look for as well.
 * **What are your kids' favorite shows to watch or books to read?** Jot down "Doc McStuffins toys", "Dora videos", or "Boxcar Children books" so you remember to look for these items as you peruse those sections of the sale.

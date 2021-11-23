@@ -4,7 +4,7 @@ title: "What's New at Boutique For A Week - March 2012"
 
 **Boutique For A Week is excited to announce the introduction of Kid Kash!**
 
-**Kid Kash is a great way to purchase the items for your family’s growing needs and not have to take ‘real cash’ out of your budget or wallet!  You can earn Kid Kash by [volunteering](/volunteers/) during our sale. Here’s how it works:**
+**Kid Kash is a great way to purchase the items for your family’s growing needs and not have to take ‘real cash’ out of your budget or wallet!  You can earn Kid Kash by [volunteering]({% link pages/volunteers/index.md %}) during our sale. Here’s how it works:**
 
 * All Kid Kash issued to you can be used at both of our 2012 sales. So, if you don’t find what you want or need at the Spring sale (which is highly unlikely), you can use your Kid Kash at our Fall 2012 sale.
 * Kid Kash is issued in certificate form in increments of $10. You may use it toward any purchase at our Boutique For A Week sales THIS year. Keep in mind, the entire $10 value must be used at time of checkout.
@@ -26,5 +26,5 @@ Our goal at Boutique For A Week is to always have the best quality and the best 
 * Any bedding must be manufactured within the past 3 years and must be name brand, stored in a bedding bag. The bedding does not sell well if it isn’t current and easy to see. Bedding not placed in bags will not be placed on the sales floor.
 * We no longer accept VHS tapes.
 * Drop side cribs are NOT accepted, due to the recent recalls.
-* If you are consigning with us for the first time, you will need to log in and create a [user name and password](/register/). You will be assigned a consignor code and a card stock color. If you are a returning consignor, you will need to [log in](http://www.mysalemanager.net/g_consignorlogin.aspx) with the user name and password that you created previously. Then you will be able to start tagging your items!
+* If you are consigning with us for the first time, you will need to log in and create a [user name and password]({% link pages/register.md %}). You will be assigned a consignor code and a card stock color. If you are a returning consignor, you will need to [log in](http://www.mysalemanager.net/g_consignorlogin.aspx) with the user name and password that you created previously. Then you will be able to start tagging your items!
 * As a consignor, if you volunteer for 8 or 12 hours (two or three 4-hour shifts) you earn $10 in Kid Kash. If you volunteer for 16 hours you earn $20 in Kid Kash. Kid Kash is distributed after volunteer hours are complete. It can be used at either the Spring or Fall sale.

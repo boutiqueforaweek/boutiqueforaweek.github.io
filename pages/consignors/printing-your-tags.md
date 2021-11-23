@@ -3,7 +3,7 @@ title: Print Your Tags
 permalink: /consignors/items-accepted/printing-your-tags/
 ---
 
-You must [register](/register/) for this upcoming sale, even if you have previously registered as a Consignor with Boutique For A Week. To begin your inventory and print tags for this sale, [select this link](http://www.mysalemanager.net/itm_start.aspx?partnercode=BFAW) and enter your assigned code and password. Note: Please double check that you enter the correct code. If you print tags with another Consignor’s code, that Consignor will be paid for the sale of your items.
+You must [register]({% link pages/register.md %}) for this upcoming sale, even if you have previously registered as a Consignor with Boutique For A Week. To begin your inventory and print tags for this sale, [select this link](http://www.mysalemanager.net/itm_start.aspx?partnercode=BFAW) and enter your assigned code and password. Note: Please double check that you enter the correct code. If you print tags with another Consignor’s code, that Consignor will be paid for the sale of your items.
 
 ## Printing Your Barcoded Tags:
 
@@ -13,7 +13,7 @@ All tags MUST be printed on <u>pastel cardstock</u>! Dark color cardstock does n
 
 Print tags using the normal setting on your printer, not high quality. Make sure your pop-up blocker is turned off, and you are using Internet Explorer as your browser. Our tags should print 10 to a page.
 
-Use your [assigned colored cardstock](/consignors/cardstock-color-list/) for any items you want to pick up if not sold.
+Use your [assigned colored cardstock]({% link pages/consignors/cardstock-color-list.md %}) for any items you want to pick up if not sold.
 
 Use white cardstock for all donations. ALL items printed on white cardstock will be donated if not sold.
 

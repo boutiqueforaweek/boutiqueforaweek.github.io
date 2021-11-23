@@ -12,6 +12,6 @@ When you're ready to tag, tackle your clothes a group at a time. What amount (if
 
 After you've entered your items, print the tags. When you cut them, keep them in order. This makes for fast tagging as you go straight through your line of clothes without needing to search for a match. As you finish a size, group the hangers together with a rubber band and label so the sizes will stay sorted for Drop Off.
 
-Taking these small steps can make a big difference in the time you spend prepping for the sale. Check out our website for additional tips on [how to prepare your items](/consignors/preparing-merchandise/) and videos on [how to tag trickier items](/consignors/attaching-tags/).
+Taking these small steps can make a big difference in the time you spend prepping for the sale. Check out our website for additional tips on [how to prepare your items]({% link pages/consignors/preparing-merchandise.md %}) and videos on [how to tag trickier items]({% link pages/consignors/attaching-tags.md %}).
 
 Hopefully these suggestions will save you time and stress as your prepare your clothing items to be sold. And when you're surrounded by piles of clothes and up to your ears in tags, remember: clothing always sells really well at the sale. It is worth the effort!
