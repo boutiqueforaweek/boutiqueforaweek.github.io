@@ -3,7 +3,7 @@ title: Dropping Off
 permalink: /consignors/dropping-off/
 ---
 
-## Drop Off for our Fall 2021 Sale is Sunday, September 12th from 4:00 p.m. to 9:00 p.m. and Monday, September 13th from 9:30 a.m. to 12:30 p.m.
+## Drop Off for our {{ site.data.sale.season }} Sale is {{ site.data.sale.dropoff }}
 
 ## You WILL need an appointment to Drop Off.
 

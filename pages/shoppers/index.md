@@ -11,7 +11,7 @@ Remember that Volunteers and Consignors shop before we open to the public! New/E
 
 Visit [Consignors]({% link pages/consignors/index.md %}), [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}), [Volunteers]({% link pages/volunteers/index.md %}), and [New/Expecting Moms]({% link pages/shoppers/first-time-moms.md %}) for more details.
 
-## The public sale hours for our Fall 2021 Sale are:
+## The public sale hours for our {{ site.data.sale.season }} Sale are:
 
 * Wednesday, September 15th, 4:00 p.m. – 10:00 p.m.
 * Thursday, September 16th, 11:00 a.m. – 8:00 p.m., 50% off* shopping open to Volunteers and Consignors starting at 5:00 p.m.

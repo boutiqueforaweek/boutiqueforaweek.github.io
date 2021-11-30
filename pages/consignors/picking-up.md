@@ -3,7 +3,7 @@ title: Picking Up
 permalink: /consignors/dropping-off/picking-up/
 ---
 
-## Pick Up for our Fall 2021 Sale is Saturday, September 18th from 10:00 a.m. until 1:00 p.m.
+## Pick Up for our {{ site.data.sale.season }} Sale is {{ site.data.sale.pickup }}
 
 Any unsold items you wish to pick up will be available.
 

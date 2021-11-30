@@ -9,7 +9,7 @@ Any Consignor can choose to designate some of her items for donation by tagging 
 
 ## White Tag Consignors shop earlier than our regular Consignors!
 
-For our Fall 2021 Sale, if you elect to tag all your items with white cardstock, you can shop our Consignor Pre-Sale one hour earlier than regular Consignors.  The Pre-Sale is September 14th from 2:00 p.m. until 8:00 p.m.  **White Tag Consignors may begin shopping at 1:00 pm.**  You may bring along a parent or spouse, but no friends can shop early with you.  (Friends can shop our Friends of Consignor’s Pre-Sale that night from 6:00 p.m. – 8:00 p.m.).
+For our {{ site.data.sale.season }} Sale, if you elect to tag all your items with white cardstock, you can shop our Consignor Pre-Sale one hour earlier than regular Consignors.  The Pre-Sale is {{ site.data.sale.presale }} from 2:00 p.m. until 8:00 p.m.  **White Tag Consignors may begin shopping at 1:00 pm.**  You may bring along a parent or spouse, but no friends can shop early with you.  (Friends can shop our Friends of Consignor’s Pre-Sale that night from 6:00 p.m. – 8:00 p.m.).
 
 Only Consignors with ALL white tags can shop early.  If you decide after Drop Off to have your items donated, but the items are printed on colored cardstock, you will not be eligible to shop until the regular Consignor Pre-Sale.
 

@@ -3,7 +3,7 @@ title: Register
 permalink: /register/
 ---
 
-## Registration is open for [Restocking Consignors]({% link pages/consignors/restocking-consignors.md %}) and [Volunteers]({% link pages/volunteers/index.md %}) for our Fall 2021 Sale!
+## Registration is open for [Restocking Consignors]({% link pages/consignors/restocking-consignors.md %}) and [Volunteers]({% link pages/volunteers/index.md %}) for our {{ site.data.sale.season }} Sale!
 
 Registration is done on a first come first serve basis. Registration is closed. We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
 

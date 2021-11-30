@@ -11,4 +11,4 @@ Note: Any item you intend to donate should be designated for the 50% off sale as
 
 If you decide during the sale to donate your unsold items, please [email us](mailto:{{ site.email }}subject=I%20want%20to%20donate%20unsold%20items) so we know to put your items in the donation area. This will save us the time of sorting your items and bless families in our community, which we appreciate!
 
-Read about our Fall 2021 Sale donation recipient on our [Charities page]({% link pages/about/charities.md %}).
+Read about our {{ site.data.sale.season }} Sale donation recipient on our [Charities page]({% link pages/about/charities.md %}).
