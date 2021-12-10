@@ -1,18 +1,18 @@
 ---
 dates:
-  - date: Sunday, September 12th
+  - date: Sunday, April 3rd
     events:
       - name: Drop Off
         time: 4:00 p.m. - 9:00 p.m
-  - date: Monday, September 13th
+  - date: Monday, April 4th
     events:
       - name: Drop Off
         time: 9:30 a.m. - 12:30 p.m.
-      - name: 8 Hour Volunteers
+      - name: 8+ Hour Volunteers
         time: 5:00 p.m. - 9:00 p.m.
       - name: 4 Hour Volunteers
         time: 7:00 p.m. - 9:00 p.m.
-  - date: Tuesday, September 14th
+  - date: Tuesday, April 5th
     events:
       - name: White Tag Consignors
         time: 1:00 p.m. - 8:00 p.m.
@@ -20,7 +20,7 @@ dates:
         time: 2:00 p.m. - 8:00 p.m.
       - name: New/Expecting Moms
         time: 4:00 p.m. - 8:00 p.m.
-  - date: Wednesday, September 15th
+  - date: Wednesday, April 6th
     events:
       - name: Restocking
         time: 12:00 p.m. - 2:00 p.m.
@@ -28,19 +28,19 @@ dates:
         time: 4:00 p.m. - 10:00 p.m.
       - name: Mom’s Night Out
         time: 8:00 p.m. - 10:00 p.m.
-  - date: Thursday, September 16th
+  - date: Thursday, April 7th
     events:
       - name: Open to the Public
         time: 11:00 a.m. - 8:00 p.m.
       - name: 50% off for Consignors and Volunteers
         time: 4:00 p.m. - 8:00 p.m.
-  - date: Friday, September 17th
+  - date: Friday, April 8th
     events:
       - name: 50% off Public Sale
         time: 10:00 a.m. - 5:00 p.m.
       - name: Sort
         time: 5:00 p.m. - 11:00 p.m.
-  - date: Saturday, September 18th
+  - date: Saturday, April 9th
     events:
       - name: Pick Up
         time: 10:00 a.m. - 1:00 p.m.

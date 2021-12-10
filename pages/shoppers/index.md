@@ -13,7 +13,7 @@ Visit [Consignors]({% link pages/consignors/index.md %}), [White Tag Consignors]
 
 ## The public sale hours for our {{ site.data.sale.season }} Sale are:
 
-* Wednesday, September 15th, 4:00 p.m. – 10:00 p.m.
-* Thursday, September 16th, 11:00 a.m. – 8:00 p.m., 50% off* shopping open to Volunteers and Consignors starting at 5:00 p.m.
-* Friday, September 17th, 10:00 a.m. – 5:00 p.m., 50% off* sale open to the public all day
+* Wednesday, April 6th, 4:00 p.m. – 10:00 p.m.
+* Thursday, April 7th, 11:00 a.m. – 8:00 p.m., 50% off* shopping open to Volunteers and Consignors starting at 5:00 p.m.
+* Friday, April 8th, 10:00 a.m. – 5:00 p.m., 50% off* sale open to the public all day
 *50% off applies only to items specified by the Consignor.

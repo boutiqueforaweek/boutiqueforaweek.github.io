@@ -5,18 +5,18 @@ permalink: /events/event-schedule/
 
 ## Volunteers, Consignors, New/Expecting/Adopting/Foster Moms:
 
-* 8+ Hour Volunteers: Monday, September 13th, 5:00 p.m. – 9:00 p.m.
-* 4+ Hour Volunteers: Monday, September 13th, 7:00 p.m. – 9:00 p.m.
-* [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}): Tuesday, September 14th, 1:00 p.m. – 8:00 p.m.
-* Consignors: Tuesday, September 14th, 2:00 p.m. – 8:00 p.m.
-* [New/Expecting/Adopting/Foster Moms]({% link pages/shoppers/first-time-moms.md %}): Tuesday, September 14th, 4:00 p.m. – 8:00 p.m.
-* Friends of Consignors: Tuesday, September 14th, 6:00 p.m. – 8:00 p.m.
-* Volunteers and Consignors 50% off* sale: Thursday, September 16th, 4:00 p.m. – 8:00 p.m. and Friday, September 17th, 10:00 a.m. – 5:00 p.m.
+* 8+ Hour Volunteers: Monday, April 4th, 5:00 p.m. – 9:00 p.m.
+* 4+ Hour Volunteers: Monday, April 4th, 7:00 p.m. – 9:00 p.m.
+* [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}): Tuesday, April 5th, 1:00 p.m. – 8:00 p.m.
+* Consignors: Tuesday, April 5th, 2:00 p.m. – 8:00 p.m.
+* [New/Expecting/Adopting/Foster Moms]({% link pages/shoppers/first-time-moms.md %}): Tuesday, April 5th, 4:00 p.m. – 8:00 p.m.
+* Friends of Consignors: Tuesday, April 5th, 6:00 p.m. – 8:00 p.m.
+* Volunteers and Consignors 50% off* sale: Thursday, April 7th, 4:00 p.m. – 8:00 p.m. and Friday, April 8th, 10:00 a.m. – 5:00 p.m.
 
 ## Boutique For A Week is open to the Public:
 
-* Wednesday, September 15th, 4:00 p.m. – 10:00 p.m.
-* Thursday, September 16th, 11:00 a.m. – 8:00 p.m.
-* Friday, September 17th, 10:00 a.m. – 5:00 p.m., 50% off* sale
+* Wednesday, April 6th, 4:00 p.m. – 10:00 p.m.
+* Thursday, April 7th, 11:00 a.m. – 8:00 p.m.
+* Friday, April 8th, 10:00 a.m. – 5:00 p.m., 50% off* sale
 
 _*50% off applies only to items designated by the Consignor._
