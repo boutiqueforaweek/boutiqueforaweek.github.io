@@ -10,11 +10,22 @@ module Jekyll
       @dropoff = @start_date + 1
       @presale = @start_date + 2
       @sale_start = @start_date + 3
+      @restocking = @start_date + 4
       @sale_end = @start_date + 5
       @pickup = @start_date + 6
 
       @season = @start_date.strftime("%m").to_i > 6 ? "Fall" : "Spring"
       @year = @start_date.strftime("%Y")
+
+      site.config['schedule'] = {
+        'start' => @start_date,
+        'dropoff' => @dropoff,
+        'presale' => @presale,
+        'sale_start' => @sale_start,
+        'restocking' => @restocking,
+        'sale_end' => @sale_end,
+        'pickup' => @pickup,
+      }
 
       site.config['dates'] = {
         'season' => @season,
