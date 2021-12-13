@@ -3,7 +3,7 @@ title: Restocking Consignors
 permalink: /consignors/restocking-consignors/
 ---
 
-## We are excited to bring back Restocking Consignors to our {{ site.data.sale.season }} Sale.
+## We are excited to bring back Restocking Consignors to our {{ site.dates.season_year }} Sale.
 
 Restocking Consignors restock our shelves after the Pre-Sale shopping and before we open to the public.
 

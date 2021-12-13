@@ -3,7 +3,7 @@ title: Picking Up
 permalink: /consignors/dropping-off/picking-up/
 ---
 
-## Pick Up for our {{ site.data.sale.season }} Sale is {{ site.data.sale.pickup }}
+## Pick Up for our {{ site.dates.season_year }} Sale is {{ site.dates.pickup }}
 
 Any unsold items you wish to pick up will be available.
 

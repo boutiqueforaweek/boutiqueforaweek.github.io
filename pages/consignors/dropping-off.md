@@ -3,7 +3,7 @@ title: Dropping Off
 permalink: /consignors/dropping-off/
 ---
 
-## Drop Off for our {{ site.data.sale.season }} Sale is {{ site.data.sale.dropoff }}
+## Drop Off for our {{ site.dates.season_year }} Sale is {{ site.dates.dropoff }}
 
 ## You WILL need an appointment to Drop Off.
 

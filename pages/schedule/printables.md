@@ -5,7 +5,7 @@ permalink: /events/printables/
 
 All printables are .PDF files and require Adobe Reader to read. If you cannot view them, please [download a free copy of Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html).
 
-{{ site.data.sale.season }} Sale printables will be available soon!
+{{ site.dates.season_year }} Sale printables will be available soon!
 
 ## Advertising Flyer
 
