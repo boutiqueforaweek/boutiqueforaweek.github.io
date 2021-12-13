@@ -5,7 +5,7 @@ permalink: /volunteers/bartering/
 
 ## Non-Traditional Volunteer Opportunities
 
-Have a unique service to offer or a product we might need? &nbsp;Often non-traditional venues bless us more than you can imagine! Below please find a list of our specific needs.
+Have a unique service to offer or a product we might need? Often non-traditional venues bless us more than you can imagine! Below please find a list of our specific needs.
 
 ## Cooperative Advertising
 
@@ -25,7 +25,7 @@ Arrange for news coverage with an area or regional magazine or newspaper and get
 
 ## Gift Cards
 
-Provide us with a $25 gift card. Since our supply needs vary from sale to sale, [email](mailto:{{ site.email }}) Boutique For A Week&nbsp;for the specific stores allowed.
+Provide us with a $25 gift card. Since our supply needs vary from sale to sale, [email](mailto:{{ site.email }}) Boutique For A Week for the specific stores allowed.
 
 ## Meals: Are you a fabulous cook? We need to eat!
 

@@ -28,16 +28,16 @@ When you arrive at Drop Off, follow this plan:
 
 * Park your vehicle and unload all items. We suggest wheeling your clothing items in on a stroller, cart, or wagon.
 * Go to the check-in table. Sign your registration confirmation page here and verify all your Consignor information with the available printouts.
-* If you are a [White Tag Consignor]({% link pages/consignors/white-tag-consignors.md %}) make sure to check in and verify your status prior to placing your items on the sale’s floor.
+* If you are a [White Tag Consignor]({% link pages/consignors/white-tag-consignors.md %}) make sure to check in and verify your status prior to placing your items on the sale's floor.
 * Get in line for the next available attendant at our inspection tables. The attendants will first quickly review your larger items and toys.
-* You will be assigned a Volunteer who will assist you in placing your inspected items in designated places on the sale’s floor. Racks, bins, and shelves are clearly labeled, and there are additional Volunteers available to direct you.
+* You will be assigned a Volunteer who will assist you in placing your inspected items in designated places on the sale's floor. Racks, bins, and shelves are clearly labeled, and there are additional Volunteers available to direct you.
 * The attendant will continue inspecting your clothing and other items. Return to the attendant to collect your remaining items and put them in the correct areas.
-* Remember you must assemble cribs, pack ‘n’ plays, and swings.
+* Remember you must assemble cribs, pack 'n plays, and swings.
 * Once all your items are in the proper spots and assembled, we ask that you exit quickly to keep traffic flowing smoothly! We realize that it is VERY tempting to browse, but please refrain and join us at your earliest possible shopping convenience!
 * There will still be Volunteer slots available (see check-in personnel), should you decide that you just have to get back early once you see all the goodies!
 * Because of the nature of set up and the busyness of the sales floor, we do not allow children at Drop Off. It is too challenging to both efficiently place your own items and keep track of kiddos among people carrying large items.
 
-## What YOU can do in advance to prepare for a pleasant, efficient Drop Off experience:
+## What YOU can do in advance to prepare for a pleasant, efficient Drop Off experience:
 
 * Schedule and keep your Drop Off appointment.
 * Make certain you have pre-registered online and have received e-mail confirmation. If you lose your email confirmation, bring your ID and consignor code to the sale to shop early.

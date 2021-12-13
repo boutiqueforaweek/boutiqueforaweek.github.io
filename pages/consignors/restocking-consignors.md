@@ -17,7 +17,7 @@ We offer Restocking Consignor Drop Off appointments on Sunday or Wednesday! A we
 
 If you elect to drop off before our restocking day on Wednesday, you need to be aware the procedure. Instead of putting your items directly on the sales floor, you (and a Volunteer assigned to you) will bring your items to a secured room in the building. This room will be set up similar to the sales floor. You will hang your clothes on the appropriate rack, distribute your shoes, sort your toys from your sheets, etc.
 
-Your items will be held safely until it’s time to restock. On Wednesday, Volunteers will put your merchandise out on the sales floor before we open to the Public!
+Your items will be held safely until it's time to restock. On Wednesday, Volunteers will put your merchandise out on the sales floor before we open to the Public!
 
 ## Registering as a Restocking Consignor allows you all the same great benefits of being a Consignor and more:
 

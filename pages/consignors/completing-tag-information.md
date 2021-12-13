@@ -14,4 +14,4 @@ permalink: /consignors/completing-tag-information/
 ## We will hold 50% off clearance sales on the final day(s) of the sale.
 
 * If you do NOT wish your items to be discounted, please be sure you do not click the "discount" button as you enter your tags online.
-* If you intend to donate your unsold items please make sure you also designate them for the 50% off sale.
+* If you intend to donate your unsold items please make sure you also designate them for the 50% off sale.

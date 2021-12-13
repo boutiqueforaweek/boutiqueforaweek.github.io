@@ -15,4 +15,4 @@ By choosing a Volunteer slot at the sale, you are removing that slot from the we
 
 In an effort to ensure the quality of the sale by retaining a sufficient number of volunteer workers, Boutique For A Week will require that Volunteers fulfill their pledged obligation to work the shift(s) they have selected. Volunteers are expected to be on time and fulfill the entire shift, whether or not they have shopped the Preview Sale.
 
-**In the event that a Volunteer does not fulfill his or her obligation or find a suitable replacement on his or her behalf, Boutique For A Week will deduct 30% of the Volunteer&#8217;s Consignor earnings check, and the Volunteer will not be allowed to participate as a Volunteer again or participate in any future Volunteer Pre-Sale Shopping Times.**
+**In the event that a Volunteer does not fulfill his or her obligation or find a suitable replacement on his or her behalf, Boutique For A Week will deduct 30% of the Volunteer's Consignor earnings check, and the Volunteer will not be allowed to participate as a Volunteer again or participate in any future Volunteer Pre-Sale Shopping Times.**

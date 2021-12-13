@@ -9,7 +9,7 @@ _Consignors: if you are using a Mac product to enter and print your tags, please
 
 ## **Supplies Needed**
 
-You don’t need a lot of supplies to get started with tagging your items: safety pins, zip ties, hole punch, etc. Here is a short video that shows you all the supplies you will need to get started tagging your items!
+You don't need a lot of supplies to get started with tagging your items: safety pins, zip ties, hole punch, etc. Here is a short video that shows you all the supplies you will need to get started tagging your items!
 
 <iframe src="https://www.youtube.com/embed/YBSnBjYMWm4" width="560" height="315" allowfullscreen="allowfullscreen"></iframe>
 
@@ -21,8 +21,8 @@ The first step to tagging your clothing items is to make sure they are hung corr
 
 * Cable ties work best for almost all clothing items and some miscellaneous items like Snuglis and diaper bags. You may also use safety pins, or curly ribbon. As long as your items can not become separated from your clothing or tags.
 * Punch a hole in each tag, slip the cable tie through the hole and loop it through the garment label, button hole, belt loop, etc.
-* Once a cable tie is fastened properly, it cannot come open. Check that you didn’t insert the cable tie through the wrong-side by trying to open it.
-* If there is no secure place on the garment to loop a cable tie, use a safety pin through the punched hole and position tag on the garment’s top left (over the “heart”). For knit items (t-shirts), be careful to safety pin through the binding on the edge rather than through the thin fabric as safety pins will create holes in some knits.
+* Once a cable tie is fastened properly, it cannot come open. Check that you didn't insert the cable tie through the wrong-side by trying to open it.
+* If there is no secure place on the garment to loop a cable tie, use a safety pin through the punched hole and position tag on the garment's top left (over the "heart"). For knit items (t-shirts), be careful to safety pin through the binding on the edge rather than through the thin fabric as safety pins will create holes in some knits.
 * Tags must be attached directly to the garment, not to the hanger!
 * For pants and shorts please use pant hangers or safety pin them to a wire hanger
 
@@ -38,7 +38,7 @@ This video will show you how to tag shoes, accessories, and tagless items of clo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUxYlnoshxQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-* Shoes should be secured together with extra-long (7″ or longer) cable ties.
+* Shoes should be secured together with extra-long (7" or longer) cable ties.
 * Insert a second extra-long cable tie through the first to extend the hanging length of the pair of shoes for ease of display at the sale.
 * Tags can usually be attached with cable ties through a grommet, buckle hole, etc.
 * Please do not put a price tag on each shoe, only one tag per pair.
@@ -52,6 +52,6 @@ Toys can be some of the easiest items to tag! This video will show you how to ta
 
 * Packing tape is ideal for many toy items.
 * Blue painters tape is ideal for books, homeschool materials and other printed media.
-* On items with multiple pieces, like Legos, Knex, Littlest Pet Shop, etc – please combine them in a zippered bag for linens or a Ziploc bag that is taped shut.
-* Cribs, swings, and pack ‘n plays MUST be assembled by you! We have a high selling record for all assembled cribs! Attach the tag so it will show well when the item is assembled.
+* On items with multiple pieces, like Legos, Knex, Littlest Pet Shop, etc - please combine them in a zippered bag for linens or a Ziploc bag that is taped shut.
+* Cribs, swings, and pack 'n plays MUST be assembled by you! We have a high selling record for all assembled cribs! Attach the tag so it will show well when the item is assembled.
 * On large multiple piece items (for example crib and changing table set or car seat with 2 bases), print a duplicate tag, but cross out the price so that the price is only showing on one tag.

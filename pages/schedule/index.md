@@ -23,7 +23,7 @@ permalink: /events/
 
 **Restocking**: 12:00 p.m. - 2:00 p.m.  
 **Open to the Public**: 4:00 p.m. - 10:00 p.m.  
-**Mom’s Night Out**: 8:00 p.m. - 10:00 p.m.
+**Mom's Night Out**: 8:00 p.m. - 10:00 p.m.
 
 ## {{ site.schedule.restocking | ordinal }}
 

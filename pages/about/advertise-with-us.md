@@ -3,7 +3,7 @@ title: Advertise with Us
 permalink: /about/advertise-with-us/
 ---
 
-We’re GROWING! – You Can Too!
+We're GROWING! - You Can Too!
 
 Do you have a family-friendly business (large or small) that could benefit from DIRECT advertising and/or sales to hundreds of families?
 
