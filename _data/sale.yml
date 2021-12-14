@@ -1,1 +1,68 @@
-volunteer_registration: is now open
+---
+01_before:
+  home: "Our [Spring 2022 Sale](/events/) runs April 6th through April 8th at [Metro Life Church](/events/map-location/)!"
+  restocking: "[Registration](/register/) opens on March 6th to Classic Consignors for our Spring 2022 Sale."
+  volunteers: "[Volunteer](/volunteer/) registration for our Spring 2022 Sale opens soon."
+  moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com) so we know you're coming!"
+  register:
+02_before:
+  home: |
+    [Registration](/register/) is open to [Consignors](/consignors/) and [Volunteers](/volunteers) for our Spring 2022 sale!
+    Our [Spring 2022 Sale](/events/) runs April 6th through April 8th at [Metro Life Church](/events/map-location/)!
+  consignors: "[Registration](/register/) is now open for Classic Consignors."
+  restocking: "[Registration](/register/) is now open for Classic Consignors."
+  volunteers: "[Volunteer registration](/register/) is now open for our Spring 2022 Sale."
+  register: "Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Spring 2022 Sale!"
+03_before:
+  home: |-
+    [Registration](/register/) is open to [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers) for our Spring 2022 sale!
+    Our [Spring 2022 Sale](/events/) runs April 6th through April 8th at [Metro Life Church](/events/map-location/)!
+  consignors:
+  restocking: "[Registration](/register/) is now open for Restocking Consignors."
+  register: "Registration is open for [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers/) for our Spring 2022 Sale!"
+04_before:
+  home: |-
+    [Registration](/register/) is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers) for our Spring 2022 sale!
+    Our [Spring 2022 Sale](/events/) runs April 6th through April 8th at [Metro Life Church](/events/map-location/)!
+  consignors:
+  restocking: "[Registration](/register/) is now closed."
+  register: "Registration is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers/) for our Spring 2022 Sale!"
+05_before:
+  home: |-
+    [Registration](/register/) is open to [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers) for our Spring 2022 sale!
+    Our [Spring 2022 Sale](/events/) runs April 6th through April 8th at [Metro Life Church](/events/map-location/)!
+  volunteers: "[Volunteer](/volunteer/) registration is now closed for our Spring 2022 Sale."
+  register: "Registration is now closed."
+06_sunday:
+  home: |-
+    Schedule an appointment for [dropping off your items](/consignors/dropping-off/).
+    Our [Spring 2022 Sale](/events/) runs April 6th through April 8th at [Metro Life Church](/events/map-location/)!
+07_monday:
+  home: |-
+    Schedule an appointment for [dropping off your items](/consignors/dropping-off/). Be sure to arrive on time for your appointment.
+    [Volunteer](/volunteer/) slots are still available!
+    Our [Spring 2022 Sale](/events/) runs April 6th through April 8th at [Metro Life Church](/events/map-location/)!
+08_tuesday:
+09_wednesday:
+  home: |-
+    Our [Spring 2022 Sale](/events/) is open to the public today from 4:00 p.m. - 10:00 p.m.
+    We're also hosting [Mom's Night Out](/shoppers/moms-night-out/) tonight from 8:00 p.m. - 10:00 p.m.!
+10_thursday:
+  home: |-
+    Our [Spring 2022 Sale](/events/) continues! Today we're open to the public from 11:00 a.m. - 8:00 p.m.
+  moms_night:
+11_friday_1:
+  home: |-
+    Today is our [Spring 2022 Sale](/events/) 50% off day! We're open to the public from 10:00 a.m. - 5:00 p.m.
+12_friday_2:
+  home: |-
+    Thank you everyone for [shopping](/shopping/), [consigning](/consignors/), and [volunteering](/volunteer/). We had a great sale!
+    Please note that pickup is tomorrow, Saturday, April 9th from 10:00 a.m. - 1:00 p.m.
+    ANY ITEMS NOT PICKED UP will be [donated](/consignors/donating-unsold-items/)
+  earnings:
+  volunteers: "[Volunteer](/volunteer/) registration will re-open this summer for our Fall 2022 Sale."
+13_saturday:
+  home: |-
+    Thank you everyone for [shopping](/shopping/), [consigning](/consignors/), and [volunteering](/volunteer/). We had a great sale!
+    We'll be announcing dates for our next sale soon!
+  restocking: "[Registration](/register/) opens on July 6th to Classic Consignors for our Fall 2023 Sale."

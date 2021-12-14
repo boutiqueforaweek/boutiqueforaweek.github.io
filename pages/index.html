@@ -20,7 +20,7 @@ layout:
           <area shape="rect" coords="3871,225,6995,237" href="#" alt="join us now!" />
         </map>
         <div id="welcome_text" class="has-text-align-center">
-          <p>Our <a href="/events/">Spring 2022 Sale</a> runs April 6th through April 8th at <a href="/events/map-location/">Metro Life Church</a>!</p>
+          {{ site.data.sale[site.sale_stage].home | markdownify | newline_to_br }}
         </div>
       </div>
     </div>

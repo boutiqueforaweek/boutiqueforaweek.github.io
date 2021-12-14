@@ -28,7 +28,9 @@ It's the easiest way to clean out your closets and earn extra money for those gr
 
 ## How do I become a Consignor?
 
-You must obtain a Consignor code by completing the [Online Consignor Registration]({% link pages/register.md %}). [Restocking Consigner]({% link pages/consignors/restocking-consignors.md %}) [registration]({% link pages/register.md %})  {{ site.dates.season_year }} Sale.
+You must obtain a Consignor code by completing the [Online Consignor Registration]({% link pages/register.md %}).
+
+{{ site.data.sale[site.sale_stage].consignors | markdownify | newline_to_br }}
 
 Please note: all items must be entered into our tagging system by 11:59 p.m. on the Saturday before Sale Week.
 

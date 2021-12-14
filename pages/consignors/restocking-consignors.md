@@ -29,4 +29,4 @@ Your items will be held safely until it's time to restock. On Wednesday, Volunte
 
 We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
 
-[Registration]({% link pages/register.md %}) is now open for Restocking Consignors.
+{{ site.data.sale[site.sale_stage].restocking | markdownify | newline_to_br }}

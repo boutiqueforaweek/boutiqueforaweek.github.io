@@ -36,4 +36,4 @@ If you're uncertain about volunteering, consider this endorsement from a mom abo
 
 ## Volunteer Registration
 
-[Volunteer registration]({% link pages/register.md %}) {{ site.data.sale.volunteer_registration }} for our {{ site.dates.season_year }} Sale.
+{{ site.data.sale[site.sale_stage].volunteers | markdownify | newline_to_br }}
