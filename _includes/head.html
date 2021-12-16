@@ -33,7 +33,7 @@
         },
         "description": "Voted BEST Kids Consignment Sale in Orlando. Consignors sell everything you need from baby to teen.",
         "datePublished": "2008-03-05T05:00:24-04:00",
-        "dateModified": "2021-04-19T14:53:19-04:00",
+        "dateModified": "{{ "now" | date: "%Y-%m-%dT%H:%M:%S-04:00" }}",
         "about": {
           "@id": "https://boutiqueforaweek.com/#organization"
         }
@@ -54,8 +54,8 @@
           },
           "url": "https://boutiqueforaweek.com/events/map-location/"
         },
-        "startDate": "2021-08-15T16:00",
-        "endDate": "2021-08-17T17:00",
+        "startDate": "{{ site.schedule.sale_start }}",
+        "endDate": "{{ site.schedule.sale_end }}",
         "url": "https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW&type=new",
         "image": "https://boutiqueforaweek.com/img/bfaw-logo.png"
       }]
