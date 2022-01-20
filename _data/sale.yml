@@ -4,7 +4,7 @@
   restocking: "[Registration](/register/) opens on March 6th to Classic Consignors for our Spring 2022 Sale."
   volunteers: "[Volunteer](/volunteer/) registration for our Spring 2022 Sale opens soon."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com) so we know you're coming!"
-  register:
+  register: "Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Spring 2022 Sale!"
 02_before:
   home: |
     [Registration](/register/) is open to [Consignors](/consignors/) and [Volunteers](/volunteers) for our Spring 2022 sale!
@@ -12,6 +12,7 @@
   consignors: "[Registration](/register/) is now open for Classic Consignors."
   restocking: "[Registration](/register/) is now open for Classic Consignors."
   volunteers: "[Volunteer registration](/register/) is now open for our Spring 2022 Sale."
+  moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com) so we know you're coming!"
   register: "Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Spring 2022 Sale!"
 03_before:
   home: |-
