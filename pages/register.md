@@ -3,9 +3,9 @@ title: Register
 permalink: /register/
 ---
 
-## {{ site.data.sale[site.sale_stage].moms_night }}
+## {{ site.data.sale[site.sale_stage].register }}
 
-Registration is done on a first come first serve basis. Registration is closed. We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
+Registration is done on a first come first serve basis. We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
 
 [Volunteer Registration](https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW)
 
