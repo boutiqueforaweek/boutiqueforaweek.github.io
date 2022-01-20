@@ -1,11 +1,12 @@
 # Plugin to add environment variables to the `site` object in Liquid templates
+require 'active_support/time'
 
 module Jekyll
 
   class SaleDates < Generator
 
     def generate(site)
-      @start_date = DateTime.parse(site.config['sale_start'])
+      @start_date = DateTime.parse(site.config['sale_start']).change(offset: '-0400')
 
       @dropoff = @start_date + 1
       @presale = @start_date + 2
