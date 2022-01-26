@@ -5,6 +5,7 @@
   volunteers: "[Volunteer](/volunteer/) registration for our Spring 2022 Sale opens soon."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/460549242331073/) so we know you're coming!"
   register: "Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Spring 2022 Sale!"
+  register_fee: "Registration is done on a first come first serve basis. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 02_before:
   home: |
     [Registration](/register/) is open to [Consignors](/consignors/) and [Volunteers](/volunteers) for our Spring 2022 sale!
@@ -14,6 +15,7 @@
   volunteers: "[Volunteer registration](/register/) is now open for our Spring 2022 Sale."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/460549242331073/) so we know you're coming!"
   register: "Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Spring 2022 Sale!"
+  register_fee: "Registration is done on a first come first serve basis. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 03_before:
   home: |-
     [Registration](/register/) is open to [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers) for our Spring 2022 sale!
@@ -21,6 +23,7 @@
   consignors:
   restocking: "[Registration](/register/) is now open for Restocking Consignors."
   register: "Registration is open for [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers/) for our Spring 2022 Sale!"
+  register_fee: "Registration is done on a first come first serve basis. We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 04_before:
   home: |-
     [Registration](/register/) is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers) for our Spring 2022 sale!
