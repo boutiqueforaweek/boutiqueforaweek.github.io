@@ -14,13 +14,12 @@ layout:
     {% include header.html %}
     <div id="home">
       <div id="welcome_bg">
-        <div style="clear: both;"></div>
-        <img src="/img/welcome.png" alt="Boutique For A Week" width="826" height="473" usemap="#Map" />
-        <map name="Map" id="Map">
-          <area shape="rect" coords="3871,225,6995,237" href="#" alt="join us now!" />
-        </map>
-        <div id="welcome_text" class="has-text-align-center">
-          {{ site.data.sale[site.sale_stage].home | markdownify | newline_to_br }}
+        <div class="text-wrapper-outer">
+          <div class="text-wrapper">
+            <div class="text">
+              {{ site.data.sale[site.sale_stage].home | markdownify }}
+            </div>
+          </div>
         </div>
       </div>
     </div>

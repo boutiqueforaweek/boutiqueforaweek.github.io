@@ -888,24 +888,71 @@ body div#ui-datepicker-div[style] {
 }
 
 #welcome_bg {
-  top: -100px;
-  left: 90px;
-  width: 862px;
-  height: 473px;
-  position: relative;
-  z-index: 2;
-  visibility: visible;
+  background: url('../img/welcome.png') no-repeat center 75px;
+  min-height: 826px;
 }
 
-#welcome_text {
-  top: -250px;
-  left: 60px;
-  width: 415px;
-  height: 165px;
+.text-wrapper-outer {
+  width: 500px;
+  height: 226px;
   position: relative;
-  z-index: 2;
-  overflow: hidden;
-  visibility: visible;
+  padding: 300px 0 0 90px;
+}
+
+.text-wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin: 0;
+  color: white;
+
+  p {
+    height: 100%;
+    font-size: 20px;
+    line-height: 1.25;
+    padding: 0 0 10px;
+  }
+
+  &::before {
+    content: "";
+    width: 50%;
+    height: 100%;
+    float: left;
+    shape-outside: polygon(
+      0 0,
+      0.8% 61px,
+      1.6% 36.09%,
+      4.2% 46.95%,
+      10.40% 59.59%,
+      44px 70.79%,
+      27.2% 81.08%,
+      42.2% 91.11%,
+      64.8% 97.98%,
+      98% 100%,
+      0px 100%
+    );
+    shape-margin: 20px;
+  }
+
+  .text::before {
+    content: "";
+    width: 50%;
+    height: 225px;
+    float: right;
+    shape-outside: polygon(
+      248px -1px,
+      92.8% 41px,
+      84.80% 36.97%,
+      73% 53.59%,
+      58.8% 68%,
+      105px 80.52%,
+      25.6% 90.81%,
+      9.4% 95.98%,
+      -5.2% 98.86%,
+      249px 100%
+    );
+    shape-margin: 20px;
+  }
 }
 
 #popmake-5213 {
