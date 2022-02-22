@@ -9,7 +9,7 @@ permalink: /consignors/completing-tag-information/
 * DO NOT use S, M, or L as these designations are used differently from one brand to the next! Please choose the numerical size which corresponds.
 * If an item fits weird, a 2T fits exactly like all your other 18m items for example, label item "fits like 18m" and place it with the other 18m items.
 * Price in whole dollar increments. If items are worth less than $1 (onesies, socks, books, etc.), group like items of same size together so that they can be priced at a $1 minimum.
-* For sets, please state how many items are included in the tag description and print duplicate tags for each additional item, but cross out the price on the additional items only. Please make sure you securely attach all items together.
+* For sets, please state how many items are included in the tag description and make sure you securely attach all items together. Only one tag is necessary for a set.
 
 ## We will hold 50% off clearance sales on the final day(s) of the sale.
 
