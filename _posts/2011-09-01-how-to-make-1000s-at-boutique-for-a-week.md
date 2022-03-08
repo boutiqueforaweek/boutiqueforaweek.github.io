@@ -26,7 +26,7 @@ A: I have sold as high as 60% of my items. On average though , I would say aroun
 
 Q: What advice do you have for other consignors that might help them as they tag and price their items?
 
-A: Keep ahead of it by taking advantage of Boutique for a Week’s online system which is now open to accept entry of items between sales. This is a wonderful feature! And also to be organized – have your supplies on hand such as card stock, hole puncher, zip ties, hangers, etc. There is nothing more frustrating than not having the stuff on hand that you need to get the job done when you are ready to do it.
+A: Keep ahead of it by taking advantage of Boutique for a Week’s online system which is now open to accept entry of items between sales. This is a wonderful feature! And also to be organized – have your supplies on hand such as cardstock, hole puncher, zip ties, hangers, etc. There is nothing more frustrating than not having the stuff on hand that you need to get the job done when you are ready to do it.
 
 Q: Have you participated in a lot of consignment sales and why do you like Boutique For A Week?
 

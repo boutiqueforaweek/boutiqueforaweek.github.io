@@ -88,7 +88,7 @@ pricing:
   url: /consignors/valet-tagging/
   weight: "3"
 drop_off_pick_up:
-- title: Drop Off
+- title: Drop-off
   url: /consignors/dropping-off/
   weight: "1"
 - title: Pick Up

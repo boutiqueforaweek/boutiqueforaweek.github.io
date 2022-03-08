@@ -2,4 +2,8 @@ endfor
 html
 markdownify
 paginator
+paypal
 permalink
+pre
+presale
+printables
