@@ -27,7 +27,7 @@ permalink: /consignors/items-accepted/items-accepted-2/
 * Nursery Bedding - any bedding must be manufactured with in the past 3 years and must be name brand. All Bedding MUST be brought in zippered Comforter Bags or big Ziploc bags (available at Walmart). Bedding does not sell well if it is not current or easy to see. Any bedding improperly displayed will not be placed on the sales floor.
 * Outdoor play equipment including Little Tikes and Step 2\. Equipment MUST be clean and in good condition!
 * Parenting and children's books.
-* Kids DVDs, CDs, and CD-roms.
+* Kids DVDs, CDs, and CD-ROMs.
 * Scooters and perfect condition bikes - absolutely NO rust.
 * Car seats which meet the following criteria:
 * Your car seat has NOT been in an automobile accident (with or without child sitting in it).

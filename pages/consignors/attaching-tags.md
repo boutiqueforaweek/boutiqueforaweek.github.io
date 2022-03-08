@@ -52,6 +52,6 @@ Toys can be some of the easiest items to tag! This video will show you how to ta
 
 * Packing tape is ideal for many toy items.
 * Blue painters tape is ideal for books, homeschool materials and other printed media.
-* On items with multiple pieces, like Legos, Knex, Littlest Pet Shop, etc - please combine them in a zippered bag for linens or a Ziploc bag that is taped shut.
+* On items with multiple pieces, like Legos, K'NEX, Littlest Pet Shop, etc - please combine them in a zippered bag for linens or a Ziploc bag that is taped shut.
 * Cribs, swings, and pack 'n plays MUST be assembled by you! We have a high selling record for all assembled cribs! Attach the tag so it will show well when the item is assembled.
 * On large multiple piece items (for example crib and changing table set or car seat with 2 bases), print a duplicate tag, but cross out the price so that the price is only showing on one tag.

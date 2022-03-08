@@ -12,7 +12,7 @@ Boutique For A Week only accepts quality, clean, and current items! See "[Items 
 * Enough of the [assigned color of cardstock]({% link pages/consignors/cardstock-color-list.md %} "Card Stock Color List") to print a tag for each of your items. Ten tags print per page. It is required to print tags on cardstock.
 * Scissors or paper cutter to cut tags
 * Child-sized hangers for clothing up to size 4\. Adult hangers work well for sizes 5 and up. Old Navy throws away hangers daily. Ask for them there or purchase them at Wal-Mart or your local dry cleaners.
-* Cable/electrical ties (available in electrical department of Home Depot, Lowes, and Wal-Mart) to secure tags to clothing. 4" ties work well for clothing items and 7" ties work best for shoes.
+* Cable/electrical ties (available in electrical department of Home Depot, Lowe's, and Wal-Mart) to secure tags to clothing. 4" ties work well for clothing items and 7" ties work best for shoes.
 * Safety pins (for securing pants to hangers and tagging items ONLY when a cable tie will not work)
 * Hole punch
 * Ziploc bags (assorted sizes) for toys, socks, etc.
@@ -28,7 +28,7 @@ Boutique For A Week only accepts quality, clean, and current items! See "[Items 
 * ALL clothing (except undergarments) must be on hangers so that as you face your item the hanger will look like a question mark "?".
 * When hanging pants, be sure you PIN the pants to the hanger shoulders (unless you are using pant hangers), not the straight bottom edge, to keep them from sliding around and to display them best. Pin through the pocket area, catching the backside of the pants as well.
 * Undergarments (including "Onesie" undershirts) are the ONLY clothing items allowed in clear Ziploc bags! If an undergarment is in a Ziploc, please attach the price tag to the item, not the Ziploc, as they may become separated. If you group multiple items, seal in a Ziploc with clear packing tape, attach tag to bag, and list all items under tag description. Tape Ziploc shut with clear packing tape.
-* Hang all Snuglis, Bjorn Carriers, slings, and head supports on hangers and safety pin to hanger so they cannot fall off.
+* Hang all Snuglis, BABYBJÖRN Carriers, slings, and head supports on hangers and safety pin to hanger so they cannot fall off.
 * Toys get played with all week! We cannot be responsible if your toy parts get separated. If there are multiple pieces being sold together, secure well.
 * Wrap wooden puzzles in plastic or place in an appropriate sized zip lock bag. If the puzzle could be used as a gift, be sure to use Blue Painter's Tape, so that the box is not damaged.
 * Attaching a printout of your large toy items from the internet with the retail price shown can help sell your item.
