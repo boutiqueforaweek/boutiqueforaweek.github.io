@@ -1,5 +1,5 @@
 ---
-title: Join Our Mailin List
+title: Join Our Mailing List
 permalink: /about/join-our-mailing-list/
 ---
 
