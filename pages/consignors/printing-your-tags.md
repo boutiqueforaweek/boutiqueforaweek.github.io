@@ -35,4 +35,4 @@ If it looks like the one below or is faded, replace your ink cartridge with a ne
 
 Check with someone who has a laser printer. This type of printer is your best option.
 
-Upload a .pdf copy of your tags to Office Max, Kinkos, or another local printer. You can upload the file from your computer at home or work and pick them up within a short time.
+Upload a PDF copy of your tags to Office Max, Kinkos, or another local printer. You can upload the file from your computer at home or work and pick them up within a short time.

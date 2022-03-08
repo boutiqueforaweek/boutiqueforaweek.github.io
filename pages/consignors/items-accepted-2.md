@@ -18,7 +18,7 @@ permalink: /consignors/items-accepted/items-accepted-2/
 * Maternity clothing purchased new in the last year.
 * Handmade items like hats, clothing, etc may be sold with approval only. Please [email us](mailto:{{ site.email }}) pictures.
 * Baby equipment manufactured in the last 4 years. Check date on tag. Batteries MUST be included as needed! Please verify that your baby equipment meets all safety standards and is not on the [recall list](https://www.cpsc.gov/Recalls "Government Recall List").
-* Socks and underwear in "Like New" condition, in a ziploc bag.
+* Socks and underwear in "Like New" condition, in a Ziploc bag.
 * Toys in excellent condition. Batteries MUST be included as needed. Games, puzzles, etc. MUST include all pieces.
 * Shoes sizes infant through 8 (junior/adult)
 * Disposable diapers and cloth diapers (in New condition)
