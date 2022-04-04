@@ -5,7 +5,7 @@ permalink: /shoppers/moms-night-out/
 
 ## We are excited to bring back Mom's Night Out for our {{ site.dates.season_year }} Sale!
 
-Join us for a fun and extended night of shopping catering to moms on {{ site.dates.presale }} The event will include music, special vendors, and giveaways. {{ site.data.sale[site.sale_stage].moms_night  }}
+Join us for a fun and extended night of shopping catering to moms on {{ site.dates.moms_night }} The event will include music, special vendors, and giveaways. {{ site.data.sale[site.sale_stage].moms_night  }}
 
 ## Did we mention prizes?
 
