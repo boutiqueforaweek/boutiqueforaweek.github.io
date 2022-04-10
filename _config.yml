@@ -14,6 +14,9 @@ pagination:
   enabled: true
   sort_reverse: true
 
+redirect_from:
+  json: false
+
 defaults:
   -
     scope:
