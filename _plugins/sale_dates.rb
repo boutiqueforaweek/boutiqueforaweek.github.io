@@ -16,6 +16,7 @@ module Jekyll
       @pickup = @start_date + 6
 
       @season = @start_date.strftime("%m").to_i > 6 ? "Fall" : "Spring"
+      @next_season = @start_date.strftime("%m").to_i < 6 ? "Fall" : "Spring"
       @year = @start_date.strftime("%Y")
 
       site.config['schedule'] = {
@@ -30,6 +31,7 @@ module Jekyll
 
       site.config['dates'] = {
         'season' => @season,
+        'next_season' => @next_season,
         'year' => @year,
         'season_year' => "#{@season} #{@year}",
         'sale_dates' => "#{@sale_start.strftime('%B %-d')}#{ordinal(@sale_start.strftime('%-d'))} through #{@sale_end.strftime('%B %-d')}#{ordinal(@sale_end.strftime('%-d'))}",

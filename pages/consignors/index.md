@@ -32,10 +32,10 @@ You must obtain a Consignor code by completing the [Online Consignor Registratio
 {{ site.data.sale[site.sale_stage].consignors | markdownify }}
 Please note: all items must be entered into our tagging system by 11:59 p.m. on the Saturday before Sale Week.
 
-**Consignors are invited and encouraged to shop during our Consignor Pre-Sale. This time is set aside at each sale especially for you to take advantage of the best selection. You may bring ONE person only (a spouse or a grandparent). Babies under 1 are permitted in strollers, but no other children under age 14 are allowed. The {{ site.dates.season_year }} Pre-Sale is {{ site.dates.presale }}.**
+**Consignors are invited and encouraged to shop during our Consignor Pre-Sale. This time is set aside at each sale especially for you to take advantage of the best selection. You may bring ONE person only (a spouse or a grandparent). Babies under 1 are permitted in strollers, but no other children under age 14 are allowed.{% if site.sale_stage != '13_saturday' %} The {{ site.dates.season_year }} Pre-Sale is {{ site.dates.presale }}.{% endif %}**
 
 **If you elect to tag exclusively with white cardstock and donate all of your items, you can shop even EARLIER! White Tag Consignors may begin shopping the Pre-Sale an hour earlier than classic Consignors****. Read the [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}) page for more details.**
 
-**Consignors are also invited to shop the 50% off sale early. Discount shopping starts {{ site.schedule.restocking | ordinal }} for Consignors and Volunteers.**
+**Consignors are also invited to shop the 50% off sale early.{% if site.sale_stage != '13_saturday' %} Discount shopping starts {{ site.schedule.restocking | ordinal }} for Consignors and Volunteers.{% endif %}**
 
-**Your friends are invited to shop early at our Friends of Consignors Pre-Sale ({{ site.dates.presale }}). You do not need to accompany them, but they will need to check in upon arrival and give us your name.**
+**Your friends are invited to shop early at our Friends of Consignors Pre-Sale{% if site.sale_stage != '13_saturday' %} ({{ site.dates.presale }}){% endif %}. You do not need to accompany them, but they will need to check in upon arrival and give us your name.**

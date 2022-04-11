@@ -2,11 +2,11 @@
 title: Picking Up
 permalink: /consignors/dropping-off/picking-up/
 ---
-
+{% if site.sale_stage != '13_saturday' %}
 ## Pick Up for our {{ site.dates.season_year }} Sale is {{ site.dates.pickup }}
 
 Any unsold items you wish to pick up will be available.
-
+{% endif %}
 ## You must stay with your assigned Volunteer at all times at Pick Up.
 
 We are committed to protecting each Consignor's property.

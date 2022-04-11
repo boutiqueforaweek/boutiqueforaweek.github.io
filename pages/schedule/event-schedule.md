@@ -3,6 +3,7 @@ title: Event Schedule
 permalink: /events/event-schedule/
 ---
 
+{% if site.sale_stage != '13_saturday' %}
 ## Volunteers, Consignors, New/Expecting/Adopting/Foster Moms:
 
 * 8+ Hour Volunteers: {{ site.schedule.start | ordinal }}, 5:00 p.m. - 9:00 p.m.
@@ -20,3 +21,6 @@ permalink: /events/event-schedule/
 * {{ site.schedule.sale_end | ordinal }}, 10:00 a.m. - 5:00 p.m., 50% off* sale
 
 _*50% off applies only to items designated by the Consignor._
+{% else %}
+We'll be announcing dates for our next sale soon!
+{% endif %}

@@ -3,6 +3,7 @@ title: Schedule
 permalink: /events/
 ---
 
+{% if site.sale_stage != '13_saturday' %}
 ## {{ site.schedule.start | ordinal }}
 
 **Drop Off**: 4:00 p.m. - 9:00 p.m
@@ -38,3 +39,6 @@ permalink: /events/
 ## {{ site.schedule.pickup | ordinal }}
 
 **Pick Up**: 10:00 a.m. - 1:00 p.m.
+{% else %}
+We'll be announcing dates for our next sale soon!
+{% endif %}

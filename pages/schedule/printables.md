@@ -5,8 +5,7 @@ permalink: /events/printables/
 
 All printables are .PDF files and require Adobe Reader to read. If you cannot view them, please [download a free copy of Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html).
 
-{{ site.dates.season_year }} Sale printables will be available soon!
-
+{% if site.sale_stage != '13_saturday' %}
 ## Advertising Flyer
 
 Thank you for printing copies of our flyer ([full page](/pdf/BFAW-Full.pdf) or [4 per page](/pdf/BFAW-4.pdf) handout) and sharing them at your school, offices, etc!
@@ -14,5 +13,8 @@ Thank you for printing copies of our flyer ([full page](/pdf/BFAW-Full.pdf) or [
 ## Handouts
 
 Please consider handing out extra copies of our [4 per page](/pdf/BFAW-4.pdf) handout or the [full page](/pdf/BFAW-Full.pdf) flyer to your friends! Friends telling friends is the number one way we grow.
+{% else %}
+{{ site.dates.next_season }} Sale printables will be available soon!
+{% endif %}
 
 Thanks for helping spread the word about Boutique For A Week!

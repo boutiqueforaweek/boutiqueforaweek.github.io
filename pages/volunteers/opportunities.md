@@ -5,7 +5,9 @@ permalink: /volunteers/volunteer-opportunities/
 
 ## Classic Volunteer Slots:
 
-Classic volunteer slots are scheduled just before, during, and after the sale. These slots require time at the sale's location. <a href="https://www.mysalemanager.net/wrk_mobworkerlogin.aspx">Volunteer registration</a> for our {{ site.dates.season_year }} Sale is now open!
+Classic volunteer slots are scheduled just before, during, and after the sale. These slots require time at the sale's location.
+
+{{ site.data.sale[site.sale_stage].volunteers | markdownify }}
 
 Time slots are available in 4-hour shifts. By volunteering, you will get to shop the day before Consignors and two days before the general public.
 
