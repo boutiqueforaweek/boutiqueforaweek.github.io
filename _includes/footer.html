@@ -12,10 +12,22 @@
         </ul>
       </div>
       <div id="footer_2">
+        {% if site.sale_stage == '02_before' or site.sale_stage == '03_before' or site.sale_stage == '04_before' %}
+        <h2>Register as a...</h2>
+        <ul>
+          <li><a rel="noopener" href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW">Returning Consignor</a></li>
+          <li><a rel="noopener" href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW&amp;type=new">New Consignor Registration</a></li>
+          <li><a rel="noopener" href="https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW">Worker Registration</a></li>
+          <li><a rel="noopener" href="https://www.mysalemanager.net/itm_start.aspx?partnercode=BFAW">Item Entry and Tag Printing</a></li>
+          <li><a rel="noopener" href="https://www.mysalemanager.net/mom_start.aspx?partnercode=BFAW">New Moms Presale Registration</a></li>
+          <li><a rel="noopener" href="https://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW" target="_blank">Schedule Drop Off Appointment</a></li>
+        </ul>
+        {% else %}
         <h2>Registration Closed</h2>
         <ul>
           <li><a rel="noopener" href="https://www.mysalemanager.net/itm_start.aspx?partnercode=BFAW">Item Entry and Tag Printing</a></li>
         </ul>
+        {% endif %}
       </div>
       <div id="footer_3">
         <h2>Tell a Friend</h2>
