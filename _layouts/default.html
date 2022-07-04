@@ -22,7 +22,9 @@
         <img src="/img/{{ menu }}_menu.png" alt="{{ menu }} header" width="195" height="38" />
         <ul>
           {% for item in site.data.menus[menu] %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% unless site.sale_stage != '03_before' and item.title == 'Restocking Consignors' %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endunless %}
           {% endfor %}
         </ul>
         {% endfor %}
