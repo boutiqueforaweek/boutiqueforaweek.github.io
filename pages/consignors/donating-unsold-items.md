@@ -11,4 +11,6 @@ Note: Any item you intend to donate should be designated for the 50% off sale as
 
 If you decide during the sale to donate your unsold items, please [email us](mailto:{{ site.email }}subject=I%20want%20to%20donate%20unsold%20items) so we know to put your items in the donation area. This will save us the time of sorting your items and bless families in our community, which we appreciate!
 
+If an itemized list of donated items are needed, please be sure to download/print your unsold items report immediately after the sale. The sales software we utilize does not keep records of unsold item reports, nor do we.
+
 Read about our {{ site.dates.season_year }} Sale donation recipient on our [Charities page]({% link pages/about/charities.md %}).
