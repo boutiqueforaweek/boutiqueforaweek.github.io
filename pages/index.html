@@ -23,7 +23,74 @@ layout:
         </div>
       </div>
     </div>
+    <div id="pum-5213"
+      class="pum pum-overlay pum-theme-5202 pum-theme-default-theme popmake-overlay auto_open click_open"
+      role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_5213">
+      <div id="popmake-5213" class="pum-container popmake theme-5202 pum-responsive pum-responsive-small responsive size-small">
+        <div id="pum_popup_title_5213" class="pum-title popmake-title">
+          Sign Up for Our Mailing List! </div>
+        <div class="pum-content popmake-content">
+          <p style="text-align: center;">&nbsp;<img loading="lazy"
+              src="/img/bfaw-logo-newsletter.png" width="250" height="153"
+              alt="Boutique for a Week logo" /></p>
+          <div class="mimi-form-wrapper" id="form-10324">
+            <form action="https://madmimi.com/signups/subscribe/10324" method="post" class="mimi-form">
+              <p>
+                <label for="form_4_signup[email]">
+                  Email
+                  <span class="required">*</span>
+                </label>
+                <input type="text" name="signup[email]" id="form_4_signup[email]" class="mimi-field mimi-required" />
+              </p>
+              <p>
+                <label for="form_4_signup[name]">
+                  Name
+                </label>
+                <input type="text" name="signup[name]" id="form_4_signup[name]" class="mimi-field" />
+              </p>
+              <input type="hidden" name="form_id" value="10324" />
+              <input type="submit" value="Sign Up!" class="button mimi-submit" />
+              <span class="mimi-spinner"></span>
+            </form>
+          </div>
+        </div>
+        <button type="button" class="pum-close popmake-close" aria-label="Close"> X </button>
+      </div>
+    </div>
+    <div class="clear"></div>
   </div>
   {% include footer.html %}
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script id="mimi-main-js-extra">
+    /* <![CDATA[ */
+    var MadMimi = {
+      "thankyou": "Thank you for signing up!",
+      "thankyou_suppressed": "Thank you for signing up! Please check your email to confirm your subscription.",
+      "oops": "Oops! There was a problem. Please try again.",
+      "fix": "There was a problem. Please fill all required fields."
+    };
+    /* ]]> */
+  </script>
+  <script src="/js/mimi.min.js" id="mimi-main-js"></script>
+  <script>
+    var popup = document.getElementById('pum-5213');
+    const popupCookie = document.cookie
+      .split('; ')
+      .find(row => row.startsWith('pum-5213='));
+
+    if (!popupCookie) {
+      // Show popup.
+      popup.classList.add('show');
+    }
+
+    popup.addEventListener('click', function(e) {
+      if (e.target.classList.contains('pum-close')) {
+        // Hide popup and set cookie.
+        popup.classList.remove('show');
+        document.cookie = 'pum-5213=true';
+      }
+    }, false);
+
+  </script>
 </body>
 </html>
