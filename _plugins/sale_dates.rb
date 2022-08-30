@@ -6,6 +6,11 @@ module Jekyll
   class SaleDates < Generator
 
     def generate(site)
+      # Set sale_stage if environment specified.
+      if !ENV['JEKYLL_ENV'].nil? && ENV['JEKYLL_ENV'] != 'production'
+        site.config['sale_stage'] = ENV['JEKYLL_ENV']
+      end
+
       @start_date = DateTime.parse(site.config['sale_start']).change(offset: '-0400')
 
       @dropoff = @start_date + 1
