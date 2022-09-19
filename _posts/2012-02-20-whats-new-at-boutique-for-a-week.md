@@ -16,7 +16,7 @@ We also want to highlight some specific guidelines for this sale.
 
 Our goal at Boutique For A Week is to always have the best quality and the best prices in town. In order to keep that quality standard please note:
 
-* You need to make an appointment for [Drop Off](http://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW).
+* You need to make an appointment for [Drop Off](https://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW).
 * Any items with a specified limit will be counted at Drop Off.
 * Maximum of 200 clothing items.
 * Maximum of 15 like new items in sizes 0-6 months. (This limitation is due to the overwhelming amount of clothing in great condition. Therefore, if you bring clothes in this size range please be sure to price competitively or your items will not sell.)
@@ -26,5 +26,5 @@ Our goal at Boutique For A Week is to always have the best quality and the best 
 * Any bedding must be manufactured within the past 3 years and must be name brand, stored in a bedding bag. The bedding does not sell well if it isn’t current and easy to see. Bedding not placed in bags will not be placed on the sales floor.
 * We no longer accept VHS tapes.
 * Drop side cribs are NOT accepted, due to the recent recalls.
-* If you are consigning with us for the first time, you will need to log in and create a [user name and password]({% link pages/register.md %}). You will be assigned a consignor code and a cardstock color. If you are a returning consignor, you will need to [log in](http://www.mysalemanager.net/g_consignorlogin.aspx) with the user name and password that you created previously. Then you will be able to start tagging your items!
+* If you are consigning with us for the first time, you will need to log in and create a [user name and password]({% link pages/register.md %}). You will be assigned a consignor code and a cardstock color. If you are a returning consignor, you will need to [log in](https://www.mysalemanager.net/g_consignorlogin.aspx) with the user name and password that you created previously. Then you will be able to start tagging your items!
 * As a consignor, if you volunteer for 8 or 12 hours (two or three 4-hour shifts) you earn $10 in Kid Kash. If you volunteer for 16 hours you earn $20 in Kid Kash. Kid Kash is distributed after volunteer hours are complete. It can be used at either the Spring or Fall sale.

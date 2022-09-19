@@ -2,7 +2,7 @@
 title: "Ten Reasons to Consign This Spring"
 ---
 
-_Today on the blog, Amy from_ [_Gabriel's Good Tidings_](http://gabrielsgoodtidings.blogspot.com/ ) _shares 10 reasons to consign at our Spring 2019 Sale._
+_Today on the blog, Amy from_ [_Gabriel's Good Tidings_](https://gabrielsgoodtidings.blogspot.com/ ) _shares 10 reasons to consign at our Spring 2019 Sale._
 
 ![](/img/blog/10-Reasons.jpg)
 

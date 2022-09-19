@@ -10,4 +10,4 @@ We really appreciate the time our Volunteers offer. Our sale cannot run without 
 
 If you have any questions about volunteering, don't hesitate to [ask us](mailto:info@boutiqueforaweek.com) or review the extensive information on our website ([start here]({% link pages/volunteers/index.md %})).
 
-Due to the abbreviated sale schedule, we have less Volunteer opportunities available. [Sign up soon](http://www.mysalemanager.net/wrk_workerlogin.aspx? partnercode=BFAW) to make sure you get a slot!
+Due to the abbreviated sale schedule, we have less Volunteer opportunities available. [Sign up soon](https://www.mysalemanager.net/wrk_workerlogin.aspx? partnercode=BFAW) to make sure you get a slot!

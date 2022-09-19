@@ -3,7 +3,7 @@ title: Print Your Tags
 permalink: /consignors/items-accepted/printing-your-tags/
 ---
 
-You must [register]({% link pages/register.md %}) for this upcoming sale, even if you have previously registered as a Consignor with Boutique For A Week. To begin your inventory and print tags for this sale, [select this link](http://www.mysalemanager.net/itm_start.aspx?partnercode=BFAW) and enter your assigned code and password. Note: Please double check that you enter the correct code. If you print tags with another Consignor's code, that Consignor will be paid for the sale of your items.
+You must [register]({% link pages/register.md %}) for this upcoming sale, even if you have previously registered as a Consignor with Boutique For A Week. To begin your inventory and print tags for this sale, [select this link](https://www.mysalemanager.net/itm_start.aspx?partnercode=BFAW) and enter your assigned code and password. Note: Please double check that you enter the correct code. If you print tags with another Consignor's code, that Consignor will be paid for the sale of your items.
 
 ## Printing Your Barcoded Tags:
 

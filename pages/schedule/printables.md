@@ -3,7 +3,7 @@ title: Printables
 permalink: /events/printables/
 ---
 
-All printables are .PDF files and require Adobe Reader to read. If you cannot view them, please [download a free copy of Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html).
+All printables are .PDF files and require Adobe Reader to read. If you cannot view them, please [download a free copy of Adobe Reader](https://get.adobe.com/reader/).
 
 {% if site.sale_stage != '13_saturday' %}
 ## Advertising Flyer

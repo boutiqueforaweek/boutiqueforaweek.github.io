@@ -4,7 +4,7 @@ permalink: /shoppers/first-time-moms/
 ---
 
 {% if site.sale_stage != '13_saturday' %}
-Pregnant moms, moms with children under the age of 1, and foster or adopting moms may register to shop early by clicking [HERE](http://www.mysalemanager.net/mom_start.aspx?partnercode=BFAW).
+Pregnant moms, moms with children under the age of 1, and foster or adopting moms may register to shop early by clicking [HERE](https://www.mysalemanager.net/mom_start.aspx?partnercode=BFAW).
 {% endif %}
 
 We have a large selection of gently used children's clothing, port-a-cribs, swings, cribs, etc. all at greatly reduced prices and all available to YOU before we open to the public.{% if site.sale_stage != '13_saturday' %} **Our {{ site.dates.season_year }} New and Expecting Moms Pre-Sale is Tuesday, {{ site.dates.presale }} from 4:00 p.m. until 8:00 p.m.**{% endif %}

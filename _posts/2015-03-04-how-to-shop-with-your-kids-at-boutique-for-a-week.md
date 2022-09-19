@@ -2,7 +2,7 @@
 title: "How to Shop with Your Kids at Boutique For A Week"
 ---
 
-_Amy from_ [_Gabriel’s Good Tidings_](http://gabrielsgoodtidings.blogspot.com/) _joins us again to share tips on how to shop with your little ones at Boutique For A Week._
+_Amy from_ [_Gabriel’s Good Tidings_](https://gabrielsgoodtidings.blogspot.com/) _joins us again to share tips on how to shop with your little ones at Boutique For A Week._
 
 As a mom of young children, I know going to the grocery store alone seems like a vacation, and this is a sale that should ideally be shopped alone. However, sometimes life just doesn't allow that to happen. So, if you find yourself in a situation where you must shop with children, here's a few pointers.
 

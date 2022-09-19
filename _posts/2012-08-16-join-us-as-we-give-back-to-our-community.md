@@ -8,6 +8,6 @@ Have you heard about all the ways Boutique For A Week is [supporting our communi
 
 #2 - Sponsor a Child - [register to support a child](https://docs.google.com/spreadsheet/viewform?formkey=dGV3TkcyeWRpYmp6TWZIZmNiMzFYRUE6MQ) in our community, buy a few outfits, a book, a toy and a pair of shoes and we take care of the rest. Best part is, you get to shop early!
 
-#3 - Unsold Consignor Items, designated for donation will be going to support the [Community Food and Outreach Center](http://communityfoodoutreach.org) in Orlando. 
+#3 - Unsold Consignor Items, designated for donation will be going to support the [Community Food and Outreach Center](https://uporlando.org/) in Orlando. 
 
 Join with us now in giving back!

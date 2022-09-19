@@ -6,7 +6,7 @@ title: "Registration is open for our Spring Sale!"
 
 Have you heard? Consignor registration is open for our Spring 2016 Sale. [Register]({% link pages/register.md %}) soon before all our slots fill up!
 
-You can also [register](http://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) as a [Volunteer]({% link pages/volunteers/index.md %}), schedule your [Volunteer shift](http://www.mysalemanager.net/wrk_readonlyworkshifts.aspx?partnercode=BFAW) or [Drop Off appointment](http://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW), and (if applicable) [sign up](http://www.mysalemanager.net/mom_start.aspx?partnercode=BFAW) as an [Expecting/New/Adopting/Foster Mom]({% link pages/shoppers/first-time-moms.md %}) to shop early!
+You can also [register](https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) as a [Volunteer]({% link pages/volunteers/index.md %}), schedule your [Volunteer shift](https://www.mysalemanager.net/wrk_readonlyworkshifts.aspx?partnercode=BFAW) or [Drop Off appointment](https://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW), and (if applicable) [sign up](https://www.mysalemanager.net/mom_start.aspx?partnercode=BFAW) as an [Expecting/New/Adopting/Foster Mom]({% link pages/shoppers/first-time-moms.md %}) to shop early!
 
 We look forward to seeing our returning Consignors and welcoming first time Consignors to the sale. If you are considering consigning for the first time, read this [perspective]({% post_url 2015-06-23-mom-to-mom-is-it-worth-it-to-consign %}) to encourage you to give it a try! Click [here]({% link pages/consignors/index.md %}) for more detailed information about consigning at Boutique For A Week.
 

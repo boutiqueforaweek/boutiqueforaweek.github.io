@@ -6,7 +6,7 @@ permalink: /consignors/consigning-homeschool-curricula/
 To sell your home schooling curricula at our sale:
 
 * [Register]({% link pages/register.md %}) as a Consignor.
-* [Print your tags online](http://www.mysalemanager.net/g_consignorlogin.aspx) with your code and barcode.
+* [Print your tags online](https://www.mysalemanager.net/g_consignorlogin.aspx) with your code and barcode.
 * Use white cardstock for unsold items you wish to [donate]({% link pages/consignors/donating-unsold-items.md %}) and your [assigned color cardstock]({% link pages/consignors/cardstock-color-list.md %}) for any unsold items you'd like to Pick Up.
 * Follow the guidelines for [Pricing]({% link pages/consignors/pricing-recommendations.md %}) if you have any questions
 * Put all multiple piece materials together in a large (gallon or 2-gallon size) Ziploc.

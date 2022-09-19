@@ -8,7 +8,7 @@ The first contest is to see how many [consignors]({% link pages/consignors/index
 
 The second contest is for those of you that are already registered, you can enter for a chance to win by entering the most items into your inventory between now and Monday, September 5th. All you have to do is enter your items into the online computer system. The person who tags the most items between now and Monday at midnight will also receive one $20 Boutique Bucks gift certificate.
 
-And lastly, hop on over to our [Facebook page](http://www.facebook.com/boutiqueforaweek) and share us with your friends. We are just a few "Likes" short of 1000! When we get 1000 fans we will be giving away another $20 Boutique Bucks gift certificate! Already a Facebook fan? It's okay, you can still enter this contest. The winner will be chosen from all our fans!I So be sure to share our page with all your friends!
+And lastly, hop on over to our [Facebook page](https://www.facebook.com/boutiqueforaweek) and share us with your friends. We are just a few "Likes" short of 1000! When we get 1000 fans we will be giving away another $20 Boutique Bucks gift certificate! Already a Facebook fan? It's okay, you can still enter this contest. The winner will be chosen from all our fans!I So be sure to share our page with all your friends!
 
 It's time to get busy! Have a fun and productive LABOR DAY weekend!  
 

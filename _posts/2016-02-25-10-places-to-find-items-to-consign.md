@@ -2,7 +2,7 @@
 title: "10 Places to Find Items to Consign"
 ---
 
-_Today on the blog we welcome back Amy from [Gabriel's Good Tidings](http://gabrielsgoodtidings.blogspot.com/) to share with you some great ways to find items to consign._
+_Today on the blog we welcome back Amy from [Gabriel's Good Tidings](https://gabrielsgoodtidings.blogspot.com/) to share with you some great ways to find items to consign._
 
 Are you consigning this spring? Perhaps you're not fully convinced because you don't have anything to consign. Today's topic is for you! Search these ten places and I guarantee you'll have a box (or two, or three!) of items ready to go.
 

@@ -2,7 +2,7 @@
 title: "How To Get Your Items Sold at Boutique For A Week"
 ---
 
-_Today on the blog we welcome back Amy from_ [_Gabriel's Good Tidings_](http://gabrielsgoodtidings.blogspot.com/) _to share tips on how to get your items sold._
+_Today on the blog we welcome back Amy from_ [_Gabriel's Good Tidings_](https://gabrielsgoodtidings.blogspot.com/) _to share tips on how to get your items sold._
 
 One of the most common questions I receive about consigning children's items is "How do you make money selling used items?" Today, I'm sharing my top ten tips for making sure your items will sell!
 

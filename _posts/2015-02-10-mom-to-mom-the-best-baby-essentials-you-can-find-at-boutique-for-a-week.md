@@ -16,4 +16,4 @@ And everything is what you’re going to find! You’re likely to see nursing co
 
 Mom to Mom, the best baby essentials you can find at Boutique For A Week are almost all of them. You are going to love the deals you find.
 
-_If you’re a New, Expecting, Adopting, or Foster Mom, we invite you to shop early at a Pre-Sale planned just for you. You can [register here](http://www.mysalemanager.net/mom_newmomregistration.aspx) or when you arrive that day._
+_If you’re a New, Expecting, Adopting, or Foster Mom, we invite you to shop early at a Pre-Sale planned just for you. You can [register here](https://www.mysalemanager.net/mom_newmomregistration.aspx) or when you arrive that day._

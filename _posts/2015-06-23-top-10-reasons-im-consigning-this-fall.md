@@ -2,7 +2,7 @@
 title: "Top 10 Reasons I'm Consigning This Fall"
 ---
 
-_Today on the blog, Amy from_ [_Gabriel's Good Tidings_](http://gabrielsgoodtidings.blogspot.com/ ) _shares 10 reasons she's consigning at Boutique For A Week this fall._
+_Today on the blog, Amy from_ [_Gabriel's Good Tidings_](https://gabrielsgoodtidings.blogspot.com/ ) _shares 10 reasons she's consigning at Boutique For A Week this fall._
 
 ![](/img/blog/10-Reasons.jpg)
 

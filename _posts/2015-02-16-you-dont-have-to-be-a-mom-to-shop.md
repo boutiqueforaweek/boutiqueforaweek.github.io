@@ -2,7 +2,7 @@
 title: "You Don't Have to Be A Mom to Shop!"
 ---
 
-_Amy from_ [_Gabriel's Good Tidings_](http://gabrielsgoodtidings.blogspot.com/) _joins us again to encourage any woman, mom or not, to shop Boutique For A Week this sale!_
+_Amy from_ [_Gabriel's Good Tidings_](https://gabrielsgoodtidings.blogspot.com/) _joins us again to encourage any woman, mom or not, to shop Boutique For A Week this sale!_
 
 Today's topic is one that will challenge you to think outside the box. I know we all have friends that are not moms, for a variety of reasons. As you're preparing to shop Boutique For A Week, why not bring a friend along?
 

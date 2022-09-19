@@ -2,7 +2,7 @@
 title: "How to Shop with Your Kids at Boutique For A Week"
 ---
 
-_Amy from_ [_Gabriel’s Good Tidings_](http://gabrielsgoodtidings.blogspot.com/) _joins us again to share tips on how to shop with your little ones at Boutique For A Week._
+_Amy from_ [_Gabriel’s Good Tidings_](https://gabrielsgoodtidings.blogspot.com/) _joins us again to share tips on how to shop with your little ones at Boutique For A Week._
 
 ![](/img/blog/shop-wkids.jpg) 
 

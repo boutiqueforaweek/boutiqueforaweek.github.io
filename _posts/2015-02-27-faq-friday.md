@@ -16,4 +16,4 @@ We also expect a certain level of professionalism from our Volunteers like arriv
 
 If you have any questions about volunteering, don't hesitate to [ask us](mailto:info@boutiqueforaweek.com) or review the extensive information on our website ([start here]({% link pages/volunteers/index.md %})).
 
-There are still [volunteer shifts available](http://www.mysalemanager.net/wrk_readonlyworkshifts.aspx?partnercode=BFAW) if you're interested. Remember Volunteers shop first, so it's well worth your time!
+There are still [volunteer shifts available](https://www.mysalemanager.net/wrk_readonlyworkshifts.aspx?partnercode=BFAW) if you're interested. Remember Volunteers shop first, so it's well worth your time!

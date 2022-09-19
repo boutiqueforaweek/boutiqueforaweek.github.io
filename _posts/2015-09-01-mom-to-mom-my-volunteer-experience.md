@@ -14,4 +14,4 @@ The things at the sale are in GREAT shape, and are now going to be used to welco
 
 I HIGHLY recommend that if you are able, definitely volunteer. The 4 or 8 hours you spend is well worth your time, and even fun.
 
-_If you want to volunteer for our Spring 2015 Sale, check our [available shifts](http://www.mysalemanager.net/wrk_readonlyworkshifts.aspx?partnercode=BFAW) and [sign up](http://www.mysalemanager.net/wrk_workerlogin.aspx)!_
+_If you want to volunteer for our Spring 2015 Sale, check our [available shifts](https://www.mysalemanager.net/wrk_readonlyworkshifts.aspx?partnercode=BFAW) and [sign up](https://www.mysalemanager.net/wrk_workerlogin.aspx)!_

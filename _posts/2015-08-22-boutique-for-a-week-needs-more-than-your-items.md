@@ -4,7 +4,7 @@ title: "Boutique For A Week Needs More Than Your Items"
 
 ![](/img/blog/uncle_sam_volunteer.jpg)
 
-_Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](http://gabrielsgoodtidings.blogspot.com/) to explain how you can benefit from volunteering at our sale._
+_Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](https://gabrielsgoodtidings.blogspot.com/) to explain how you can benefit from volunteering at our sale._
 
 When most people think about Boutique For A Week, they begin to make a mental list of items to consign. Or, they begin to think about items they intend to purchase for their little ones.
 

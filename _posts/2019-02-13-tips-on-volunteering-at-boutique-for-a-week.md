@@ -2,7 +2,7 @@
 title: "Tips on Volunteering at Boutique For A Week"
 ---
 
-_Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](http://gabrielsgoodtidings.blogspot.com/) to explain how to volunteer._ I [shared last week]({% post_url 2019-02-05-we-need-you-to-volunteer %}) about the benefits of volunteering at a Boutique For A Week. Today I have some practical tips to help your volunteer shift go as smooth as a knife cuts butter.
+_Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](https://gabrielsgoodtidings.blogspot.com/) to explain how to volunteer._ I [shared last week]({% post_url 2019-02-05-we-need-you-to-volunteer %}) about the benefits of volunteering at a Boutique For A Week. Today I have some practical tips to help your volunteer shift go as smooth as a knife cuts butter.
 
 * **1. Eat before your shift.** Now, I wouldn't recommend stuffing yourself at an all-you-can-eat buffet, but I wouldn't come hungry either. Eat something healthy - something that will give you energy - and something you know settles well with your tummy. You likely won't have time to snack or eat often (or at all, if your volunteer shift is less than 4 hours), so plan accordingly.
 * **2. Tell your family where you'll be.** One time I volunteered I didn't make clear arrangements with my husband about picking up the kids from school. By the time I slowed down to check my phone, I had quite a few text messages about who was getting the kids! Plan ahead, and let your family know where you'll be and how to contact you if an emergency arises. Tell them you won't be checking your phone during your volunteer hours.

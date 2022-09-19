@@ -2,7 +2,7 @@
 title: "We Need YOU to Volunteer"
 ---
 
-_Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](http://gabrielsgoodtidings.blogspot.com/) to explain how you can benefit from volunteering at our sale._
+_Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](https://gabrielsgoodtidings.blogspot.com/) to explain how you can benefit from volunteering at our sale._
 
 When most people think about Boutique For A Week, they begin to make a mental list of items to consign. Or, they begin to think about items they intend to purchase for their little ones.
 
@@ -24,4 +24,4 @@ If you're interested in volunteering but not sure how the details will work, cli
 
 So, when will you volunteer?
 
-[Volunteer registration](http://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) is open. Grab your time slot(s) now!
+[Volunteer registration](https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) is open. Grab your time slot(s) now!

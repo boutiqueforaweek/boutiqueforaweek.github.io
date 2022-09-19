@@ -18,7 +18,7 @@ For this sale to be successful, everyone needs to participate. We still need Con
 
 **Volunteers:** Consider the benefits of shopping early! The same apply to our Holiday Sale.
 
-If you haven't put the sale on your [calendar]({% link pages/schedule/index.md %}) yet, do it! You won't want to miss it. And if you still need to sign up as a [Volunteer](http://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) or [Consignor]({% link pages/register.md %}), don't hesitate. There are less spots and they are filling up fast.
+If you haven't put the sale on your [calendar]({% link pages/schedule/index.md %}) yet, do it! You won't want to miss it. And if you still need to sign up as a [Volunteer](https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW) or [Consignor]({% link pages/register.md %}), don't hesitate. There are less spots and they are filling up fast.
 
 We cannot wait to see you at the sale!
 

@@ -2,7 +2,7 @@
 title: "How to Volunteer Well at Boutique For A Week"
 ---
 
-_Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](http://gabrielsgoodtidings.blogspot.com/) to explain how to volunteer ._
+_Today on the blog we welcome back Amy from [Gabriel’s Good Tidings](https://gabrielsgoodtidings.blogspot.com/) to explain how to volunteer ._
 
 I [shared]({% post_url 2017-03-06-we-need-more-than-your-items %}) last week about the benefits of volunteering at a Boutique For A Week. Today I have some practical tips to help your volunteer shift go as smooth as a knife cuts butter.
 
