@@ -6,4 +6,4 @@ _We love to hear from our Consignors, Shoppers and Volunteers about their experi
 
 ![](/img/blog/Testimonial_Ashly.png)
 
-[Contact us](mailto:info@boutiqueforaweek.com) if you have a testimonial about the sale you want to share. We love to hear them!
+[Contact us](mailto:{{ site.email }}) if you have a testimonial about the sale you want to share. We love to hear them!

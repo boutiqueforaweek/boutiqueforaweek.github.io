@@ -13,7 +13,7 @@ Here are the requirements:
 Here is what you do to enter:
 
 * You talk to the appropriate person at your child’s daycare/preschool and get permission to have a BFAW flyer sent home with each child in their backpack.
-* You email us ([info@boutiqueforaweek.com](mailto:info@boutiqueforaweek.com)) the name of the school, the mailing address, and the name of the person at your child’s daycare/preschool who gave you permission. [![](/img/blog/crocodile-ladybug-150x150.jpg "crocodile-ladybug")](/img/blog/crocodile-ladybug.jpg) 
+* You email us ([info@boutiqueforaweek.com](mailto:{{ site.email }})) the name of the school, the mailing address, and the name of the person at your child’s daycare/preschool who gave you permission. [![](/img/blog/crocodile-ladybug-150x150.jpg "crocodile-ladybug")](/img/blog/crocodile-ladybug.jpg) 
 
 That’s it! Easy-peasy, right??? Right! Once you take care of the above, we do the rest! We’ll send your school the flyers for them to pass out to each child.
 

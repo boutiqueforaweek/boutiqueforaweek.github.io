@@ -10,9 +10,9 @@ This sale, more than ever, Consignors are wondering:
 
 ![](/img/blog/FAQ_Fridays-pick-up.png)
 
-The sale ends tonight. Your (hopefully few) unsold items will be ready for Pick Up tomorrow (April 16th) from 11:00 a.m. until 2:00 p.m. Any items not claimed by 2:00 p.m. will be donated. We cannot offer exceptions; however, you can have a friend pick up your unsold merchandise as long as you [email us](mailto:info@boutiqueforaweek.com) your Consignor number and the name of the person collecting your items.
+The sale ends tonight. Your (hopefully few) unsold items will be ready for Pick Up tomorrow (April 16th) from 11:00 a.m. until 2:00 p.m. Any items not claimed by 2:00 p.m. will be donated. We cannot offer exceptions; however, you can have a friend pick up your unsold merchandise as long as you [email us](mailto:{{ site.email }}) your Consignor number and the name of the person collecting your items.
 
-If you decide you want to donate your items and skip Pick Up, please [email us](mailto:info@boutiqueforaweek.com) now so we save the time of sorting your items. Remember that any items you tagged with white cardstock will be donated and will not be sorted.
+If you decide you want to donate your items and skip Pick Up, please [email us](mailto:{{ site.email }}) now so we save the time of sorting your items. Remember that any items you tagged with white cardstock will be donated and will not be sorted.
 
 Please follow this procedure when you arrive to Pick Up:
 

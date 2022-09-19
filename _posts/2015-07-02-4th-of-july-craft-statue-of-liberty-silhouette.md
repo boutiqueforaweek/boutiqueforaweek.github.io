@@ -53,4 +53,4 @@ _In the end, they all turned out cute! Most importantly, the girls loved them._
 
 I would definitely do a silhouette craft again. They look really neat and are practically mess-free. None of the girls got paint on their clothes, just some on their hands. If you had dot paint markers, this would probably be even tidier. The only other mess was scraps from cutting the stars. All in all, a pretty fun craft for kids and mom!
 
-_What kinds of crafts do you like to do with your kids? Let us know here or on Facebook._ _And if you have something you think would be fun or helpful to share on the blog, [contact us](mailto:info@boutiqueforaweek.com). We love to hear from you!_
+_What kinds of crafts do you like to do with your kids? Let us know here or on Facebook._ _And if you have something you think would be fun or helpful to share on the blog, [contact us](mailto:{{ site.email }}). We love to hear from you!_

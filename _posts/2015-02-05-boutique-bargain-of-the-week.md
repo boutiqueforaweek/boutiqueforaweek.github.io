@@ -6,4 +6,4 @@ _Every sale we see such great deals pass though the checkout line. "Boutique Bar
 
 ![](/img/blog/hk_sewing_machine.png)
 
-If you found a great deal, [let us know](mailto:info@boutiqueforaweek.com)! We’d love to share your bargain with our shoppers. And if you’ve ever wondered why some of the deals at Boutique For A Week are this good, check back! We’ll be examining and explaining that on the blog in a few weeks.
+If you found a great deal, [let us know](mailto:{{ site.email }})! We’d love to share your bargain with our shoppers. And if you’ve ever wondered why some of the deals at Boutique For A Week are this good, check back! We’ll be examining and explaining that on the blog in a few weeks.

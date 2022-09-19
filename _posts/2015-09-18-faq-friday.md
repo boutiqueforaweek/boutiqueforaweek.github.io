@@ -2,7 +2,7 @@
 title: "FAQ Friday"
 ---
 
-The sale ends tonight. Your (hopefully few) unsold items will be sorted and ready for pick up tomorrow from 11:00 a.m. until 1:00 p.m. Any items not picked up by 1:00 p.m. will be donated. We cannot offer exceptions; however, you can have a friend pick up your unsold merchandise as long as you [email us](mailto:info@boutiqueforaweek.com) your Consignor number and the name of the person collecting your items.
+The sale ends tonight. Your (hopefully few) unsold items will be sorted and ready for pick up tomorrow from 11:00 a.m. until 1:00 p.m. Any items not picked up by 1:00 p.m. will be donated. We cannot offer exceptions; however, you can have a friend pick up your unsold merchandise as long as you [email us](mailto:{{ site.email }}) your Consignor number and the name of the person collecting your items.
 
 Please also remember that any items you tagged with white cardstock will be donated and will not be sorted.
 
@@ -28,6 +28,6 @@ It may be helpful to you to have a printed inventory report. Log in to your Cons
 
 ![](/img/blog/Friday_Pick_Up.png)
 
-If you decide you want to donate your items and skip Pick Up, please [email us](mailto:info@boutiqueforaweek.com) now so we save the time of sorting your items.
+If you decide you want to donate your items and skip Pick Up, please [email us](mailto:{{ site.email }}) now so we save the time of sorting your items.
 
 Earning's checks should be available to all Consignors at Pick Up, and will be mailed Monday for any Consignor who does not pick up on Saturday.

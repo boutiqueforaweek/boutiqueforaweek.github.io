@@ -5,8 +5,8 @@ title: "Pick Up Procedure: Holiday Edition"
 Because our Holiday Sale hours include shopping the same day as Pick Up, the time available to sort is affected. Please review our altered Pick Up procedure carefully so you know what to expect.
 
 * **Pick Up is today, November 14th, from 5:00 p.m. - 7:00 p.m.** Any items not retrieved will be donated. We cannot make exceptions to this rule.
-* If you are unable to make Pick Up, you can send someone in your place. You MUST [email us](mailto:info@boutiqueforaweek.com) your Consignor Code and the name of the person or we will not release your items.
-* Remember any unsold items tagged with white cardstock will be unsorted and donated after the sale. If you decide you want skip Pick Up and donate your remaining merchandise, please [let us know](mailto:info@boutiqueforaweek.com)! It will save us precious sorting time.
+* If you are unable to make Pick Up, you can send someone in your place. You MUST [email us](mailto:{{ site.email }}) your Consignor Code and the name of the person or we will not release your items.
+* Remember any unsold items tagged with white cardstock will be unsorted and donated after the sale. If you decide you want skip Pick Up and donate your remaining merchandise, please [let us know](mailto:{{ site.email }})! It will save us precious sorting time.
 * **Please come prepared to look for your unsold items.** Due to the abbreviated schedule of this special event, we cannot guarantee sorting to the extent we do for our seasonal sales.
 * Your check should be available at Pick Up. Any checks not distributed at Pick Up will be mail on Monday.
 
