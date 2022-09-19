@@ -2,7 +2,7 @@
 01_before:
   home: "Our [Spring 2023 Sale](/events/) runs April 26th through April 28th at [Metro Life Church](/events/map-location/)!"
   restocking: "[Registration](/register/) opens soon to Classic Consignors for our Spring 2023 Sale."
-  volunteers: "[Volunteer](/volunteer/) registration for our Spring 2023 Sale opens soon."
+  volunteers: "[Volunteer](/volunteers/) registration for our Spring 2023 Sale opens soon."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/460549242331073/) so we know you're coming!"
   register: "Registration opens soon to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Spring 2023 Sale!"
   register_fee: "Registration is done on a first come first serve basis. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
@@ -60,7 +60,7 @@
   register_fee:
 07_monday:
   home: |-
-    [Volunteer](/volunteer/) slots are still available!
+    [Volunteer](/volunteers/) slots are still available!
 
     Our [Spring 2023 Sale](/events/) runs April 26th through April 28th at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now closed."
@@ -111,7 +111,7 @@
   register_fee:
 12_friday_2:
   home: |-
-    Thank you everyone for [shopping](/shopping/), [consigning](/consignors/), and [volunteering](/volunteer/). We had a great sale!
+    Thank you everyone for [shopping](/shopping/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
 
     Please note that pickup is tomorrow, Saturday, Sept 17th from 10:00 a.m. - 1:00 p.m.
 
@@ -119,18 +119,18 @@
   earnings:
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
-  volunteers: "[Volunteer](/volunteer/) registration will re-open this summer for our Spring 2023 Sale."
+  volunteers: "[Volunteer](/volunteers/) registration will re-open this summer for our Spring 2023 Sale."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/460549242331073/) so we know you're coming!"
   register: "Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/)."
   register_fee:
 13_saturday:
   home: |-
-    Thank you everyone for [shopping](/shopping/), [consigning](/consignors/), and [volunteering](/volunteer/). We had a great sale!
+    Thank you everyone for [shopping](/shopping/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
 
     We'll be announcing dates for our next sale soon!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
-  volunteers: "[Volunteer](/volunteer/) registration will re-open this summer for our Spring 2023 Sale."
+  volunteers: "[Volunteer](/volunteers/) registration will re-open this summer for our Spring 2023 Sale."
   moms_night: ""
   register: "Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/)."
   register_fee:
