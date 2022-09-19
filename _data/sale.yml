@@ -111,7 +111,7 @@
   register_fee:
 12_friday_2:
   home: |-
-    Thank you everyone for [shopping](/shopping/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
+    Thank you everyone for [shopping](/shoppers/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
 
     Please note that pickup is tomorrow, Saturday, Sept 17th from 10:00 a.m. - 1:00 p.m.
 
@@ -125,7 +125,7 @@
   register_fee:
 13_saturday:
   home: |-
-    Thank you everyone for [shopping](/shopping/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
+    Thank you everyone for [shopping](/shoppers/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
 
     We'll be announcing dates for our next sale soon!
   consignors: "[Registration](/register/) is now closed."
