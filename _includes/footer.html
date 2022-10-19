@@ -1,7 +1,7 @@
-  <div id="footer">
-    <img src="/img/footer.png" alt="footer background three hanging signs" width="1000" height="315" />
-    <div id="footer_colums">
-      <div id="footer_1">
+<div id="footer" class="container">
+  <div class="row">
+    <div class="col-12 col-lg-3">
+      <div class="sign">
         <h2>About Boutique for a Week</h2>
         <ul>
           <li><a href="/about/who-we-are/">Who We Are</a></li>
@@ -11,7 +11,9 @@
           <li><a href="/about/contact-us/">Contact Us</a></li>
         </ul>
       </div>
-      <div id="footer_2">
+    </div>
+    <div class="col-12 col-lg-3">
+      <div class="sign">
         {% if site.sale_stage == '02_before' or site.sale_stage == '03_before' or site.sale_stage == '04_before' %}
         <h2>Register as a...</h2>
         <ul>
@@ -29,14 +31,18 @@
         </ul>
         {% endif %}
       </div>
-      <div id="footer_3">
+    </div>
+    <div class="col-12 col-lg-3">
+      <div class="sign">
         <h2>Tell a Friend</h2>
         <p>Friends telling friends is our best way of spreading the word about this great sale! </p>
         <ul class="menu footer3 safari v en-US">
           <li class="erow footer3_item page_item tell-a-friend-page pagetab"><a href="/about/tell-a-friend/" title="Tell a Friend" class="navt_plink">Tell a Friend</a></li>
         </ul>
       </div>
-      <div id="footer_4">
+    </div>
+    <div class="col-12 col-lg-3">
+      <div class="sign">
         <h2>Join our Mailing List</h2>
         <p>Preferred Shopping Privileges are extended to our Consignors, Volunteers and Expecting Moms!</p>
         <ul>
@@ -55,11 +61,34 @@
                 <img src="/img/instagram.png" alt="Instagram" style="height:23px" />
               </a>
             </p>
-            </li>
-          </ul>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
-  <div id="copyright">
-    <span>&copy; {{ site.time | date: '%Y' }} Boutique for a Week</span>
-  </div>
+</div>
+<div id="copyright" class="container mt-3">
+  <p>&copy; {{ site.time | date: '%Y' }} Boutique for a Week</p>
+</div>
+<script>
+  var popup = document.getElementById('newsletter-signup');
+
+  if (popup) {
+    var myModal = new bootstrap.Modal(popup, {});
+
+    const popupCookie = document.cookie
+      .split('; ')
+      .find(row => row.startsWith('newsletter='));
+      console.log(popupCookie)
+
+    if (!popupCookie) {
+      // Show popup.
+      myModal.toggle();
+    }
+
+    // Hide popup and set cookie.
+    popup.addEventListener('hidden.bs.modal', function(e) {
+        document.cookie = 'newsletter=true';
+      });
+  }
+</script>

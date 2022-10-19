@@ -1,0 +1,383 @@
+@import "bootstrap";
+
+@font-face {
+  font-family: "SignPainter";
+  src: url("/fonts/SignPainter HouseScript.ttf") format("truetype");
+  font-display: swap;
+}
+
+@keyframes spinner-loader {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+h1 {
+  background: url("/img/hr.png") no-repeat 0 44px;
+  color: #b62041;
+  font-family: "SignPainter";
+  font-size: 55px;
+  font-weight: 100;
+  margin-bottom: 10px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.clear {
+  clear: both;
+  height: 0px;
+  overflow: hidden;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-image: url("/img/body_bg.jpg");
+  background-repeat: repeat;
+}
+
+h2 {
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  font-weight: normal;
+  color: #684913;
+  font-size: 18px;
+  line-height: 22px;
+  margin-top: 10px;
+}
+
+p {
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  line-height: 19px;
+  color: #6d5647;
+}
+
+a {
+  outline: none;
+
+  &:link {
+    color: #558268;
+    text-decoration: none;
+  }
+
+  &:visited {
+    text-decoration: none;
+    color: #b61e41;
+  }
+
+  &:hover {
+    text-decoration: underline;
+    color: #b61e41;
+  }
+
+  &:active {
+    text-decoration: none;
+    color: #b61e41;
+  }
+}
+
+.logo {
+  background: url(/img/logo.gif) no-repeat;
+  background-size: 131px 160px;
+  height: 80px;
+  width: 131px;
+
+  &:hover {
+    background-position: bottom left;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .logo {
+    background-size: auto;
+    left: -40px;
+    height: 160px;
+    position: absolute;
+    top: -40px;
+    width: 262px;
+  }
+}
+
+#logo {
+  top: -40px;
+  left: -34px;
+  width: 262px;
+  z-index: 100;
+  position: relative;
+  height: 160px;
+  visibility: visible;
+
+  a {
+    display: block;
+    width: 262px;
+    height: 160px;
+    text-indent: -999999px;
+    background-image: url(/img/logo.gif);
+    background-position: top left;
+
+    &:hover {
+      background-image: url(/img/logo.gif);
+      background-position: bottom left;
+    }
+  }
+}
+
+.navbar {
+  background-color: #f3d8ca;
+
+  .navbar-nav {
+    margin-left: 210px;
+  }
+
+  .nav-link {
+    color: #d3968b;
+    display: block;
+    font-family: "SignPainter";
+    font-size: 28px;
+    height: 65px;
+    line-height: 50px;
+    margin: 0 8px;
+    text-decoration: none;
+    transform: scale(1, 1.3);
+    width: 100px;
+
+    &:hover,
+    &.active {
+      background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='99.024' height='52.218' viewBox='0 0 26.2 13.816'><ellipse cx='17.6' cy='27.785' rx='13.148' ry='6.817' transform='matrix(.995049 -.099384 .099384 .995049 -7.174656 -18.990476)' fill='%23fbefe9' fill-rule='evenodd'/></svg>") no-repeat center 5px;
+    }
+  }
+
+  .dropdown-toggle::after {
+    display: none;
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .navbar {
+    .nav-link {
+      text-align: right;
+      width: auto;
+
+      &:hover {
+        background-position: right;
+      }
+    }
+  }
+}
+
+#col_left {
+  background: rgba(250,248,232,1);
+
+  ul {
+    font-size: 14px;
+    padding-left: 0;
+
+    li {
+      list-style: none;
+      border-bottom-color: #ffcccc;
+      border-bottom-style: solid;
+      border-bottom-width: 2px;
+      margin-top: 6px;
+      padding-bottom: 4px;
+
+      a {
+        color: #352012;
+        font-weight: bold;
+
+        &:hover {
+          text-decoration: none;
+          color: #b61e41;
+        }
+      }
+    }
+  }
+}
+
+#col_right {
+  > div {
+    background: rgba(250,248,232,1);
+  }
+
+  p {
+    padding-bottom: 24px;
+  }
+
+  h2 {
+    padding-bottom: 6px;
+  }
+
+  ul {
+    padding-bottom: 12px;
+
+    li {
+      color: #6d5647;
+      list-style-image: url(/img/star.gif);
+      margin-bottom: 8px;
+    }
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  #col_right > div {
+    background: rgb(217,215,189);
+    background: linear-gradient(90deg, rgba(217,215,189,1) 1%, rgba(250,248,232,1) 4%);
+  }
+}
+
+.blog {
+  img {
+    height: auto;
+    max-width: 100%;
+  }
+}
+
+#header {
+  margin: 0 auto;
+  padding: 0;
+}
+
+hr {
+  display: none;
+}
+
+a img {
+  border: none;
+}
+
+#footer {
+  .sign {
+    background: #faf8e8 url(../img/bow.png) no-repeat right bottom;
+    border: 20px solid transparent;
+    margin-top: 20px;
+    min-height: 100%;
+  }
+
+  h2 {
+    font-size: 25px;
+    line-height: 27px;
+    color: #ce393a;
+    margin: 0px 0px 15px 0px;
+    padding: 0px;
+  }
+
+  p {
+    color: #50290b;
+
+    img {
+      padding: 0;
+      max-width: 100%;
+    }
+  }
+
+  ul {
+    color: #50290b;
+    line-height: 24px;
+    padding-left: 0;
+
+    li {
+      list-style: none;
+
+      a {
+        text-decoration: none;
+        color: #558268;
+
+        &:hover {
+          text-decoration: underline;
+          color: #b61e41;
+        }
+      }
+    }
+  }
+}
+
+#copyright {
+  font-size: 12px;
+  line-height: 16px;
+  padding: 20px;
+
+  p {
+    color: #333;
+  }
+}
+
+#home_bg {
+  background-image: url(../img/img-noise-30x30.png);
+  background-position: top center;
+  background-repeat: repeat;
+}
+
+#welcome_bg {
+  background: url('../img/welcome.png') no-repeat center 75px;
+  min-height: 620px;
+}
+
+.text-wrapper-outer {
+  width: 720px;
+  height: 226px;
+  position: relative;
+  padding: 300px 0 0 250px;
+}
+
+.text-wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin: 0;
+  color: white;
+
+  p {
+    height: 100%;
+    font-size: 20px;
+    line-height: 1.25;
+    padding: 0 0 10px;
+  }
+
+  &::before {
+    content: "";
+    width: 50%;
+    height: 100%;
+    float: left;
+    shape-outside: polygon(
+      0 0,
+      0.8% 61px,
+      1.6% 36.09%,
+      4.2% 46.95%,
+      10.40% 59.59%,
+      44px 70.79%,
+      27.2% 81.08%,
+      42.2% 91.11%,
+      64.8% 97.98%,
+      98% 100%,
+      0px 100%
+    );
+    shape-margin: 20px;
+  }
+
+  .text::before {
+    content: "";
+    width: 50%;
+    height: 225px;
+    float: right;
+    shape-outside: polygon(
+      248px -1px,
+      92.8% 41px,
+      84.80% 36.97%,
+      73% 53.59%,
+      58.8% 68%,
+      105px 80.52%,
+      25.6% 90.81%,
+      9.4% 95.98%,
+      -5.2% 98.86%,
+      249px 100%
+    );
+    shape-margin: 20px;
+  }
+}

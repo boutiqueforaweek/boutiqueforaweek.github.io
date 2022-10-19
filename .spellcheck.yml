@@ -15,5 +15,7 @@ matrix:
             - code
             - pre
     sources:
-      - '_site/*.html'
+      - 'pages/**/*.html'
+      - 'pages/**/*.md'
+      - '_posts'
     default_encoding: utf-8

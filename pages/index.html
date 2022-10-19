@@ -10,57 +10,51 @@ layout:
   {% include head.html %}
 </head>
 <body>
-  <div id="page">
+  <div class="container mt-md-5">
     {% include header.html %}
-    <div id="home">
-      <div id="welcome_bg">
-        <div class="text-wrapper-outer">
-          <div class="text-wrapper">
-            <div class="text">
-              {{ site.data.sale[site.sale_stage].home | markdownify }}
+    <div id="home" class="row">
+      <div class="col">
+        <div id="home_bg">
+          <div id="welcome_bg">
+            <div class="text-wrapper-outer">
+              <div class="text-wrapper">
+                <div class="text">
+                  {{ site.data.sale[site.sale_stage].home | markdownify }}
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div id="pum-5213"
-      class="pum pum-overlay pum-theme-5202 pum-theme-default-theme popmake-overlay auto_open click_open"
-      role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_5213">
-      <div id="popmake-5213" class="pum-container popmake theme-5202 pum-responsive pum-responsive-small responsive size-small">
-        <div id="pum_popup_title_5213" class="pum-title popmake-title">
-          Sign Up for Our Mailing List! </div>
-        <div class="pum-content popmake-content">
-          <p style="text-align: center;">&nbsp;<img loading="lazy"
-              src="/img/bfaw-logo-newsletter.png" width="250" height="153"
-              alt="Boutique for a Week logo" /></p>
-          <div class="mimi-form-wrapper" id="form-10324">
+    <div id="newsletter-signup" class="modal fade" data-bs-backdrop="static" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Sign Up for Our Mailing List!</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
             <form action="https://madmimi.com/signups/subscribe/10324" method="post" class="mimi-form">
-              <p>
-                <label for="form_4_signup[email]">
-                  Email
-                  <span class="required">*</span>
-                </label>
-                <input type="text" name="signup[email]" id="form_4_signup[email]" class="mimi-field mimi-required" />
-              </p>
-              <p>
-                <label for="form_4_signup[name]">
-                  Name
-                </label>
-                <input type="text" name="signup[name]" id="form_4_signup[name]" class="mimi-field" />
-              </p>
+              <div class="mb-3">
+                <input type="text" name="signup[email]" class="form-control mimi-field mimi-required" id="email" placeholder="Email">
+              </div>
+              <div class="mb-3">
+                <input type="text" name="signup[name]" class="form-control mimi-field" id="name" placeholder="Name">
+              </div>
               <input type="hidden" name="form_id" value="10324" />
-              <input type="submit" value="Sign Up!" class="button mimi-submit" />
+              <input type="submit" value="Sign Up!" class="btn btn-primary text-end mimi-submit" />
               <span class="mimi-spinner"></span>
             </form>
           </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
         </div>
-        <button type="button" class="pum-close popmake-close" aria-label="Close"> X </button>
       </div>
     </div>
-    <div class="clear"></div>
   </div>
   {% include footer.html %}
-  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script id="mimi-main-js-extra">
     /* <![CDATA[ */
     var MadMimi = {
@@ -70,27 +64,6 @@ layout:
       "fix": "There was a problem. Please fill all required fields."
     };
     /* ]]> */
-  </script>
-  <script src="/js/mimi.min.js" id="mimi-main-js"></script>
-  <script>
-    var popup = document.getElementById('pum-5213');
-    const popupCookie = document.cookie
-      .split('; ')
-      .find(row => row.startsWith('pum-5213='));
-
-    if (!popupCookie) {
-      // Show popup.
-      popup.classList.add('show');
-    }
-
-    popup.addEventListener('click', function(e) {
-      if (e.target.classList.contains('pum-close')) {
-        // Hide popup and set cookie.
-        popup.classList.remove('show');
-        document.cookie = 'pum-5213=true';
-      }
-    }, false);
-
   </script>
 </body>
 </html>

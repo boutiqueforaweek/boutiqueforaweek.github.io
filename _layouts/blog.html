@@ -4,19 +4,21 @@
   {% include head.html %}
 </head>
 <body>
-<div id="page" class="blog">
+<div class="blog container mt-lg-5">
   {% include header.html %}
-  <div class="main_body">
-    <div id="col_left">
+  <div class="row g-0">
+    <div id="col_left" class="d-none d-lg-block col-lg-3 p-5">
       <h1>Blog</h1>
-      <img src="/img/col_left_events.png" alt="blog section" width="276" height="487" style="margin-top:40px" />
+      <img src="/img/col_left_events.png" alt="blog section" class="img-fluid mt-5" />
     </div>
-    <div id="col_right">
-      <h2>{{ page.title }}</h2>
-      {{ content }}
-    </div>
+    <div id="col_right" class="col-12 col-lg-9">
+      <div class="p-5">
+        <h2>{{ page.title }}</h2>
+        {{ content }}
+      </div>
     </div>
     <div class="clear"></div>
+  </div>
 </div>
 {% include footer.html %}
 </body>

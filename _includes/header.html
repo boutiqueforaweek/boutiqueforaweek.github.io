@@ -1,18 +1,47 @@
-{% assign current_page = page.url | split: '/' %}
-{% assign current_menu = current_page[1] %}
-{% if current_menu == 'events' %}
-{% assign current_menu = 'schedule' %}
-{% endif %}
-  <div id="header">
-    <div id="nav">
-      <div id="logo">
-        <a href="/" id="bfaw_logo">Home</a>
+{%- assign current_page = page.url | split: '/' -%}
+{%- assign current_menu = current_page[1] -%}
+{%- if current_menu == 'events' -%}
+{%- assign current_menu = 'schedule' -%}
+{%- endif -%}
+{%- assign consignor_menus = 'consignors,items_to_sell,pricing,drop_off_pick_up' | split: ',' -%}
+<div class="row">
+  <div class="col">
+    <nav class="navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <a class="navbar-brand logo" href="/">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto me-0 me-xxl-auto text-end">
+            {%- for item in site.data.menus.navigation %}
+            <li class="nav-item {{ item.identifier }}{% if item.identifier == current_menu %} active{% endif %}{% unless site.data.menus[item.identifier] == empty %} dropdown{% endunless %}">
+              <a class="nav-link{%- unless site.data.menus[item.identifier] == empty %} dropdown-toggle{%- endunless -%}"{%- unless site.data.menus[item.identifier] == empty %} data-bs-toggle="dropdown"{%- endunless %} href="{{ item.url }}">{{ item.title }}</a>
+              {% unless site.data.menus[item.identifier] == empty -%}
+              <ul class="dropdown-menu text-end{%- if current_menu == item.identifier %} show{%- endif -%}">
+              {%- if item.identifier == 'consignors' -%}
+              {%- for menu in consignor_menus -%}
+                {%- for subitem in site.data.menus[menu] %}
+                <li{% if subitem.identifier == current_menu %} class="active"{% endif %}>
+                  <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
+                </li>
+                {%- endfor -%}
+              {% endfor %}
+              {%- else -%}
+              {%- for subitem in site.data.menus[item.identifier] %}
+                <li{% if subitem.identifier == current_menu %} class="active"{% endif %}>
+                  <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
+                </li>
+              {%- endfor %}
+              {%- endif %}
+              </ul>
+              {%- endunless %}
+            </li>
+            {%- endfor %}
+          </ul>
+        </div>
       </div>
-      <ul>
-        {% for item in site.data.menus.navigation %}
-        <li class="{{ item.identifier }}{% if item.identifier == current_menu %} active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
+    </nav>
   </div>
-  <hr />
+</div>
