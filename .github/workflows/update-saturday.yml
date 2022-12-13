@@ -1,7 +1,7 @@
 name: Saturday Build
 on:
   schedule:
-    - cron: "0 16 29 4 *"
+    - cron: "0 16 1 4 *"
 jobs:
   jekyll:
     name: Jekyll build
