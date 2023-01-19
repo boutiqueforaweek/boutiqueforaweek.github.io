@@ -18,6 +18,4 @@ permalink: /consignors/items-accepted/items-we-cannot-accept/
 * Shoes that are not like new- if the shoes have scuffs, they are not like new.
 * Undergarments that are not like new.
 
-Boutique For A Week reserves the right to remove items that do not meet these standards and leave them unsorted at sale end.
-
 PLEASE be respectful of others and do not bring unacceptable items to consign. We strive to make this a wonderful selling and shopping experience for ALL!

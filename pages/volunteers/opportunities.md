@@ -14,7 +14,7 @@ Time slots are available in 4-hour shifts. By volunteering, you will get to shop
 ## How to Prepare for your Volunteer Slot
 
 * Due to the tasks that you may be doing and the amount of shoppers at any given time, we ask that you make other arrangements for your children during your volunteer shift.
-* If you are consigning and sign up to volunteer during Drop Off, please arrive 30 minutes before your shift begins to put out your items. We cannot count time spent on your own Drop Off as volunteer hours.
+* If you are consigning and sign up to volunteer during Drop Off, your drop off appointment cannot be during your volunteer shift. Send us an [email](mailto:{{ site.email }}) if you're having difficulties finding a drop off time outside of the volunteer shift.
 * Shifts should be scheduled around (and not during) your planned shopping times.
 * Plan to work your entire 4-hour shift.
 * Wear comfortable clothing but dress nicely since you represent Boutique For A Week!

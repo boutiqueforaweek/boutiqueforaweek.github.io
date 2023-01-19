@@ -5,6 +5,8 @@ permalink: /consignors/items-accepted/items-accepted-2/
 
 **You must verify that your items are not under recall. Items can be checked on this [website](https://www.cpsc.gov/Recalls). You will be required to sign a waiver at check in accepting liability of the items that you bring, stating you have ensured none of your items are recalled, and verifying that all your items meet safety standards.**
 
+**All clothing must be stain free. All items must be gently used and in good working condition.**
+
 **Please note that items with a specified limit will be counted at Drop Off.**
 
 * Maximum of 200 clothing items.
@@ -28,21 +30,26 @@ permalink: /consignors/items-accepted/items-accepted-2/
 * Outdoor play equipment including Little Tikes and Step 2\. Equipment MUST be clean and in good condition!
 * Parenting and children's books.
 * Kids DVDs, CDs, and CD-ROMs.
+* Video game systems and games
 * Scooters and perfect condition bikes - absolutely NO rust.
 * Car seats which meet the following criteria:
-* Your car seat has NOT been in an automobile accident (with or without child sitting in it).
-* Your car seat contains its identification label with date of manufacture, model name and/or number.
-* Your car seat is less than four years old.
-* Your car seat has all parts including (if applicable) harness straps, harness clip, seat cover, padding, shield, tether, and bolts.
-* The straps are not worn or frayed.
-* No buckle or metal part shows signs of rust.
-* There are no cracks, bends, or breaks in the plastic shell.
-* Your car seat locking mechanism locks securely and remains locked.
-* Your car seat has a label showing it meets all Federal Motor Vehicle Safety Standards.
-* Your car seat has never been broken or fixed in any way except to retrofit for safety recalls if applicable. You have checked for [safety recalls](https://www.nhtsa.gov/recalls#car-seats) and have made any necessary safety retrofits required to meet Motor Vehicle Safety Standards.
-* You have included the instructional manual (copy may be printed easily from most manufacturer websites).
-* You are the original owner.
+    * Your car seat has NOT been in an automobile accident (with or without child sitting in it).
+    * Your car seat contains its identification label with date of manufacture, model name and/or number.
+    * Your car seat is less than four years old.
+    * Your car seat has all parts including (if applicable) harness straps, harness clip, seat cover, padding, shield, tether, and bolts.
+    * The straps are not worn or frayed.
+    * No buckle or metal part shows signs of rust.
+    * There are no cracks, bends, or breaks in the plastic shell.
+    * Your car seat locking mechanism locks securely and remains locked.
+    * Your car seat has a label showing it meets all Federal Motor Vehicle Safety Standards.
+    * Your car seat has never been broken or fixed in any way except to retrofit for safety recalls if applicable. You have checked for [safety recalls](https://www.nhtsa.gov/recalls#car-seats) and have made any necessary safety retrofits required to meet Motor Vehicle Safety Standards.
+    * You have included the instructional manual (copy may be printed easily from most manufacturer websites).
+    * You are the original owner.
+
+Boutique For A Week reserves the right to remove items that do not meet these standards and leave them unsorted at sale end.
 
 _Spring and Summer clothing may be consigned at all of our sales (cowboy items are accepted all year)._
 
 _Fall and Winter clothing may be consigned only in our Fall Sale: winter coats, winter sweaters, corduroys, winter boots, turtlenecks, black patent shoes, velvet, flannel, fleece, thermal, wool, sweatshirts/sweatpants, Christmas items, footed pj's and similar items that are clearly intended for cold weather._
+
+_All of the items at our sale get handled frequently. Please note that fragile or easily breakable could possibly become damaged during our sale. As a reminder, we are not responsible for any damaged items._
