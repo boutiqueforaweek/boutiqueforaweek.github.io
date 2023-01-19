@@ -18,7 +18,7 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - uses:  lemonarc/jekyll-action@1.0.0
+      - uses:  lemonarc/jekyll-action@v2
       - name: HTMLProofer
         uses: chabad360/htmlproofer@v1.1
         with:
