@@ -18,7 +18,8 @@ permalink: /events/
 
 **White Tag Consignors**: 1:00 p.m. - 8:00 p.m.  
 **Consignors**: 2:00 p.m. - 8:00 p.m.  
-**New/Expecting Moms**: 4:00 p.m. - 8:00 p.m.
+**New/Expecting Moms**: 4:00 p.m. - 8:00 p.m.  
+**Friends of Consignors**: 6:00 p.m. - 8:00 p.m.
 
 ## {{ site.schedule.sale_start | ordinal }}
 
