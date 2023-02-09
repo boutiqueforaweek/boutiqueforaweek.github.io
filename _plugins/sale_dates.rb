@@ -40,6 +40,7 @@ module Jekyll
         'year' => @year,
         'season_year' => "#{@season} #{@year}",
         'sale_dates' => "#{@sale_start.strftime('%B %-d')}#{ordinal(@sale_start.strftime('%-d'))} through #{@sale_end.strftime('%B %-d')}#{ordinal(@sale_end.strftime('%-d'))}",
+        'vol_presale' => "#{@dropoff.strftime('%B %-d')}#{ordinal(@dropoff.strftime('%-d'))}",
         'presale' => "#{@presale.strftime('%B %-d')}#{ordinal(@presale.strftime('%-d'))}",
         'moms_night' => "#{@sale_start.strftime('%B %-d')}#{ordinal(@sale_start.strftime('%-d'))} from 8:00 p.m. until 10:00 p.m.",
         'discount_shopping' => "#{@sale_end.strftime('%B %-d')}#{ordinal(@sale_end.strftime('%-d'))} from 2:00 p.m. until 8:00 p.m.",
