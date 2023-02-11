@@ -91,4 +91,16 @@
         document.cookie = 'newsletter=true';
       });
   }
+
+  // Disable menu dropdown for desktop.
+  if (window.matchMedia('(min-width: 992px)').matches) {
+    Array.from(document.getElementsByClassName('nav-link'))
+      //.map(el => el.parentElement.classList.remove('dropdown'));
+      .map(el => {
+        el.removeAttribute('data-bs-toggle');
+        el.parentElement.classList.remove('active');
+        el.nextElementSibling.classList.remove('show');
+        //console.log(el.parentElement.children('ul'));
+      });
+  }
 </script>
