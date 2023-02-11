@@ -12,19 +12,10 @@ layout:
 <body>
   <div class="container mt-md-5">
     {% include header.html %}
-    <div id="home" class="row">
+    <div id="home" class="row g-0">
       <div class="col">
-        <div id="home_bg">
-          <div id="welcome_bg">
-            <div class="text-wrapper-outer">
-              <div class="text-wrapper">
-                <div class="text">
-                  {{ site.data.sale[site.sale_stage].home | markdownify }}
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        <h1>Nearly New has Never Been Better!</h1>
+        {{ site.data.sale[site.sale_stage].home | markdownify }}
       </div>
     </div>
     <div id="newsletter-signup" class="modal fade" data-bs-backdrop="static" tabindex="-1" aria-hidden="true">

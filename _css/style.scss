@@ -252,6 +252,35 @@ a img {
   border: none;
 }
 
+#home {
+  background-image: url(../img/img-noise-30x30.png);
+  background-position: top center;
+  background-repeat: repeat;
+  min-height: 620px;
+
+  h1 {
+    background: none;
+  }
+
+  p {
+    font-size: 20px;
+    line-height: 1.25;
+    padding: 0 0 10px;
+  }
+
+  .col {
+    background: url('../img/bfaw-girl.png') no-repeat right 40px top 40px;
+    padding: 40px 300px 40px 40px;
+  }
+
+  @include media-breakpoint-up(lg) {
+    .col {
+      background-position: right 40px center;
+      padding-top: 250px;
+    }
+  }
+}
+
 #footer {
   .sign {
     background: #faf8e8 url(../img/bow.png) no-repeat right bottom;
@@ -305,79 +334,5 @@ a img {
 
   p {
     color: #333;
-  }
-}
-
-#home_bg {
-  background-image: url(../img/img-noise-30x30.png);
-  background-position: top center;
-  background-repeat: repeat;
-}
-
-#welcome_bg {
-  background: url('../img/welcome.png') no-repeat center 75px;
-  min-height: 620px;
-}
-
-.text-wrapper-outer {
-  width: 720px;
-  height: 226px;
-  position: relative;
-  padding: 300px 0 0 250px;
-}
-
-.text-wrapper {
-  width: 100%;
-  height: 100%;
-  position: relative;
-  margin: 0;
-  color: white;
-
-  p {
-    height: 100%;
-    font-size: 20px;
-    line-height: 1.25;
-    padding: 0 0 10px;
-  }
-
-  &::before {
-    content: "";
-    width: 50%;
-    height: 100%;
-    float: left;
-    shape-outside: polygon(
-      0 0,
-      0.8% 61px,
-      1.6% 36.09%,
-      4.2% 46.95%,
-      10.40% 59.59%,
-      44px 70.79%,
-      27.2% 81.08%,
-      42.2% 91.11%,
-      64.8% 97.98%,
-      98% 100%,
-      0px 100%
-    );
-    shape-margin: 20px;
-  }
-
-  .text::before {
-    content: "";
-    width: 50%;
-    height: 225px;
-    float: right;
-    shape-outside: polygon(
-      248px -1px,
-      92.8% 41px,
-      84.80% 36.97%,
-      73% 53.59%,
-      58.8% 68%,
-      105px 80.52%,
-      25.6% 90.81%,
-      9.4% 95.98%,
-      -5.2% 98.86%,
-      249px 100%
-    );
-    shape-margin: 20px;
   }
 }
