@@ -279,6 +279,13 @@ a img {
       padding-top: 250px;
     }
   }
+
+  @include media-breakpoint-down(sm) {
+    .col {
+      background-size: 150px;
+      padding-right: 150px;
+    }
+  }
 }
 
 #footer {
