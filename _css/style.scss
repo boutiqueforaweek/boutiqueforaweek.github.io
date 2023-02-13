@@ -269,7 +269,10 @@ a img {
   background-image: url(../img/img-noise-30x30.png);
   background-position: top center;
   background-repeat: repeat;
-  min-height: 620px;
+
+  @include media-breakpoint-up(md) {
+    min-height: 500px;
+  }
 
   h1 {
     background: none;
