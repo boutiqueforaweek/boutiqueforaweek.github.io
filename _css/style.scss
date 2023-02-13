@@ -19,15 +19,15 @@ h1 {
   background: url("/img/hr.png") no-repeat 0 44px;
   color: #b62041;
   font-family: "SignPainter";
-  font-size: 55px;
+  font-size: 40px;
   font-weight: 100;
+  line-height: 55px;
   margin-bottom: 10px;
 }
 
-@include media-breakpoint-down(sm) {
+@include media-breakpoint-up(sm) {
   h1 {
-    font-size: 40px;
-    line-height: 55px;
+    font-size: 55px;
   }
 }
 
@@ -228,12 +228,20 @@ a {
       margin-bottom: 8px;
     }
   }
+
+  > div {
+    padding: 1.5rem;
+  }
 }
 
 @include media-breakpoint-up(lg) {
   #col_right {
     background: rgb(217,215,189);
     background: linear-gradient(90deg, rgba(217,215,189,1) 1%, rgba(250,248,232,1) 4%);
+
+    > div {
+      padding: 3rem;
+    }
   }
 }
 
