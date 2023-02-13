@@ -202,9 +202,7 @@ a {
 }
 
 #col_right {
-  > div {
-    background: rgba(250,248,232,1);
-  }
+  background: rgba(250,248,232,1);
 
   p {
     padding-bottom: 24px;
@@ -226,7 +224,7 @@ a {
 }
 
 @include media-breakpoint-up(lg) {
-  #col_right > div {
+  #col_right {
     background: rgb(217,215,189);
     background: linear-gradient(90deg, rgba(217,215,189,1) 1%, rgba(250,248,232,1) 4%);
   }
