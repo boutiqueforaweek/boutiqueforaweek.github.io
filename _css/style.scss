@@ -24,6 +24,13 @@ h1 {
   margin-bottom: 10px;
 }
 
+@include media-breakpoint-down(sm) {
+  h1 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+}
+
 * {
   margin: 0px;
   padding: 0px;
