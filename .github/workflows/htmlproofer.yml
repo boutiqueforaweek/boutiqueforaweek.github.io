@@ -31,4 +31,4 @@ jobs:
         uses: chabad360/htmlproofer@master
         with:
           directory: "./_site"
-          arguments: "--allow-hash-href --ignore-status-codes 999 --ignore-urls 'https://www.barnesandnobleinc.com/our-stores-communities/summer-reading-program/, https://aidinternationalinc.org/'"
+          arguments: "--allow-hash-href --ignore-status-codes 429,999 --ignore-urls 'https://www.barnesandnobleinc.com/our-stores-communities/summer-reading-program/, https://aidinternationalinc.org/'"
