@@ -1,5 +1,5 @@
 ---
-title: "Fall 2016 Vendor Vist"
+title: "Fall 2016 Vendor Visit"
 ---
 
 We love our Vendors and want you to see all the great products they offer! To motivate you to spend some of your shopping time with them, we've created a game.

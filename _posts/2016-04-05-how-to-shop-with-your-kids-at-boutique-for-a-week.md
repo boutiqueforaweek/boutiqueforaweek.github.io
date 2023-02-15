@@ -18,7 +18,7 @@ As a mom of young children, I know going to the grocery store alone seems like a
 
 **5\. A full tummy.** Clearly don't bring the kids half an hour before lunch. Rather, plan to shop at their best time of day. Consider bringing snacks to help their hunger if you end up staying longer than planned. If you forget or run out of food, Boutique For A Week often has snacks provided by sponsors, so ask a volunteer or look at our checkout tables.
 
-**6\. Sleepy shoppers.** If your child is a stroller or baby carrier sleeper, consider shopping during naptime. Of course, have a plan B in case your child refuses to sleep, but this may work well for shoppers with infants who are good on-the-go sleepers.
+**6\. Sleepy shoppers.** If your child is a stroller or baby carrier sleeper, consider shopping during nap time. Of course, have a plan B in case your child refuses to sleep, but this may work well for shoppers with infants who are good on-the-go sleepers.
 
 **7\. Partner up.** Consider joining forces with another mom (or a non-mom -- [they will learn to love these sales, too]({% post_url 2016-04-02-you-dont-have-to-be-a-mom-to-shop %})) who can lend an extra pair of hands if a child is having a hard time. It's more fun to shop with friends, anyways!
 

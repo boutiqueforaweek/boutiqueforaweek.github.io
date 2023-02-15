@@ -20,7 +20,7 @@ If you are a first-time Consignor (or just need a reminder) you may be wondering
 
 5\. Look for out of season, stained, or damaged items. These items will not be sorted. 
 
-6\. Pick up your earning's check!
+6\. Pick up your earnings check!
 
 **Please bring something to assist you in collecting your items (for example: a cardboard box, wagon, stroller, or husband).**
 

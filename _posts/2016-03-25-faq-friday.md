@@ -4,7 +4,7 @@ title: "FAQ Friday"
 
 ![](/img/blog/FAQ_Fridays-cheap.png) 
 
-Consignors set their own prices at Boutique For A Week. Consistently, these prices are low, sometimes even shockingly low. Why would someone ask just $3 for a Boppy and cover, only 20 percent the retail price for a outdoor playset, or $15 for a $60 baby rocker?
+Consignors set their own prices at Boutique For A Week. Consistently, these prices are low, sometimes even shockingly low. Why would someone ask just $3 for a Boppy and cover, only 20 percent the retail price for a outdoor play set, or $15 for a $60 baby rocker?
 
 After years of discussions with Consignors about their strategies, here are some of the most common reasons given:
 

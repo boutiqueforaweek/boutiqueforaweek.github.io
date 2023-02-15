@@ -4,7 +4,7 @@ title: "FAQ Friday"
 
 We have changed our Pick Up procedures!
 
-**We can no longer guarantee a complete sort at the end of our sale.** (It's still our goal though!) Make sure you're prepared for the time commitment and responsibility of finding your unsold items. Plan to spend at least 20 minutes at Pick Up. For more specific details about our new procedures and why they changed, please read our [Pick Up webpage]({% link pages/consignors/picking-up.md %}).
+**We can no longer guarantee a complete sort at the end of our sale.** (It's still our goal though!) Make sure you're prepared for the time commitment and responsibility of finding your unsold items. Plan to spend at least 20 minutes at Pick Up. For more specific details about our new procedures and why they changed, please read our [Pick Up directions]({% link pages/consignors/picking-up.md %}).
 
 This sale, more than ever, Consignors are wondering:
 
@@ -16,7 +16,7 @@ If you decide you want to donate your items and skip Pick Up, please [email us]
 
 Please follow this procedure when you arrive to Pick Up:
 
-* Check in. You will receive your Consignor earning's check. (If you do not come to Pick Up, your check will be mailed.)
+* Check in. You will receive your Consignor earnings check. (If you do not come to Pick Up, your check will be mailed.)
 * Be assigned a Volunteer to assist you.
 * Gather your items from the sales floor.
 * Go to the check out table

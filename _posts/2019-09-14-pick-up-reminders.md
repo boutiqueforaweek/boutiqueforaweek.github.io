@@ -7,7 +7,7 @@ Please review our Pick Up procedures so tomorrow runs smoothly. **We do not guar
 * Be assigned a Volunteer to assist you.
 * Gather your items from the sales floor.
 * Get your items verified.
-* Check out and receive your Consignor earning's check. (If you do not come to Pick Up, your check will be mailed.)
+* Check out and receive your Consignor earnings check. (If you do not come to Pick Up, your check will be mailed.)
 * Leave!
 
 **Please bring something to assist you in collecting your items (for example: a cardboard box, wagon, stroller, or husband).** If you want to print a list of your unsold inventory, you now can! First, log in:

@@ -12,4 +12,4 @@ Mommy + Daddy leave the house and head to the hospital. A few days later, Mommy 
 
 Check in for the next two posts, which include what you need for [sleeping, feeding]({% post_url 2012-08-07-getting-your-baby-to-sleep-and-eat %}) and [dressing your little ones]({% post_url 2012-08-10-outfitting-your-baby %})!
 
-And don't forget, Boutique For A Week offers PreSale Shopping to New Moms (baby under 1), Expecting Moms, Adopting and Foster Moms! [Register online now]({% link pages/register.md %}) so that you can shop before we open to the public.
+And don't forget, Boutique For A Week offers Pre-Sale Shopping to New Moms (baby under 1), Expecting Moms, Adopting and Foster Moms! [Register online now]({% link pages/register.md %}) so that you can shop before we open to the public.

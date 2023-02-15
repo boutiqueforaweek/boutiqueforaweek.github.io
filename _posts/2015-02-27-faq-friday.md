@@ -6,7 +6,7 @@ title: "FAQ Friday"
 
 First of all, thank you for volunteering! Whether this your first or tenth volunteer shift, we really appreciate you giving us your time. Our sale cannot function without your help!
 
-We expect a lot out of our Folunteers and are rarely disappointed! As a Volunteer, we want you to take initiative. If you see a Shopper in need of a new basket or an area of toys that is messy, we want you to be ready to fix those problems without being told.
+We expect a lot out of our Volunteers and are rarely disappointed! As a Volunteer, we want you to take initiative. If you see a Shopper in need of a new basket or an area of toys that is messy, we want you to be ready to fix those problems without being told.
 
 We expect our Volunteers to be glad to be working their shifts and to share that happy attitude with our shoppers! You need to be willing to help in customer service type ways like passing out shopping baskets, carrying large items to the holding area, and helping to bring purchases out to cars.
 

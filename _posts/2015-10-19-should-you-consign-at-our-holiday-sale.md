@@ -10,6 +10,6 @@ With our (first ever!) holiday sale fast approaching, we want to encourage you t
 * If you consigned with us previously, you don't have to re-enter your tag information. Just activate your unsold inventory from previous sales. This saves you time while minimizing effort.
 * If you have not consigned with us in the past (or it's been a long time), this [page]({% link pages/consignors/index.md %}) can help ease you into the selling process. It's a great time to start!
 * Consignors get to shop before we open to the Public!
-* The shorter sale week means quicker turnaround to shopping and getting your earning's check. Plus this sale's fee to consign is only $8!
+* The shorter sale week means quicker turnaround to shopping and getting your earnings check. Plus this sale's fee to consign is only $8!
 
 We hope you will consider joining us as a Consignor for this sale. The time and effort are well worth the benefits it provides. Start the registration process [here]({% link pages/register.md %})!

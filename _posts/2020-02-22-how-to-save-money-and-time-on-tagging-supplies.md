@@ -13,6 +13,6 @@ Another great place to find deals is a dollar store. Check for zip ties, packing
 
 Your clothing items will need hangers. You can often find them for free with just a phone call! Try calling a few local dry cleaners. In the past, Consignors have donated bags of hangers to us because the dry cleaner provided more than they needed. Old Navy stores also are a great resource as they typically throw their hangers away every night. Don't forget to ask your family and friends if they have extra hangers, too.
 
-Target and Walmart both sell many tagging items at reasonable prices. If you have trouble finding hangers for your 4T and smaller sized clothes, both stores sell 10-packs of child-sized hangers for around a dollar. Don’t forget to check the dollar section at Target as well. They’ve sold packs of 60 zipties in the past.
+Target and Walmart both sell many tagging items at reasonable prices. If you have trouble finding hangers for your 4T and smaller sized clothes, both stores sell 10-packs of child-sized hangers for around a dollar. Don’t forget to check the dollar section at Target as well. They’ve sold packs of 60 zip ties in the past.
 
 Finally, consider purchasing a tagging gun instead of using [safety pins](https://amzn.to/2fz35bZ). Amazon's best seller (and well reviewed) [tagging gun](https://amzn.to/2vfut29) is only $14! It may take a few sales for this item to save you the money you would have spent on safety pins, but it will save you so much time! It really makes a huge difference.

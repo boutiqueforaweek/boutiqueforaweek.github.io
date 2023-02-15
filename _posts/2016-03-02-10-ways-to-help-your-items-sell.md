@@ -16,7 +16,7 @@ When you work hard to gather, price and deliver your items, it's important that 
 
 **3\. Get it Clean.** Wash clothes, wipe down toys, scrub shoes- get those items clean and in pristine condition! Giving your items a "bath" will make them presentable, desirable, and sell-able!
 
-**4\. Hang it Up.** Boutique For A Week requires clothing to be on hangers. Although a few items such as tights are sold in large bins, I have found that items tend to sell better when hanging. Whenever possible choose to hang, even if you have the option to put something in a ziploc bag and sell it from a bin.
+**4\. Hang it Up.** Boutique For A Week requires clothing to be on hangers. Although a few items such as tights are sold in large bins, I have found that items tend to sell better when hanging. Whenever possible choose to hang, even if you have the option to put something in a Ziploc bag and sell it from a bin.
 
 **5\. Battery Check.** Any toys that require batteries should be checked prior to drop-off. Invest in new batteries if needed, and your toy will be much more likely to sell. Who wants to risk purchasing a toy that may or may not work? Remember at Boutique For A Week, shoppers can request batteries be put in non-working toys to make sure that they work. Consignors are charged $1 per battery against their earnings.
 
@@ -24,7 +24,7 @@ When you work hard to gather, price and deliver your items, it's important that 
 
 **7\. Print Tags in Groups.** I choose to print tags in sets of 10. This system works for me because I can tackle a small pile of items in a short amount of time. It also prevents me from having a stack of tags and searching for that one particular shirt... a never-ending matching game that drives me crazy! Printing in small numbers allows me to price, tag and store items without getting overwhelmed. Boutique For A Week has a helpful article about [preparing your merchandise]({% link pages/consignors/preparing-merchandise.md %}) as well as a [recent blog post]({% post_url 2016-02-15-how-to-organize-clothes-to-simplify-tagging %}) specifically about tagging clothes.
 
-**8\. Tag With Items You Have.** If you have a lot of zipties, use those to secure your tags to your items. If you have a surplus of safety pins, use them! Tagging doesn't have to be costly- use items you have in your home. I'd recommend Boutique For A Week's [video series on tagging]({% link pages/consignors/attaching-tags.md %}) for tips and tricks.
+**8\. Tag With Items You Have.** If you have a lot of zip ties, use those to secure your tags to your items. If you have a surplus of safety pins, use them! Tagging doesn't have to be costly- use items you have in your home. I'd recommend Boutique For A Week's [video series on tagging]({% link pages/consignors/attaching-tags.md %}) for tips and tricks.
 
 **9\. Keep it Organized.** As you tag items and they're ready to be sold, organize them to make Drop Off more efficient. I recommend grouping clothing by gender, then by size. Toys and books should be grouped by age. At Drop Off, it's essential to put your items in the best location to sell (the volunteers are great to help direct you!) because if you put your girl clothes in the boy swimsuit section, they're not likely to sell there!
 
