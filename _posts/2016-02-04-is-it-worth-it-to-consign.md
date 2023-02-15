@@ -19,6 +19,6 @@ As we cleaned toys, checked batteries, and tagged clothes late into the night, s
 
 The end of the story? Well, each day a Consignor can check her earnings on the Boutique For A Week website. By the time the Pre-Sale was over, my sister-in-law had made hundreds of dollars. Her “hourly wage” for work put in compared to money received was so high she was already planning what she could consign the next sale. She was hooked. And after you give it a try, you probably will be too.
 
-There are other great benefits to consigning, beyond the money you earn. You can shop early, de-clutter your house, and even donate your unsold items at sale end. As a repeat Consignor, these are the reasons that keep me happily selling at every sale.
+There are other great benefits to consigning, beyond the money you earn. You can shop early, declutter your house, and even donate your unsold items at sale end. As a repeat Consignor, these are the reasons that keep me happily selling at every sale.
 
 If you’re uncertain, let me encourage you to go for it! Whether you start big or small, the Boutique For A Week website has tons of information to guide you through the entire process including how-to information on [pricing your items to sell]({% link pages/consignors/pricing-recommendations.md %}), [preparing your merchandise]({% link pages/consignors/preparing-merchandise.md %}), and [tagging]({% link pages/consignors/attaching-tags.md %}). I hope you’ll take the chance.

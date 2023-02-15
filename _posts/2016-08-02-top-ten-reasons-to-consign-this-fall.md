@@ -11,7 +11,7 @@ _Today on the blog, Amy from_ [_Gabriel's Good Tidings_](https://gabrielsgoodtid
 
 Who doesn't like a little extra cash in their wallet? One fall sale, the money I earned from consigning at Boutique For A Week allowed me to meet my goal to have my kitchen cabinets painted. In past sales, I've been able to pay cash for Christmas gifts or put several hundred dollars back into our savings fund.
 
-2\. De-clutter your home.
+2\. Declutter your home.
 =========================
 
 I'm constantly purging and re-organizing our closets, drawers, and storage solutions. Boutique For A Week is the twice a year motivation I need to ruthlessly go through my home and purge items that are no longer working for our family. A clutter-free home makes for a very happy me.
@@ -49,7 +49,7 @@ Boutique For A Week [donates]({% link pages/consignors/donating-unsold-items.md 
 9\. Make friends.
 =================
 
-Through consigning at Boutique For A Week, I meet other women via the [Facebook page](https://www.facebook.com/BoutiqueForAWeek/?fref=ts) and at the sale who are like-minded. They may have children of different ages and be in a different stage of life, but we share a bond of de-cluttering our home, recycling items to a new home, and earning a profit from our children's gently used items.
+Through consigning at Boutique For A Week, I meet other women via the [Facebook page](https://www.facebook.com/BoutiqueForAWeek/?fref=ts) and at the sale who are like-minded. They may have children of different ages and be in a different stage of life, but we share a bond of decluttering our home, recycling items to a new home, and earning a profit from our children's gently used items.
 
 10\. It's fun.
 ==============

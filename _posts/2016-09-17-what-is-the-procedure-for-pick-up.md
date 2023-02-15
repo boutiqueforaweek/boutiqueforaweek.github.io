@@ -10,7 +10,7 @@ Your (hopefully few) unsold items are ready for Pick Up today (September 17th) f
 
 Please follow this procedure when you arrive to Pick Up:
 
-* Check in. You will receive your Consignor earning's check. (If you do not come to Pick Up, your check will be mailed.)
+* Check in. You will receive your Consignor earnings check. (If you do not come to Pick Up, your check will be mailed.)
 * Be assigned a Volunteer to assist you.
 * Gather your items from the sales floor.
 * Get your items verified.

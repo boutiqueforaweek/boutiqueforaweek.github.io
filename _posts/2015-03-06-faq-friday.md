@@ -30,4 +30,4 @@ It may be helpful to you to have a printed inventory report. Log in to your Cons
 
 If you decide you want to donate your items and skip Pick Up, please [email us](mailto:{{ site.email }}) now so we save the time of sorting your items.
 
-Earning's checks should be available to all Consignors at Pick Up, and will be mailed Monday for any Consignor who does not pick up on Saturday.
+Earnings checks should be available to all Consignors at Pick Up, and will be mailed Monday for any Consignor who does not pick up on Saturday.

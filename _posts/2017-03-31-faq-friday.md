@@ -12,7 +12,7 @@ Competition motivates sellers to price low since the sale often has multiple cho
 
 Sometimes the items are sold to offset the money spent at the sale. It's not important to sell each item for the maximum possible, just to sell enough items that the earnings add up to a decent amount.
 
-Other times, the seller intends to donate her merchandise after the sale. These are things she is willing to give away for free. De-cluttering her house is the real bonus of consigning, so making money is secondary.
+Other times, the seller intends to donate her merchandise after the sale. These are things she is willing to give away for free. Decluttering her house is the real bonus of consigning, so making money is secondary.
 
 Occasionally, Consignors do not realize the value of what they offer. Or maybe the expensive item was a gift, and it's not important to try to recoup much of what was spent on it.
 
