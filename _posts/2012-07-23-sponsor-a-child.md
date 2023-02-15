@@ -12,7 +12,7 @@ In fact, it’s as easy as 1, 2, 3!
 
 1. Fill out this [form](https://docs.google.com/spreadsheet/viewform?formkey=dGV3TkcyeWRpYmp6TWZIZmNiMzFYRUE6MQ).
 
-2. Purchase the required items. Example – 2 or 3 outifts, 1 pair of shoes, 1 book & 1 toy for the age range of your child.
+2. Purchase the required items. Example – 2 or 3 outfits, 1 pair of shoes, 1 book & 1 toy for the age range of your child.
 
 3. Shop early!!
 
