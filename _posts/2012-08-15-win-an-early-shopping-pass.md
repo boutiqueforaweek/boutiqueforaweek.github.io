@@ -24,4 +24,4 @@ Its my favorite time of the year, right before sale time. Why is it my favorite?
 
 Enter now for your chance to shop before we open to the public!
 
-_To validate your entry, you must comment on this blog post with which options you choose to enter. You can post all your entries in one comment, for instance, "Kelly…tagged facebook photo, tweeted and commented on "Support Your Cause" blog post". This post, once verified would earn you 3 entries. Contest runs from Wednesday, August 15th at 9:00pm until Monday, August 20th at 11:59pm._
+_To validate your entry, you must comment on this blog post with which options you choose to enter. You can post all your entries in one comment, for instance, "Kelly…tagged Facebook photo, tweeted and commented on "Support Your Cause" blog post". This post, once verified would earn you 3 entries. Contest runs from Wednesday, August 15th at 9:00pm until Monday, August 20th at 11:59pm._

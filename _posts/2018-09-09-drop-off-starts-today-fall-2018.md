@@ -2,7 +2,7 @@
 title: "Drop Off Starts Today"
 ---
 
-Drop Off starts today for our 10th Annoversary Fall Sale! We are so excited to see all our Consignors again (or for the first time).
+Drop Off starts today for our 10th Anniversary Fall Sale! We are so excited to see all our Consignors again (or for the first time).
 
 Before you drop off your items (Sunday, Monday, or Wednesday for Restocking Consignors), it is helpful to review our procedures. Our recent changes continue. Below are some things we want to highlight, but please visit our [Drop Off page]({% link pages/consignors/dropping-off.md %}) for more details.
 

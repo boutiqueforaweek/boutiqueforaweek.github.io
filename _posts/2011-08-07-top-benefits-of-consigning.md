@@ -12,7 +12,7 @@ I also love the idea that at the end of the sale, any items I have left can be d
 
 * Earn extra cash
 * Donate to the Community
-* De-Clutter my house
+* Declutter my house
 * Get the kids ‘new to them’ clothes, toys, books, DVD's and more
 
 What’s not to like about that?
