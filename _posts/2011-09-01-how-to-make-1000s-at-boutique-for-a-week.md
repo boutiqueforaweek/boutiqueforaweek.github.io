@@ -14,7 +14,7 @@ A: When I started consigning I had approximately 300 items and I have increased 
 
 Q: What would you say is your ‘best seller’?
 
-A: I almost always sell 100% of my toys. This is followed closely by those essential baby items – baby monitors, crib bedding, bathtubs, bumbos, strollers, swings, high chairs, etc. as there are so many expecting moms that register to shop early. In the clothing category, boys clothes and trendy teenager clothes seem to sell really well.
+A: I almost always sell 100% of my toys. This is followed closely by those essential baby items – baby monitors, crib bedding, bathtubs, Bumbos, strollers, swings, high chairs, etc. as there are so many expecting moms that register to shop early. In the clothing category, boys clothes and trendy teenager clothes seem to sell really well.
 
 Q: What is the average price of your clothing items?
 

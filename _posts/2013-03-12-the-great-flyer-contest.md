@@ -26,4 +26,4 @@ No, this isn’t too good to be true. And yes, it really is that easy. You will 
 
 All set? Sweet! On your mark….get set…._go!_
 
-_Jennifer Fountain writes at_ [https://www.facebook.com/growinguptriplets/](https://www.facebook.com/growinguptriplets/) _and loves to shop and sell at Boutique for a Week!_
+_[Jennifer Fountain writes](https://www.facebook.com/growinguptriplets/) and loves to shop and sell at Boutique for a Week!_
