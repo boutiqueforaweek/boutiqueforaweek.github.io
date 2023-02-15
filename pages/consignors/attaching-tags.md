@@ -11,13 +11,17 @@ _Consignors: if you are using a Mac product to enter and print your tags, please
 
 You don't need a lot of supplies to get started with tagging your items: safety pins, zip ties, hole punch, etc. Here is a short video that shows you all the supplies you will need to get started tagging your items!
 
-<iframe src="https://www.youtube.com/embed/YBSnBjYMWm4" width="560" height="315" allowfullscreen="allowfullscreen"></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/YBSnBjYMWm4?rel=0" allowfullscreen></iframe>
+</div>
 
 ## **Attaching Tags to Clothing Items**
 
 The first step to tagging your clothing items is to make sure they are hung correctly. This video shows how to hang and tag shirts, but the same process applies to dresses, blouses, sweaters and jackets.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V0egNgaPlqA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/V0egNgaPlqA?rel=0" allowfullscreen></iframe>
+</div>
 
 * Cable ties work best for almost all clothing items and some miscellaneous items like Snuglis and diaper bags. You may also use safety pins, or curly ribbon. As long as your items can not become separated from your clothing or tags.
 * Punch a hole in each tag, slip the cable tie through the hole and loop it through the garment label, button hole, belt loop, etc.
@@ -30,13 +34,17 @@ The first step to tagging your clothing items is to make sure they are hung corr
 
 For clothing sets, be sure to include the number of pieces in the description on your tag. Also, be sure to secure each piece together. This video will show you how.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GEK-1FiPY00" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/GEK-1FiPY00?rel=0" allowfullscreen></iframe>
+</div>
 
 ## **Attaching Tags to Shoes and Accessories**
 
 This video will show you how to tag shoes, accessories, and tagless items of clothing.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUxYlnoshxQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/ZUxYlnoshxQ?rel=0" allowfullscreen></iframe>
+</div>
 
 * Shoes should be secured together with extra-long (7" or longer) cable ties.
 * Insert a second extra-long cable tie through the first to extend the hanging length of the pair of shoes for ease of display at the sale.
@@ -48,7 +56,9 @@ This video will show you how to tag shoes, accessories, and tagless items of clo
 
 Toys can be some of the easiest items to tag! This video will show you how to tag toys as well as other non-clothing items.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VOLZrSq3Lio" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/VOLZrSq3Lio?rel=0" allowfullscreen></iframe>
+</div>
 
 * Packing tape is ideal for many toy items.
 * Blue painters tape is ideal for books, homeschool materials and other printed media.
