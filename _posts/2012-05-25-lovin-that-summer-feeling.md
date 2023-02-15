@@ -1,5 +1,5 @@
 ---
-title: "Lovin that Summer Feeling?"
+title: "Lovin' that Summer Feeling?"
 ---
 
 ![movie theater popcorn](/img/blog/popcorn.jpg)Summer is officially here! Whether you're excited or a little hesitant to have your kids at home all day there are many summer activities that you can do with your children.

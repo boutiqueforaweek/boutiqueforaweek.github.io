@@ -2,7 +2,7 @@
 title: "Update on Us! Part 1"
 ---
 
-**\[singlepic id=494 w=320 h=240 float=left\]** **_This year has brought many new and exciting changes for the families of Boutique For A Week. We thought we’d humor you with our crazy lives this January. This first post is about a long awaited adoption for Kelly and her family._**
+**_This year has brought many new and exciting changes for the families of Boutique For A Week. We thought we’d humor you with our crazy lives this January. This first post is about a long awaited adoption for Kelly and her family._**
 
 **January 2nd came with a new addition to my family. David and I embarked on the journey to adopt a son over a year and a half ago. We had decided to pursue a domestic adoption which also meant that most likely we would be adopting an infant. A small, 7-8 pound little baby boy.**
 

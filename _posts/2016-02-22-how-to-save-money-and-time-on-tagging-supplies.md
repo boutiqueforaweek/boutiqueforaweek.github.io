@@ -8,7 +8,7 @@ We want to help you maximize the money you make selling at Boutique For A Week. 
 
 So how can you get cheap and easy tagging supplies? The best way to ensure that is to buy the right things from the right places.
 
-For instance, it may seem like JoAnn Fabric or Michael’s is the place to go for cardstock, but that is not the case! JoAnn’s sells by the sheet at a sale price of 16 cents, but you can find an entire ream of your color at Amazon for closer to 2 cents a sheet. If you consign a lot of items and often, this is a big savings! If you don’t want to order that many sheets, stores like Office Max and Staples also sell packs of 250 sheets for close to 6 cents a sheet (without any coupon or sale). Remember too that white cardstock is especially cheap, so consider donating your items and tagging in only white!
+For instance, it may seem like JoAnn Fabric or Michael’s is the place to go for cardstock, but that is not the case! JoAnn's sells by the sheet at a sale price of 16 cents, but you can find an entire ream of your color at Amazon for closer to 2 cents a sheet. If you consign a lot of items and often, this is a big savings! If you don’t want to order that many sheets, stores like Office Max and Staples also sell packs of 250 sheets for close to 6 cents a sheet (without any coupon or sale). Remember too that white cardstock is especially cheap, so consider donating your items and tagging in only white!
 
 Another great place to find deals is a dollar store. They are great resources for zip ties, packing tape or painters tape, and various sized Ziploc bag (including sizes larger than a gallon). Many dollar stores also sell batteries, including button cell sizes. This makes it very inexpensive to put new batteries in all your toys before the sale.
 
