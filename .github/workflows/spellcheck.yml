@@ -27,5 +27,5 @@ jobs:
         run: |
           npm install
           gulp build
-      - uses: rojopolis/spellcheck-github-actions@0.20.0
+      - uses: rojopolis/spellcheck-github-actions@0.29.0
         name: Check Spelling
