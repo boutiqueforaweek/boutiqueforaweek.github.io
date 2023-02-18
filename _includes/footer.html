@@ -99,7 +99,14 @@
         el.removeAttribute('data-bs-toggle');
         el.parentElement.classList.remove('active');
         el.nextElementSibling.classList.remove('show');
-        //console.log(el.parentElement.children('ul'));
       });
+  }
+
+  // Enable register link for mobile.
+  if (window.matchMedia('(max-width: 992px)').matches) {
+    const register = document.querySelector('.register a');
+    register.removeAttribute('data-bs-toggle');
+    register.parentElement.classList.remove('active');
+    register.nextElementSibling.classList.remove('show');
   }
 </script>
