@@ -1,6 +1,8 @@
 ---
 title: Items Accepted
-permalink: /consignors/items-accepted/items-accepted-2/
+permalink: /consignors/items-accepted/
+redirect_from:
+  - /consignors/items-accepted/items-accepted-2/
 ---
 
 **You must verify that your items are not under recall. Items can be checked on this [website](https://www.cpsc.gov/Recalls). You will be required to sign a waiver at check in accepting liability of the items that you bring, stating you have ensured none of your items are recalled, and verifying that all your items meet safety standards.**

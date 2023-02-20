@@ -5,7 +5,7 @@ permalink: /consignors/preparing-merchandise/
 
 ## How to Prepare Your Merchandise
 
-Boutique For A Week only accepts quality, clean, and current items! See "[Items Accepted]({% link pages/consignors/items-accepted-2.md %})" for additional information. Make sure you have scrutinized each item as though YOU were going to buy it. Check for stains, holes, missing parts, etc. Any items with these issues will be pulled from the sale floor and left unsorted at sale end.
+Boutique For A Week only accepts quality, clean, and current items! See "[Items Accepted]({% link pages/consignors/items-accepted.md %})" for additional information. Make sure you have scrutinized each item as though YOU were going to buy it. Check for stains, holes, missing parts, etc. Any items with these issues will be pulled from the sale floor and left unsorted at sale end.
 
 ## Tagging Supplies Needed
 
