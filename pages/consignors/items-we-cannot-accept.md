@@ -1,6 +1,8 @@
 ---
 title: Items We Cannot Accept
-permalink: /consignors/items-accepted/items-we-cannot-accept/
+permalink: /consignors/items-we-cannot-accept/
+redirect_from:
+  - /consignors/items-accepted/items-we-cannot-accept/
 ---
 
 * Clothing manufactured more than 4 years ago. Check the inside tag! Most manufacturers print a copyright date on clothing tags.

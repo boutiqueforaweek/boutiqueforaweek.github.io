@@ -69,7 +69,7 @@ items_to_sell:
   url: /consignors/items-accepted/
   weight: "1"
 - title: Items Not Accepted
-  url: /consignors/items-accepted/items-we-cannot-accept/
+  url: /consignors/items-we-cannot-accept/
   weight: "2"
 - title: Boutique Brands
   url: /consignors/items-accepted/boutique-brands/
