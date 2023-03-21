@@ -6,8 +6,8 @@ permalink: /events/event-schedule/
 {% if site.sale_stage != '13_saturday' %}
 ## Volunteers, Consignors, New/Expecting/Adopting/Foster Moms:
 
-* 8+ Hour Volunteers: {{ site.schedule.start | ordinal }}, 5:00 p.m. - 9:00 p.m.
-* 4+ Hour Volunteers: {{ site.schedule.start | ordinal }}, 7:00 p.m. - 9:00 p.m.
+* 8+ Hour Volunteers: {{ site.schedule.dropoff | ordinal }}, 5:00 p.m. - 9:00 p.m.
+* 4+ Hour Volunteers: {{ site.schedule.dropoff | ordinal }}, 7:00 p.m. - 9:00 p.m.
 * [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}): {{ site.schedule.presale | ordinal }}, 1:00 p.m. - 8:00 p.m.
 * Consignors: {{ site.schedule.presale | ordinal }}, 2:00 p.m. - 8:00 p.m.
 * [New/Expecting/Adopting/Foster Moms]({% link pages/shoppers/first-time-moms.md %}): {{ site.schedule.presale | ordinal }}, 4:00 p.m. - 8:00 p.m.
