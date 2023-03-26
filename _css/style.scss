@@ -281,12 +281,22 @@ a img {
 }
 
 #home {
-  background-image: url('../img/bfaw-girl.png'), url(../img/img-noise-30x30.png);
-  background-position: right 40px top 40px, top center;
-  background-repeat: no-repeat, repeat;
+  background-image: url(../img/img-noise-30x30.png);
+  background-repeat: repeat;
 
   @include media-breakpoint-up(md) {
     min-height: 500px;
+  }
+
+  @include media-breakpoint-up(lg) {
+    background-image: url('../img/blue-elipse-with-stars.svg'), url(../img/img-noise-30x30.png);
+    background-position: left 180px bottom 20px, top center;
+    background-repeat: no-repeat, repeat;
+    background-size: 500px, auto;
+
+    h1 {
+      padding-top: 230px;
+    }
   }
 
   h1 {
@@ -300,28 +310,7 @@ a img {
   }
 
   .col {
-    padding: 40px 300px 40px 40px;
-  }
-
-  @include media-breakpoint-up(xl) {
-    .col {
-      padding-top: 250px;
-      background: url('../img/blue-elipse-with-stars.svg') no-repeat left 180px bottom 20px;
-      background-size: 500px;
-    }
-  }
-}
-
-@include media-breakpoint-up(lg) {
-  #home {
-    background-position: right 40px center;
-  }
-}
-
-@include media-breakpoint-down(sm) {
-  #home {
-    background-size: 150px;
-    padding-right: 150px;
+    padding: 40px;
   }
 }
 
