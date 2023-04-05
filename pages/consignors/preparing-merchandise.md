@@ -36,7 +36,7 @@ Boutique For A Week only accepts quality, clean, and current items! See "[Items 
 * Make sure DVDs and CDs are in their CORRECT original packages and seal with blue painters tape.
 * Toys and baby equipment MUST have batteries as needed to ensure that they are in good condition. We cannot offer returns, so shoppers are apprehensive of items that may not work. Dollar stores sell batteries.
 * NOTE: Please make sure that your batteries work. Consignors bringing items requiring batteries without working batteries will be charged $1 for each battery that Boutique For A Week installs in the item in order to sell it. Deductions will be made from Consignor checks.
-* Puzzles, games and all multi-pieced items MUST be complete. Assemble them or count items to verify a complete set before sealing the package, then mark "all pieces included" on tags and seal to prevent loss.
+* Puzzles, games and all multi-pieced sets MUST be complete and free of miscellaneous items. Assemble them or count items to verify a complete set before sealing the package, then mark "all pieces included" on tags and seal to prevent loss.
 * Check books for missing or torn pages. If you group multiple titles, seal in a Ziploc with clear packing tape, attach tag to bag and list all titles under tag description.
 
 ## Regarding Sets
