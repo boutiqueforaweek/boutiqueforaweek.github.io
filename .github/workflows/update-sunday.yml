@@ -1,7 +1,7 @@
 name: Sunday Build
 on:
   schedule:
-    - cron: "0 3 26 3 *"
+    - cron: "0 3 10 9 *"
 env:
   JEKYLL_ENV: 06_sunday
 permissions:
