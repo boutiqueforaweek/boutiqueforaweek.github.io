@@ -30,7 +30,7 @@ jobs:
       - name: Run gulp
         run: |
           npm install
-          gulp build
+          JEKYLL_ENV=06_sunday gulp build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
   deploy:
