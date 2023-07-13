@@ -17,9 +17,13 @@ If you are interested in being added as a Sponsor/Vendor please [contact us](mai
     {% for sponsor in page.sponsors %}
     <div class="p-2">
       <div class="card col">
-        <img src="{{ sponsor.image }}" class="card-img-top" alt="{{ sponsor.company }}">
+        <a href="{{ sponsor.link }}" target="_blank" style="text-decoration:none">
+          <img src="{{ sponsor.image }}" class="card-img-top" alt="{{ sponsor.company }}">
+        </a>
         <div class="card-body">
-          <h1 class="card-title"><a href="{{ sponsor.link }}" target="_blank" style="text-decoration:none">{{ sponsor.company }}</a></h1>
+          <h1 class="card-title">
+            <a href="{{ sponsor.link }}" target="_blank" style="text-decoration:none">{{ sponsor.company }}</a>
+          </h1>
           <p class="card-text" style="text-align: justify">{{ sponsor.details }}</p>
         </div>
       </div>
