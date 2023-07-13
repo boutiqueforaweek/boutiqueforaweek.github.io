@@ -19,10 +19,14 @@ navigation:
   url: /register/
   identifier: register
   weight: "5"
+- title: Sponsors
+  url: /about/our-sponsors/
+  identifier: sponsors
+  weight: "6"
 - title: About
   url: /about/who-we-are/
   identifier: about
-  weight: "6"
+  weight: "7"
 volunteers:
 - title: Volunteers 101
   url: /volunteers/
