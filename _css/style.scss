@@ -117,7 +117,7 @@ a {
   }
 }
 
-@include media-breakpoint-up(lg) {
+@include media-breakpoint-up(xl) {
   .logo {
     background-size: auto;
     left: -40px;
