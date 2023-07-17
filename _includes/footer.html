@@ -102,11 +102,13 @@
       });
   }
 
-  // Enable register link for mobile.
+  // Enable top level links for mobile.
   if (window.matchMedia('(max-width: 992px)').matches) {
-    const register = document.querySelector('.register a');
-    register.removeAttribute('data-bs-toggle');
-    register.parentElement.classList.remove('active');
-    register.nextElementSibling.classList.remove('show');
+    document.querySelectorAll('.register a, .sponsors a')
+      .forEach(elem => {
+        elem.removeAttribute('data-bs-toggle');
+        elem.parentElement.classList.remove('active');
+        elem.nextElementSibling.classList.remove('show');
+      });
   }
 </script>
