@@ -6,6 +6,14 @@ sponsors:
     image: /img/sponsors/frankly-pelvic.webp
     link: https://www.franklypelvic.com/
     details: Dr. Kelly Frank is the owner and primary therapist with Frankly Pelvic, a mobile concierge Pelvic PT practice that serves the greater Orlando area. Dr. Kelly connects with patients to build programs that will meet the needs of a busy individual's time and resources while also educating and advocating to better one's physical, mental, and social well-being. Dr. Kelly enjoys treating all aspects of pelvic dysfunction with a passion for helping the pregnant and postpartum birthing person be their best selves. She is a native Floridian, mom of 2, who enjoys being on the water and spending time at Disney parks with her family!
+  - company: Elizabeth Bevill
+    image: /img/sponsors/elizabeth-bevill.webp
+    link: https://www.marykay.com/EBevill
+    details: Elizabeth Bevill is an Independent Beauty Consultant with Mary Kay. Elizabeth loves using the Mary Kay products and wants to share that experience with her customers and fellow consultants! Weather it be one-on-one, with friends, in-person spa/makeup sessions, online spa/makeup sessions or helping her customer become a consultant,  she is your girl! Elizabeth is excited to help you with all your beauty/ skincare needs! She loves the outdoors and hopes to one day travel with her husband around the US in an RV towed by her Pink Cadillac! 💕
+  - company: Fun 4 Orlando Kids
+    image: /img/sponsors/fun4orlandokids.webp
+    link: https://fun4orlandokids.com/
+    details: "@Fun4OrlandoKids is a calendar and directory website that lists EVERYTHING for kids & families in Orange County, FL. Find Local Events, Educations & Childcare resources, Camps, Giveaways, Kids Eat Free, Parties & Events, Sports Programs & much more!"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
