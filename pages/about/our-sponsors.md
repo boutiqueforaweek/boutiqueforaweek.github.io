@@ -14,6 +14,10 @@ sponsors:
     image: /img/sponsors/fun4orlandokids.webp
     link: https://fun4orlandokids.com/
     details: "@Fun4OrlandoKids is a calendar and directory website that lists EVERYTHING for kids & families in Orange County, FL. Find Local Events, Educations & Childcare resources, Camps, Giveaways, Kids Eat Free, Parties & Events, Sports Programs & much more!"
+  - company: Marie's Modern Design
+    image: /img/sponsors/maries-modern-design.webp
+    link: https://www.instagram.com/mariesmoderndesign/
+    details: "Hello! My name is Diana. I am a stay-at-home mom of 6. Crafting is my passion I love to create new things. It first started off with crocheting. When my babies were smaller I would make them blankets. I even made small hats when my baby girl was a preemie in the hospital. As my little girl's got older I got into making them bows. I really enjoyed making them look really cute and matching with outfits for school. If you can think it, we can create it!"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
