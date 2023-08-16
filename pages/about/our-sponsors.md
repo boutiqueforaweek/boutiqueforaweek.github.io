@@ -14,6 +14,10 @@ sponsors:
     image: /img/sponsors/fun4orlandokids.webp
     link: https://fun4orlandokids.com/
     details: "@Fun4OrlandoKids is a calendar and directory website that lists EVERYTHING for kids & families in Orange County, FL. Find Local Events, Educations & Childcare resources, Camps, Giveaways, Kids Eat Free, Parties & Events, Sports Programs & much more!"
+  - company: Donna Grzesik
+    image: /img/sponsors/epicure.webp
+    link: https://donnagrzesik.epicure.com/en-us/catalog
+    details: "I am so excited to share Epicure with all of you at Boutique for a Week. Be sure to stop by my table in the lobby for a free sample of one of our delicious dip mixes. I am passionate about helping you make meal planning easier, grocery shopping cheaper and cooking so much faster with Epicure."
   - company: Marie's Modern Design
     image: /img/sponsors/maries-modern-design.webp
     link: https://www.instagram.com/mariesmoderndesign/
