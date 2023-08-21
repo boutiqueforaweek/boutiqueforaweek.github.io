@@ -9,7 +9,15 @@ sponsors:
   - company: Elizabeth Bevill
     image: /img/sponsors/elizabeth-bevill.webp
     link: https://www.marykay.com/EBevill
-    details: Elizabeth Bevill is an Independent Beauty Consultant with Mary Kay. Elizabeth loves using the Mary Kay products and wants to share that experience with her customers and fellow consultants! Whether it be one-on-one, with friends, in-person spa/makeup sessions, online spa/makeup sessions or helping her customer become a consultant,  she is your girl! Elizabeth is excited to help you with all your beauty/ skincare needs! She loves the outdoors and hopes to one day travel with her husband around the US in an RV towed by her Pink Cadillac! 💕
+    details: Elizabeth Bevill is an Independent Beauty Consultant with Mary Kay. Elizabeth loves using the Mary Kay products and wants to share that experience with her customers and fellow consultants! Whether it be one-on-one, with friends, in-person spa/makeup sessions, online spa/makeup sessions or helping her customer become a consultant, she is your girl! Elizabeth is excited to help you with all your beauty/ skincare needs! She loves the outdoors and hopes to one day travel with her husband around the US in an RV towed by her Pink Cadillac! 💕
+  - company: Marie's Modern Design
+    image: /img/sponsors/maries-modern-design.webp
+    link: https://www.instagram.com/mariesmoderndesign/
+    details: "Hello! My name is Diana. I am a stay-at-home mom of 6. Crafting is my passion I love to create new things. It first started off with crocheting. When my babies were smaller I would make them blankets. I even made small hats when my baby girl was a preemie in the hospital. As my little girl's got older I got into making them bows. I really enjoyed making them look really cute and matching with outfits for school. If you can think it, we can create it!"
+  - company: Renew
+    image: /img/sponsors/renew-elisa-morrison.webp
+    link: https://www.instagram.com/renew_studio_salon/
+    details: "HI! My name is Elisa and I do Permanent Jewelry. My Permanent Jewelry is 14k gold filled or sterling silver personalized jewelry without a clasp. The piece of your choice is sized just for you and you can add charms for even more unique piece.  Bring your mom, sister, daughter, or bestie and get a special buy one get one half off the pieces of your choice. Can't wait for all of the fun memories that will be made this year at Boutique for a Week!"
   - company: Fun 4 Orlando Kids
     image: /img/sponsors/fun4orlandokids.webp
     link: https://fun4orlandokids.com/
@@ -18,10 +26,6 @@ sponsors:
     image: /img/sponsors/epicure.webp
     link: https://donnagrzesik.epicure.com/en-us/catalog
     details: "I am so excited to share Epicure with all of you at Boutique for a Week. Be sure to stop by my table in the lobby for a free sample of one of our delicious dip mixes. I am passionate about helping you make meal planning easier, grocery shopping cheaper and cooking so much faster with Epicure."
-  - company: Marie's Modern Design
-    image: /img/sponsors/maries-modern-design.webp
-    link: https://www.instagram.com/mariesmoderndesign/
-    details: "Hello! My name is Diana. I am a stay-at-home mom of 6. Crafting is my passion I love to create new things. It first started off with crocheting. When my babies were smaller I would make them blankets. I even made small hats when my baby girl was a preemie in the hospital. As my little girl's got older I got into making them bows. I really enjoyed making them look really cute and matching with outfits for school. If you can think it, we can create it!"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
