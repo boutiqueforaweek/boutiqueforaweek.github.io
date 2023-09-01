@@ -26,6 +26,14 @@ sponsors:
     image: /img/sponsors/epicure.webp
     link: https://donnagrzesik.epicure.com/en-us/catalog
     details: "I am so excited to share Epicure with all of you at Boutique for a Week. Be sure to stop by my table in the lobby for a free sample of one of our delicious dip mixes. I am passionate about helping you make meal planning easier, grocery shopping cheaper and cooking so much faster with Epicure."
+  - company: Linda Wilson Photography
+    image: /img/sponsors/linda-wilson-photography.webp
+    link: https://www.lindawilsonphoto.com/
+    details: "Linda Wilson is a portrait photographer with a large studio in Winter Springs, Florida. She specializes in photographing babies and children, as well as maternity, seniors, headshots, and family portraits. With over 300 backdrops, and a fully packed studio and storage unit filled with unique sets and props, there is always a great selection to choose from for your portraits. She also does fun themed minis sessions each month, with a lower price point than the custom sessions. Check out Linda Wilson Photography for your upcoming Holiday portraits too, as she has 12 different Christmas and Winter sets this year to choose from. And lots of choices for Fall minis too!"
+  - company: Annie Howe-Pernezny
+    image: /img/sponsors/paperpie.webp
+    link: https://m.me/annie.howepernezny
+    details: "Annie Howe-Pernezny is a PaperPie Brand Partner (formerly Usbourne Books & More). Annie hosted her own book party on Facebook years ago and instantly fell in love with the books and products. She continued buying many books over the coming 5 years and finally earlier this year looked at all the books in her home and realized that half of them came from PaperPie, so she decided to take the plunge and become a book lady!  Annie loves helping other families find just the right amazing book for their kiddos.  Stop by my table at the sale to be able to browse some of our books and receive 10% off any purchases made on site!"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
