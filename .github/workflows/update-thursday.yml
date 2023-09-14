@@ -2,6 +2,10 @@ name: Thursday Build
 on:
   schedule:
     - cron: "0 3 14 9 *"
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 jobs:
   build:
     name: Jekyll build
