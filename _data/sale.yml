@@ -1,58 +1,58 @@
 ---
 01_before:
-  home: "Our [Fall 2023 Sale](/events/) runs September 13th through September 15th at [Metro Life Church](/events/map-location/)!"
-  restocking: "[Registration](/register/) opens soon to Classic Consignors for our Fall 2023 Sale."
-  volunteers: "[Volunteer](/volunteers/) registration for our Fall 2023 Sale opens soon."
+  home: "Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!"
+  restocking: "[Registration](/register/) opens soon to Classic Consignors for our [season_year] Sale."
+  volunteers: "[Volunteer](/volunteers/) registration for our [season_year] Sale opens soon."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/1395428491315664/){:target='_blank'} so we know you're coming!"
-  register: "Registration opens soon to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Fall 2023 Sale!"
+  register: "Registration opens soon to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our [season_year] Sale!"
   register_fee: "Registration is done on a first come first serve basis. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 02_before:
   home: |
-    [Registration](/register/) is open to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Fall 2023 sale!
+    [Registration](/register/) is open to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our [season_year] Sale!
 
-    Our [Fall 2023 Sale](/events/) runs September 13th through September 15th at [Metro Life Church](/events/map-location/)!
+    Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now open for Classic Consignors."
   restocking: ""
-  volunteers: "[Volunteer registration](/register/) is now open for our Fall 2023 Sale."
+  volunteers: "[Volunteer registration](/register/) is now open for our [season_year] Sale."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/1395428491315664/){:target='_blank'} so we know you're coming!"
-  register: "Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our Fall 2023 Sale!"
+  register: "Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our [season_year] Sale!"
   register_fee: "Registration is done on a first come first serve basis. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 03_before:
   home: |
-    [Registration](/register/) is open to [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers) for our Fall 2023 sale!
+    [Registration](/register/) is open to [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers) for our [season_year] Sale!
 
-    Our [Fall 2023 Sale](/events/) runs September 13th through September 15th at [Metro Life Church](/events/map-location/)!
+    Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now open for Restocking Consignors."
   restocking: "[Registration](/register/) is now open for Restocking Consignors."
-  volunteers: "[Volunteer registration](/register/) is now open for our Fall 2023 Sale."
+  volunteers: "[Volunteer registration](/register/) is now open for our [season_year] Sale."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/1395428491315664/){:target='_blank'} so we know you're coming!"
-  register: "Registration is open for [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers/) for our Fall 2023 Sale!"
+  register: "Registration is open for [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers/) for our [season_year] Sale!"
   register_fee: "Registration is done on a first come first serve basis. We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 04_before:
   home: |-
-    [Registration](/register/) is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers) for our Fall 2023 sale!
+    [Registration](/register/) is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers) for our [season_year] Sale!
 
-    Our [Fall 2023 Sale](/events/) runs September 13th through September 15th at [Metro Life Church](/events/map-location/)!
+    Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
-  volunteers: "[Volunteer registration](/register/) is now open for our Fall 2023 Sale."
+  volunteers: "[Volunteer registration](/register/) is now open for our [season_year] Sale."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/1395428491315664/){:target='_blank'} so we know you're coming!"
-  register: "Registration is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers/) for our Fall 2023 Sale!"
+  register: "Registration is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers/) for our [season_year] Sale!"
 05_before:
   home: |-
-    [Registration](/register/) is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers) for our Fall 2023 sale!
+    [Registration](/register/) is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers) for our [season_year] Sale!
 
-    Our [Fall 2023 Sale](/events/) runs September 13th through September 15th at [Metro Life Church](/events/map-location/)!
+    Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
   volunteers: "[Volunteer registration](/register/) is now closed."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/1395428491315664/){:target='_blank'} so we know you're coming!"
-  register: "Registration is now closed."
+  register: "Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/)."
 06_sunday:
   home: |-
     Schedule an appointment for [dropping off your items](/consignors/dropping-off/).
 
-    Our [Fall 2023 Sale](/events/) runs September 13th through September 15th at [Metro Life Church](/events/map-location/)!
+    Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
   volunteers: "[Volunteer registration](/register/) is now closed."
@@ -63,7 +63,7 @@
   home: |-
     [Volunteer](/volunteers/) slots are still available!
 
-    Our [Fall 2023 Sale](/events/) runs September 13th through September 15th at [Metro Life Church](/events/map-location/)!
+    Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
   volunteers: "[Volunteer registration](/register/) is now closed."
@@ -72,7 +72,7 @@
   register_fee:
 08_tuesday:
   home: |-
-    Our [Fall 2023 Sale](/events/) is open to [new moms](/shoppers/first-time-moms/) today from 4:00 p.m. - 8:00 p.m. Sign-ups for New Mom's Night will be available at the door.
+    Our [[season_year] Sale](/events/) is open to [new moms](/shoppers/first-time-moms/) today from 4:00 p.m. - 8:00 p.m. Sign-ups for New Mom's Night will be available at the door.
 
     Our sale opens to the general public tomorrow!
   consignors: "[Registration](/register/) is now closed."
@@ -83,7 +83,7 @@
   register_fee:
 09_wednesday:
   home: |-
-    Our [Fall 2023 Sale](/events/) is open to the public today from 4:00 p.m. - 10:00 p.m.
+    Our [[season_year] Sale](/events/) is open to the public today from 4:00 p.m. - 10:00 p.m.
 
     We're also hosting [Mom's Night Out](/shoppers/moms-night-out/) tonight from 8:00 p.m. - 10:00 p.m.!
   consignors: "[Registration](/register/) is now closed."
@@ -94,7 +94,7 @@
   register_fee:
 10_thursday:
   home: |-
-    Our [Fall 2023 Sale](/events/) continues! Today we're open to the public from 11:00 a.m. - 8:00 p.m.
+    Our [[season_year] Sale](/events/) continues! Today we're open to the public from 11:00 a.m. - 8:00 p.m.
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
   volunteers: "[Volunteer registration](/register/) is now closed."
@@ -103,7 +103,7 @@
   register_fee:
 11_friday_1:
   home: |-
-    Today is our [Fall 2023 Sale](/events/) 50% off day! We're open to the public from 10:00 a.m. - 5:00 p.m.
+    Today is our [[season_year] Sale](/events/) 50% off day! We're open to the public from 10:00 a.m. - 5:00 p.m.
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
   volunteers: "[Volunteer registration](/register/) is now closed."
@@ -114,13 +114,13 @@
   home: |-
     Thank you everyone for [shopping](/shoppers/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
 
-    Please note that pickup is tomorrow, Saturday, Sept 17th from 10:00 a.m. - 1:00 p.m.
+    Please note that pickup is tomorrow, [pickup] from 10:00 a.m. - 1:00 p.m.
 
-    ANY ITEMS NOT PICKED UP will be [donated](/consignors/donating-unsold-items/)
+    ANY ITEMS NOT PICKED UP will be [donated](/consignors/donating-unsold-items/).
   earnings:
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
-  volunteers: "[Volunteer](/volunteers/) registration will re-open this summer for our Fall 2023 Sale."
+  volunteers: "[Volunteer](/volunteers/) registration will re-open this summer for our [season_year] Sale."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/1395428491315664/){:target='_blank'} so we know you're coming!"
   register: "Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/)."
   register_fee:
@@ -131,7 +131,7 @@
     We'll be announcing dates for our next sale soon!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
-  volunteers: "[Volunteer](/volunteers/) registration will re-open this summer for our Fall 2023 Sale."
+  volunteers: "[Volunteer](/volunteers/) registration will re-open this summer for our [season_year] Sale."
   moms_night: ""
   register: "Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/)."
   register_fee:

@@ -5,7 +5,7 @@ permalink: /register/
 
 {% assign registration_open = "01_before,02_before,03_before" | split: "," %}
 {% assign vol_registration_open = "01_before,02_before,03_before,04_before" | split: "," %}
-## {{ site.data.sale[site.sale_stage].register }}
+## {{ site.data.sale[site.sale_stage].register | replace: "[season_year]", site.dates.season_year }}
 
 {{ site.data.sale[site.sale_stage].register_fee }}
 
