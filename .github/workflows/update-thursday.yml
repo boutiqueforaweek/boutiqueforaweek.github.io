@@ -1,7 +1,7 @@
 name: Thursday Build
 on:
   schedule:
-    - cron: "0 3 14 9 *"
+    - cron: "0 3 18 4 *"
 permissions:
   contents: read
   pages: write
