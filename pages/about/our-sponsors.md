@@ -6,6 +6,10 @@ sponsors:
     image: /img/sponsors/renew-elisa-morrison.webp
     link: https://www.instagram.com/renew_studio_salon/
     details: "HI! My name is Elisa and I do Permanent Jewelry. My Permanent Jewelry is 14k gold filled or sterling silver personalized jewelry without a clasp. The piece of your choice is sized just for you and you can add charms for even more unique piece.  Bring your mom, sister, daughter, or bestie and get a special buy one get one half off the pieces of your choice. Can't wait for all of the fun memories that will be made this year at Boutique for a Week!"
+  - company: Trinity Noelle
+    image: /img/sponsors/leya-victoria.webp
+    link: http://eepurl.com/ivbOD2
+    details: "I started our children’s boutique business in search of a way to fulfill my dream to remain a stay-at-home Mom. My idea was to share my love for comfortable and playful children’s clothing while having lots of fun doing it! We carry trendy and unique clothing and accessories for girls and boys sizes 0-12 years. The best way to see all we have to offer is to sign up for our newsletter which acts as our website! Receive dozens of new items and prints to choose from plus yummy, healthy kid-friendly recipes in your mailbox each week! We also have a small in person display at Tree Of Life Birthing Center in Altamonte Springs, Fl. Click on the link above to enjoy 50% off your first item when you sign up for our newsletter! We hope it is the bright spot in your week!"
   - company: Donna Grzesik
     image: /img/sponsors/epicure.webp
     link: https://donnagrzesik.epicure.com/en-us/catalog
