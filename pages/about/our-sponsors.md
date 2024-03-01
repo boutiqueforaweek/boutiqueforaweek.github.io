@@ -22,6 +22,10 @@ sponsors:
     image: /img/sponsors/tie-a-bow-on.webp
     link: "https://tieabowon.etsy.com/"
     details: "I am a mother of 3 boys and Grandmother to 3. I have been making bows for over  12 years now. I have been a Vendor at BFAW since Fall of 2015. I love BFAW and seeing so many repeat customers and watching their children grow up. All my bows are handmade by me."
+  - company: Kristy Smith
+    image: /img/sponsors/thirty-one.webp
+    link: https://www.mythirtyone.com/us/en/kristylsmith
+    details: "I am so excited to share all things Thirty-One with you this spring during the Boutique for a Week sale! I will be celebrating my 8th year with Thirty-One this year!! Make sure to stop by and say hi while you're at the sale!"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
