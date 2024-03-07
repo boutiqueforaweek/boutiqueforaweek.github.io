@@ -14,6 +14,10 @@ sponsors:
     image: /img/sponsors/ddelightful_creations.webp
     link: "https://www.instagram.com/ddelightful_creations"
     details: "Hello, my name is Daisy Daniels and my passion for crafting over the years has led me to start my own business. I subliminate 20oz tumblers, 12oz kids' tumblers, 11oz mugs and custom made bendable pens. Please stop by my table at Boutique for a Week to take a look at my merchandise or just to say hi. You will be able to purchase available items or place an order from the many image I will also have available to choose from."
+  - company: Kristy Smith
+    image: /img/sponsors/thirty-one.webp
+    link: https://www.mythirtyone.com/us/en/kristylsmith
+    details: "I am so excited to share all things Thirty-One with you this spring during the Boutique for a Week sale! I will be celebrating my 8th year with Thirty-One this year!! Make sure to stop by and say hi while you're at the sale!"
   - company: Donna Grzesik
     image: /img/sponsors/epicure.webp
     link: https://donnagrzesik.epicure.com/en-us/catalog
@@ -22,10 +26,10 @@ sponsors:
     image: /img/sponsors/tie-a-bow-on.webp
     link: "https://tieabowon.etsy.com/"
     details: "I am a mother of 3 boys and Grandmother to 3. I have been making bows for over  12 years now. I have been a Vendor at BFAW since Fall of 2015. I love BFAW and seeing so many repeat customers and watching their children grow up. All my bows are handmade by me."
-  - company: Kristy Smith
-    image: /img/sponsors/thirty-one.webp
-    link: https://www.mythirtyone.com/us/en/kristylsmith
-    details: "I am so excited to share all things Thirty-One with you this spring during the Boutique for a Week sale! I will be celebrating my 8th year with Thirty-One this year!! Make sure to stop by and say hi while you're at the sale!"
+  - company: Extra Blessings
+    image: /img/sponsors/extra-blessings.webp
+    link: https://www.instagram.com/extrablessings
+    details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which all can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that are close to your heart and make you happy."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
