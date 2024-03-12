@@ -30,6 +30,10 @@ sponsors:
     image: /img/sponsors/extra-blessings.webp
     link: https://www.instagram.com/extrablessings
     details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which all can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that are close to your heart and make you happy."
+  - company: Pediatrix
+    image: /img/sponsors/pediatrix.webp
+    link: https://pediatrix.com/UrgentCareFlorida
+    details: "Our expert clinicians and staff offer a wide range of urgent care services for your children, from X-rays and lab services to IV hydration and much more. We provide exceptional pediatric urgent care seven days a week."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
