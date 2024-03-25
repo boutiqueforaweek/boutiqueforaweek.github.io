@@ -32,8 +32,8 @@ sponsors:
     details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which all can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that are close to your heart and make you happy."
   - company: Pediatrix
     image: /img/sponsors/pediatrix.webp
-    link: https://pediatrix.com/UrgentCareFlorida
-    details: "Our expert clinicians and staff offer a wide range of urgent care services for your children, from X-rays and lab services to IV hydration and much more. We provide exceptional pediatric urgent care seven days a week."
+    link: https://www.pediatrix.com/find-care/practices/urgentcareflorida?utm_source=internal&utm_medium=digital-ad&utm_campaign=practice-marketing&utm_content=boutiqueforaweek-sponsorad
+    details: "Our expert clinicians and staff offer a wide range of urgent care services for your children, from X-rays and lab services to IV hydration and much more. We provide exceptional pediatric urgent care seven days a week. We are open until midnight every night."
   - company: Elizabeth Bevill
     image: /img/sponsors/elizabeth-bevill.webp
     link: https://www.marykay.com/EBevill
