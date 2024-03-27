@@ -9,7 +9,7 @@ permalink: /consignors/dropping-off/
 
 {% if site.sale_stage != '13_saturday' %}* Schedule your Drop-off appointment [HERE](https://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW)!{% endif %}
 * Please note that the beginning and end of the Drop-off time tend to be the busiest times.
-* If you are volunteering during Drop-off, please arrive 30 minutes prior to the start of your shift to put out your items. We cannot count your own Drop-off as volunteer hours.
+* If you are volunteering during Drop-off, your Drop-off appointment may not be during your shift.
 
 ## We review certain merchandise at Drop-off.
 
