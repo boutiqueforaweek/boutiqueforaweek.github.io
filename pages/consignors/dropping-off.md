@@ -8,6 +8,7 @@ permalink: /consignors/dropping-off/
 ## You WILL need an appointment to Drop-off.
 
 {% if site.sale_stage != '13_saturday' %}* Schedule your Drop-off appointment [HERE](https://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW)!{% endif %}
+* All drop off appointments are first come, first served.
 * Please note that the beginning and end of the Drop-off time tend to be the busiest times.
 * If you are volunteering during Drop-off, your Drop-off appointment may not be during your shift.
 
