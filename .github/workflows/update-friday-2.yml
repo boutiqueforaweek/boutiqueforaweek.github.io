@@ -1,7 +1,7 @@
 name: Friday After Sale Build
 on:
   schedule:
-    - cron: "0 20 19 4 *"
+    - cron: "0 21 19 4 *"
 permissions:
   contents: read
   pages: write
