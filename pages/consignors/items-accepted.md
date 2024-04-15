@@ -52,6 +52,6 @@ Boutique For A Week reserves the right to remove items that do not meet these st
 
 _Spring and Summer clothing may be consigned at all of our sales (cowboy items are accepted all year)._
 
-_Fall and Winter clothing may be consigned only in our Fall Sale: winter coats, winter sweaters, corduroys, winter boots, turtlenecks, black patent shoes, velvet, flannel, fleece, thermal, wool, sweatshirts/sweatpants, Christmas items, footed pj's and similar items that are clearly intended for cold weather._
+_Fall and Winter clothing may be consigned only in our Fall Sale: winter coats, winter sweaters, corduroys, winter boots, turtlenecks, black patent shoes, velvet, flannel, fleece, thermal, wool, sweatshirts/sweatpants, Halloween / Thanksgiving / Christmas items, footed pj's and similar items that are clearly intended for cold weather._
 
 _All of the items at our sale get handled frequently. Please note that fragile or easily breakable could possibly become damaged during our sale. As a reminder, we are not responsible for any damaged items._
