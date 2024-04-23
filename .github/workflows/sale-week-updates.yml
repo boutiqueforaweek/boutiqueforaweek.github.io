@@ -1,0 +1,72 @@
+name: Sale Week Updates
+on:
+  schedule:
+    - cron: "0 7 14 4 *"  # 06_sunday
+    - cron: "0 4 15 4 *"  # 07_monday
+    - cron: "0 4 16 4 *"  # 08_tuesday
+    - cron: "0 4 17 4 *"  # 09_wednesday
+    - cron: "0 4 18 4 *"  # 10_thursday
+    - cron: "0 4 19 4 *"  # 11_friday_1
+    - cron: "0 21 19 4 *" # 12_friday_2
+    - cron: "0 17 20 4 *" # 13_saturday
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build:
+    name: Jekyll build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+          cache-version: 0
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Install Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: 'npm'
+      - name: Install npm packages
+        run: npm install
+      - name: Sunday build
+        if: github.event.schedule == '0 7 14 4 *'
+        run: JEKYLL_ENV=06_sunday gulp build
+      - name: Monday build
+        if: github.event.schedule == '0 4 15 4 *'
+        run: JEKYLL_ENV=07_monday gulp build
+      - name: Tuesday build
+        if: github.event.schedule == '0 4 16 4 *'
+        run: JEKYLL_ENV=08_tuesday gulp build
+      - name: Wednesday build
+        if: github.event.schedule == '0 4 17 4 *'
+        run: JEKYLL_ENV=09_wednesday gulp build
+      - name: Thursday build
+        if: github.event.schedule == '0 4 18 4 *'
+        run: JEKYLL_ENV=10_thursday gulp build
+      - name: Friday pt1 build
+        if: github.event.schedule == '0 4 19 4 *'
+        run: JEKYLL_ENV=11_friday_1 gulp build
+      - name: Friday pt2 build
+        if: github.event.schedule == '0 21 19 4 *'
+        run: JEKYLL_ENV=12_friday_2 gulp build
+      - name: Saturday build
+        if: github.event.schedule == '0 17 20 4 *'
+        run: JEKYLL_ENV=13_saturday gulp build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
