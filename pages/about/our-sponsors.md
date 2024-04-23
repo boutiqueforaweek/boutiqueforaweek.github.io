@@ -13,7 +13,7 @@ sponsors:
   - company: Ddelightful_creations
     image: /img/sponsors/ddelightful_creations.webp
     link: "https://www.instagram.com/ddelightful_creations"
-    details: "Hello, my name is Daisy Daniels and my passion for crafting over the years has led me to start my own business. I subliminate 20oz tumblers, 12oz kids' tumblers, 11oz mugs and custom made bendable pens. Please stop by my table at Boutique for a Week to take a look at my merchandise or just to say hi. You will be able to purchase available items or place an order from the many images I will also have available to choose from."
+    details: "Hello, my name is Daisy Daniels and my passion for crafting over the years has led me to start my own business. I sublimate 20oz tumblers, 12oz kids' tumblers, 11oz mugs and custom made bendable pens. Please stop by my table at Boutique for a Week to take a look at my merchandise or just to say hi. You will be able to purchase available items or place an order from the many images I will also have available to choose from."
   - company: Kristy Smith
     image: /img/sponsors/thirty-one.webp
     link: https://www.mythirtyone.com/us/en/kristylsmith
