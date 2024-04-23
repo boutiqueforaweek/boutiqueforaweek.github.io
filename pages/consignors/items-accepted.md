@@ -44,7 +44,7 @@ redirect_from:
     * There are no cracks, bends, or breaks in the plastic shell.
     * Your car seat locking mechanism locks securely and remains locked.
     * Your car seat has a label showing it meets all Federal Motor Vehicle Safety Standards.
-    * Your car seat has never been broken or fixed in any way except to retrofit for safety recalls if applicable. You have checked for [safety recalls](https://www.nhtsa.gov/recalls#car-seats) and have made any necessary safety retrofits required to meet Motor Vehicle Safety Standards.
+    * Your car seat has never been broken or fixed in any way except to retrofit for safety recalls if applicable. You have checked for [safety recalls](https://www.nhtsa.gov/recalls#car-seat) and have made any necessary safety retrofits required to meet Motor Vehicle Safety Standards.
     * You have included the instructional manual (copy may be printed easily from most manufacturer websites).
     * You are the original owner.
 
