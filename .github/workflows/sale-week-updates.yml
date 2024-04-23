@@ -18,7 +18,7 @@ jobs:
     name: Jekyll build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -26,9 +26,9 @@ jobs:
           bundler-cache: true
           cache-version: 0
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5
       - name: Install Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 16
           cache: 'npm'
@@ -59,7 +59,7 @@ jobs:
         if: github.event.schedule == '0 17 20 4 *'
         run: JEKYLL_ENV=13_saturday gulp build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
   deploy:
     environment:
       name: github-pages
@@ -69,4 +69,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
