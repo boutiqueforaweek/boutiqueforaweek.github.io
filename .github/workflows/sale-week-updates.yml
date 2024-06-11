@@ -1,14 +1,14 @@
 name: Sale Week Updates
 on:
   schedule:
-    - cron: "0 7 14 4 *"  # 06_sunday
-    - cron: "0 4 15 4 *"  # 07_monday
-    - cron: "0 4 16 4 *"  # 08_tuesday
-    - cron: "0 4 17 4 *"  # 09_wednesday
-    - cron: "0 4 18 4 *"  # 10_thursday
-    - cron: "0 4 19 4 *"  # 11_friday_1
-    - cron: "0 21 19 4 *" # 12_friday_2
-    - cron: "0 17 20 4 *" # 13_saturday
+    - cron: "0 7 15 9 *"  # 06_sunday
+    - cron: "0 4 16 9 *"  # 07_monday
+    - cron: "0 4 17 9 *"  # 08_tuesday
+    - cron: "0 4 18 9 *"  # 09_wednesday
+    - cron: "0 4 19 9 *"  # 10_thursday
+    - cron: "0 4 20 9 *"  # 11_friday_1
+    - cron: "0 21 20 9 *" # 12_friday_2
+    - cron: "0 17 21 9 *" # 13_saturday
 permissions:
   contents: read
   pages: write
@@ -35,28 +35,28 @@ jobs:
       - name: Install npm packages
         run: npm install
       - name: Sunday build
-        if: github.event.schedule == '0 7 14 4 *'
+        if: github.event.schedule == '0 7 15 9 *'
         run: JEKYLL_ENV=06_sunday gulp build
       - name: Monday build
-        if: github.event.schedule == '0 4 15 4 *'
+        if: github.event.schedule == '0 4 16 9 *'
         run: JEKYLL_ENV=07_monday gulp build
       - name: Tuesday build
-        if: github.event.schedule == '0 4 16 4 *'
+        if: github.event.schedule == '0 4 17 9 *'
         run: JEKYLL_ENV=08_tuesday gulp build
       - name: Wednesday build
-        if: github.event.schedule == '0 4 17 4 *'
+        if: github.event.schedule == '0 4 18 9 *'
         run: JEKYLL_ENV=09_wednesday gulp build
       - name: Thursday build
-        if: github.event.schedule == '0 4 18 4 *'
+        if: github.event.schedule == '0 4 19 9 *'
         run: JEKYLL_ENV=10_thursday gulp build
       - name: Friday pt1 build
-        if: github.event.schedule == '0 4 19 4 *'
+        if: github.event.schedule == '0 4 20 9 *'
         run: JEKYLL_ENV=11_friday_1 gulp build
       - name: Friday pt2 build
-        if: github.event.schedule == '0 21 19 4 *'
+        if: github.event.schedule == '0 21 20 9 *'
         run: JEKYLL_ENV=12_friday_2 gulp build
       - name: Saturday build
-        if: github.event.schedule == '0 17 20 4 *'
+        if: github.event.schedule == '0 17 21 9 *'
         run: JEKYLL_ENV=13_saturday gulp build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
