@@ -53,8 +53,6 @@ export const jekyllServe = () => {
   jekyll.stderr.on('data', jekyllLogger);
 }
 
-export const dev = gulp.series(cssDev, jsDev, gulp.parallel(jekyllServe, cssWatch, jsWatch));
-
 // Prod
 export const cssProd = () => gulp.src('./_css/style.scss')
     .pipe(sass({
@@ -94,6 +92,8 @@ export const jekyll = (gulpCallback) => {
 
   jekyll.on('exit', gulpCallback);
 }
+
+export const dev = gulp.series(cssDev, jsDev, gulp.parallel(jekyllServe, cssWatch, jsWatch));
 
 export const build = gulp.series(jekyll, cssProd, jsProd);
 
