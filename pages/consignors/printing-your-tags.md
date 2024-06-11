@@ -13,7 +13,7 @@ All tags MUST be printed on <u>pastel cardstock</u>! Dark color cardstock does n
 
 Print tags using the normal setting on your printer, not high quality. Make sure your pop-up blocker is turned off, and you are using Internet Explorer as your browser. Our tags should print 10 to a page.
 
-Use your [assigned colored cardstock]({% link pages/consignors/cardstock-color-list.md %}) for any items you want to pick up if not sold.
+Use your [assigned colored cardstock]({% link pages/consignors/cardstock-color-list.html %}) for any items you want to pick up if not sold.
 
 Use white cardstock for all donations. ALL items printed on white cardstock will be donated if not sold.
 

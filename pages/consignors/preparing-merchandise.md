@@ -9,7 +9,7 @@ Boutique For A Week only accepts quality, clean, and current items! See "[Items 
 
 ## Tagging Supplies Needed
 
-* Enough of the [assigned color of cardstock]({% link pages/consignors/cardstock-color-list.md %} "Card Stock Color List") to print a tag for each of your items. Ten tags print per page. It is required to print tags on cardstock.
+* Enough of the [assigned color of cardstock]({% link pages/consignors/cardstock-color-list.html %} "Card Stock Color List") to print a tag for each of your items. Ten tags print per page. It is required to print tags on cardstock.
 * Scissors or paper cutter to cut tags
 * Child-sized hangers for clothing up to size 4\. Adult hangers work well for sizes 5 and up. Old Navy throws away hangers daily. Ask for them there or purchase them at Wal-Mart or your local dry cleaners.
 * Cable/electrical ties (available in electrical department of Home Depot, Lowe's, and Wal-Mart) to secure tags to clothing. 4" ties work well for clothing items and 7" ties work best for shoes.

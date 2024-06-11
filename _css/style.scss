@@ -268,6 +268,41 @@ a {
   }
 }
 
+.color-table {
+  tr {
+    text-align: center;
+  }
+
+  th, td {
+    background-color: transparent;
+    padding: 20px 40px;
+  }
+
+  .white {
+    background-color: #fff;
+  }
+
+  .blue {
+    background-color: #aae4f0;
+  }
+
+  .pink {
+    background-color: #ffc1dd;
+  }
+
+  .green {
+    background-color: #b7ffb1;
+  }
+
+  .yellow {
+    background-color: #fffd4b;
+  }
+
+  .orange {
+    background-color: #ffa81f;
+  }
+}
+
 #header {
   margin: 0 auto;
   padding: 0;
