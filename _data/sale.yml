@@ -120,7 +120,7 @@
   earnings:
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
-  volunteers: "[Volunteer](/volunteers/) registration will re-open this winter for our [season_year] Sale."
+  volunteers: "[Volunteer](/volunteers/) registration will re-open this [preseason] for our [season_year] Sale."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/1725847284492292/){:target='_blank'} so we know you're coming!"
   register: "Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/)."
   register_fee:
@@ -131,7 +131,7 @@
     We'll be announcing dates for our next sale soon!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
-  volunteers: "[Volunteer](/volunteers/) registration will re-open this winter for our [season_year] Sale."
+  volunteers: "[Volunteer](/volunteers/) registration will re-open this [preseason] for our [season_year] Sale."
   moms_night: ""
   register: "Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/)."
   register_fee:

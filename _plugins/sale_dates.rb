@@ -21,6 +21,7 @@ module Jekyll
       @pickup = @start_date + 6
 
       @season = @start_date.strftime("%m").to_i > 6 ? "Fall" : "Spring"
+      @preseason = @start_date.strftime("%m").to_i > 6 ? "summer" : "winter"
       @next_season = @start_date.strftime("%m").to_i < 6 ? "Fall" : "Spring"
       @year = @start_date.strftime("%Y")
 
@@ -36,6 +37,7 @@ module Jekyll
 
       site.config['dates'] = {
         'season' => @season,
+        'preseason' => @preseason,
         'next_season' => @next_season,
         'year' => @year,
         'season_year' => "#{@season} #{@year}",

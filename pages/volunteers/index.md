@@ -35,4 +35,4 @@ If you're uncertain about volunteering, consider this endorsement from a mom abo
 *"I loved volunteering at BFAW! The first time I volunteered I was newly pregnant with my first son, and was excited to see if I would actually get any good deals by being able to shop early. The simple answer is, "Absolutely! Yes."; The ability to shop early helped me to get almost everything I needed to welcome Silas into my home. The things at the sale are in GREAT shape, and are now going to be used to welcome my second son into our home. The ladies who run this sale are eager to help, friendly and especially for those who volunteer, accommodating to specific needs, such as being pregnant and making sure you are given a "job"; that fits you. I HIGHLY recommend that if you are able, definitely volunteer. The 4 or 8 hours you spend is well worth your time, and even fun.";*
 
 ## Volunteer Registration
-{{ site.data.sale[site.sale_stage].volunteers | replace: "[season_year]", site.dates.season_year | markdownify }}
+{{ site.data.sale[site.sale_stage].volunteers | replace: "[season_year]", site.dates.season_year | replace: "[preseason]", site.dates.preseason | markdownify }}
