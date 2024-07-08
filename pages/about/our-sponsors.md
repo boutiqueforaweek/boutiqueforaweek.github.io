@@ -2,6 +2,10 @@
 title: Our Sponsors
 permalink: /about/our-sponsors/
 sponsors:
+  - company: Tie A Bow On
+    image: /img/sponsors/tie-a-bow-on.webp
+    link: "https://tieabowon.etsy.com/"
+    details: "I am a mother of 3 boys and Grandmother to 3. I have been making bows for over  12 years now. I have been a Vendor at BFAW since Fall of 2015. I love BFAW and seeing so many repeat customers and watching their children grow up. All my bows are handmade by me."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
