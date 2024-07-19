@@ -10,6 +10,10 @@ sponsors:
     image: /img/sponsors/renew-elisa-morrison.webp
     link: https://www.instagram.com/renew_studio_salon/
     details: "HI! My name is Elisa and I do Permanent Jewelry. My Permanent Jewelry is 14k gold filled or sterling silver personalized jewelry without a clasp. The piece of your choice is sized just for you and you can add charms for even more unique piece.  Bring your mom, sister, daughter, or bestie and get a special buy one get one half off the pieces of your choice. Can't wait for all of the fun memories that will be made this year at Boutique for a Week!"
+  - company: Donna Grzesik
+    image: /img/sponsors/epicure.webp
+    link: https://donnagrzesik.epicure.com/en-us/catalog
+    details: "I am so excited to share Epicure with all of you at Boutique for a Week. Be sure to stop by my table in the lobby for a free sample of one of our delicious dip mixes. I am passionate about helping you make meal planning easier, grocery shopping cheaper and cooking so much faster with Epicure."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
