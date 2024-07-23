@@ -23,9 +23,11 @@
               {%- if item.identifier == 'consignors' -%}
               {%- for menu in consignor_menus -%}
                 {%- for subitem in site.data.menus[menu] %}
+                {%- unless site.sale_stage != '03_before' and subitem.title == 'Restocking Consignors' -%}
                 <li{% if subitem.identifier == current_menu %} class="active"{% endif %}>
                   <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
                 </li>
+                {% endunless -%}
                 {%- endfor -%}
               {% endfor %}
               {%- else -%}
