@@ -3,7 +3,7 @@ title: Register
 permalink: /register/
 ---
 
-{% assign registration_open = "01_before,02_before,03_before" | split: "," %}
+{% assign registration_open = "01_before,02_before" | split: "," %}
 {% assign vol_registration_open = "01_before,02_before,03_before,04_before" | split: "," %}
 ## {{ site.data.sale[site.sale_stage].register | replace: "[season_year]", site.dates.season_year }}
 
@@ -16,6 +16,10 @@ permalink: /register/
   {% if registration_open contains site.sale_stage %}
   <li><a href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW&type=new">New Consignor Registration</a></li>
   <li><a href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW">Returning Consignor Registration</a></li>
+  {% endif %}
+  {% if site.sale_stage == "03_before" %}
+  <li><a href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW&type=new">New Restocking Consignor Registration</a></li>
+  <li><a href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW">Returning Restocking Consignor Registration</a></li>
   {% endif %}
   {% if vol_registration_open contains site.sale_stage %}
   <li><a href="https://www.mysalemanager.net/mom_start.aspx?partnercode=BFAW">New and Expecting Moms Registration</a></li>
