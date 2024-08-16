@@ -15,7 +15,7 @@ Some Consignors wait to register until after our initial registration spots are 
 
 ## Restocking Consignors have additional Drop Off options.
 
-We offer Restocking Consignor Drop Off appointments on Sunday or Wednesday! A weekend day for Drop Off is a great option for Restocking Consignors. We know it serves those whose schedule makes it challenging to coordinate dropping off mid-week. Please note, Sunday appointments are very limited and may not be available depending on time of registration.
+We offer Restocking Consignor Drop Off appointments on Sunday or Wednesday! A weekend day for Drop Off is a great option for Restocking Consignors. We know it serves those whose schedule makes it challenging to coordinate dropping off mid-week. **Please note, Sunday appointments are very limited and may not be available depending on time of registration.**
 
 If you elect to drop off before our restocking day on Wednesday, you need to be aware the procedure. Instead of putting your items directly on the sales floor, you (and a Volunteer assigned to you) will bring your items to a secured room in the building. This room will be set up similar to the sales floor. You will hang your clothes on the appropriate rack, distribute your shoes, sort your toys from your sheets, etc.
 
