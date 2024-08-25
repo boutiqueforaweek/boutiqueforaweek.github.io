@@ -14,6 +14,11 @@ sponsors:
     image: /img/sponsors/renew-elisa-morrison.webp
     link: https://www.instagram.com/renew_studio_salon/
     details: "HI! My name is Elisa and I do Permanent Jewelry. My Permanent Jewelry is 14k gold filled or sterling silver personalized jewelry without a clasp. The piece of your choice is sized just for you and you can add charms for even more unique piece.  Bring your mom, sister, daughter, or bestie and get a special buy one get one half off the pieces of your choice. Can't wait for all of the fun memories that will be made this year at Boutique for a Week!"
+  - company: Fun 4 Orlando Kids
+    image: /img/sponsors/fun4orlandokids.webp
+    link: https://fun4orlandokids.com/
+    details: "@Fun4OrlandoKids is a calendar and directory website that lists EVERYTHING for kids & families in Orange County, FL. Find Local Ev
+ents, Educations & Childcare resources, Camps, Giveaways, Kids Eat Free, Parties & Events, Sports Programs & much more!"
   - company: Kristy Smith
     image: /img/sponsors/thirty-one.webp
     link: https://www.mythirtyone.com/us/en/kristylsmith
