@@ -27,6 +27,13 @@ ents, Educations & Childcare resources, Camps, Giveaways, Kids Eat Free, Parties
     image: /img/sponsors/elizabeth-bevill.webp
     link: https://www.marykay.com/EBevill
     details: "Elizabeth Bevill is an Independent Beauty Consultant with Mary Kay. Elizabeth loves using the Mary Kay products and wants to share that experience with her customers and fellow consultants! Whether it be one-on-one, with friends, in-person spa/makeup sessions, online spa/makeup sessions or helping her customer become a consultant, she is your girl! Elizabeth is excited to help you with all your beauty/ skincare needs! She loves the outdoors and hopes to one day travel with her husband around the US in an RV towed by her Pink Cadillac! 💕"
+  - company: Extra Blessings
+    image: /img/sponsors/extra-blessings.webp
+    link: https://www.instagram.com/extrablessings
+    details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you
+are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which a
+ll can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that a
+re close to your heart and make you happy."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
