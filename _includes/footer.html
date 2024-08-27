@@ -79,26 +79,6 @@
   <p>&copy; {{ site.time | date: '%Y' }} Boutique for a Week</p>
 </div>
 <script>
-  var popup = document.getElementById('newsletter-signup');
-
-  if (popup) {
-    var myModal = new bootstrap.Modal(popup, {});
-
-    const popupCookie = document.cookie
-      .split('; ')
-      .find(row => row.startsWith('newsletter='));
-
-    if (!popupCookie) {
-      // Show popup.
-      myModal.toggle();
-    }
-
-    // Hide popup and set cookie.
-    popup.addEventListener('hidden.bs.modal', function(e) {
-        document.cookie = 'newsletter=true';
-      });
-  }
-
   // Disable menu dropdown for desktop.
   if (window.matchMedia('(min-width: 992px)').matches) {
     Array.from(document.getElementsByClassName('nav-link'))
