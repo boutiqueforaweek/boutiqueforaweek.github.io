@@ -3,7 +3,7 @@ title: Map &amp; Location
 permalink: /events/map-location/
 ---
 
-![Map](/img/fall2014_map.png "Map")
+![Map](/img/fall2014_map.png "Map"){: .img-fluid }
 
 ## Our sale will be located at:
 
