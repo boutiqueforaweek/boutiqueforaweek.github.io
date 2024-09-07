@@ -34,6 +34,10 @@ ents, Educations & Childcare resources, Camps, Giveaways, Kids Eat Free, Parties
 are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which a
 ll can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that a
 re close to your heart and make you happy."
+  - company: Nemours
+    image: /img/sponsors/nemours.webp
+    link: https://www.nemours.org/
+    details: "When you choose a Nemours Children's pediatrician for your child, you get much more than a knowledgeable and compassionate doctor. You gain access to an internationally recognized health system devoted to one thing: the health and well-being of children. It’s the best of both worlds — the comfort of knowing your child is being cared for by board-certified pediatric experts and the convenience of care that’s close to home."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
