@@ -29,7 +29,6 @@ export const cssWatch = () => gulp.watch('./_css/**/*.scss', cssDev);
 export const jsDev = () => gulp.src([
     './node_modules/jquery/dist/jquery.js',
     './node_modules/bootstrap/dist/js/bootstrap.bundle.js',
-//    './_js/mimi.js'
   ])
   .pipe(sourcemaps.init())
   .pipe(concat('script.js'))

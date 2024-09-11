@@ -31,20 +31,7 @@ layout:
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <form action="https://madmimi.com/signups/subscribe/10324" method="post" class="mimi-form">
-              <div class="mb-3">
-                <input type="text" name="signup[email]" class="form-control mimi-field mimi-required" id="email" placeholder="Email">
-              </div>
-              <div class="mb-3">
-                <input type="text" name="signup[name]" class="form-control mimi-field" id="name" placeholder="Name">
-              </div>
-              <input type="hidden" name="form_id" value="10324" />
-              <input type="submit" value="Sign Up!" class="btn btn-primary text-end mimi-submit" />
-              <span class="mimi-spinner"></span>
-            </form>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            {% include subscription-form.html %}
           </div>
         </div>
       </div>
