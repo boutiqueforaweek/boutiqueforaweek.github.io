@@ -40,6 +40,7 @@ redirect_from:
     * Your car seat is less than four years old.
     * Your car seat has all parts including (if applicable) harness straps, harness clip, seat cover, padding, shield, tether, and bolts.
     * The straps are not worn or frayed.
+    * Your carseat is not dirty or stained.
     * No buckle or metal part shows signs of rust.
     * There are no cracks, bends, or breaks in the plastic shell.
     * Your car seat locking mechanism locks securely and remains locked.
