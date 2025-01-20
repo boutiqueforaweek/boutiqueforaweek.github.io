@@ -3,8 +3,8 @@ title: "Welcome"
 permalink: /
 layout:
 ---
-{% assign sale_start = site.schedule.sale_start | date: "%B %d" %}
-{% assign sale_end = site.schedule.sale_end | date: "%B %d" %}
+{% assign sale_start = site.schedule.sale_start | date: "%B %e" %}
+{% assign sale_end = site.schedule.sale_end | date: "%B %e" %}
 {% assign pickup = site.schedule.pickup | ordinal %}
 {% assign message = site.data.sale[site.sale_stage].home | replace: "[sale_start]", sale_start | replace: "[sale_end]", sale_end | replace: "[pickup]", pickup | replace: "[season_year]", site.dates.season_year | markdownify %}
 
