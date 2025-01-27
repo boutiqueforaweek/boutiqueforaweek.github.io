@@ -14,12 +14,12 @@
     </div>
     <div class="col-12 col-lg-3">
       <div class="sign">
-        {% assign registration_open = "01_before,02_before" | split: "," %}
-        {% assign vol_registration_open = "01_before,02_before,03_before,04_before" | split: "," %}
-        {% if vol_registration_open contains site.sale_stage %}
+        {% assign open = "01_before,02_before,03_before,04_before,05_before" | split: "," %}
+        {% assign other_registration = "02_before,03_before,04_before,05_before" | split: "," %}
+        {% if open contains site.sale_stage %}
         <h2>Register as a...</h2>
         <ul>
-          {% if registration_open contains site.sale_stage %}
+          {% if site.sale_stage == "02_before" %}
           <li><a rel="noopener" href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW">Returning Consignor</a></li>
           <li><a rel="noopener" href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW&amp;type=new">New Consignor Registration</a></li>
           {% endif %}
@@ -27,10 +27,12 @@
           <li><a rel="noopener" href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW">Returning Restocking Consignor</a></li>
           <li><a rel="noopener" href="https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW&amp;type=new">New Restocking Consignor Registration</a></li>
           {% endif %}
-          <li><a rel="noopener" href="https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW">Worker Registration</a></li>
           <li><a rel="noopener" href="https://www.mysalemanager.net/itm_start.aspx?partnercode=BFAW">Item Entry and Tag Printing</a></li>
+          {% if other_registration contains site.sale_stage %}
+          <li><a rel="noopener" href="https://www.mysalemanager.net/wrk_start.aspx?partnercode=BFAW">Worker Registration</a></li>
           <li><a rel="noopener" href="https://www.mysalemanager.net/mom_start.aspx?partnercode=BFAW">New Moms Presale Registration</a></li>
           <li><a rel="noopener" href="https://www.mysalemanager.net/drp_start.aspx?partnercode=BFAW" target="_blank">Schedule Drop Off Appointment</a></li>
+          {% endif %}
         </ul>
         {% else %}
         <h2>Registration Closed</h2>
