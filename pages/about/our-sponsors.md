@@ -10,6 +10,10 @@ sponsors:
     image: /img/sponsors/marked.webp
     link: "https://www.instagram.com/marked.bookmarks"
     details: "Meg and Molly, long-time church friends with a shared passion for creativity and the mystery of the Living Word, co-founded marked., a small business sparked by a single moment creating wedding favors for Molly’s wedding. But God had something much bigger in mind—handmade, vintage-style bookmarks with handwritten Scriptures. The mission of marked. is to make the Word of God the first and last thing book lovers see every time they curl up with their favorite book and their favorite cup of cozy!"
+  - company: Apogee Orlando
+    image: /img/sponsors/apogee-orlando.webp
+    link: "https://www.apogeestrongorlando.com/"
+    details: "Apogee Strong Orlando is an innovative private school that fosters an environment where children are free to explore their passions, develop physical health alongside academic excellence, and cultivate a supportive community of families committed to growing together. We believe every child has unique, God-given gifts, and our campus is intentionally designed to nurture these individual strengths while igniting a lifelong love of learning. Our mission goes beyond traditional textbooks and rigid curricula; through a child-centered approach, we focus on developing character, resilience, creativity, competence, and confidence. With low student-teacher ratios and engaging, hands-on learning experiences, we are dedicated to preparing children for life, not just passing exams."
   - company: Whatever is Pure
     image: /img/sponsors/whatever-is-pure.webp
     link: "https://www.whateverispure.net/"
