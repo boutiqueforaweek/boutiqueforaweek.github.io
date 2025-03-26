@@ -10,14 +10,18 @@ sponsors:
     image: /img/sponsors/marked.webp
     link: "https://www.instagram.com/marked.bookmarks"
     details: "Meg and Molly, long-time church friends with a shared passion for creativity and the mystery of the Living Word, co-founded marked., a small business sparked by a single moment creating wedding favors for Molly’s wedding. But God had something much bigger in mind—handmade, vintage-style bookmarks with handwritten Scriptures. The mission of marked. is to make the Word of God the first and last thing book lovers see every time they curl up with their favorite book and their favorite cup of cozy!"
-  - company: Apogee Orlando
-    image: /img/sponsors/apogee-orlando.webp
-    link: "https://www.apogeestrongorlando.com/"
-    details: "Apogee Strong Orlando is an innovative private school that fosters an environment where children are free to explore their passions, develop physical health alongside academic excellence, and cultivate a supportive community of families committed to growing together. We believe every child has unique, God-given gifts, and our campus is intentionally designed to nurture these individual strengths while igniting a lifelong love of learning. Our mission goes beyond traditional textbooks and rigid curricula; through a child-centered approach, we focus on developing character, resilience, creativity, competence, and confidence. With low student-teacher ratios and engaging, hands-on learning experiences, we are dedicated to preparing children for life, not just passing exams."
   - company: Whatever is Pure
     image: /img/sponsors/whatever-is-pure.webp
     link: "https://www.whateverispure.net/"
     details: "Whatever Is Pure, LLC is a home bakery in Lake Mary making delicious organic chemical-free breads and skin care products. Everything is made to order. Bread can be healthy and nutritious! I mill the flour at home so there are no chemicals involved and all the nutrients are preserved. Wheat naturally has a lot of fiber, protein and B-complex vitamins but they are lost in the process of making flour in factories. Skin care should be helping your skin, not destroying it. I battled eczema and skin allergies for years. My lotion, deodorant, laundry soap and lip balm soothe skin, heal small cuts and (along with an anti-inflammatory and chemical free diet) took away the eczema."
+  - company: Kristy Smith
+    image: /img/sponsors/thirty-one.webp
+    link: https://www.facebook.com/groups/bagsgalorewithkristy
+    details: "As many of you know, Thirty-One closed their doors in December after being in business for 21 years. However, I am EXCITED to share with you all that I will still be at Boutique for a week with the remaining of my Thirty-One inventory. Do not miss out on purchasing your last Thirty-One products! If you want to shop ahead of the sale, make sure to visit my Facebook page (click the title link)."
+  - company: Apogee Orlando
+    image: /img/sponsors/apogee-orlando.webp
+    link: "https://www.apogeestrongorlando.com/"
+    details: "Apogee Strong Orlando is an innovative private school that fosters an environment where children are free to explore their passions, develop physical health alongside academic excellence, and cultivate a supportive community of families committed to growing together. We believe every child has unique, God-given gifts, and our campus is intentionally designed to nurture these individual strengths while igniting a lifelong love of learning. Our mission goes beyond traditional textbooks and rigid curricula; through a child-centered approach, we focus on developing character, resilience, creativity, competence, and confidence. With low student-teacher ratios and engaging, hands-on learning experiences, we are dedicated to preparing children for life, not just passing exams."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
