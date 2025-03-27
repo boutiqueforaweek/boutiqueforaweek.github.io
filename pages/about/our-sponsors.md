@@ -47,7 +47,7 @@ If you are interested in being added as a Sponsor/Vendor please [contact us](mai
           <h1 class="card-title">
             <a href="{{ sponsor.link }}" target="_blank" style="text-decoration:none">{{ sponsor.company }}</a>
           </h1>
-          <p class="card-text" style="text-align: justify">{{ sponsor.details }}</p>
+          <p class="card-text" style="text-align: justify">{{ sponsor.details | markdownify }}</p>
         </div>
       </div>
     </div>

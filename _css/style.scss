@@ -303,6 +303,12 @@ a {
   }
 }
 
+#col_right {
+  .card-body p {
+    padding-bottom: 0;
+  }
+}
+
 #header {
   margin: 0 auto;
   padding: 0;
