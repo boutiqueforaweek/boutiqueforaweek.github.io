@@ -22,6 +22,13 @@ sponsors:
     image: /img/sponsors/apogee-orlando.webp
     link: "https://www.apogeestrongorlando.com/"
     details: "Apogee Strong Orlando is an innovative private school that fosters an environment where children are free to explore their passions, develop physical health alongside academic excellence, and cultivate a supportive community of families committed to growing together. We believe every child has unique, God-given gifts, and our campus is intentionally designed to nurture these individual strengths while igniting a lifelong love of learning. Our mission goes beyond traditional textbooks and rigid curricula; through a child-centered approach, we focus on developing character, resilience, creativity, competence, and confidence. With low student-teacher ratios and engaging, hands-on learning experiences, we are dedicated to preparing children for life, not just passing exams."
+  - company: LifeSkills
+    image: /img/sponsors/lifeskills.webp
+    link: "https://www.lifeskillscenter.com/"
+    details: |
+      At LifeSkills, we provide Occupational Therapy with a specialized focus on Sensory Integration Therapy. We are a trusted provider with the highest reputation for our expertise, compassionate care, and proven success helping children improve their quality of life since 1993.
+
+      As part of our commitment to the community, we are offering “Free Screening for Children” during April to honor Occupational Therapy Month. This screening is designed to identify children who may be experiencing sensory-related difficulties and could benefit from Sensory Integration Therapy, along with parent education.
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
