@@ -29,6 +29,15 @@ sponsors:
       At LifeSkills, we provide Occupational Therapy with a specialized focus on Sensory Integration Therapy. We are a trusted provider with the highest reputation for our expertise, compassionate care, and proven success helping children improve their quality of life since 1993.
 
       As part of our commitment to the community, we are offering “Free Screening for Children” during April to honor Occupational Therapy Month. This screening is designed to identify children who may be experiencing sensory-related difficulties and could benefit from Sensory Integration Therapy, along with parent education.
+  - company: Joyful Music
+    image: /img/sponsors/joyful-music-therapy.webp
+    link: "https://joyfulmusictherapy.com/"
+    details: |
+      Joyful Music Therapy harnesses the power of music for healing, growth, and connection.
+
+      Our board-certified music therapists use evidence-based interventions to help individuals improve communication, emotional regulation, memory, and daily life skills.
+
+      As a licensed Music Together® center, we also offer internationally acclaimed classes for children from birth to age seven. Developed by musicians and neurologists at Princeton, Music Together®  nurtures early musical development, fostering cognitive, emotional, and social growth. By actively making music, children and families build lifelong connections, confidence, and joy.
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
