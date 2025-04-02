@@ -47,6 +47,13 @@ sponsors:
       Our board-certified music therapists use evidence-based interventions to help individuals improve communication, emotional regulation, memory, and daily life skills.
 
       As a licensed Music Together® center, we also offer internationally acclaimed classes for children from birth to age seven. Developed by musicians and neurologists at Princeton, Music Together®  nurtures early musical development, fostering cognitive, emotional, and social growth. By actively making music, children and families build lifelong connections, confidence, and joy.
+  - company: Nemours
+    image: /img/sponsors/nemours.webp
+    link: https://www.nemours.org/locations/urgent-care-florida.html
+    details: |
+      Nemours Children’s Health – Urgent Care
+
+      We’re here for you. If your child has an illness or minor injury, we offer convenient access to expert urgent care just for kids and teens. Reserve your spot today!
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
