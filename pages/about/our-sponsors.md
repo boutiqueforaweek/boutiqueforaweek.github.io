@@ -22,6 +22,15 @@ sponsors:
     image: /img/sponsors/apogee-orlando.webp
     link: "https://www.apogeestrongorlando.com/"
     details: "Apogee Strong Orlando is an innovative private school that fosters an environment where children are free to explore their passions, develop physical health alongside academic excellence, and cultivate a supportive community of families committed to growing together. We believe every child has unique, God-given gifts, and our campus is intentionally designed to nurture these individual strengths while igniting a lifelong love of learning. Our mission goes beyond traditional textbooks and rigid curricula; through a child-centered approach, we focus on developing character, resilience, creativity, competence, and confidence. With low student-teacher ratios and engaging, hands-on learning experiences, we are dedicated to preparing children for life, not just passing exams."
+  - company: Elizabeth Bevill
+    image: /img/sponsors/elizabeth-bevill.webp
+    link: "https://www.marykay.com/EBevill"
+    details: |
+      Hello everyone! Elizabeth here, your Mary Kay gal! 💖 A little about me. I have 2 grown children. 1 doggie girl and 3 granddoggies! I hope to start traveling the US in an RV 🚍🏞, with my hubby in the next year!
+
+      I have had my Mary Kay business for over 4 years and love 💞 everything about it. Have gained so much confidence, love the girlfriend time 👭, meeting new friends and reconnecting with old friends, the amazing skincare and the fabulous training❣️
+
+      Can't wait to see y'all all the sale and show what's new with Mary Kay! 💕
   - company: LifeSkills
     image: /img/sponsors/lifeskills.webp
     link: "https://www.lifeskillscenter.com/"
