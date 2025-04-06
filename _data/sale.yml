@@ -50,6 +50,8 @@
   register: "Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/)."
 06_sunday:
   home: |-
+    [Volunteer](/volunteers/) slots are still available!
+
     Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
