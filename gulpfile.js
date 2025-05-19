@@ -7,7 +7,7 @@ import gulpSass from 'gulp-sass';
 const sass = gulpSass(dartSass);
 import terser from 'gulp-terser';
 import postcss from 'gulp-postcss';
-import purgecss from '@fullhuman/postcss-purgecss';
+import { purgeCSSPlugin } from '@fullhuman/postcss-purgecss';
 import cssnano from 'cssnano';
 import removeComments from 'postcss-discard-comments';
 import sourcemaps from 'gulp-sourcemaps';
@@ -16,7 +16,7 @@ import { default as log } from 'fancy-log';
 // Dev
 export const cssDev = () => gulp.src('./_css/style.scss')
     .pipe(sass({
-      includePaths: [
+      loadPaths: [
         './_css',
         './node_modules/bootstrap/scss',
       ],
@@ -55,12 +55,20 @@ export const jekyllServe = () => {
 // Prod
 export const cssProd = () => gulp.src('./_css/style.scss')
     .pipe(sass({
-      includePaths: [
+      loadPaths: [
         './_css',
         './node_modules/bootstrap/scss',
       ],
     })
     .on('error', sass.logError))
+    .pipe(postcss([purgeCSSPlugin({
+        content: [
+          '_site/**/*.html',
+        ]
+      }),
+      removeComments({ removeAll: true }),
+      cssnano()
+    ]))
     .pipe(gulp.dest('./_site/css'));
 
 export const jsProd = () => gulp.src([
