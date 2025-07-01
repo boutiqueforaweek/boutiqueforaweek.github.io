@@ -6,11 +6,11 @@ permalink: /events/
 {% if site.sale_stage != '13_saturday' %}
 ## {{ site.schedule.start | ordinal }}
 
-**Drop Off**: 4:00 p.m. - 9:00 p.m
+**Drop Off**: 4:00 p.m. - 9:00 p.m.
 
 ## {{ site.schedule.dropoff | ordinal }}
 
-**Drop Off**: 9:30 a.m. - 12:30 p.m .  
+**Drop Off**: 9:30 a.m. - 12:30 p.m.  
 **8+ Hour Volunteers**: 5:00 p.m. - 9:00 p.m.  
 **4 Hour Volunteers**: 7:00 p.m. - 9:00 p.m.
 
