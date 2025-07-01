@@ -10,14 +10,14 @@ permalink: /events/
 
 ## {{ site.schedule.dropoff | ordinal }}
 
-**Drop Off**: 9:30 a.m. - 1:00 p.m.
+**Drop Off**: 9:30 a.m. - 1:00 p.m.  
 **8+ Hour Volunteers**: 5:00 p.m. - 9:00 p.m.  
 **4 Hour Volunteers**: 7:00 p.m. - 9:00 p.m.
 
 ## {{ site.schedule.presale | ordinal }}
 
-**White Tag Consignors**: 12:00 p.m. - 8:00 p.m.
-**Consignors**: 1:00 p.m. - 8:00 p.m.
+**White Tag Consignors**: 12:00 p.m. - 8:00 p.m.  
+**Consignors**: 1:00 p.m. - 8:00 p.m.  
 **New/Expecting Moms**: 4:00 p.m. - 8:00 p.m.  
 **Friends of Consignors**: 6:00 p.m. - 8:00 p.m.
 
@@ -28,7 +28,7 @@ permalink: /events/
 
 ## {{ site.schedule.restocking | ordinal }}
 
-**Open to the Public**: 1:00 p.m. - 9:00 p.m.
+**Open to the Public**: 1:00 p.m. - 9:00 p.m.  
 **50% off for Consignors and Volunteers**: 4:00 p.m. - 9:00 p.m.
 
 ## {{ site.schedule.sale_end | ordinal }}
