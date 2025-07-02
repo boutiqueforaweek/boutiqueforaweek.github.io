@@ -29,7 +29,7 @@ permalink: /events/
 ## {{ site.schedule.restocking | ordinal }}
 
 **Open to the Public**: 1:00 p.m. - 9:00 p.m.  
-**50% off for Consignors and Volunteers**: 4:00 p.m. - 9:00 p.m.
+**50% off for Consignors and Volunteers**: 5:00 p.m. - 9:00 p.m.
 
 ## {{ site.schedule.sale_end | ordinal }}
 
