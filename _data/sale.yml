@@ -5,7 +5,7 @@
   volunteers: "[Volunteer](/volunteers/) registration for our [season_year] Sale opens soon."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/519778797394345/){:target='_blank'} so we know you're coming!"
   register: "Registration opens soon to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our [season_year] Sale!"
-  register_fee: "Registration is done on a first come first serve basis. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
+  register_fee: "Registration is done on a first come first serve basis. We charge a $15 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 02_before:
   home: |
     [Registration](/register/) is open to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our [season_year] Sale!
@@ -16,7 +16,7 @@
   volunteers: "[Volunteer registration](/register/) is now open for our [season_year] Sale."
   moms_night: "[RSVP to our event page on Facebook](https://www.facebook.com/events/519778797394345/){:target='_blank'} so we know you're coming!"
   register: "Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our [season_year] Sale!"
-  register_fee: "Registration is done on a first come first serve basis. We charge a $12 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
+  register_fee: "Registration is done on a first come first serve basis. We charge a $15 Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 03_before:
   home: |
     [Registration](/register/) is open to [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers) for our [season_year] Sale!
