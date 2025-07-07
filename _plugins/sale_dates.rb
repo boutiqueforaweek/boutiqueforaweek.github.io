@@ -46,8 +46,8 @@ module Jekyll
         'presale' => "#{@presale.strftime('%B %-d')}#{ordinal(@presale.strftime('%-d'))}",
         'moms_night' => "#{@sale_start.strftime('%B %-d')}#{ordinal(@sale_start.strftime('%-d'))} from 8:00 p.m. until 10:00 p.m.",
         'discount_shopping' => "#{@sale_end.strftime('%B %-d')}#{ordinal(@sale_end.strftime('%-d'))} from 2:00 p.m. until 8:00 p.m.",
-        'dropoff' =>  "#{@start_date.strftime('%A, %B %-d')}#{ordinal(@start_date.strftime('%-d'))} from 4:00 p.m. to 9:00 p.m. and #{@dropoff.strftime('%A, %B %-d')}#{ordinal(@dropoff.strftime('%-d'))} from 9:30 a.m. to 12:30 p.m.",
-        'pickup' => "#{@pickup.strftime('%A, %B %-d')}#{ordinal(@pickup.strftime('%-d'))} from 10:00 a.m. – 1:00 p.m.",
+        'dropoff' =>  "#{@start_date.strftime('%A, %B %-d')}#{ordinal(@start_date.strftime('%-d'))} from 4:00 p.m. to 9:00 p.m. and #{@dropoff.strftime('%A, %B %-d')}#{ordinal(@dropoff.strftime('%-d'))} from 10:00 a.m. to 1:00 p.m.",
+        'pickup' => "#{@pickup.strftime('%A, %B %-d')}#{ordinal(@pickup.strftime('%-d'))} from 9:30 a.m. – 12:30 p.m.",
       }
     end
 

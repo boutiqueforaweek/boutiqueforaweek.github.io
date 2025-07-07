@@ -10,7 +10,7 @@ permalink: /events/
 
 ## {{ site.schedule.dropoff | ordinal }}
 
-**Drop Off**: 9:30 a.m. - 1:00 p.m.  
+**Drop Off**: 10:00 a.m. - 1:00 p.m.  
 **8+ Hour Volunteers**: 5:00 p.m. - 9:00 p.m.  
 **4 Hour Volunteers**: 7:00 p.m. - 9:00 p.m.
 
