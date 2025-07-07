@@ -1,6 +1,37 @@
 ---
 title: Cardstock Color List
 permalink: /consignors/cardstock-color-list/
+cardstocks:
+  -
+    color: White
+    link: "https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B078QT91M5/"
+    details: Donate unsold items after sale
+    class: white
+  -
+    color: Pastel Blue
+    link: "https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B072FMN6J4/"
+    details: Last name A - C
+    class: blue
+  -
+    color: Pastel Pink
+    link: "https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B0738MXCCV"
+    details: Last name D - G
+    class: pink
+  -
+    color: Pastel Green
+    link: "https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B071HZVKMJ/"
+    details: Last name H - M
+    class: green
+  -
+    color: Yellow
+    link: "https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B072FMM7TM/"
+    details: Last name N - S
+    class: yellow
+  -
+    color: Orange
+    link: "https://www.amazon.com/Pumpkin-Orange-Cardstock-Cover-Sheets/dp/B07G2TQNXY/"
+    details: Last name T - Z
+    class: orange
 ---
 
 <p>It is required to print tags on <span style="text-decoration: underline;">pastel colored cardstock</span>. Dark colors cause difficulty with scanning at check-out. Please use the appropriate color cardstock for your items. This allows us to easily identify your items and speeds up the sorting process at the end of the sale.</p>
@@ -15,30 +46,12 @@ permalink: /consignors/cardstock-color-list/
     </tr>
   </thead>
   <tbody>
-    <tr class="white">
-      <td><a href="https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B078QT91M5/" target="_blank">White</a></td>
-      <td>Donate unsold items after sale</td>
+    {% for cardstock in page.cardstocks %}
+    <tr class="{{ cardstock.class }}">
+      <td><a href="{{ cardstock.link }}" target="_blank">{{ cardstock.color }}</a></td>
+      <td>{{ cardstock.details }}</td>
     </tr>
-    <tr class="blue">
-      <td><a href="https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B072FMN6J4/" target="_blank">Pastel Blue</a></td>
-      <td>Last name A - C</td>
-    </tr>
-    <tr class="pink">
-      <td><a href="https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B0738MXCCV/" target="_blank">Pastel Pink</a></td>
-      <td>Last name D - G</td>
-    </tr>
-    <tr class="green">
-      <td><a href="https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B071HZVKMJ/" target="_blank">Pastel Green</a></td>
-      <td>Last name H - M</td>
-    </tr>
-    <tr class="yellow">
-      <td><a href="https://www.amazon.com/Cover-Stock-Letter-Sheets-Pastel/dp/B072FMM7TM/" target="_blank">Yellow</a></td>
-      <td>Last name N - S</td>
-    </tr>
-    <tr class="orange">
-      <td><a href="https://www.amazon.com/Pumpkin-Orange-Cardstock-Cover-Sheets/dp/B07G2TQNXY/" target="_blank">Orange</a></td>
-      <td>Last name T - Z</td>
-    </tr>
+    {% endfor %}
   </tbody>
 </table>
 
