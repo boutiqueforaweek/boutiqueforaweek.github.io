@@ -34,7 +34,7 @@ h1 {
   background: url("/img/hr.png") no-repeat 0 44px;
   color: #b62041;
   font-family: "SignPainter";
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 100;
   line-height: 55px;
   margin-bottom: 10px;
@@ -42,7 +42,7 @@ h1 {
 
 @include media-breakpoint-up(sm) {
   h1 {
-    font-size: 48px;
+    font-size: 40px;
   }
 }
 
