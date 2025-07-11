@@ -11,7 +11,7 @@ Any Consignor can choose to designate some of her items for donation by tagging 
 
 If you elect to tag all your items with white cardstock, you can shop our Consignor Pre-Sale one hour earlier than regular Consignors.{% if site.sale_stage != '13_saturday' %} The Pre-Sale is {{ site.dates.presale }} from 12:00 p.m. until 8:00 p.m.{% endif %} **White Tag Consignors may begin shopping at 12:00 pm.**
 
-**White Tag Consignors may bring a spouse, grandparent and/or children under 18 to shop during the [White Tag Consignor Pre-Sale](/events/) shopping time. No sisters, friends, aunts, etc. We are not able to make exceptions. Please only bring children if absolutely necessary. <u>Children under 12 must remain with a parent at all times</u>.{% if site.sale_stage != '13_saturday' %}(Friends can shop our [Friends of Consignor's Pre-Sale](/events/) that night from 6:00 p.m. - 8:00 p.m.).{% endif %}**
+**White Tag Consignors may bring a spouse, grandparent and/or children under 18 to shop during the [White Tag Consignor Pre-Sale](/events/) shopping time. No sisters, friends, aunts, etc. We are not able to make exceptions. Please only bring children if absolutely necessary. <u>Children under 12 must remain with a parent at all times</u>.{% if site.sale_stage != '13_saturday' %} Friends can shop our [Friends of Consignor's Pre-Sale](/events/) that night from 6:00 p.m. - 8:00 p.m.{% endif %}**
 
 Only Consignors with ALL white tags can shop early. If you decide after Drop Off to have your items donated, but the items are printed on colored cardstock, you will not be eligible to shop until the regular Consignor Pre-Sale.
 
