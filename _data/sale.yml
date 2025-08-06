@@ -30,7 +30,7 @@
   register_fee: "Registration is done on a first come first serve basis. We charge a $10 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable."
 04_before:
   home: |-
-    [Registration](/register/) is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers) for our [season_year] Sale!
+    [Registration](/register/) is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers/) and the [New Mom's Presale](/shoppers/first-time-moms/) for our [season_year] Sale!
 
     Our [[season_year] Sale](/events/) runs [sale_start] through [sale_end] at [Metro Life Church](/events/map-location/)!
   consignors: "[Registration](/register/) is now closed."
