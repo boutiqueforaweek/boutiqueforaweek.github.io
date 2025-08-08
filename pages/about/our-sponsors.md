@@ -24,6 +24,10 @@ sponsors:
       But I borrowed someone else’s belief in me... until I found my own.
       Today, I’m a Certified Personal Trainer & Nutrition Coach with a thriving garage gym right here in Casselberry (literal dream come true!), and I’ve helped dozens of women ditch the all-or-nothing thinking and finally find what works.
       I created Be Well Coaching to give women the kind of support I wish I had — not just accountability, but compassion, honesty, and a real relationship.
+  - company: Fun 4 Seminole Kids
+    image: /img/sponsors/fun4seminolekids.webp
+    link: "https://www.fun4seminolekids.com/"
+    details: "Fun4SeminoleKids.com is your local resource for family friendly events and activities in Seminole County! Our website includes a Calendar and Directory detailing kids events, children programs and classes, youth sports, kids eat free directory, birthday party resources, rainy day activities, free fun for kids, summer camps and MORE fun things for kids and families to do in and around Seminole County."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
