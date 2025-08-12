@@ -356,6 +356,20 @@ a img {
   }
 }
 
+#sponsors {
+  > div {
+    padding: 0;
+
+    @include media-breakpoint-up(md) {
+      columns: 2;
+    }
+
+    > div {
+      break-inside: avoid-column;
+    }
+  }
+}
+
 #footer {
   .sign {
     background: #faf8e8 url(../img/bow.png) no-repeat right bottom;
