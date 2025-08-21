@@ -30,8 +30,12 @@ sponsors:
     details: "Fun4SeminoleKids.com is your local resource for family friendly events and activities in Seminole County! Our website includes a Calendar and Directory detailing kids events, children programs and classes, youth sports, kids eat free directory, birthday party resources, rainy day activities, free fun for kids, summer camps and MORE fun things for kids and families to do in and around Seminole County."
   - company: Kylene Chin
     image: /img/sponsors/kylene-chin.webp
-    link: "https://www.kylenechin.com"
+    link: "https://www.kylenechin.com/"
     details: Are you tired of not getting answers about your own body and health issues? As a holistic, natural health practitioner, I’m not here to mask your symptoms. We want to get to the source so you feel like you, again! That means we’ll assess your whole body and its God-designed, interconnected systems. We’ll use a few techniques; some of which include analysis of the face, tongue, and nails, pH of the saliva and urine, iridology, Muscle Response Testing (MRT), and more. We’re here to offer natural, holistic solutions. Most importantly we’re looking at you as an individual. Together we can help you regain your health so you can live life, naturally!
+  - company: Stacy Wilson
+    image: /img/sponsors/stacy-wilson.webp
+    link: "https://www.sswilsonrealestate.com/"
+    details: Hello, I’m Stacy Wilson, Realtor with EXIT Global Realty. With years of experience serving Central Florida, I take pride in helping home buyers and sellers achieve their real estate goals with skill, professionalism, responsiveness, and care. Thinking about making a move or investing in your future? Let’s connect and make your real estate dreams a reality.
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
