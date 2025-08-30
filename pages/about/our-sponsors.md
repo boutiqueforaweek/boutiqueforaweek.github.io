@@ -12,7 +12,7 @@ sponsors:
     details: "Ashleigh & Victoria are the proud mother daughter boutique business owners of LuLaRoe by Ash & Tori. We offer a wide range of sizes from XXS-3XL for women and sizes 2-12 for kids and we carry styles that ladies of all shapes, sizes, and ages can love. One of our greatest passions is working as personal stylists—helping women feel beautiful in their own skin and confident in what they wear. Over 9 years, we have built strong relationships with our community by focusing on quality, affordability, and personalized service. Fashion is more than just clothing—it's about expression, empowerment, and feeling good from the inside out, and our goal has always been to make that experience accessible to every woman who walks into our boutique. We carry tops, dresses, kimonos, cardigans, shorts, skorts, dress pants, a fitness collection, buttery soft leggings, and more. We host monthly Open Houses, offer private in-person shopping appointments to try on LuLaRoe, and we ship across the United States. We would be honored to meet you and help you find styles you love!"
   - company: Be Well Coaching
     image: /img/sponsors/bewell-coaching.webp
-    link: "http://www.instagram.com/becca_brinkley"
+    link: "https://www.bewellmethod.com/"
     details: |
       Hi! I’m Becca. Certified Personal Trainer. Nutrition Coach. 90+ lb lost. Coach for women ready to feel strong again.
       I was 262 lbs, exhausted, overwhelmed, and hiding from every mirror & public activity.
