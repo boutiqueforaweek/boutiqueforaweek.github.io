@@ -36,6 +36,10 @@ sponsors:
     image: /img/sponsors/stacy-wilson.webp
     link: "https://www.sswilsonrealestate.com/"
     details: Hello, I’m Stacy Wilson, Realtor with EXIT Global Realty. With years of experience serving Central Florida, I take pride in helping home buyers and sellers achieve their real estate goals with skill, professionalism, responsiveness, and care. Thinking about making a move or investing in your future? Let’s connect and make your real estate dreams a reality.
+  - company: Watermark
+    image: /img/sponsors/watermark.webp
+    link: "http://www.bewatermark.com/"
+    details: Watermark Homeschool Enrichment is a Christian non-profit and a leading resource for Central Florida's homeschooling families. Offering a one-day-a-week program at two Orlando-area locations, providing students with engaging à la carte classes. Courses are taught by local business partners and professionals, covering everything from art and science to technology and life skills. Beyond the classes, they offer enriching activities like field trips, middle and high school outings, and special events.
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
