@@ -1,14 +1,14 @@
 name: Sale Week Updates
 on:
   schedule:
-    - cron: "0 7 6 4 *"  # 06_sunday
-    - cron: "0 4 7 4 *"  # 07_monday
-    - cron: "0 4 8 4 *"  # 08_tuesday
-    - cron: "0 4 9 4 *"  # 09_wednesday
-    - cron: "0 4 10 4 *"  # 10_thursday
-    - cron: "0 4 11 4 *"  # 11_friday_1
-    - cron: "0 21 12 4 *" # 12_friday_2
-    - cron: "0 17 13 4 *" # 13_saturday
+    - cron: "0 7 14 9 *"  # 06_sunday
+    - cron: "0 4 15 9 *"  # 07_monday
+    - cron: "0 4 16 9 *"  # 08_tuesday
+    - cron: "0 4 17 9 *"  # 09_wednesday
+    - cron: "0 4 18 9 *"  # 10_thursday
+    - cron: "0 4 19 9 *"  # 11_friday_1
+    - cron: "0 21 20 9 *" # 12_friday_2
+    - cron: "0 17 21 9 *" # 13_saturday
 permissions:
   contents: read
   pages: write
