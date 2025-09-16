@@ -4,7 +4,7 @@ description: >-
 url: "https://boutiqueforaweek.com"
 email: info@boutiqueforaweek.com
 sale_start: "2025-09-14"
-sale_stage: "06_sunday"
+sale_stage: "08_tuesday"
 plugins:
   - jekyll-paginate-v2
   - jekyll-redirect-from
