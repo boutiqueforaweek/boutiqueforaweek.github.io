@@ -35,28 +35,28 @@ jobs:
       - name: Install npm packages
         run: npm install
       - name: Sunday build
-        if: github.event.schedule == '0 7 6 4 *'
+        if: github.event.schedule == '0 7 14 9 *'
         run: JEKYLL_ENV=06_sunday gulp build
       - name: Monday build
-        if: github.event.schedule == '0 4 7 4 *'
+        if: github.event.schedule == '0 4 15 9 *'
         run: JEKYLL_ENV=07_monday gulp build
       - name: Tuesday build
-        if: github.event.schedule == '0 4 8 4 *'
+        if: github.event.schedule == '0 4 16 9 *'
         run: JEKYLL_ENV=08_tuesday gulp build
       - name: Wednesday build
-        if: github.event.schedule == '0 4 9 4 *'
+        if: github.event.schedule == '0 4 17 9 *'
         run: JEKYLL_ENV=09_wednesday gulp build
       - name: Thursday build
-        if: github.event.schedule == '0 4 10 4 *'
+        if: github.event.schedule == '0 4 18 9 *'
         run: JEKYLL_ENV=10_thursday gulp build
       - name: Friday pt1 build
-        if: github.event.schedule == '0 4 11 4 *'
+        if: github.event.schedule == '0 4 19 9 *'
         run: JEKYLL_ENV=11_friday_1 gulp build
       - name: Friday pt2 build
-        if: github.event.schedule == '0 21 12 4 *'
+        if: github.event.schedule == '0 21 20 9 *'
         run: JEKYLL_ENV=12_friday_2 gulp build
       - name: Saturday build
-        if: github.event.schedule == '0 17 13 4 *'
+        if: github.event.schedule == '0 17 21 9 *'
         run: JEKYLL_ENV=13_saturday gulp build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
