@@ -2,44 +2,6 @@
 title: Our Sponsors
 permalink: /about/our-sponsors/
 sponsors:
-  - company: Whatever is Pure
-    image: /img/sponsors/whatever-is-pure.webp
-    link: "https://www.whateverispure.net/"
-    details: "Whatever Is Pure, LLC is a home bakery in Lake Mary making delicious organic chemical-free breads and skin care products. Everything is made to order. Bread can be healthy and nutritious! I mill the flour at home so there are no chemicals involved and all the nutrients are preserved. Wheat naturally has a lot of fiber, protein and B-complex vitamins but they are lost in the process of making flour in factories. Skin care should be helping your skin, not destroying it. I battled eczema and skin allergies for years. My lotion, deodorant, laundry soap and lip balm soothe skin, heal small cuts and (along with an anti-inflammatory and chemical free diet) took away the eczema."
-  - company: LuLaRoe by Ash & Tori
-    image: /img/sponsors/ash-and-tori.webp
-    link: "https://shop.lularoebless.com/RoeinbyAshandTor"
-    details: "Ashleigh & Victoria are the proud mother daughter boutique business owners of LuLaRoe by Ash & Tori. We offer a wide range of sizes from XXS-3XL for women and sizes 2-12 for kids and we carry styles that ladies of all shapes, sizes, and ages can love. One of our greatest passions is working as personal stylists—helping women feel beautiful in their own skin and confident in what they wear. Over 9 years, we have built strong relationships with our community by focusing on quality, affordability, and personalized service. Fashion is more than just clothing—it's about expression, empowerment, and feeling good from the inside out, and our goal has always been to make that experience accessible to every woman who walks into our boutique. We carry tops, dresses, kimonos, cardigans, shorts, skorts, dress pants, a fitness collection, buttery soft leggings, and more. We host monthly Open Houses, offer private in-person shopping appointments to try on LuLaRoe, and we ship across the United States. We would be honored to meet you and help you find styles you love!"
-  - company: Be Well Coaching
-    image: /img/sponsors/bewell-coaching.webp
-    link: "https://www.bewellmethod.com/"
-    details: |
-      Hi! I’m Becca. Certified Personal Trainer. Nutrition Coach. 90+ lb lost. Coach for women ready to feel strong again.
-      I was 262 lbs, exhausted, overwhelmed, and hiding from every mirror & public activity.
-      I had no energy to say yes to my kids, no confidence in myself — and no idea how to start.
-      But I borrowed someone else’s belief in me... until I found my own.
-      Today, I’m a Certified Personal Trainer & Nutrition Coach with a thriving garage gym right here in Casselberry (literal dream come true!), and I’ve helped dozens of women ditch the all-or-nothing thinking and finally find what works.
-      I created Be Well Coaching to give women the kind of support I wish I had — not just accountability, but compassion, honesty, and a real relationship.
-  - company: Tie A Bow On
-    image: /img/sponsors/tie-a-bow-on.webp
-    link: "https://tieabowon.etsy.com/"
-    details: "I am a mother of 3 boys and Grandmother to 3. I have been making bows for over  12 years now. I have been a Vendor at BFAW since Fall of 2015. I love BFAW and seeing so many repeat customers and watching their children grow up. All my bows are handmade by me."
-  - company: Fun 4 Seminole Kids
-    image: /img/sponsors/fun4seminolekids.webp
-    link: "https://www.fun4seminolekids.com/"
-    details: "Fun4SeminoleKids.com is your local resource for family friendly events and activities in Seminole County! Our website includes a Calendar and Directory detailing kids events, children programs and classes, youth sports, kids eat free directory, birthday party resources, rainy day activities, free fun for kids, summer camps and MORE fun things for kids and families to do in and around Seminole County."
-  - company: Kylene Chin
-    image: /img/sponsors/kylene-chin.webp
-    link: "https://www.kylenechin.com/"
-    details: Are you tired of not getting answers about your own body and health issues? As a holistic, natural health practitioner, I’m not here to mask your symptoms. We want to get to the source so you feel like you, again! That means we’ll assess your whole body and its God-designed, interconnected systems. We’ll use a few techniques; some of which include analysis of the face, tongue, and nails, pH of the saliva and urine, iridology, Muscle Response Testing (MRT), and more. We’re here to offer natural, holistic solutions. Most importantly we’re looking at you as an individual. Together we can help you regain your health so you can live life, naturally!
-  - company: Stacy Wilson
-    image: /img/sponsors/stacy-wilson.webp
-    link: "https://www.sswilsonrealestate.com/"
-    details: Hello, I’m Stacy Wilson, Realtor with EXIT Global Realty. With years of experience serving Central Florida, I take pride in helping home buyers and sellers achieve their real estate goals with skill, professionalism, responsiveness, and care. Thinking about making a move or investing in your future? Let’s connect and make your real estate dreams a reality.
-  - company: Watermark
-    image: /img/sponsors/watermark.webp
-    link: "http://www.bewatermark.com/"
-    details: Watermark Homeschool Enrichment is a Christian non-profit and a leading resource for Central Florida's homeschooling families. Offering a one-day-a-week program at two Orlando-area locations, providing students with engaging à la carte classes. Courses are taught by local business partners and professionals, covering everything from art and science to technology and life skills. Beyond the classes, they offer enriching activities like field trips, middle and high school outings, and special events.
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
