@@ -3,8 +3,8 @@ description: >-
   Voted Best Kids Consignment Sale in Central Florida
 url: "https://boutiqueforaweek.com"
 email: info@boutiqueforaweek.com
-sale_start: "2025-09-14"
-sale_stage: "08_tuesday"
+sale_start: "2026-04-12"
+sale_stage: "01_before"
 plugins:
   - jekyll-paginate-v2
   - jekyll-redirect-from
