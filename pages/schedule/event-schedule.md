@@ -17,7 +17,7 @@ permalink: /events/event-schedule/
 ## Boutique For A Week is open to the Public:
 
 * {{ site.schedule.sale_start | ordinal }}, 5:00 p.m. - 10:00 p.m.
-* {{ site.schedule.restocking | ordinal }}, 1:00 p.m. - 9:00 p.m.
+* {{ site.schedule.restocking | ordinal }}, 12:00 p.m. - 9:00 p.m.
 * {{ site.schedule.sale_end | ordinal }}, 10:00 a.m. - 5:00 p.m., 50% off* sale
 
 _*50% off applies only to items designated by the Consignor._
