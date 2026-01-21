@@ -13,6 +13,10 @@ permalink: /events/
 
 **Drop Off**: 10:00 a.m. - 1:00 p.m.  
 
+## {{ site.schedule.sale_start | ordinal }}
+
+**Restocking Drop Off**: 12:00 p.m. - 2:00 p.m.  
+
 ## {{ site.schedule.pickup | ordinal }}
 
 **Pick Up**: 9:30 a.m. - 12:30 p.m.
