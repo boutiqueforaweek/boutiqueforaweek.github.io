@@ -18,9 +18,24 @@
         {
           "@type": "Organization",
           "@id": "https://boutiqueforaweek.com/#organization",
-          "url": "https://boutiqueforaweek.com/",
           "name": "Boutique For A Week",
-          "sameAs": []
+          "url": "https://boutiqueforaweek.com/",
+          "image": "https://boutiqueforaweek.com/img/bfaw-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "910 S Winter Park Dr",
+            "addressLocality": "Casselberry",
+            "addressRegion": "FL",
+            "postalCode": "32707",
+            "addressCountry": "US"
+          },
+          "telephone": "+1-407-797-1582",
+          "email": "info@boutiqueforaweek.com",
+          "sameAs": [
+            "https://www.facebook.com/BoutiqueForAWeek",
+            "https://x.com/Boutique4AWeek",
+            "https://www.instagram.com/boutiqueforaweek"
+          ]
         }, {
           "@type": "WebSite",
           "@id": "https://boutiqueforaweek.com/#website",
@@ -31,8 +46,8 @@
           }
         }, {
           "@type": "WebPage",
-          "@id": "https://boutiqueforaweek.com#webpage",
-          "url": "https://boutiqueforaweek.com",
+          "@id": "https://boutiqueforaweek.com/#webpage",
+          "url": "https://boutiqueforaweek.com/",
           "inLanguage": "en-US",
           "name": "Boutique For A Week",
           "isPartOf": {
@@ -40,13 +55,14 @@
           },
           "description": "Voted BEST Kids Consignment Sale in Orlando. Consignors sell everything you need from baby to teen.",
           "datePublished": "2022-06-27T05:00:24-04:00",
-          "dateModified": "2022-06-27T05:00:24-04:00",
+          "dateModified": "{{ 'now' | date: "%Y-%m-%dT%H:%M:%S%:z" }}",
           "about": {
             "@id": "https://boutiqueforaweek.com/#organization"
           }
   {% if page.url == "/events/event-schedule/" %}
         }, {
-          "@type": "Event",
+          "@type": "ChildrensEvent",
+          "@id": "https://boutiqueforaweek.com/#spring2026event",
           "name": "Boutique for a Week - {{ site.dates.season }} Sale",
           "description": "{{ site.description }}",
           "location": {
@@ -64,7 +80,14 @@
           },
           "startDate": "{{ site.schedule.sale_start }}",
           "endDate": "{{ site.schedule.sale_end }}",
-          "url": "https://www.mysalemanager.net/reg_start.aspx?partnercode=BFAW&type=new",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "url": "https://boutiqueforaweek.com/register/",
+          "organizer": {
+            "@type": "Person",
+            "name": "Kendall Volkman",
+            "email": "info@boutiqueforaweek.com"
+          },
           "image": "https://boutiqueforaweek.com/img/bfaw-logo.png"
   {% endif %}
         }
