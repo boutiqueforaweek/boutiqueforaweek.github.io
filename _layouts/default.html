@@ -8,10 +8,10 @@
   {% include header.html %}
   <div class="row g-0">
     <div id="col_left" class="d-none d-lg-block col-lg-3 p-5">
-      {%- if page.section != 'consignors' -%}
-      <img src="/img/{{ page.section }}_menu.webp" alt="{{ page.section }} header" width="195" height="38" />
+      {%- if section != 'consignors' -%}
+      <img src="/img/{{ section }}_menu.webp" alt="{{ section }} header" width="195" height="38" />
       <ul>
-        {% for item in site.data.menus[page.section] %}
+        {% for item in menus[section] %}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
         {% endfor %}
       </ul>
@@ -20,7 +20,7 @@
       {%- for menu in menus %}
       <img src="/img/{{ menu }}_menu.webp" alt="{{ menu }} header" width="195" height="38" />
       <ul>
-        {% for item in site.data.menus[menu] -%}
+        {% for item in menus[menu] -%}
         {%- unless site.sale_stage != '04_before' and item.title == 'Restocking Consignors' -%}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
         {% endunless -%}
@@ -28,11 +28,11 @@
       </ul>
       {%- endfor -%}
       {%- endif %}
-      <img src="{{ page.image }}" alt="{{ page.section }} section" class="img-fluid mt-5" width="{{ page.image_width }}" height="{{ page.image_height }}" loading="lazy" />
+      <img src="{{ image }}" alt="{{ section }} section" class="img-fluid mt-5" width="{{ page.image_width }}" height="{{ page.image_height }}" loading="lazy" />
     </div>
     <div id="col_right" class="col-12 col-lg-9">
       <div>
-        <h1>{{ page.title }}</h1>
+        <h1>{{ title | default: page.title }}</h1>
         {{ content }}
       </div>
     </div>

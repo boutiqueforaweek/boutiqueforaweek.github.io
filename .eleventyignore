@@ -1,0 +1,13 @@
+node_modules
+_config.yml
+_plugins
+.github
+Gemfile
+Gemfile.lock
+gulpfile.js
+package.json
+package-lock.json
+.gitignore
+.spellcheck.yml
+.wordlist.txt
+.eleventyignore

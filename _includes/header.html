@@ -16,14 +16,14 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto me-0 me-xxl-auto text-end">
-            {%- for item in site.data.menus.navigation %}
-            <li class="nav-item {{ item.identifier }}{% if item.identifier == current_menu %} active{% endif %}{% unless site.data.menus[item.identifier] == empty %} dropdown{% endunless %}">
-              <a class="nav-link{%- unless site.data.menus[item.identifier] == empty %} dropdown-toggle{%- endunless -%}"{%- unless site.data.menus[item.identifier] == empty %} data-bs-toggle="dropdown"{%- endunless %} href="{{ item.url }}">{{ item.title }}</a>
-              {% unless site.data.menus[item.identifier] == empty -%}
+            {%- for item in menus.navigation %}
+            <li class="nav-item {{ item.identifier }}{% if item.identifier == current_menu %} active{% endif %}{% unless menus[item.identifier] == empty %} dropdown{% endunless %}">
+              <a class="nav-link{%- unless menus[item.identifier] == empty %} dropdown-toggle{%- endunless -%}"{%- unless menus[item.identifier] == empty %} data-bs-toggle="dropdown"{%- endunless %} href="{{ item.url }}">{{ item.title }}</a>
+              {% unless menus[item.identifier] == empty -%}
               <ul class="dropdown-menu text-end{%- if current_menu == item.identifier %} show{%- endif -%}">
               {%- if item.identifier == 'consignors' -%}
               {%- for menu in consignor_menus -%}
-                {%- for subitem in site.data.menus[menu] %}
+                {%- for subitem in menus[menu] %}
                 {%- unless site.sale_stage != '04_before' and subitem.title == 'Restocking Consignors' -%}
                 <li{% if subitem.identifier == current_menu %} class="active"{% endif %}>
                   <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
@@ -32,7 +32,7 @@
                 {%- endfor -%}
               {% endfor %}
               {%- else -%}
-              {%- for subitem in site.data.menus[item.identifier] %}
+              {%- for subitem in menus[item.identifier] %}
                 <li{% if subitem.identifier == current_menu %} class="active"{% endif %}>
                   <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
                 </li>

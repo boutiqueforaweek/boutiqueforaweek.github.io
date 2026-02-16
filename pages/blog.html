@@ -1,27 +1,30 @@
 ---
 title: Blogs
 description: "Tips, stories and updates from Boutique for a Week. Consignment advice, parenting tips and news from Orlando's best children's consignment sale."
-permalink: /blog/
-pagination:
-  enabled: true
 layout: blog
+pagination:
+  data: collections.posts
+  size: 10
+  alias: posts
+  reverse: true
+permalink: "blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}index.html"
 ---
 
-{% for post in paginator.posts %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<p>{{ post.excerpt }}</p>
+{% for post in posts %}
+<h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+<p>{{ post.templateContent | strip_html | truncate: 200 }}</p>
 {% endfor %}
 
-{% if paginator.total_pages > 1 %}
+{% if pagination.hrefs.size > 1 %}
 <ul>
-  {% if paginator.previous_page %}
+  {% if pagination.href.previous %}
   <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+    <a href="{{ pagination.href.previous }}">Newer</a>
   </li>
   {% endif %}
-  {% if paginator.next_page %}
+  {% if pagination.href.next %}
   <li>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+    <a href="{{ pagination.href.next }}">Older</a>
   </li>
   {% endif %}
 </ul>

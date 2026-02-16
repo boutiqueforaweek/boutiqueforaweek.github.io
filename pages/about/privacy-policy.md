@@ -2,6 +2,9 @@
 title: Privacy Policy
 description: "Boutique for a Week's privacy policy. How we collect, use and protect your personal information."
 permalink: /privacy-policy/
+layout: default
+section: about
+image: /img/col_left_about.webp
 ---
 
 **Effective Date: March 20, 2026**

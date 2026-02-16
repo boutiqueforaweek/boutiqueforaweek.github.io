@@ -36,19 +36,19 @@ export const jsDev = () => gulp.src([
 
 export const jsWatch = () => gulp.watch('./_js/**/*.js', jsDev);
 
-export const jekyllServe = () => {
-  const jekyll = spawn('bundle', ['exec', 'jekyll', 'serve']);
+export const eleventyServe = () => {
+  const eleventy = spawn('npx', ['@11ty/eleventy', '--serve']);
 
-  const jekyllLogger = function(buffer) {
+  const eleventyLogger = function(buffer) {
     buffer.toString()
       .split(/\n/)
       .forEach(function(message) {
-        log('Jekyll: ' + message);
+        log('Eleventy: ' + message);
       });
   };
 
-  jekyll.stdout.on('data', jekyllLogger);
-  jekyll.stderr.on('data', jekyllLogger);
+  eleventy.stdout.on('data', eleventyLogger);
+  eleventy.stderr.on('data', eleventyLogger);
 }
 
 // Prod
@@ -82,25 +82,25 @@ export const jsProd = () => gulp.src([
     }))
     .pipe(gulp.dest('_site/js'));
 
-export const jekyll = (gulpCallback) => {
-  const jekyll = spawn('bundle', ['exec', 'jekyll', 'build']);
+export const eleventy = (gulpCallback) => {
+  const eleventy = spawn('npx', ['@11ty/eleventy']);
 
-  const jekyllLogger = function(buffer) {
+  const eleventyLogger = function(buffer) {
     buffer.toString()
       .split(/\n/)
       .forEach(function(message) {
-        log('Jekyll: ' + message);
+        log('Eleventy: ' + message);
       });
   };
 
-  jekyll.stdout.on('data', jekyllLogger);
-  jekyll.stderr.on('data', jekyllLogger);
+  eleventy.stdout.on('data', eleventyLogger);
+  eleventy.stderr.on('data', eleventyLogger);
 
-  jekyll.on('exit', gulpCallback);
+  eleventy.on('exit', gulpCallback);
 }
 
-export const dev = gulp.series(cssDev, jsDev, gulp.parallel(jekyllServe, cssWatch, jsWatch));
+export const dev = gulp.series(cssDev, jsDev, gulp.parallel(eleventyServe, cssWatch, jsWatch));
 
-export const build = gulp.series(jekyll, cssProd, jsProd);
+export const build = gulp.series(eleventy, cssProd, jsProd);
 
 export default dev;

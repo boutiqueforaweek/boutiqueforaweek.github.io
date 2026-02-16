@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "build": "gulp build",
+    "dev": "gulp dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,6 +18,7 @@
   },
   "homepage": "https://github.com/boutiqueforaweek/boutiqueforaweek.github.io#readme",
   "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
     "@fullhuman/postcss-purgecss": "^7.0.0",
     "bootstrap": "^5.3.2",
     "cssnano": "^7.0.0",
@@ -26,6 +29,7 @@
     "gulp-postcss": "^10.0.0",
     "gulp-sass": "^6.0.0",
     "gulp-terser": "^2.1.0",
+    "markdown-it": "^14.1.1",
     "postcss": "^8.4.32",
     "postcss-discard-comments": "^7.0.0",
     "sass": "^1.69.5"
