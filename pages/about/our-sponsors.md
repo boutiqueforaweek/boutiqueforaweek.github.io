@@ -14,6 +14,10 @@ sponsors:
     image: /img/sponsors/tie-a-bow-on.webp
     link: "https://www.etsy.com/shop/tieabowon/"
     details: "I am a mother of 3 boys and Grandmother to 3. I have been making bows for over  12 years now. I have been a Vendor at BFAW since Fall of 2015. I love BFAW and seeing so many repeat customers and watching their children grow up. All my bows are handmade by me."
+  - company: NRG Dance
+    image: /img/sponsors/nrg-dance.webp
+    link: "https://nrg-dancestudios.weebly.com/"
+    details: "NRG Dance, located inside the Winter Park Community Center, offers dance classes for children 3-18. We offer classes for all levels of dancers. We love to have fun & DANCE, DANCE, DANCE!!! Sign up for a FREE trial class & join our dance family! Call or text with any questions 407-519-0477"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
