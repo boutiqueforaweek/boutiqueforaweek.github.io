@@ -13,7 +13,8 @@ sponsors:
   - company: Tie A Bow On
     image: /img/sponsors/tie-a-bow-on.webp
     link: "https://www.etsy.com/shop/tieabowon/"
-    details: "I am a mother of 3 boys and Grandmother to 3. I have been making bows for over  12 years now. I have been a Vendor at BFAW since Fall of 2015. I love BFAW and seeing so many repeat customers and watching their children grow up. All my bows are handmade by me."
+    details: "Meet Bethany, the owner and creator behind Tie A Bow On! With over 14 years of experience, Bethany has been handcrafting beautiful boutique-style hair bows designed to add the perfect finishing touch to any outfit.
+From solid, everyday bows in popular styles to stunning one-of-a-kind bows for special occasions, each piece is thoughtfully made with care and attention to detail. Whether it’s for school days, celebrations, or photo-perfect moments, Tie A Bow On has a bow for every occasion. Tie A Bow has been a vendor with BFAW since Fall of 2015. "
   - company: NRG Dance
     image: /img/sponsors/nrg-dance.webp
     link: "https://nrg-dancestudios.weebly.com/"
