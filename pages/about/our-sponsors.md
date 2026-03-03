@@ -19,6 +19,10 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
     image: /img/sponsors/nrg-dance.webp
     link: "https://nrg-dancestudios.weebly.com/"
     details: "NRG Dance, located inside the Winter Park Community Center, offers dance classes for children 3-18. We offer classes for all levels of dancers. We love to have fun & DANCE, DANCE, DANCE!!! Sign up for a FREE trial class & join our dance family! Call or text with any questions 407-519-0477"
+  - company: Extra Blessings
+    image: /img/sponsors/extra-blessings.webp
+    link: https://www.instagram.com/extrablessings
+    details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which a ll can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that a re close to your heart and make you happy."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
