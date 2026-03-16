@@ -23,6 +23,14 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
     image: /img/sponsors/extra-blessings.webp
     link: https://www.instagram.com/extrablessings
     details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which a ll can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that a re close to your heart and make you happy."
+  - company: Anchor Pelvic
+    image: /img/sponsors/anchor-pelvic.webp
+    link: https://www.anchorpelvicpt.com/
+    details: "Anchor Pelvic Physical Therapy is more than just a clinic, they are partners in healing. As a locally owned, women-led pelvic health practice, their team is deeply committed to creating a space where every patient feels seen, valued, and empowered. They understand that pelvic health is personal, and they strive to provide care that is not only clinically excellent, but also compassionate, respectful, and rooted in connection.
+
+Through personalized, one-on-one, hour-long sessions with no overlap, their providers take the time to listen, educate, and develop thoughtful treatment plans tailored to each individual. They treat a wide variety of pelvic health concerns and conditions using a whole-body, evidence-based approach that recognizes the connection between movement, breath, nervous system regulation, and overall well-being.
+
+Guided by strong core values and an unwavering commitment to exceptional customer service, their team prioritizes a truly patient-centered experience from the first phone call to the final visit. Anchor Pelvic is dedicated to helping individuals heal, regain confidence, and reclaim their lives, feeling strong, supported, and at home in their bodies. 💙"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
