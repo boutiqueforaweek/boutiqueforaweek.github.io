@@ -27,11 +27,14 @@
       "@context": "https://schema.org",
       "@graph": [
         {
-          "@type": "Organization",
-          "@id": "https://boutiqueforaweek.com/#organization",
+          "@type": "LocalBusiness",
+          "@id": "https://boutiqueforaweek.com/#localbusiness",
           "name": "Boutique For A Week",
+          "description": "Semi-annual children's consignment sale in Casselberry, FL serving Orlando, Seminole County and Central Florida families.",
           "url": "https://boutiqueforaweek.com/",
           "image": "https://boutiqueforaweek.com/img/bfaw-logo.png",
+          "telephone": "+1-407-797-1582",
+          "email": "info@boutiqueforaweek.com",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "910 S Winter Park Dr",
@@ -40,8 +43,24 @@
             "postalCode": "32707",
             "addressCountry": "US"
           },
-          "telephone": "+1-407-797-1582",
-          "email": "info@boutiqueforaweek.com",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 28.6482988,
+            "longitude": -81.3208809
+          },
+          "areaServed": [
+            "Orlando",
+            "Casselberry",
+            "Winter Park",
+            "Altamonte Springs",
+            "Longwood",
+            "Lake Mary",
+            "Sanford",
+            "Oviedo",
+            "Seminole County",
+            "Central Florida"
+          ],
+          "priceRange": "$",
           "sameAs": [
             "https://www.facebook.com/BoutiqueForAWeek",
             "https://x.com/Boutique4AWeek",
@@ -53,7 +72,7 @@
           "url": "https://boutiqueforaweek.com/",
           "name": "Boutique For A Week",
           "publisher": {
-            "@id": "https://boutiqueforaweek.com/#organization"
+            "@id": "https://boutiqueforaweek.com/#localbusiness"
           }
         }, {
           "@type": "WebPage",
@@ -68,7 +87,7 @@
           "datePublished": "2022-06-27T05:00:24-04:00",
           "dateModified": "{{ 'now' | date: "%Y-%m-%dT%H:%M:%S%:z" }}",
           "about": {
-            "@id": "https://boutiqueforaweek.com/#organization"
+            "@id": "https://boutiqueforaweek.com/#localbusiness"
           }
   {% if page.url == "/events/event-schedule/" %}
         }, {
