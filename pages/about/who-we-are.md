@@ -1,5 +1,6 @@
 ---
 title: Who We Are
+description: "Meet the team behind Boutique for a Week, Orlando's favorite semi-annual children's consignment sale serving Seminole County and Central Florida families."
 permalink: /about/who-we-are/
 ---
 

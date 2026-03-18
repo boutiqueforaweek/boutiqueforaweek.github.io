@@ -1,5 +1,6 @@
 ---
 title: Items Accepted
+description: "See what items are accepted at Boutique for a Week. Children's clothing, toys, baby gear, nursery furniture, maternity wear and more at our Orlando-area sale."
 permalink: /consignors/items-accepted/
 redirect_from:
   - /consignors/items-accepted/items-accepted-2/

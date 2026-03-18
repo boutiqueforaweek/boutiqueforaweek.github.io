@@ -1,5 +1,6 @@
 ---
 title: Valet Tagging
+description: "Let us tag your items for you with Boutique for a Week's valet tagging service. We handle the prep work so you can consign without the hassle."
 permalink: /consignors/valet-tagging/
 ---
 

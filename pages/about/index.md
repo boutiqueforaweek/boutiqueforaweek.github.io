@@ -1,5 +1,7 @@
 ---
 title: About
+seo_title: "About Orlando's Best Kids Consignment Sale"
+description: "Learn about Boutique for a Week, Central Florida's premier semi-annual children's consignment sale. Quality kids clothing, toys and baby gear in Casselberry, FL."
 permalink: /about/
 ---
 

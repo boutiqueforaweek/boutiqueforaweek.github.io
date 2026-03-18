@@ -1,5 +1,7 @@
 ---
 title: Consignors 101
+seo_title: "Sell Kids Clothes & Toys | Consign at Orlando's Top Sale"
+description: "Earn 65% selling your kids' gently used clothing, toys and baby gear at Boutique for a Week, Central Florida's top children's consignment sale in Casselberry, FL."
 permalink: /consignors/
 ---
 

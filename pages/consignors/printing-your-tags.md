@@ -1,5 +1,6 @@
 ---
 title: Print Your Tags
+description: "How to print consignment tags for Boutique for a Week. Cardstock requirements, printer settings and tag printing instructions for our Casselberry, FL sale."
 permalink: /consignors/items-accepted/printing-your-tags/
 ---
 

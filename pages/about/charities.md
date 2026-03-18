@@ -1,5 +1,6 @@
 ---
 title: Charities
+description: "Boutique for a Week partners with local Central Florida charities. Unsold consignment items are donated to families in need in the Orlando and Seminole County area."
 permalink: /about/charities/
 ---
 

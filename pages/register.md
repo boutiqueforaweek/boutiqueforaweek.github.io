@@ -1,5 +1,7 @@
 ---
 title: Register
+seo_title: "Register to Consign or Volunteer"
+description: "Register as a consignor or volunteer for Boutique for a Week's next children's consignment sale in Casselberry, FL. Sign up today to sell or get early shopping access."
 permalink: /register/
 ---
 

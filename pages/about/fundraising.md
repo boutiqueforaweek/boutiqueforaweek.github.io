@@ -1,5 +1,6 @@
 ---
 title: Fundraising
+description: "Use Boutique for a Week for your group's fundraiser. Schools, churches and organizations in Central Florida can raise money through our consignment sale."
 permalink: /about/fundraising/
 ---
 

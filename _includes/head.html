@@ -1,8 +1,7 @@
-  <title>{{ page.title }} | {{ site.title }}</title>
+  <title>{{ page.seo_title | default: page.title }} | {{ site.title }} - Casselberry, FL</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-  <meta name="description" content="Voted Best Kids Consignment Sale in Central Florida" />
-  <meta name="keywords" content="Orlando Kids Consignment Sale, Baby Consignment, baby, toys, infant" />
+  <meta name="description" content="{{ page.description | default: site.description }}" />
   <link rel="sitemap" type="application/xml" title="Boutique for a Week Sitemap" href="/sitemap.xml" />
   <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
   <link rel="preload" href="/fonts/SignPainter HouseScript.ttf" as="font" type="font/ttf" crossorigin>

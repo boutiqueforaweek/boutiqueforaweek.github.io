@@ -1,5 +1,6 @@
 ---
 title: Donating Unsold Items
+description: "Donate unsold consignment items to local Central Florida charities through Boutique for a Week. Learn how white tag donations work at our Casselberry sale."
 permalink: /consignors/donating-unsold-items/
 ---
 
