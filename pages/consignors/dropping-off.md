@@ -1,5 +1,6 @@
 ---
 title: Dropping Off
+description: "Everything you need to know about dropping off consignment items at Boutique for a Week. Drop-off schedule, what to bring, and tips for a smooth experience."
 permalink: /consignors/dropping-off/
 ---
 

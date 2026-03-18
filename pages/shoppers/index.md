@@ -1,5 +1,7 @@
 ---
 title: Shoppers 101
+seo_title: "Shop Gently Used Kids Clothing & Baby Gear"
+description: "Find amazing deals on children's clothing, toys and baby equipment at Boutique for a Week in Casselberry, FL. Cash and credit accepted. Open to the public."
 permalink: /shoppers/
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Attaching Tags
+description: "Step-by-step guide to attaching tags to your consignment items for Boutique for a Week. Video tutorials and tagging tips for clothing, toys and gear."
 permalink: /consignors/attaching-tags/
 ---
 

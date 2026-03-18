@@ -1,5 +1,6 @@
 ---
 title: Tell a Friend
+description: "Share Boutique for a Week with friends and family. Help spread the word about Orlando's best children's consignment sale in Casselberry, FL."
 permalink: /about/tell-a-friend/
 ---
 

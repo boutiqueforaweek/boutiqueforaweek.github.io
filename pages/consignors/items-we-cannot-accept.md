@@ -1,5 +1,6 @@
 ---
 title: Items We Cannot Accept
+description: "Items not accepted at Boutique for a Week's consignment sale. Recalled items, safety guidelines and restricted categories for our Casselberry, FL event."
 permalink: /consignors/items-we-cannot-accept/
 redirect_from:
   - /consignors/items-accepted/items-we-cannot-accept/

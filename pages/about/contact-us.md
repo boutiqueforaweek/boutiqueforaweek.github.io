@@ -1,5 +1,6 @@
 ---
 title: Contact Us
+description: "Contact Boutique for a Week with questions about consigning, shopping or volunteering. Reach us by phone, email or social media in Casselberry, FL."
 permalink: /about/contact-us/
 ---
 

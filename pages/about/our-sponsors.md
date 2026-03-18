@@ -1,5 +1,6 @@
 ---
 title: Our Sponsors
+description: "Meet the local businesses that sponsor Boutique for a Week, Central Florida's premier children's consignment sale in Casselberry, FL."
 permalink: /about/our-sponsors/
 sponsors:
   - company: Fun 4 Seminole Kids

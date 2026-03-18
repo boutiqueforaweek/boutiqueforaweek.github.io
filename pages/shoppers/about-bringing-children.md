@@ -1,5 +1,6 @@
 ---
 title: About Bringing Children
+description: "Guidelines for bringing children to Boutique for a Week. Stroller policy, child safety and what to expect when shopping with kids at our Casselberry, FL sale."
 permalink: /shoppers/about-bringing-children/
 ---
 

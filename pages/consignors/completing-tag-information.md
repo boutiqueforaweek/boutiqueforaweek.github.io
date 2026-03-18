@@ -1,5 +1,6 @@
 ---
 title: Completing Tag Information
+description: "How to fill out your consignment tags for Boutique for a Week. Learn what information goes on each tag to ensure your items sell at our Orlando-area sale."
 permalink: /consignors/completing-tag-information/
 ---
 

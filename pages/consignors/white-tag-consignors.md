@@ -1,5 +1,6 @@
 ---
 title: White Tag Consignors
+description: "White tag consigning at Boutique for a Week. Donate unsold items to local charities while earning on your sold children's clothing, toys and gear."
 permalink: /consignors/white-tag-consignors/
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Printables
+description: "Download printable resources for Boutique for a Week. Consignor checklists, tagging guides and helpful documents for our Casselberry, FL consignment sale."
 permalink: /events/printables/
 ---
 

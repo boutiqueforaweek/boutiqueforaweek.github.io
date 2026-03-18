@@ -1,5 +1,6 @@
 ---
 title: Expecting Moms
+description: "New, expecting, adopting or foster moms shop early at Boutique for a Week. Get first access to baby gear, nursery items and kids clothing in Orlando, FL."
 permalink: /shoppers/first-time-moms/
 ---
 

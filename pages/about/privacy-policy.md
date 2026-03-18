@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+description: "Boutique for a Week's privacy policy. How we collect, use and protect your personal information."
 permalink: /privacy-policy/
 ---
 

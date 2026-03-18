@@ -1,5 +1,6 @@
 ---
 title: Volunteer Opportunities
+description: "Available volunteer positions at Boutique for a Week. Sort, organize and help run Central Florida's best kids consignment sale and shop before the public."
 permalink: /volunteers/volunteer-opportunities/
 ---
 

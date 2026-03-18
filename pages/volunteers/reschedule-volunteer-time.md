@@ -1,5 +1,6 @@
 ---
 title: Reschedule Volunteer Time
+description: "Need to change your volunteer shift at Boutique for a Week? Learn how to reschedule your volunteer time for our consignment sale in Casselberry, FL."
 permalink: /volunteers/reschedule-volunteer-time/
 ---
 

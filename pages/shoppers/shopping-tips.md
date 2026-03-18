@@ -1,5 +1,6 @@
 ---
 title: Shopping Tips
+description: "Top tips for shopping at Boutique for a Week. How to find the best deals on kids clothing, toys and baby gear at our consignment sale in Casselberry, FL."
 permalink: /shoppers/shopping-tips/
 ---
 

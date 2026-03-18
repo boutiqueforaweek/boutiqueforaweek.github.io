@@ -1,5 +1,7 @@
 ---
 title: Volunteers 101
+seo_title: "Volunteer at Orlando's Best Kids Consignment Sale"
+description: "Volunteer at Boutique for a Week and get first pick of all the best bargains. Help at Central Florida's top children's consignment sale in Casselberry, FL."
 permalink: /volunteers/
 ---
 
