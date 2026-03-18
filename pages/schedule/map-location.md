@@ -13,7 +13,7 @@ Click the above link to be directed to a Google Map for directions.
 
 ## Parking Information
 
-Boutique for a Week attendees may only park in the Metro Life parking lot. There is no event parking in the neighboring business parking lot at 950 Red Bug Lake Road. **This is strictly enforced.**
+Boutique for a Week attendees may only park in the Metro Life parking lot and the field. There is no event parking in the neighboring business parking lot at 950 Red Bug Lake Road. **This is strictly enforced.**
 
 ## Driving Information
 
