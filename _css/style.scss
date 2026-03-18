@@ -345,6 +345,18 @@ a img {
     background: none;
   }
 
+  .tagline {
+    font-size: 18px;
+    font-style: italic;
+    color: #b62041;
+    line-height: 1.4;
+    margin-top: -5px;
+
+    @include media-breakpoint-up(sm) {
+      font-size: 22px;
+    }
+  }
+
   p {
     font-size: 20px;
     line-height: 1.25;
