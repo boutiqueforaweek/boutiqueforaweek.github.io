@@ -17,7 +17,7 @@ $container-max-widths: (
 
 @font-face {
   font-family: "SignPainter";
-  src: url("/fonts/SignPainter HouseScript.ttf") format("truetype");
+  src: url("/fonts/SignPainter HouseScript.woff2") format("woff2"), url("/fonts/SignPainter HouseScript.ttf") format("truetype");
   font-display: swap;
 }
 
