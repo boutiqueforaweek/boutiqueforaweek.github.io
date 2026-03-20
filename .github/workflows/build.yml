@@ -8,29 +8,23 @@ permissions:
   id-token: write
 jobs:
   build:
-    name: Jekyll build
+    name: Eleventy build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '4.0.1'
-          bundler-cache: true
-          cache-version: 0
+      - uses: actions/checkout@v6
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
           cache: 'npm'
       - name: Run gulp
         run: |
-          npm install
-          gulp build
+          npm ci
+          npx gulp build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
   deploy:
     environment:
       name: github-pages
@@ -42,7 +36,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Purge cache
-        uses: fishmanlabs/cloudflare-purge-cache-action@v1
+        uses: fishmanlabs/cloudflare-purge-cache-action@v2
         with:
             zone_id: ${{ secrets.CLOUDFLARE_ZONE }}
             api_token: ${{ secrets.CLOUDFLARE_AUTH_KEY }}

@@ -9,26 +9,23 @@ jobs:
     strategy:
       fail-fast: false
     steps:
-      - uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '4.0.1'
-          bundler-cache: true
-          cache-version: 0
+      - uses: actions/checkout@v6
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 18
+          node-version: 24
           cache: 'npm'
       - name: Run gulp
         run: |
-          npm install
-          gulp build
+          npm ci
+          npx gulp build
+      - name: Run gulp
+        run: |
+          npm ci
+          npx gulp build
+      - name: Install html-proofer
+        run: gem install html-proofer
       - name: HTMLProofer
-        uses: chabad360/htmlproofer@master
-        with:
-          directory: "./_site"
-          arguments: "--allow-hash-href --ignore-status-codes 429,999 --ignore-urls '/www.barnesandnobleinc.com/our-stores-communities/summer-reading-program/, /aidinternationalinc.org/, /twitter.com/'"
+        run: htmlproofer ./_site --allow-hash-href --ignore-status-codes 429,999 --ignore-urls '/www.barnesandnobleinc.com/our-stores-communities/summer-reading-program/,/aidinternationalinc.org/,/twitter.com/'

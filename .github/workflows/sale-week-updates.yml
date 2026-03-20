@@ -15,51 +15,45 @@ permissions:
   id-token: write
 jobs:
   build:
-    name: Jekyll build
+    name: Eleventy build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '4.0.1'
-          bundler-cache: true
-          cache-version: 0
+      - uses: actions/checkout@v6
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 18
+          node-version: 24
           cache: 'npm'
       - name: Install npm packages
-        run: npm install
+        run: npm ci
       - name: Sunday build
         if: github.event.schedule == '0 7 12 4 *'
-        run: JEKYLL_ENV=06_sunday gulp build
+        run: SALE_STAGE=06_sunday npx gulp build
       - name: Monday build
         if: github.event.schedule == '0 4 13 4 *'
-        run: JEKYLL_ENV=07_monday gulp build
+        run: SALE_STAGE=07_monday npx gulp build
       - name: Tuesday build
         if: github.event.schedule == '0 4 14 4 *'
-        run: JEKYLL_ENV=08_tuesday gulp build
+        run: SALE_STAGE=08_tuesday npx gulp build
       - name: Wednesday build
         if: github.event.schedule == '0 4 15 4 *'
-        run: JEKYLL_ENV=09_wednesday gulp build
+        run: SALE_STAGE=09_wednesday npx gulp build
       - name: Thursday build
         if: github.event.schedule == '0 4 16 4 *'
-        run: JEKYLL_ENV=10_thursday gulp build
+        run: SALE_STAGE=10_thursday npx gulp build
       - name: Friday pt1 build
         if: github.event.schedule == '0 4 17 4 *'
-        run: JEKYLL_ENV=11_friday_1 gulp build
+        run: SALE_STAGE=11_friday_1 npx gulp build
       - name: Friday pt2 build
         if: github.event.schedule == '0 21 18 4 *'
-        run: JEKYLL_ENV=12_friday_2 gulp build
+        run: SALE_STAGE=12_friday_2 npx gulp build
       - name: Saturday build
         if: github.event.schedule == '0 17 19 4 *'
-        run: JEKYLL_ENV=13_saturday gulp build
+        run: SALE_STAGE=13_saturday npx gulp build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
   deploy:
     environment:
       name: github-pages

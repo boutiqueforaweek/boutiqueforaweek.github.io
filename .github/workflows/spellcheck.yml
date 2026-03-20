@@ -9,23 +9,17 @@ jobs:
     strategy:
       fail-fast: false
     steps:
-      - uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '4.0.1'
-          bundler-cache: true
-          cache-version: 0
+      - uses: actions/checkout@v6
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 18
+          node-version: 24
           cache: 'npm'
       - name: Run gulp
         run: |
-          npm install
-          gulp build
-      - uses: rojopolis/spellcheck-github-actions@0.29.0
+          npm ci
+          npx gulp build
+      - uses: rojopolis/spellcheck-github-actions@0.60.0
         name: Check Spelling
