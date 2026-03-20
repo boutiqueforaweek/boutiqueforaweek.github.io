@@ -41,15 +41,24 @@ layout:
     </div>
   </div>
   {% include footer.html %}
-  <script id="mimi-main-js-extra">
-    /* <![CDATA[ */
-    var MadMimi = {
-      "thankyou": "Thank you for signing up!",
-      "thankyou_suppressed": "Thank you for signing up! Please check your email to confirm your subscription.",
-      "oops": "Oops! There was a problem. Please try again.",
-      "fix": "There was a problem. Please fill all required fields."
-    };
-    /* ]]> */
+  <script>
+    var popup = document.getElementById('newsletter-signup');
+    if (popup) {
+      var myModal = new bootstrap.Modal(popup, {});
+      var popupCookie = document.cookie.split('; ').find(function(row) { return row.startsWith('newsletter='); });
+      if (!popupCookie) { myModal.toggle(); }
+      popup.addEventListener('hidden.bs.modal', function() { document.cookie = 'newsletter=true'; });
+    }
+
+    window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+    window.LOCALE = 'en';
+    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+    window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+    window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+    window.translation = { common: { selectedList: '{quantity} list selected', selectedLists: '{quantity} lists selected' } };
+    var AUTOHIDE = Boolean(0);
   </script>
+  <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </body>
 </html>
