@@ -32,6 +32,10 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
     image: /img/sponsors/watermark.webp
     link: "https://www.bewatermark.com/"
     details: "Watermark Homeschool Enrichment is a Christian non-profit and a leading resource for Central Florida's homeschooling families. Offering a one-day-a-week program at two Orlando-area locations, providing students with engaging à la carte classes. Courses are taught by local business partners and professionals, covering everything from art and science to technology and life skills. Beyond the classes, they offer enriching activities like field trips, middle and high school outings, and special events."
+  - company: Elizabeth Bevill
+    image: /img/sponsors/elizabeth-bevill.webp
+    link: https://www.marykay.com/EBevill
+    details: "Elizabeth Bevill is an Independent Beauty Consultant with Mary Kay. Elizabeth loves using the Mary Kay products and wants to share that experience with her customers and fellow consultants! Whether it be one-on-one, with friends, in-person spa/makeup sessions, online spa/makeup sessions or helping her customer become a consultant, she is your girl! Elizabeth is excited to help you with all your beauty/ skincare needs! She loves the outdoors and hopes to one day travel with her husband around the US in an RV towed by her Pink Cadillac! 💕"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
