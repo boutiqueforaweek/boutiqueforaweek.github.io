@@ -87,7 +87,7 @@
           },
           "description": "Voted BEST Kids Consignment Sale in Orlando. Consignors sell everything you need from baby to teen.",
           "datePublished": "2022-06-27T05:00:24-04:00",
-          "dateModified": "{{ 'now' | date: "%Y-%m-%dT%H:%M:%S%:z" }}",
+          "dateModified": "{{ page.last_modified_at | default: page.date | default: site.time | date_to_xmlschema }}",
           "about": {
             "@id": "https://boutiqueforaweek.com/#localbusiness"
           }
