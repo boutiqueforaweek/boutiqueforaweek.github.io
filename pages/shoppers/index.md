@@ -3,6 +3,15 @@ title: Shoppers 101
 seo_title: "Shop Gently Used Kids Clothing & Baby Gear"
 description: "Find amazing deals on children's clothing, toys and baby equipment at Boutique for a Week in Casselberry, FL. Cash and credit accepted. Open to the public."
 permalink: /shoppers/
+faq:
+  - question: "When is the Boutique for a Week sale?"
+    answer: "Our sale takes place twice a year in the spring and fall at Metro Life Church in Casselberry, FL. Check our event schedule page for the latest dates and hours."
+  - question: "What payment methods do you accept?"
+    answer: "We accept cash and credit cards. Credit cards require a $15 minimum purchase. All sales are final with no returns or exchanges."
+  - question: "Can I shop before the public sale opens?"
+    answer: "Yes! Volunteers, Consignors, White Tag Consignors, and New/Expecting/Adopting/Foster Moms can all shop before we open to the public. Visit the relevant pages for details on how to qualify."
+  - question: "Is there a half-price sale day?"
+    answer: "Yes! The last day of the sale features 50% off on items designated by the Consignor. Volunteers and Consignors get early access to the discount shopping."
 ---
 
 _All Sales Final! No returns or exchanges! We accept Cash or Credit Cards. Credit cards require a $15 minimum purchase._

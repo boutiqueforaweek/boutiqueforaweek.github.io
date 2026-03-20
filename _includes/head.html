@@ -126,6 +126,49 @@
       ]
     }
   </script>
+  {% assign crumbs = page.url | split: '/' | compact %}
+  {% if crumbs.size > 0 and page.url != '/' %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "{{ site.url }}/"
+        }{% assign path = '' %}{% for crumb in crumbs %}{%- assign path = path | append: '/' | append: crumb -%},
+        {
+          "@type": "ListItem",
+          "position": {{ forloop.index | plus: 1 }},
+          "name": "{{ crumb | replace: '-', ' ' | capitalize }}",
+          "item": "{{ site.url }}{{ path }}/"
+        }{% endfor %}
+      ]
+    }
+  </script>
+  {% endif %}
+  {% if page.faq %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for item in page.faq %}
+        {
+          "@type": "Question",
+          "name": {{ item.question | jsonify }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ item.answer | jsonify }}
+          }
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+  </script>
+  {% endif %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-YE0BVFQVDL"></script>
   <script>

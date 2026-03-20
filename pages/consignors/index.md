@@ -3,6 +3,17 @@ title: Consignors 101
 seo_title: "Sell Kids Clothes & Toys | Consign at Orlando's Top Sale"
 description: "Earn 65% selling your kids' gently used clothing, toys and baby gear at Boutique for a Week, Central Florida's top children's consignment sale in Casselberry, FL."
 permalink: /consignors/
+faq:
+  - question: "What is a consignor at Boutique for a Week?"
+    answer: "A Boutique For A Week Consignor is anyone who has a minimum of 10 items to sell (or fewer high dollar items totaling at least $30). You set the price, and we handle all the advertising and sales."
+  - question: "How much do consignors earn at Boutique for a Week?"
+    answer: "Consignors earn 65% of the selling price of every item they consign. You set your own prices and pick up your check at the end of sale week."
+  - question: "How do I become a consignor?"
+    answer: "You must obtain a Consignor code by completing the Online Consignor Registration on our website. All items must be entered into our tagging system by 11:59 p.m. on the Saturday before Sale Week."
+  - question: "Can consignors shop before the public sale?"
+    answer: "Yes! Consignors get to shop during the Pre-Sale before we open to the public. Consignors may bring a spouse, grandparent, and/or children under 18 to shop during the Consignor Pre-Sale shopping time."
+  - question: "What is a White Tag Consignor?"
+    answer: "White Tag Consignors tag exclusively with white cardstock and donate all unsold items. In return, they can shop even earlier than classic Consignors during the Pre-Sale."
 ---
 
 ## What is a Consignor?
