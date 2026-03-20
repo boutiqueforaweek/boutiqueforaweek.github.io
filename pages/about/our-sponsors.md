@@ -15,27 +15,23 @@ sponsors:
     image: /img/sponsors/tie-a-bow-on.webp
     link: "https://www.etsy.com/shop/tieabowon/"
     details: "Meet Bethany, the owner and creator behind Tie A Bow On! With over 14 years of experience, Bethany has been handcrafting beautiful boutique-style hair bows designed to add the perfect finishing touch to any outfit.
-From solid, everyday bows in popular styles to stunning one-of-a-kind bows for special occasions, each piece is thoughtfully made with care and attention to detail. Whether it’s for school days, celebrations, or photo-perfect moments, Tie A Bow On has a bow for every occasion. Tie A Bow has been a vendor with BFAW since Fall of 2015. "
+From solid, everyday bows in popular styles to stunning one-of-a-kind bows for special occasions, each piece is thoughtfully made with care and attention to detail. Whether it’s for school days, celebrations, or photo-perfect moments, Tie A Bow On has a bow for every occasion. Tie A Bow has been a vendor with BFAW since Fall of 2015."
   - company: NRG Dance
     image: /img/sponsors/nrg-dance.webp
     link: "https://nrg-dancestudios.weebly.com/"
     details: "NRG Dance, located inside the Winter Park Community Center, offers dance classes for children 3-18. We offer classes for all levels of dancers. We love to have fun & DANCE, DANCE, DANCE!!! Sign up for a FREE trial class & join our dance family! Call or text with any questions 407-519-0477"
   - company: Extra Blessings
     image: /img/sponsors/extra-blessings.webp
-    link: https://www.instagram.com/extrablessings
-    details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which a ll can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that a re close to your heart and make you happy."
+    link: "https://www.instagram.com/extrablessings"
+    details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which all can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that are close to your heart and make you happy."
   - company: Anchor Pelvic
     image: /img/sponsors/anchor-pelvic.webp
-    link: https://www.anchorpelvicpt.com/
-    details: "Anchor Pelvic Physical Therapy is more than just a clinic, they are partners in healing. As a locally owned, women-led pelvic health practice, their team is deeply committed to creating a space where every patient feels seen, valued, and empowered. They understand that pelvic health is personal, and they strive to provide care that is not only clinically excellent, but also compassionate, respectful, and rooted in connection.
+    link: "https://www.anchorpelvicpt.com/"
+    details: "Anchor Pelvic Physical Therapy is more than just a clinic, they are partners in healing. As a locally owned, women-led pelvic health practice, their team is deeply committed to creating a space where every patient feels seen, valued, and empowered. They understand that pelvic health is personal, and they strive to provide care that is not only clinically excellent, but also compassionate, respectful, and rooted in connection. Through personalized, one-on-one, hour-long sessions with no overlap, their providers take the time to listen, educate, and develop thoughtful treatment plans tailored to each individual. They treat a wide variety of pelvic health concerns and conditions using a whole-body, evidence-based approach that recognizes the connection between movement, breath, nervous system regulation, and overall well-being. Guided by strong core values and an unwavering commitment to exceptional customer service, their team prioritizes a truly patient-centered experience from the first phone call to the final visit. Anchor Pelvic is dedicated to helping individuals heal, regain confidence, and reclaim their lives, feeling strong, supported, and at home in their bodies 💙."
   - company: Watermark
     image: /img/sponsors/watermark.webp
     link: "http://www.bewatermark.com/"
-    details: Watermark Homeschool Enrichment is a Christian non-profit and a leading resource for Central Florida's homeschooling families. Offering a one-day-a-week program at two Orlando-area locations, providing students with engaging à la carte classes. Courses are taught by local business partners and professionals, covering everything from art and science to technology and life skills. Beyond the classes, they offer enriching activities like field trips, middle and high school outings, and special events.
-
-Through personalized, one-on-one, hour-long sessions with no overlap, their providers take the time to listen, educate, and develop thoughtful treatment plans tailored to each individual. They treat a wide variety of pelvic health concerns and conditions using a whole-body, evidence-based approach that recognizes the connection between movement, breath, nervous system regulation, and overall well-being.
-
-Guided by strong core values and an unwavering commitment to exceptional customer service, their team prioritizes a truly patient-centered experience from the first phone call to the final visit. Anchor Pelvic is dedicated to helping individuals heal, regain confidence, and reclaim their lives, feeling strong, supported, and at home in their bodies. 💙"
+    details: "Watermark Homeschool Enrichment is a Christian non-profit and a leading resource for Central Florida's homeschooling families. Offering a one-day-a-week program at two Orlando-area locations, providing students with engaging à la carte classes. Courses are taught by local business partners and professionals, covering everything from art and science to technology and life skills. Beyond the classes, they offer enriching activities like field trips, middle and high school outings, and special events."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
@@ -52,9 +48,9 @@ If you are interested in being added as a Sponsor/Vendor please [contact us](mai
             <img src="{{ sponsor.image }}" class="card-img-top" alt="{{ sponsor.company }}">
           </a>
           <div class="card-body">
-            <h1 class="card-title">
+            <h2 class="card-title" style="background: url(/img/hr.png) no-repeat 0 44px;font-size:40px;font-weight: 100;line-height: 55px;font-family: 'SignPainter'">
               <a href="{{ sponsor.link }}" target="_blank" style="text-decoration:none">{{ sponsor.company }}</a>
-            </h1>
+            </h2>
             <p class="card-text" style="text-align: justify">{{ sponsor.details | markdownify }}</p>
           </div>
         </div>
