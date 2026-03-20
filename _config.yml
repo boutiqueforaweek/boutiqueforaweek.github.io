@@ -24,42 +24,56 @@ defaults:
     values:
       section: "volunteers"
       image: "/img/col_left_volunteers.webp"
+      image_width: 276
+      image_height: 487
   -
     scope:
       path: "pages/consignors/*"
     values:
       section: "consignors"
       image: "/img/col_left_consignors.webp"
+      image_width: 260
+      image_height: 515
   -
     scope:
       path: "pages/shoppers/*"
     values:
       section: "shoppers"
       image: "/img/col_left_shoppers.webp"
+      image_width: 240
+      image_height: 535
   -
     scope:
       path: "pages/schedule/*"
     values:
       section: "schedule"
       image: "/img/col_left_events.webp"
+      image_width: 275
+      image_height: 511
   -
     scope:
       path: "pages/register.md"
     values:
       section: "register"
       image: "/img/col_left_register.webp"
+      image_width: 273
+      image_height: 608
   -
     scope:
       path: "pages/about/*"
     values:
       section: "about"
       image: "/img/col_left_about.webp"
+      image_width: 259
+      image_height: 453
   -
     scope:
       path: "pages/privacy-policy.md"
     values:
       section: "about"
       image: "/img/col_left_about.webp"
+      image_width: 259
+      image_height: 453
   -
     scope:
       path: ""
