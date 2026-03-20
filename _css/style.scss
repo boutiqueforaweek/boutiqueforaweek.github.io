@@ -107,24 +107,35 @@ a {
 }
 
 .logo {
-  background: url(/img/logo.gif) no-repeat;
-  background-size: 131px 160px;
   height: 80px;
   width: 131px;
+  overflow: hidden;
 
-  &:hover {
-    background-position: bottom left;
+  img {
+    width: 131px;
+    height: auto;
+  }
+
+  &:hover img {
+    margin-top: -80px;
   }
 }
 
 @include media-breakpoint-up(xl) {
   .logo {
-    background-size: auto;
     left: -40px;
     height: 160px;
     position: absolute;
     top: -40px;
     width: 262px;
+
+    img {
+      width: 262px;
+    }
+
+    &:hover img {
+      margin-top: -160px;
+    }
   }
 }
 
