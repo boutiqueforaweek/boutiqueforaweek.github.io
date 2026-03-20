@@ -44,14 +44,14 @@ If you are interested in being added as a Sponsor/Vendor please [contact us](mai
       {% for sponsor in page.sponsors %}
       <div class="p-2">
         <div class="card col">
-          <a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-            <img src="{{ sponsor.image }}" class="card-img-top" alt="{{ sponsor.company }}">
+          <a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer">
+            <img src="{{ sponsor.image }}" class="card-img-top" alt="{{ sponsor.company }}" loading="lazy">
           </a>
           <div class="card-body">
-            <h2 class="card-title" style="background: url(/img/hr.png) no-repeat 0 44px;font-size:40px;font-weight: 100;line-height: 55px;font-family: 'SignPainter'">
-              <a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">{{ sponsor.company }}</a>
+            <h2 class="card-title">
+              <a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer">{{ sponsor.company }}</a>
             </h2>
-            <p class="card-text" style="text-align: justify">{{ sponsor.details | markdownify }}</p>
+            <p class="card-text">{{ sponsor.details | markdownify }}</p>
           </div>
         </div>
       </div>

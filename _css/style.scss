@@ -391,6 +391,28 @@ a img {
       break-inside: avoid-column;
     }
   }
+
+  .card-title {
+    background: url("/img/hr.png") no-repeat 0 44px;
+    font-family: "SignPainter";
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 55px;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .card-text {
+    text-align: justify;
+  }
+
+  .card-img-top + .card-body {
+    a {
+      text-decoration: none;
+    }
+  }
 }
 
 #footer {
