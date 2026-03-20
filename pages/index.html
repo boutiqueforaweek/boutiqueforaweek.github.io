@@ -42,13 +42,15 @@ layout:
   </div>
   {% include footer.html %}
   <script>
-    var popup = document.getElementById('newsletter-signup');
-    if (popup) {
-      var myModal = new bootstrap.Modal(popup, {});
-      var popupCookie = document.cookie.split('; ').find(function(row) { return row.startsWith('newsletter='); });
-      if (!popupCookie) { myModal.toggle(); }
-      popup.addEventListener('hidden.bs.modal', function() { document.cookie = 'newsletter=true'; });
-    }
+    document.addEventListener('DOMContentLoaded', function() {
+      var popup = document.getElementById('newsletter-signup');
+      if (popup) {
+        var myModal = new bootstrap.Modal(popup, {});
+        var popupCookie = document.cookie.split('; ').find(function(row) { return row.startsWith('newsletter='); });
+        if (!popupCookie) { myModal.toggle(); }
+        popup.addEventListener('hidden.bs.modal', function() { document.cookie = 'newsletter=true'; });
+      }
+    });
 
     window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
     window.LOCALE = 'en';
