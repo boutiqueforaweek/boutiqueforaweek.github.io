@@ -5,7 +5,7 @@ description: "Get directions to Boutique for a Week at Metro Life Church, 910 S 
 permalink: /events/map-location/
 ---
 
-![Map](/img/fall2014_map.png "Map"){: .img-fluid }
+![Map of Boutique for a Week sale location at Metro Life Church in Casselberry FL](/img/map.webp){: .img-fluid width="436" height="402" loading="lazy" }
 
 ## Our sale will be located at:
 
