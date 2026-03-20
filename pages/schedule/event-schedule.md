@@ -1,7 +1,7 @@
 ---
 title: Event Schedule
-seo_title: "Sale Dates & Hours | Spring 2026"
-description: "View the full schedule for Boutique for a Week's spring 2026 children's consignment sale in Casselberry, FL. Pre-sale shopping, public sale hours and half-price day."
+seo_title: "Sale Dates & Hours | [season_year]"
+description: "View the full schedule for Boutique for a Week's [season_year] children's consignment sale in Casselberry, FL. Pre-sale shopping, public sale hours and half-price day."
 permalink: /events/event-schedule/
 ---
 
