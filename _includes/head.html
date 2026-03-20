@@ -94,7 +94,7 @@
   {% if page.url == "/events/event-schedule/" %}
         }, {
           "@type": "ChildrensEvent",
-          "@id": "https://boutiqueforaweek.com/#spring2026event",
+          "@id": "https://boutiqueforaweek.com/#{{ site.dates.season_year | downcase | replace: ' ', '-' }}-event",
           "name": "Boutique for a Week - {{ site.dates.season }} Sale",
           "description": "{{ site.description }}",
           "location": {
