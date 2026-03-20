@@ -81,6 +81,7 @@ defaults:
     values:
       layout: "blog"
       permalink: "/blog/:year/:month/:day/:title/"
+      sitemap: false
   -
     scope:
       path: ""
