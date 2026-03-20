@@ -9,7 +9,7 @@
   <div class="row g-0">
     <div id="col_left" class="d-none d-lg-block col-lg-3 p-5">
       {%- if page.section != 'consignors' -%}
-      <img src="/img/{{ page.section }}_menu.png" alt="{{ menu }} header" width="195" height="38" />
+      <img src="/img/{{ page.section }}_menu.webp" alt="{{ page.section }} header" width="195" height="38" />
       <ul>
         {% for item in site.data.menus[page.section] %}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
@@ -18,7 +18,7 @@
       {%- else -%}
       {%- assign menus = 'consignors,items_to_sell,pricing,drop_off_pick_up' | split: ',' -%}
       {%- for menu in menus %}
-      <img src="/img/{{ menu }}_menu.png" alt="{{ menu }} header" width="195" height="38" />
+      <img src="/img/{{ menu }}_menu.webp" alt="{{ menu }} header" width="195" height="38" />
       <ul>
         {% for item in site.data.menus[menu] -%}
         {%- unless site.sale_stage != '03_before' and item.title == 'Restocking Consignors' -%}

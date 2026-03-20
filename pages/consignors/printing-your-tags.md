@@ -22,15 +22,15 @@ The print quality of your barcode is very important. Please print a test page of
 
 If your barcodes look like this one, you're good to go.
 
-![Good Barcode](/img/goodbarcode.jpg)
+![Good Barcode](/img/goodbarcode.webp)
 
 If it looks like one of the barcodes below, realign your current ink cartridge and try again.
 
-![Barcode ](/img/mediumbarcode.jpg) ![Barcode](/img/mediumbarcode2.jpg)
+![Barcode ](/img/mediumbarcode.webp) ![Barcode](/img/mediumbarcode2.webp)
 
 If it looks like the one below or is faded, replace your ink cartridge with a new one and align the replacement cartridge.
 
-![Bad Barcode](/img/badbarcode.jpg)
+![Bad Barcode](/img/badbarcode.webp)
 
 ## Other Printing Options:
 

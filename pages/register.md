@@ -31,4 +31,4 @@ permalink: /register/
 
 You can still print your tags after the tagging deadline, but you may not enter additional items.
 
-[![Boutique For A Week Facebook Page](/img/FacebookBadge_SM.jpg)](https://www.facebook.com/BoutiqueForAWeek?ref=br_tf "Visit Our Facebook Page") [![Follow Boutique4AWeek on Twitter](https://twitter-badges.s3.amazonaws.com/follow_us-c.png)](https://twitter.com/Boutique4AWeek) [![Instagram](/img/instagram.png)](https://www.instagram.com/boutiqueforaweek/?ref=badge)
+[![Boutique For A Week Facebook Page](/img/FacebookBadge_SM.webp)](https://www.facebook.com/BoutiqueForAWeek?ref=br_tf "Visit Our Facebook Page") [![Follow Boutique4AWeek on Twitter](https://twitter-badges.s3.amazonaws.com/follow_us-c.png)](https://twitter.com/Boutique4AWeek) [![Instagram](/img/instagram.webp)](https://www.instagram.com/boutiqueforaweek/?ref=badge)

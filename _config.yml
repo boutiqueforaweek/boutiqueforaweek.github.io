@@ -23,43 +23,43 @@ defaults:
       path: "pages/volunteers/*"
     values:
       section: "volunteers"
-      image: "/img/col_left_volunteers.png"
+      image: "/img/col_left_volunteers.webp"
   -
     scope:
       path: "pages/consignors/*"
     values:
       section: "consignors"
-      image: "/img/col_left_consignors.png"
+      image: "/img/col_left_consignors.webp"
   -
     scope:
       path: "pages/shoppers/*"
     values:
       section: "shoppers"
-      image: "/img/col_left_shoppers.png"
+      image: "/img/col_left_shoppers.webp"
   -
     scope:
       path: "pages/schedule/*"
     values:
       section: "schedule"
-      image: "/img/col_left_events.png"
+      image: "/img/col_left_events.webp"
   -
     scope:
       path: "pages/register.md"
     values:
       section: "register"
-      image: "/img/col_left_register.png"
+      image: "/img/col_left_register.webp"
   -
     scope:
       path: "pages/about/*"
     values:
       section: "about"
-      image: "/img/col_left_about.png"
+      image: "/img/col_left_about.webp"
   -
     scope:
       path: "pages/privacy-policy.md"
     values:
       section: "about"
-      image: "/img/col_left_about.png"
+      image: "/img/col_left_about.webp"
   -
     scope:
       path: ""
