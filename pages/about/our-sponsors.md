@@ -35,7 +35,7 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
   - company: Elizabeth Bevill
     image: /img/sponsors/elizabeth-bevill.webp
     link: https://www.marykay.com/EBevill
-    details: "Elizabeth Bevill is an Independent Beauty Consultant with Mary Kay. Elizabeth loves using the Mary Kay products and wants to share that experience with her customers and fellow consultants! Whether it be one-on-one, with friends, in-person spa/makeup sessions, online spa/makeup sessions or helping her customer become a consultant, she is your girl! Elizabeth is excited to help you with all your beauty/ skincare needs! She loves the outdoors and hopes to one day travel with her husband around the US in an RV towed by her Pink Cadillac! 💕"
+    details: "Hi, Elizabeth here! Your go-to girl for glowing skin, effortless glam, and a sprinkle of Mary Kay magic. I help women feel confident, fabulous, and fearless—one pink moment at a time. Join me for in-person or virtual skincare experiences that bring out your natural glow. And if you’re ready to add a little extra sparkle, freedom, and fun to your life, the Mary Kay opportunity is pure pink magic waiting for you!"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
