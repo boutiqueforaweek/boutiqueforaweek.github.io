@@ -128,7 +128,10 @@
       ]
     }
   </script>
-  {% assign crumbs = page.url | split: '/' | compact %}
+  {% assign raw_crumbs = page.url | split: '/' %}
+  {% assign crumbs = '' %}
+  {% for c in raw_crumbs %}{% if c != '' %}{% if crumbs != '' %}{% assign crumbs = crumbs | append: '|' | append: c %}{% else %}{% assign crumbs = c %}{% endif %}{% endif %}{% endfor %}
+  {% assign crumbs = crumbs | split: '|' %}
   {% if crumbs.size > 0 and page.url != '/' %}
   <script type="application/ld+json">
     {
