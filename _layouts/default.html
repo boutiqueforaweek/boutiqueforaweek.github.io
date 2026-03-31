@@ -21,7 +21,7 @@
       <img src="/img/{{ menu }}_menu.webp" alt="{{ menu }} header" width="195" height="38" />
       <ul>
         {% for item in site.data.menus[menu] -%}
-        {%- unless site.sale_stage != '03_before' and item.title == 'Restocking Consignors' -%}
+        {%- unless site.sale_stage != '04_before' and item.title == 'Restocking Consignors' -%}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
         {% endunless -%}
         {% endfor %}
