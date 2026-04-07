@@ -18,7 +18,7 @@ jobs:
     name: Jekyll build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -26,11 +26,11 @@ jobs:
           bundler-cache: true
           cache-version: 0
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 18
+          node-version: 22
           cache: 'npm'
       - name: Install npm packages
         run: npm install
@@ -59,7 +59,7 @@ jobs:
         if: github.event.schedule == '0 17 19 4 *'
         run: JEKYLL_ENV=13_saturday gulp build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
   deploy:
     environment:
       name: github-pages
@@ -69,4 +69,12 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
+      - name: Purge cache
+        uses: fishmanlabs/cloudflare-purge-cache-action@v2
+        with:
+            zone_id: ${{ secrets.CLOUDFLARE_ZONE }}
+            api_token: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
+            purge_everything: 'true'
+            purge_hosts: |
+              boutiqueforaweek.com

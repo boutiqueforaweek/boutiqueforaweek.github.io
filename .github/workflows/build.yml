@@ -11,7 +11,7 @@ jobs:
     name: Jekyll build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -19,18 +19,18 @@ jobs:
           bundler-cache: true
           cache-version: 0
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Install Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
       - name: Run gulp
         run: |
           npm install
           gulp build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
   deploy:
     environment:
       name: github-pages
@@ -40,9 +40,9 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
       - name: Purge cache
-        uses: fishmanlabs/cloudflare-purge-cache-action@v1
+        uses: fishmanlabs/cloudflare-purge-cache-action@v2
         with:
             zone_id: ${{ secrets.CLOUDFLARE_ZONE }}
             api_token: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
