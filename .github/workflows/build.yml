@@ -47,5 +47,3 @@ jobs:
             zone_id: ${{ secrets.CLOUDFLARE_ZONE }}
             api_token: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
             purge_everything: 'true'
-            purge_hosts: |
-              boutiqueforaweek.com
