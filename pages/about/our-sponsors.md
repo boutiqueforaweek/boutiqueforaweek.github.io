@@ -36,10 +36,10 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
     image: /img/sponsors/elizabeth-bevill.webp
     link: https://www.marykay.com/EBevill
     details: "Hi, Elizabeth here! Your go-to girl for glowing skin, effortless glam, and a sprinkle of Mary Kay magic. I help women feel confident, fabulous, and fearless—one pink moment at a time. Join me for in-person or virtual skincare experiences that bring out your natural glow. And if you’re ready to add a little extra sparkle, freedom, and fun to your life, the Mary Kay opportunity is pure pink magic waiting for you!"
-  - company: Enhanced Home Inspections
+  - company: Isabelle Chopin
     image: /img/sponsors/enhanced-home-inspection.webp
     link: https://www.enhancedhomeinspection.com/
-    details: "As the owner and dedicated licensed Home Inspector of Enhanced Home Inspections, Isabelle Chopin believes that safety should always come first. As an entrepreneur and working mom of four, I know how important it is to have a home that is not only beautiful, but safe, stable, and reliable.  Every inspection I perform is approached with the same care and attention I would give my own home, because I understand that behind every property is a family, an investment, and a future. My goal is to give you peace of mind by providing thorough, honest, and detailed inspections you can trust. I am also proud to offer services in both English and Spanish. Whether you are buying, selling, or maintaining your home, Enhanced Home Inspections is here to help you make confident, informed decisions every step of the way."
+    details: "As the owner and dedicated licensed Home Inspector of Enhanced Home Inspections, I believe that safety should always come first. As an entrepreneur and working mom of four, I know how important it is to have a home that is not only beautiful, but safe, stable, and reliable.  Every inspection I perform is approached with the same care and attention I would give my own home, because I understand that behind every property is a family, an investment, and a future. My goal is to give you peace of mind by providing thorough, honest, and detailed inspections you can trust. I am also proud to offer services in both English and Spanish. Whether you are buying, selling, or maintaining your home, Enhanced Home Inspections is here to help you make confident, informed decisions every step of the way."
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
