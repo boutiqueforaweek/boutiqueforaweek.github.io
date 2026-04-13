@@ -40,6 +40,13 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
     image: /img/sponsors/enhanced-home-inspection.webp
     link: https://www.enhancedhomeinspection.com/
     details: "As the owner and dedicated licensed Home Inspector of Enhanced Home Inspections, I believe that safety should always come first. As an entrepreneur and working mom of four, I know how important it is to have a home that is not only beautiful, but safe, stable, and reliable.  Every inspection I perform is approached with the same care and attention I would give my own home, because I understand that behind every property is a family, an investment, and a future. My goal is to give you peace of mind by providing thorough, honest, and detailed inspections you can trust. I am also proud to offer services in both English and Spanish. Whether you are buying, selling, or maintaining your home, Enhanced Home Inspections is here to help you make confident, informed decisions every step of the way."
+  - company: The Print Shop Orlando
+    image: /img/sponsors/the-print-shop.webp
+    link: https://theprintshoporlando.com/
+    details: "The Print Shop Orlando is your locally owned print shop, proudly serving our Orlando and surrounding communities with heart and hustle. We specialize in custom signage, banners, window clings, stickers, and branded swag for businesses big and small.
+From family-owned storefronts to growing local brands, we love helping our neighbors stand out. Whether you need a single banner or full-coverage window decals, you’ll get personal service, quality craftsmanship, and real people who genuinely care about getting it right.
+We’re not a big-box print factory. We’re your local print partner, right here in Orlando. We treat your signage like it matters, because it absolutely does.
+Reach out to us today to get a quote, ask a question, and get your project started!"
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.
