@@ -31,7 +31,8 @@ $container-max-widths: (
 }
 
 h1 {
-  background: url("/img/hr.png") no-repeat 0 44px;
+  background: url("/img/hr.png") no-repeat 0 bottom;
+  padding-bottom: 11px;
   color: #b62041;
   font-family: "SignPainter";
   font-size: 32px;
@@ -393,7 +394,8 @@ a img {
   }
 
   .card-title {
-    background: url("/img/hr.png") no-repeat 0 44px;
+    background: url("/img/hr.png") no-repeat 0 bottom;
+    padding-bottom: 11px;
     font-family: "SignPainter";
     font-size: 40px;
     font-weight: 100;
