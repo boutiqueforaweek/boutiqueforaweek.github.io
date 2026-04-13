@@ -27,7 +27,7 @@ faq:
 
 ## Boutique For A Week is open to the Public:
 
-* {{ site.schedule.sale_start | ordinal }}, 5:00 p.m. - 10:00 p.m.
+* {{ site.schedule.sale_start | ordinal }}, 4:00 p.m. - 10:00 p.m.
 * {{ site.schedule.restocking | ordinal }}, 12:00 p.m. - 9:00 p.m.
 * {{ site.schedule.sale_end | ordinal }}, 10:00 a.m. - 5:00 p.m., 50% off* sale
 
