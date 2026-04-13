@@ -1,5 +1,5 @@
 ---
-title: Event Schedule
+title: When Can I Shop?
 seo_title: "Sale Dates & Hours | [season_year]"
 description: "View the full schedule for Boutique for a Week's [season_year] children's consignment sale in Casselberry, FL. Pre-sale shopping, public sale hours and half-price day."
 permalink: /events/event-schedule/
