@@ -8,47 +8,47 @@ permalink: /events/
 
 ## {{ site.schedule.start | ordinal }}
 
-**Drop Off**: 4:00 p.m. - 9:00 p.m.
+**Drop Off**: {{ site.times.dropoff_day1 }}
 
 ## {{ site.schedule.dropoff | ordinal }}
 
-**Drop Off**: 10:00 a.m. - 1:00 p.m.  
+**Drop Off**: {{ site.times.dropoff_day2 }}  
 
 ## {{ site.schedule.sale_start | ordinal }}
 
-**Restocking Drop Off**: 12:00 p.m. - 2:00 p.m.  
+**Restocking Drop Off**: {{ site.times.restocking_dropoff }}  
 
 ## {{ site.schedule.pickup | ordinal }}
 
-**Pick Up**: 9:30 a.m. - 12:30 p.m.
+**Pick Up**: {{ site.times.pickup }}
 
 # Shopping Schedule
 
 ## {{ site.schedule.dropoff | ordinal }}
 
-**8+ Hour Volunteers**: 5:00 p.m. - 9:00 p.m.  
-**4 Hour Volunteers**: 7:00 p.m. - 9:00 p.m.
+**8+ Hour Volunteers**: {{ site.times.vol_8hr }}  
+**4 Hour Volunteers**: {{ site.times.vol_4hr }}
 
 ## {{ site.schedule.presale | ordinal }}
 
-**White Tag Consignors**: 12:00 p.m. - 8:00 p.m.  
-**Consignors**: 1:00 p.m. - 8:00 p.m.  
-**New/Expecting Moms**: 4:00 p.m. - 8:00 p.m.  
-**Friends of Consignors**: 6:00 p.m. - 8:00 p.m.
+**White Tag Consignors**: {{ site.times.white_tag }}  
+**Consignors**: {{ site.times.consignors }}  
+**New/Expecting Moms**: {{ site.times.new_moms }}  
+**Friends of Consignors**: {{ site.times.friends }}
 
 ## {{ site.schedule.sale_start | ordinal }}
 
-**Open to the Public**: 4:00 p.m. - 10:00 p.m.  
-**Mom's Night Out**: 8:00 p.m. - 10:00 p.m.
+**Open to the Public**: {{ site.times.public_day1 }}  
+**Mom's Night Out**: {{ site.times.moms_night }}
 
 ## {{ site.schedule.restocking | ordinal }}
 
-**Open to the Public**: 12:00 p.m. - 9:00 p.m.  
-**50% off for Consignors and Volunteers**: 5:00 p.m. - 9:00 p.m.
+**Open to the Public**: {{ site.times.public_day2 }}  
+**50% off for Consignors and Volunteers**: {{ site.times.discount_consignors_volunteers }}
 
 ## {{ site.schedule.sale_end | ordinal }}
 
-**50% off Public Sale**: 10:00 a.m. - 5:00 p.m.  
+**50% off Public Sale**: {{ site.times.half_off }}  
 
 {% else %}
 We'll be announcing dates for our next sale soon!

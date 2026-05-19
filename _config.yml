@@ -5,6 +5,22 @@ url: "https://boutiqueforaweek.com"
 email: info@boutiqueforaweek.com
 sale_start: "2026-04-12"
 sale_stage: "13_saturday"
+times:
+  dropoff_day1: "4:00 p.m. - 9:00 p.m."
+  dropoff_day2: "10:00 a.m. - 1:00 p.m."
+  restocking_dropoff: "12:00 p.m. - 2:00 p.m."
+  pickup: "9:30 a.m. - 12:30 p.m."
+  vol_8hr: "5:00 p.m. - 9:00 p.m."
+  vol_4hr: "7:00 p.m. - 9:00 p.m."
+  white_tag: "12:00 p.m. - 8:00 p.m."
+  consignors: "1:00 p.m. - 8:00 p.m."
+  new_moms: "4:00 p.m. - 8:00 p.m."
+  friends: "6:00 p.m. - 8:00 p.m."
+  public_day1: "4:00 p.m. - 10:00 p.m."
+  moms_night: "8:00 p.m. - 10:00 p.m."
+  public_day2: "12:00 p.m. - 9:00 p.m."
+  discount_consignors_volunteers: "5:00 p.m. - 9:00 p.m."
+  half_off: "10:00 a.m. - 5:00 p.m."
 plugins:
   - jekyll-paginate-v2
   - jekyll-redirect-from

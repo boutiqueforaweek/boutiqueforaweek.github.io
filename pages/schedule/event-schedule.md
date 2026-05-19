@@ -17,19 +17,19 @@ faq:
 {% if site.sale_stage != '13_saturday' %}
 ## Volunteers, Consignors, New/Expecting/Adopting/Foster Moms:
 
-* 8+ Hour Volunteers: {{ site.schedule.dropoff | ordinal }}, 5:00 p.m. - 9:00 p.m.
-* 4+ Hour Volunteers: {{ site.schedule.dropoff | ordinal }}, 7:00 p.m. - 9:00 p.m.
-* [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}): {{ site.schedule.presale | ordinal }}, 12:00 p.m. - 8:00 p.m.
-* Consignors: {{ site.schedule.presale | ordinal }}, 1:00 p.m. - 8:00 p.m.
-* [New/Expecting/Adopting/Foster Moms]({% link pages/shoppers/first-time-moms.md %}): {{ site.schedule.presale | ordinal }}, 4:00 p.m. - 8:00 p.m.
-* Friends of Consignors: {{ site.schedule.presale | ordinal }}, 6:00 p.m. - 8:00 p.m.
-* Volunteers and Consignors 50% off* sale: {{ site.schedule.restocking | ordinal }}, 5:00 p.m. - 9:00 p.m. and {{ site.schedule.sale_end | ordinal }}, 10:00 a.m. - 5:00 p.m.
+* 8+ Hour Volunteers: {{ site.schedule.dropoff | ordinal }}, {{ site.times.vol_8hr }}
+* 4+ Hour Volunteers: {{ site.schedule.dropoff | ordinal }}, {{ site.times.vol_4hr }}
+* [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}): {{ site.schedule.presale | ordinal }}, {{ site.times.white_tag }}
+* Consignors: {{ site.schedule.presale | ordinal }}, {{ site.times.consignors }}
+* [New/Expecting/Adopting/Foster Moms]({% link pages/shoppers/first-time-moms.md %}): {{ site.schedule.presale | ordinal }}, {{ site.times.new_moms }}
+* Friends of Consignors: {{ site.schedule.presale | ordinal }}, {{ site.times.friends }}
+* Volunteers and Consignors 50% off* sale: {{ site.schedule.restocking | ordinal }}, {{ site.times.discount_consignors_volunteers }} and {{ site.schedule.sale_end | ordinal }}, {{ site.times.half_off }}
 
 ## Boutique For A Week is open to the Public:
 
-* {{ site.schedule.sale_start | ordinal }}, 4:00 p.m. - 10:00 p.m.
-* {{ site.schedule.restocking | ordinal }}, 12:00 p.m. - 9:00 p.m.
-* {{ site.schedule.sale_end | ordinal }}, 10:00 a.m. - 5:00 p.m., 50% off* sale
+* {{ site.schedule.sale_start | ordinal }}, {{ site.times.public_day1 }}
+* {{ site.schedule.restocking | ordinal }}, {{ site.times.public_day2 }}
+* {{ site.schedule.sale_end | ordinal }}, {{ site.times.half_off }}, 50% off* sale
 
 _*50% off applies only to items designated by the Consignor._
 {% else %}

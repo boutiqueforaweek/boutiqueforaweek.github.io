@@ -25,9 +25,9 @@ Visit [Consignors]({% link pages/consignors/index.md %}), [White Tag Consignors]
 {% if site.sale_stage != '13_saturday' %}
 ## The public sale hours for our {{ site.dates.season_year }} Sale are:
 
-* {{ site.schedule.sale_start | ordinal }}, 4:00 p.m. - 10:00 p.m.
-* {{ site.schedule.restocking | ordinal }}, 12:00 p.m. - 9:00 p.m., 50% off* shopping open to Volunteers and Consignors starting at 5:00 p.m.
-* {{ site.schedule.sale_end | ordinal }}, 10:00 a.m. - 5:00 p.m., 50% off* sale open to the public all day
+* {{ site.schedule.sale_start | ordinal }}, {{ site.times.public_day1 }}
+* {{ site.schedule.restocking | ordinal }}, {{ site.times.public_day2 }}, 50% off* shopping open to Volunteers and Consignors from {{ site.times.discount_consignors_volunteers }}
+* {{ site.schedule.sale_end | ordinal }}, {{ site.times.half_off }}, 50% off* sale open to the public all day
 *50% off applies only to items specified by the Consignor.
 {% else %}
 We'll be announcing dates for our next sale soon!

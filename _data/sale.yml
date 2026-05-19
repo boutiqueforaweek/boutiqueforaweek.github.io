@@ -72,7 +72,7 @@
   register_fee:
 08_tuesday:
   home: |-
-    Our [[season_year] Sale](/events/) is open to [new moms](/shoppers/first-time-moms/) today from 4:00 p.m. - 8:00 p.m. Sign-ups for New Mom's Night will be available at the door.
+    Our [[season_year] Sale](/events/) is open to [new moms](/shoppers/first-time-moms/) today from [times.new_moms]. Sign-ups for New Mom's Night will be available at the door.
 
     Our sale opens to the general public tomorrow!
   consignors: "[Registration](/register/) is now closed."
@@ -83,9 +83,9 @@
   register_fee:
 09_wednesday:
   home: |-
-    Our [[season_year] Sale](/events/) is open to the public today from 4:00 p.m. - 10:00 p.m.
+    Our [[season_year] Sale](/events/) is open to the public today from [times.public_day1].
 
-    We're also hosting [Mom's Night Out](/shoppers/moms-night-out/) tonight from 8:00 p.m. - 10:00 p.m.!
+    We're also hosting [Mom's Night Out](/shoppers/moms-night-out/) tonight from [times.moms_night]!
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
   volunteers: "[Volunteer registration](/register/) is now closed."
@@ -94,7 +94,7 @@
   register_fee:
 10_thursday:
   home: |-
-    Our [[season_year] Sale](/events/) continues! Today we're open to the public from 1:00 p.m. - 9:00 p.m.
+    Our [[season_year] Sale](/events/) continues! Today we're open to the public from [times.public_day2].
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
   volunteers: "[Volunteer registration](/register/) is now closed."
@@ -103,7 +103,7 @@
   register_fee:
 11_friday_1:
   home: |-
-    Today is our [[season_year] Sale](/events/) 50% off day! We're open to the public from 10:00 a.m. - 5:00 p.m.
+    Today is our [[season_year] Sale](/events/) 50% off day! We're open to the public from [times.half_off].
   consignors: "[Registration](/register/) is now closed."
   restocking: "[Registration](/register/) is now closed."
   volunteers: "[Volunteer registration](/register/) is now closed."
@@ -114,7 +114,7 @@
   home: |-
     Thank you everyone for [shopping](/shoppers/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
 
-    Please note that pickup is tomorrow, [pickup] from 9:30 a.m. - 12:30 p.m.
+    Please note that pickup is tomorrow, [pickup] from [times.pickup].
 
     ANY ITEMS NOT PICKED UP will be [donated](/consignors/donating-unsold-items/).
   earnings:
