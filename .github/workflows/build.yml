@@ -30,10 +30,10 @@ jobs:
         with:
           node-version: 22
           cache: 'npm'
-      - name: Run gulp
+      - name: Build
         run: |
           npm install
-          gulp build
+          npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:

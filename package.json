@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "gulp build",
-    "dev": "gulp dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "css:dev": "sass _css/style.scss:css/style.css --watch",
+    "css:build": "sass _css/style.scss:_site/css/style.css --no-source-map",
+    "css:prod": "postcss _site/css/style.css --replace",
+    "js:dev": "cp node_modules/bootstrap/dist/js/bootstrap.bundle.js js/script.js",
+    "js:build": "cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.js _site/js/script.js",
+    "eleventy:serve": "npx @11ty/eleventy --serve",
+    "eleventy:build": "npx @11ty/eleventy",
+    "dev": "npm run js:dev && npm-run-all2 --parallel css:dev eleventy:serve",
+    "build": "npm-run-all2 --serial eleventy:build css:build css:prod js:build"
   },
   "repository": {
     "type": "git",
@@ -22,19 +28,11 @@
     "@fullhuman/postcss-purgecss": "^7.0.0",
     "bootstrap": "^5.3.2",
     "cssnano": "^7.0.0",
-    "fancy-log": "^2.0.0",
-    "gulp": "^5.0.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-htmlmin": "^5.0.1",
-    "gulp-postcss": "^10.0.0",
-    "gulp-sass": "^6.0.0",
-    "gulp-terser": "^2.1.0",
     "markdown-it": "^14.1.1",
+    "npm-run-all2": "^8.0.4",
     "postcss": "^8.4.32",
+    "postcss-cli": "^11.0.1",
     "postcss-discard-comments": "^7.0.0",
     "sass": "^1.69.5"
-  },
-  "devDependencies": {
-    "gulp-sourcemaps": "^3.0.0"
   }
 }

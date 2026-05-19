@@ -15,16 +15,10 @@ permissions:
   id-token: write
 jobs:
   build:
-    name: Jekyll build
+    name: Eleventy build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '4.0.1'
-          bundler-cache: true
-          cache-version: 0
       - name: Setup Pages
         uses: actions/configure-pages@v6
       - name: Install Node
@@ -36,28 +30,28 @@ jobs:
         run: npm install
       - name: Sunday build
         if: github.event.schedule == '0 7 12 4 *'
-        run: JEKYLL_ENV=06_sunday gulp build
+        run: JEKYLL_ENV=06_sunday npm run build
       - name: Monday build
         if: github.event.schedule == '0 4 13 4 *'
-        run: JEKYLL_ENV=07_monday gulp build
+        run: JEKYLL_ENV=07_monday npm run build
       - name: Tuesday build
         if: github.event.schedule == '0 4 14 4 *'
-        run: JEKYLL_ENV=08_tuesday gulp build
+        run: JEKYLL_ENV=08_tuesday npm run build
       - name: Wednesday build
         if: github.event.schedule == '0 4 15 4 *'
-        run: JEKYLL_ENV=09_wednesday gulp build
+        run: JEKYLL_ENV=09_wednesday npm run build
       - name: Thursday build
         if: github.event.schedule == '0 4 16 4 *'
-        run: JEKYLL_ENV=10_thursday gulp build
+        run: JEKYLL_ENV=10_thursday npm run build
       - name: Friday pt1 build
         if: github.event.schedule == '0 4 17 4 *'
-        run: JEKYLL_ENV=11_friday_1 gulp build
+        run: JEKYLL_ENV=11_friday_1 npm run build
       - name: Friday pt2 build
         if: github.event.schedule == '0 21 18 4 *'
-        run: JEKYLL_ENV=12_friday_2 gulp build
+        run: JEKYLL_ENV=12_friday_2 npm run build
       - name: Saturday build
         if: github.event.schedule == '0 17 19 4 *'
-        run: JEKYLL_ENV=13_saturday gulp build
+        run: JEKYLL_ENV=13_saturday npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
   deploy:
