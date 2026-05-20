@@ -1,5 +1,7 @@
 {
   "section": "schedule",
   "image": "/img/col_left_events.webp",
+  "image_width": 275,
+  "image_height": 511,
   "layout": "default"
 }

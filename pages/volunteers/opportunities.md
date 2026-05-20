@@ -8,7 +8,7 @@ permalink: /volunteers/volunteer-opportunities/
 
 Classic volunteer slots are scheduled just before, during, and after the sale. These slots require time at the sale's location.
 
-{{ site.data.sale[site.sale_stage].volunteers | replace: "[season_year]", site.dates.season_year | replace: "[preseason]", site.dates.preseason | markdownify }}
+{% assign _stage = site.sale_stage %}{% assign _stage_data = sale[_stage] %}{{ _stage_data.volunteers | replace: "[season_year]", site.dates.season_year | replace: "[preseason]", site.dates.preseason | markdownify }}
 
 Time slots are available in 4-hour shifts. By volunteering, you will get to shop the day before Consignors and two days before the general public.
 
@@ -27,4 +27,4 @@ Time slots are available in 4-hour shifts. By volunteering, you will get to shop
 
 ## Non-Conventional Volunteer Opportunities/Bartering
 
-Do you have a unique service to offer or a product we might need? Click on "[Bartering]({% link pages/volunteers/bartering.md %})" to see what you might be able to trade us for a shop early pass!
+Do you have a unique service to offer or a product we might need? Click on "[Bartering]({% link "pages/volunteers/bartering.md" %})" to see what you might be able to trade us for a shop early pass!

@@ -56,7 +56,7 @@ If you are interested in being added as a Sponsor/Vendor please [contact us](mai
 <div class="container">
   <div id="sponsors" class="row">
     <div>
-      {% for sponsor in page.sponsors %}
+      {% for sponsor in sponsors %}
       <div class="p-2">
         <div class="card col">
           <a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer">

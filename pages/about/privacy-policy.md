@@ -5,6 +5,8 @@ permalink: /privacy-policy/
 layout: default
 section: about
 image: /img/col_left_about.webp
+image_width: 259
+image_height: 453
 ---
 
 **Effective Date: March 20, 2026**

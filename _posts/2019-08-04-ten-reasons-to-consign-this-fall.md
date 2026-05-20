@@ -24,7 +24,7 @@ I'm constantly purging and re-organizing our closets, drawers, and storage solut
 4\. Browse early.
 =================
 
-Just like shopping early allows me to purchase before the public, consigning also allows me to browse through items prior to the public shopping times. For example, if I see an adorable dress for my daughter but don't want to pay full price, I can keep an eye on it and plan to drop back by for the 50% off shopping times and snag a deal on the dress. Discounted items are specified by the Consignor, so [be sure to check the tags]({% post_url 2019-08-02-faq-friday-restocking-consignors %}) to see if your favorite item will go half price the final day.
+Just like shopping early allows me to purchase before the public, consigning also allows me to browse through items prior to the public shopping times. For example, if I see an adorable dress for my daughter but don't want to pay full price, I can keep an eye on it and plan to drop back by for the 50% off shopping times and snag a deal on the dress. Discounted items are specified by the Consignor, so [be sure to check the tags]({% post_url "2019-08-02-faq-friday-restocking-consignors" %}) to see if your favorite item will go half price the final day.
 
 5\. Recycle items to a new home.
 ================================

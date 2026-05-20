@@ -6,12 +6,16 @@ permalink: /register/
 layout: default
 section: register
 image: /img/col_left_register.webp
+image_width: 273
+image_height: 608
 ---
 
 {% assign vol_registration_open = "01_before,02_before,03_before,04_before" | split: "," %}
-## {{ site.data.sale[site.sale_stage].register | replace: "[season_year]", site.dates.season_year }}
+{% assign _stage = site.sale_stage %}
+{% assign _stage_data = sale[_stage] %}
+## {{ _stage_data.register | replace: "[season_year]", site.dates.season_year }}
 
-{{ site.data.sale[site.sale_stage].register_fee }}
+{{ _stage_data.register_fee }}
 
 <ul>
   {% if vol_registration_open contains site.sale_stage %}

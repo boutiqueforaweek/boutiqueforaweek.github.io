@@ -6,11 +6,11 @@ permalink: /consignors/preparing-merchandise/
 
 ## How to Prepare Your Merchandise
 
-Boutique For A Week only accepts quality, clean, and current items! See "[Items Accepted]({% link pages/consignors/items-accepted.md %})" for additional information. Make sure you have scrutinized each item as though YOU were going to buy it. Check for stains, holes, missing parts, etc. Any items with these issues will be pulled from the sale floor and left unsorted at sale end.
+Boutique For A Week only accepts quality, clean, and current items! See "[Items Accepted]({% link "pages/consignors/items-accepted.md" %})" for additional information. Make sure you have scrutinized each item as though YOU were going to buy it. Check for stains, holes, missing parts, etc. Any items with these issues will be pulled from the sale floor and left unsorted at sale end.
 
 ## Tagging Supplies Needed
 
-* Enough of the [assigned color of cardstock]({% link pages/consignors/cardstock-color-list.html %} "Card Stock Color List") to print a tag for each of your items. Ten tags print per page. It is required to print tags on cardstock.
+* Enough of the [assigned color of cardstock]({% link "pages/consignors/cardstock-color-list.html" %} "Card Stock Color List") to print a tag for each of your items. Ten tags print per page. It is required to print tags on cardstock.
 * Scissors or paper cutter to cut tags
 * Child-sized hangers for clothing up to size 4\. Adult hangers work well for sizes 5 and up. Old Navy throws away hangers daily. Ask for them there or purchase them at Wal-Mart or your local dry cleaners.
 * Cable/electrical ties (available in electrical department of Home Depot, Lowe's, and Wal-Mart) to secure tags to clothing. 4" ties work well for clothing items and 7" ties work best for shoes.
@@ -45,4 +45,4 @@ Boutique For A Week only accepts quality, clean, and current items! See "[Items 
 * Be sure all items of a set are the same size, otherwise please sell separately!
 * Pin sets securely together with pants hung on the backside of the shirt and pinned at the waist to the top of the hanger. Both pieces should be fully visible without the need to unpin or lift. The pants should face the opposite direction of the shirt and be pinned so the set will not separate when on the same hanger.
 * If you choose to hang pieces of a matching set on separate hangers (for example delicate fabric that may be damaged by pins), secure the hangers together with a cable tie through the triangle of the hanger instead of around the neck where it can slip off. Do not use rubber bands for this purpose! Take care to ensure pants will stay on the hanger.
-* See guidelines for pricing multiple piece items in the [Pricing]({% link pages/consignors/pricing-recommendations.md %}) section.
+* See guidelines for pricing multiple piece items in the [Pricing]({% link "pages/consignors/pricing-recommendations.md" %}) section.

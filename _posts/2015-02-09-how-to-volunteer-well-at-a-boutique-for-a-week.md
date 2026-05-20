@@ -2,7 +2,7 @@
 title: "How to Volunteer Well at a Boutique For A Week"
 ---
 
-I [shared]({% post_url 2015-02-06-boutique-for-a-week-needs-more-than-your-items %}) last week about the benefits of volunteering at a Boutique For A Week. Today I have some practical tips to help your volunteer shift go as smooth as a knife cuts butter.
+I [shared]({% post_url "2015-02-06-boutique-for-a-week-needs-more-than-your-items" %}) last week about the benefits of volunteering at a Boutique For A Week. Today I have some practical tips to help your volunteer shift go as smooth as a knife cuts butter.
 
 **1\. Eat before your shift.** Now, I wouldn't recommend stuffing yourself at an all-you-can-eat buffet, but I wouldn't come hungry either. Eat something healthy - something that will give you energy - and something you know settles well with your tummy. You likely won't have time to snack or eat often (or at all, if your volunteer shift is less than 4 hours), so plan accordingly.
 

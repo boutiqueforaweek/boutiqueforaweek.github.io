@@ -2,11 +2,34 @@
  * Site configuration and computed sale dates (replaces Jekyll _config.yml + sale_dates.rb)
  * Receives existing _data (menus, sale) for site.data compatibility
  */
+import fs from "fs";
+import path from "path";
+import yaml from "js-yaml";
+
+function loadJekyllConfig() {
+  try {
+    const configPath = path.resolve(process.cwd(), "_config.yml");
+    return yaml.load(fs.readFileSync(configPath, "utf8")) || {};
+  } catch {
+    return {};
+  }
+}
+
+function loadSaleData() {
+  try {
+    const salePath = path.resolve(process.cwd(), "_data/sale.yml");
+    return yaml.load(fs.readFileSync(salePath, "utf8")) || {};
+  } catch {
+    return {};
+  }
+}
+
 export default function (data) {
+  const jekyllConfig = loadJekyllConfig();
   const menus = data.menus || {};
-  const sale = data.sale || {};
-  const saleStart = process.env.SALE_START || "2026-04-12";
-  const saleStage = process.env.SALE_STAGE || process.env.JEKYLL_ENV || "02_before";
+  const sale = loadSaleData();
+  const saleStart = process.env.SALE_START || jekyllConfig.sale_start || "2026-04-12";
+  const saleStage = process.env.SALE_STAGE || jekyllConfig.sale_stage || "02_before";
 
   // Parse start date - sale starts on dropoff day, add offsets for other dates
   const startDate = new Date(saleStart + "T16:00:00-04:00");
@@ -47,11 +70,12 @@ export default function (data) {
     data: { menus, sale },
     time: new Date(),
     title: "Boutique for a Week",
-    description: "Voted Best Kids Consignment Sale in Central Florida",
+    description: jekyllConfig.description || "Voted Best Kids Consignment Sale in Central Florida",
     url: "https://boutiqueforaweek.com",
-    email: "info@boutiqueforaweek.com",
+    email: jekyllConfig.email || "info@boutiqueforaweek.com",
     sale_start: saleStart,
     sale_stage: saleStage,
+    times: jekyllConfig.times || {},
     schedule: {
       start: startDate,
       dropoff,

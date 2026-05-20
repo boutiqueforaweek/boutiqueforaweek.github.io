@@ -2,7 +2,7 @@
 title: "Getting your baby to sleep and eat"
 ---
 
-This is part two of our Baby Essentials series. [Part one]({% post_url 2012-07-30-transporting-your-baby %}) included what you need for transporting your darling little one! Today we'll discuss sleeping arrangements and feeding your little ones.
+This is part two of our Baby Essentials series. [Part one]({% post_url "2012-07-30-transporting-your-baby" %}) included what you need for transporting your darling little one! Today we'll discuss sleeping arrangements and feeding your little ones.
 
 Sleeping Arrangements:
 
@@ -14,6 +14,6 @@ Other than sleeping, soiling diapers and, of course, making you fall more in lov
 
 And don't forget, Boutique For A Week offers Pre-Sale Shopping to New Moms (baby under 1), Expecting Moms, Adopting and Foster Moms! [Register online now]({% link pages/register.md %}) and shop before we open to the public.
 
-Be sure you check out our other posts in this series, [transporting your baby]({% post_url 2012-07-30-transporting-your-baby %}) and [your sleeping baby]({% post_url 2012-08-07-getting-your-baby-to-sleep-and-eat %}).
+Be sure you check out our other posts in this series, [transporting your baby]({% post_url "2012-07-30-transporting-your-baby" %}) and [your sleeping baby]({% post_url "2012-08-07-getting-your-baby-to-sleep-and-eat" %}).
 
 ~Emily

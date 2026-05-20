@@ -6,7 +6,7 @@ permalink: /shoppers/moms-night-out/
 
 {% if site.sale_stage != '13_saturday' %}## We are excited to bring back Mom's Night Out for our {{ site.dates.season_year }} Sale!{% endif %}
 
-{% if site.sale_stage != '13_saturday' %}Join us for a fun and extended night of shopping catering to moms on {{ site.dates.moms_night }}{% endif %} The event will include music, special vendors, and giveaways. {{ site.data.sale[site.sale_stage].moms_night }}
+{% assign _stage = site.sale_stage %}{% assign _stage_data = sale[_stage] %}{% if site.sale_stage != '13_saturday' %}Join us for a fun and extended night of shopping catering to moms on {{ site.dates.moms_night }}{% endif %} The event will include music, special vendors, and giveaways. {{ _stage_data.moms_night }}
 
 ## Did we mention prizes?
 

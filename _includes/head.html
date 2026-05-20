@@ -1,5 +1,5 @@
-  {%- assign title = page.seo_title | replace: "[season_year]", site.dates.season_year | default: page.title -%}
-  {%- assign description = page.description | replace: '[season_year]', site.dates.season_year | default: site.description -%}
+  {%- assign title = seo_title | replace: "[season_year]", site.dates.season_year | default: title -%}
+  {%- assign description = description | replace: '[season_year]', site.dates.season_year | default: site.description -%}
   <title>{{ title }} | {{ site.title }} - Casselberry, FL</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,7 @@
   <meta property="og:image" content="{{ site.url }}/img/fall-sale-2026-kids-consignment-casselberry-fl.jpg" />
   <meta property="og:image:width" content="1536" />
   <meta property="og:image:height" content="1024" />
-  <meta property="og:type" content="{% if page.layout == 'blog' %}article{% else %}website{% endif %}" />
+  <meta property="og:type" content="{% if layout == 'blog' %}article{% else %}website{% endif %}" />
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:locale" content="en_US" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -89,7 +89,7 @@
           },
           "description": "Voted BEST Kids Consignment Sale in Orlando. Consignors sell everything you need from baby to teen.",
           "datePublished": "2022-06-27T05:00:24-04:00",
-          "dateModified": "{{ page.last_modified_at | default: page.date | default: site.time | date_to_xmlschema }}",
+          "dateModified": "{{ last_modified_at | default: page.date | default: site.time | date_to_xmlschema }}",
           "about": {
             "@id": "https://boutiqueforaweek.com/#localbusiness"
           }
@@ -147,20 +147,20 @@
         {
           "@type": "ListItem",
           "position": {{ forloop.index | plus: 1 }},
-          {% if forloop.last %}"name": {{ page.title | jsonify }}{% else %}"name": "{{ crumb | replace: '-', ' ' | split: ' ' | join: ' ' | capitalize }}"{% endif %},
+          {% if forloop.last %}"name": {{ title | jsonify }}{% else %}"name": "{{ crumb | replace: '-', ' ' | split: ' ' | join: ' ' | capitalize }}"{% endif %},
           "item": "{{ site.url }}{{ path }}/"
         }{% endfor %}
       ]
     }
   </script>
   {% endif %}
-  {% if page.faq %}
+  {% if faq %}
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       "mainEntity": [
-        {% for item in page.faq %}
+        {% for item in faq %}
         {
           "@type": "Question",
           "name": {{ item.question | jsonify }},

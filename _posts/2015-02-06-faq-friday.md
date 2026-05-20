@@ -4,7 +4,7 @@ title: "FAQ Friday"
 
 ![](/img/blog/FAQ_Fridays_Restocking.png)
 
-A [few weeks ago]({% post_url 2015-01-30-faq-friday %}) we answered this question briefly, but it still comes up! Here are some reasons to encourage you that the answer to this question is YES!
+A [few weeks ago]({% post_url "2015-01-30-faq-friday" %}) we answered this question briefly, but it still comes up! Here are some reasons to encourage you that the answer to this question is YES!
 
 * You'll be the "New Kid" and get all the attention! Returning shoppers from our Volunteer, Consignor, and New Mommy sale love to shop again after the Restocking Consignors bring items. They are specifically looking for YOUR items!
 * You can shop our Consignor-only sale on Tuesday! You can learn where to strategically place your items before Drop Off the following day!

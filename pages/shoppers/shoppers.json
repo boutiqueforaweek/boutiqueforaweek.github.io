@@ -1,5 +1,7 @@
 {
   "section": "shoppers",
   "image": "/img/col_left_shoppers.webp",
+  "image_width": 240,
+  "image_height": 535,
   "layout": "default"
 }

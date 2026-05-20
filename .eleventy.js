@@ -74,6 +74,13 @@ export default function (eleventyConfig) {
     return String(str).replace(/<[^>]*>/g, "");
   });
 
+  // date_to_xmlschema filter (Jekyll compatibility)
+  eleventyConfig.addFilter("date_to_xmlschema", (date) => {
+    if (!date) return "";
+    const d = date instanceof Date ? date : new Date(date);
+    return d.toISOString();
+  });
+
   // post_url shortcode - Jekyll {% post_url YYYY-MM-DD-slug %} compatibility
   eleventyConfig.addShortcode("post_url", function (...args) {
     const slug = String(args && args[0] !== undefined ? args[0] : "").trim();
@@ -109,6 +116,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("_posts/*.md").reverse();
   });
+
 
   return {
     dir: {

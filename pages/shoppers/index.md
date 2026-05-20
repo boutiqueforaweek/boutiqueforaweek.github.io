@@ -20,7 +20,7 @@ Everyone is invited to shop at Boutique For A Week. Tell your friends, neighbors
 
 Remember that Volunteers and Consignors shop before we open to the public! New/Expecting/Adopting or Foster Moms can shop early too!
 
-Visit [Consignors]({% link pages/consignors/index.md %}), [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}), [Volunteers]({% link pages/volunteers/index.md %}), and [New/Expecting Moms]({% link pages/shoppers/first-time-moms.md %}) for more details.
+Visit [Consignors]({% link "pages/consignors/index.md" %}), [White Tag Consignors]({% link "pages/consignors/white-tag-consignors.md" %}), [Volunteers]({% link "pages/volunteers/index.md" %}), and [New/Expecting Moms]({% link "pages/shoppers/first-time-moms.md" %}) for more details.
 
 {% if site.sale_stage != '13_saturday' %}
 ## The public sale hours for our {{ site.dates.season_year }} Sale are:

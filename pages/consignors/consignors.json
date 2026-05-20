@@ -1,5 +1,7 @@
 {
   "section": "consignors",
   "image": "/img/col_left_consignors.webp",
+  "image_width": 260,
+  "image_height": 515,
   "layout": "default"
 }

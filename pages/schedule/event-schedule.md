@@ -19,9 +19,9 @@ faq:
 
 * 8+ Hour Volunteers: {{ site.schedule.dropoff | ordinal }}, {{ site.times.vol_8hr }}
 * 4+ Hour Volunteers: {{ site.schedule.dropoff | ordinal }}, {{ site.times.vol_4hr }}
-* [White Tag Consignors]({% link pages/consignors/white-tag-consignors.md %}): {{ site.schedule.presale | ordinal }}, {{ site.times.white_tag }}
+* [White Tag Consignors]({% link "pages/consignors/white-tag-consignors.md" %}): {{ site.schedule.presale | ordinal }}, {{ site.times.white_tag }}
 * Consignors: {{ site.schedule.presale | ordinal }}, {{ site.times.consignors }}
-* [New/Expecting/Adopting/Foster Moms]({% link pages/shoppers/first-time-moms.md %}): {{ site.schedule.presale | ordinal }}, {{ site.times.new_moms }}
+* [New/Expecting/Adopting/Foster Moms]({% link "pages/shoppers/first-time-moms.md" %}): {{ site.schedule.presale | ordinal }}, {{ site.times.new_moms }}
 * Friends of Consignors: {{ site.schedule.presale | ordinal }}, {{ site.times.friends }}
 * Volunteers and Consignors 50% off* sale: {{ site.schedule.restocking | ordinal }}, {{ site.times.discount_consignors_volunteers }} and {{ site.schedule.sale_end | ordinal }}, {{ site.times.half_off }}
 
