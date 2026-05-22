@@ -1,7 +1,9 @@
 name: Build
 on:
   push:
-    branches: main
+    branches:
+      - main
+      - 11ty
   workflow_dispatch:
     inputs:
       logLevel:
