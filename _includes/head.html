@@ -1,3 +1,4 @@
+  {%- assign page_title = title -%}
   {%- assign title = seo_title | replace: "[season_year]", site.dates.season_year | default: title -%}
   {%- assign description = description | replace: '[season_year]', site.dates.season_year | default: site.description -%}
   <title>{{ title }} | {{ site.title }} - Casselberry, FL</title>
@@ -112,8 +113,8 @@
             },
             "url": "https://boutiqueforaweek.com/events/map-location/"
           },
-          "startDate": "{{ site.schedule.sale_start }}",
-          "endDate": "{{ site.schedule.sale_end }}",
+          "startDate": "{{ site.schedule.sale_start | date_to_xmlschema }}",
+          "endDate": "{{ site.schedule.sale_end | date_to_xmlschema }}",
           "eventStatus": "https://schema.org/EventScheduled",
           "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
           "url": "https://boutiqueforaweek.com/register/",
@@ -147,7 +148,7 @@
         {
           "@type": "ListItem",
           "position": {{ forloop.index | plus: 1 }},
-          {% if forloop.last %}"name": {{ title | jsonify }}{% else %}"name": "{{ crumb | replace: '-', ' ' | split: ' ' | join: ' ' | capitalize }}"{% endif %},
+          {% if forloop.last %}"name": {{ page_title | default: title | jsonify }}{% else %}"name": "{{ crumb | replace: '-', ' ' | split: ' ' | join: ' ' | capitalize }}"{% endif %},
           "item": "{{ site.url }}{{ path }}/"
         }{% endfor %}
       ]
