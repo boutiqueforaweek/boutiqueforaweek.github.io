@@ -13,6 +13,18 @@ on:
         - info
         - warning
         - debug
+  schedule:
+    # GENERATED:start schedule
+    # sale_start=2026-04-12 — do not edit; run `npm run gen:workflow`
+    - cron: "0 7 12 4 *"
+    - cron: "0 4 13 4 *"
+    - cron: "0 4 14 4 *"
+    - cron: "0 4 15 4 *"
+    - cron: "0 4 16 4 *"
+    - cron: "0 4 17 4 *"
+    - cron: "0 21 18 4 *"
+    - cron: "0 17 19 4 *"
+    # GENERATED:end schedule
 permissions:
   contents: read
   pages: write
@@ -30,6 +42,21 @@ jobs:
         with:
           node-version: 22
           cache: 'npm'
+      - name: Resolve sale stage
+        if: github.event_name == 'schedule'
+        run: |
+          case "${{ github.event.schedule }}" in
+            # GENERATED:start resolver
+            "0 7 12 4 *")  echo "SALE_STAGE=06_sunday" >> "$GITHUB_ENV" ;;
+            "0 4 13 4 *")  echo "SALE_STAGE=07_monday" >> "$GITHUB_ENV" ;;
+            "0 4 14 4 *")  echo "SALE_STAGE=08_tuesday" >> "$GITHUB_ENV" ;;
+            "0 4 15 4 *")  echo "SALE_STAGE=09_wednesday" >> "$GITHUB_ENV" ;;
+            "0 4 16 4 *")  echo "SALE_STAGE=10_thursday" >> "$GITHUB_ENV" ;;
+            "0 4 17 4 *")  echo "SALE_STAGE=11_friday_1" >> "$GITHUB_ENV" ;;
+            "0 21 18 4 *") echo "SALE_STAGE=12_friday_2" >> "$GITHUB_ENV" ;;
+            "0 17 19 4 *") echo "SALE_STAGE=13_saturday" >> "$GITHUB_ENV" ;;
+            # GENERATED:end resolver
+          esac
       - name: Build
         run: |
           npm install
