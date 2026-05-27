@@ -20,7 +20,7 @@ What does starting look like? For me, I sorted through ALL the clothes and pulle
 
 This past week, I went through our playroom. We keep all our toys in only two places: the playroom and the baby's room. I went through the toys in the baby's room before Christmas and pulled out what I wanted to sell. The big kids' playroom was a bigger task. Side note: there is no toy as irresistible to your child as one in the sell pile (even if your child has NO clue that's what you're doing). I tried to do most of the work while my kids were asleep to avoid that issue. I have a stash of Boutique For A Week "to sell" stuff in my laundry room where those toys are hiding out until the sale.
 
-I plan on tagging my toys and other non-clothing merchandise during Spring Break week in March. I still need to look through my house for remaining items to sell, using this [blog post](/ten-common-and-not-so-common-places-to-find-items-for-boutique-for-a-week/) as my guide. I want to be done looking through everything before I do my second (hopefully final) round of tagging.
+I plan on tagging my toys and other non-clothing merchandise during Spring Break week in March. I still need to look through my house for remaining items to sell, using this [blog post](/blog/2015/07/06/ten-common-and-not-so-common-places-to-find-items-for-boutique-for-a-week/) as my guide. I want to be done looking through everything before I do my second (hopefully final) round of tagging.
 
 How well I accomplish these goals remains to be seen. At least this time I have a plan. Even if I wait now, I'm already ahead.
 
