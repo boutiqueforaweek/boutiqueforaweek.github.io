@@ -51,4 +51,4 @@ Please note: all items must be entered into our tagging system by 11:59 p.m. on 
 
 **If you elect to tag exclusively with white cardstock and donate all of your items, you can shop even EARLIER! White Tag Consignors may begin shopping the Pre-Sale an hour earlier than classic Consignors. Read the [White Tag Consignors](pages/consignors/white-tag-consignors.md) page for more details.**
 
-**Consignors are also invited to shop the 50% off sale early.{% if site.sale_stage != '13_saturday' %} Discount shopping starts {{ site.schedule.restocking | ordinal }} for Consignors and Volunteers.{% endif %}**
+**Consignors are also invited to shop the 50% off sale early.{% if site.sale_stage != '13_saturday' %} Discount shopping starts {{ site.dates.restocking_ordinal }} for Consignors and Volunteers.{% endif %}**

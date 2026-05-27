@@ -70,20 +70,8 @@ export default function (eleventyConfig) {
   eleventyConfig.setLiquidParameterParsing("builtin");
   eleventyConfig.setTemplateFormats(["html", "md", "liquid"]);
 
-  // Ordinal filter (from Jekyll ordinal.rb) - formats date like "Wednesday, April 15th"
-  eleventyConfig.addFilter("ordinal", (date) => {
-    if (!date) return "";
-    const d = date instanceof Date ? date : new Date(date);
-    const day = d.getDate();
-    let suffix = "th";
-    if (day % 10 === 1 && day !== 11) suffix = "st";
-    else if (day % 10 === 2 && day !== 12) suffix = "nd";
-    else if (day % 10 === 3 && day !== 13) suffix = "rd";
-    const options = { weekday: "long", month: "long", day: "numeric" };
-    return d.toLocaleDateString("en-US", options) + suffix;
-  });
-
-  // Markdownify filter (Jekyll compatibility)
+  // Markdownify filter — renders markdown stored in YAML data (e.g. _data/sale.yml).
+  // No Liquid built-in equivalent.
   eleventyConfig.addFilter("markdownify", (str) => {
     if (!str) return "";
     return md.render(String(str));

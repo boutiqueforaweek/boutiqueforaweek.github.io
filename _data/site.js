@@ -108,6 +108,13 @@ export default function (data) {
       discount_shopping: `${formatShortWithOrdinal(saleEnd)} from 2:00 p.m. until 8:00 p.m.`,
       dropoff: `${formatDateWithOrdinal(startDate)} from 4:00 p.m. to 9:00 p.m. and ${formatDateWithOrdinal(dropoff)} from 10:00 a.m. to 1:00 p.m.`,
       pickup: `${formatDateWithOrdinal(pickup)} from 9:30 a.m. – 12:30 p.m.`,
+      start_ordinal: formatDateWithOrdinal(startDate),
+      dropoff_ordinal: formatDateWithOrdinal(dropoff),
+      presale_ordinal: formatDateWithOrdinal(presale),
+      sale_start_ordinal: formatDateWithOrdinal(saleStartDate),
+      restocking_ordinal: formatDateWithOrdinal(restocking),
+      sale_end_ordinal: formatDateWithOrdinal(saleEnd),
+      pickup_ordinal: formatDateWithOrdinal(pickup),
     },
   };
 }

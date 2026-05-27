@@ -6,47 +6,47 @@ permalink: /events/
 
 {% if site.sale_stage != '13_saturday' %}
 
-## {{ site.schedule.start | ordinal }}
+## {{ site.dates.start_ordinal }}
 
 **Drop Off**: {{ site.times.dropoff_day1 }}
 
-## {{ site.schedule.dropoff | ordinal }}
+## {{ site.dates.dropoff_ordinal }}
 
 **Drop Off**: {{ site.times.dropoff_day2 }}  
 
-## {{ site.schedule.sale_start | ordinal }}
+## {{ site.dates.sale_start_ordinal }}
 
 **Restocking Drop Off**: {{ site.times.restocking_dropoff }}  
 
-## {{ site.schedule.pickup | ordinal }}
+## {{ site.dates.pickup_ordinal }}
 
 **Pick Up**: {{ site.times.pickup }}
 
 # Shopping Schedule
 
-## {{ site.schedule.dropoff | ordinal }}
+## {{ site.dates.dropoff_ordinal }}
 
 **8+ Hour Volunteers**: {{ site.times.vol_8hr }}  
 **4 Hour Volunteers**: {{ site.times.vol_4hr }}
 
-## {{ site.schedule.presale | ordinal }}
+## {{ site.dates.presale_ordinal }}
 
 **White Tag Consignors**: {{ site.times.white_tag }}  
 **Consignors**: {{ site.times.consignors }}  
 **New/Expecting Moms**: {{ site.times.new_moms }}  
 **Friends of Consignors**: {{ site.times.friends }}
 
-## {{ site.schedule.sale_start | ordinal }}
+## {{ site.dates.sale_start_ordinal }}
 
 **Open to the Public**: {{ site.times.public_day1 }}  
 **Mom's Night Out**: {{ site.times.moms_night }}
 
-## {{ site.schedule.restocking | ordinal }}
+## {{ site.dates.restocking_ordinal }}
 
 **Open to the Public**: {{ site.times.public_day2 }}  
 **50% off for Consignors and Volunteers**: {{ site.times.discount_consignors_volunteers }}
 
-## {{ site.schedule.sale_end | ordinal }}
+## {{ site.dates.sale_end_ordinal }}
 
 **50% off Public Sale**: {{ site.times.half_off }}  
 
