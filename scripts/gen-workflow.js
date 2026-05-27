@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-// Regenerates the cron schedule and SALE_STAGE resolver in .github/workflows/build.yml
-// from sale_start in _config.yml. Run this whenever sale_start changes.
+// Regenerates the cron schedule and SALE_STAGE resolver in
+// .github/workflows/build.yml from sale_start in _data/site.js.
+// Run this whenever sale_start changes.
 //
 //   npm run gen:workflow
 //
@@ -9,7 +10,7 @@
 import fs from "fs";
 import path from "path";
 import url from "url";
-import yaml from "js-yaml";
+import siteFn from "../_data/site.js";
 
 const STAGES = [
   { offset: 0, hour: 7,  stage: "06_sunday" },
@@ -23,15 +24,14 @@ const STAGES = [
 ];
 
 const ROOT = path.resolve(path.dirname(url.fileURLToPath(import.meta.url)), "..");
-const CONFIG = path.join(ROOT, "_config.yml");
 const WORKFLOW = path.join(ROOT, ".github/workflows/build.yml");
 
 function loadSaleStart() {
-  const cfg = yaml.load(fs.readFileSync(CONFIG, "utf8")) || {};
-  if (!cfg.sale_start) {
-    throw new Error(`sale_start not set in ${CONFIG}`);
+  const site = siteFn({});
+  if (!site.sale_start) {
+    throw new Error("sale_start not set in _data/site.js");
   }
-  return cfg.sale_start;
+  return site.sale_start;
 }
 
 function buildCrons(saleStart) {

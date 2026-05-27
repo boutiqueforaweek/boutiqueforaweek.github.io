@@ -1,35 +1,45 @@
 /**
- * Site configuration and computed sale dates (replaces Jekyll _config.yml + sale_dates.rb)
- * Receives existing _data (menus, sale) for site.data compatibility
+ * Site configuration and computed sale dates.
+ *
+ * STATIC holds editor-facing values (sale_start changes ~2x/year). Everything
+ * else is derived from sale_start. Templates read these via `{{ site.X }}`.
+ *
+ * When changing sale_start, run `npm run gen:workflow` and commit the updated
+ * .github/workflows/build.yml so the sale-week cron schedule tracks the new date.
  */
-import fs from "fs";
-import path from "path";
-import yaml from "js-yaml";
 
-function loadJekyllConfig() {
-  try {
-    const configPath = path.resolve(process.cwd(), "_config.yml");
-    return yaml.load(fs.readFileSync(configPath, "utf8")) || {};
-  } catch {
-    return {};
-  }
-}
-
-function loadSaleData() {
-  try {
-    const salePath = path.resolve(process.cwd(), "_data/sale.yml");
-    return yaml.load(fs.readFileSync(salePath, "utf8")) || {};
-  } catch {
-    return {};
-  }
-}
+const STATIC = {
+  title: "Boutique for a Week",
+  description:
+    "Shop Orlando's best kids consignment sale. Gently used children's clothing, toys, baby gear and more at up to 80% off retail in Casselberry, FL.",
+  url: "https://boutiqueforaweek.com",
+  email: "info@boutiqueforaweek.com",
+  sale_start: "2026-09-13",
+  sale_stage: "13_saturday",
+  times: {
+    dropoff_day1: "4:00 p.m. - 9:00 p.m.",
+    dropoff_day2: "10:00 a.m. - 1:00 p.m.",
+    restocking_dropoff: "12:00 p.m. - 2:00 p.m.",
+    pickup: "9:30 a.m. - 12:30 p.m.",
+    vol_8hr: "5:00 p.m. - 9:00 p.m.",
+    vol_4hr: "7:00 p.m. - 9:00 p.m.",
+    white_tag: "12:00 p.m. - 8:00 p.m.",
+    consignors: "1:00 p.m. - 8:00 p.m.",
+    new_moms: "4:00 p.m. - 8:00 p.m.",
+    friends: "6:00 p.m. - 8:00 p.m.",
+    public_day1: "4:00 p.m. - 10:00 p.m.",
+    moms_night: "8:00 p.m. - 10:00 p.m.",
+    public_day2: "12:00 p.m. - 9:00 p.m.",
+    discount_consignors_volunteers: "5:00 p.m. - 9:00 p.m.",
+    half_off: "10:00 a.m. - 5:00 p.m.",
+  },
+};
 
 export default function (data) {
-  const jekyllConfig = loadJekyllConfig();
   const menus = data.menus || {};
-  const sale = loadSaleData();
-  const saleStart = process.env.SALE_START || jekyllConfig.sale_start || "2026-04-12";
-  const saleStage = process.env.SALE_STAGE || jekyllConfig.sale_stage || "02_before";
+  const sale = data.sale || {};
+  const saleStart = process.env.SALE_START || STATIC.sale_start;
+  const saleStage = process.env.SALE_STAGE || STATIC.sale_stage;
 
   // Parse start date - sale starts on dropoff day, add offsets for other dates
   const startDate = new Date(saleStart + "T16:00:00-04:00");
@@ -69,13 +79,13 @@ export default function (data) {
   return {
     data: { menus, sale },
     time: new Date(),
-    title: "Boutique for a Week",
-    description: jekyllConfig.description || "Voted Best Kids Consignment Sale in Central Florida",
-    url: "https://boutiqueforaweek.com",
-    email: jekyllConfig.email || "info@boutiqueforaweek.com",
+    title: STATIC.title,
+    description: STATIC.description,
+    url: STATIC.url,
+    email: STATIC.email,
     sale_start: saleStart,
     sale_stage: saleStage,
-    times: jekyllConfig.times || {},
+    times: STATIC.times,
     schedule: {
       start: startDate,
       dropoff,
