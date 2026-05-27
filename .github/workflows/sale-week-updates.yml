@@ -53,7 +53,7 @@ jobs:
         if: github.event.schedule == '0 17 19 4 *'
         run: JEKYLL_ENV=13_saturday npm run build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
   deploy:
     environment:
       name: github-pages
