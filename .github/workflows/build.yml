@@ -34,6 +34,13 @@ jobs:
         run: |
           npm install
           npm run build
+      - name: Spell check
+        uses: streetsidesoftware/cspell-action@v8
+        continue-on-error: true
+        with:
+          config: cspell.json
+          files: "_site/**/*.html"
+          incremental_files_only: false
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
