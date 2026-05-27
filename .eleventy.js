@@ -116,14 +116,14 @@ export default function (eleventyConfig) {
   eleventyConfig.addShortcode("post_url", function (...args) {
     const slug = String(args && args[0] !== undefined ? args[0] : "").trim();
     if (!slug) return "#";
-    const posts = this?.ctx?.collections?.posts ?? [];
-    const match = posts.find(
-      (p) =>
-        p.fileSlug === slug ||
-        (p.inputPath || "").includes(slug) ||
-        (p.inputPath || "").endsWith(slug + ".md")
-    );
-    return match ? match.url || `/blog/${slug}/` : `/blog/${slug}/`;
+    // Jekyll-style "YYYY-MM-DD-rest" → 11ty permalink "/blog/YYYY/MM/DD/rest/"
+    // (matches _posts/_posts.11tydata.js). Deterministic — no collection lookup
+    // because shortcode `this.ctx` is not reliably populated under Liquid.
+    const dated = slug.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/);
+    if (dated) {
+      return `/blog/${dated[1]}/${dated[2]}/${dated[3]}/${dated[4]}/`;
+    }
+    return `/blog/${slug}/`;
   });
 
   // Link shortcode - Jekyll {% link path %} compatibility (uses collections to resolve URL)
