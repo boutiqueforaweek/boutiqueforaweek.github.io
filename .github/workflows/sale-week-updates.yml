@@ -65,10 +65,8 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
       - name: Purge cache
-        uses: fishmanlabs/cloudflare-purge-cache-action@v2
+        uses: nathanvaughn/actions-cloudflare-purge@v4.0.0
         with:
-            zone_id: ${{ secrets.CLOUDFLARE_ZONE }}
-            api_token: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
-            purge_everything: 'true'
-            purge_hosts: |
-              boutiqueforaweek.com
+            cf_zone: ${{ secrets.CLOUDFLARE_ZONE }}
+            cf_auth: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
+            hosts: boutiqueforaweek.com
