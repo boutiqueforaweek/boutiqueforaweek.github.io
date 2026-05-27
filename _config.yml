@@ -3,6 +3,9 @@ description: >-
   Shop Orlando's best kids consignment sale. Gently used children's clothing, toys, baby gear and more at up to 80% off retail in Casselberry, FL.
 url: "https://boutiqueforaweek.com"
 email: info@boutiqueforaweek.com
+# When changing sale_start, run `npm run gen:workflow` and commit the
+# updated .github/workflows/build.yml so the sale-week cron schedule
+# tracks the new date.
 sale_start: "2026-04-12"
 sale_stage: "13_saturday"
 times:
