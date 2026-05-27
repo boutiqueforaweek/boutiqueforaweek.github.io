@@ -89,22 +89,6 @@ export default function (eleventyConfig) {
     return md.render(String(str));
   });
 
-  // Truncate filter for excerpts
-  eleventyConfig.addFilter("truncate", (str, length = 150) => {
-    if (!str) return "";
-    const s = String(str);
-    return s.length <= length ? s : s.slice(0, length) + "...";
-  });
-
-  // Plus filter for Liquid (e.g. pagination.pageNumber | plus: 1)
-  eleventyConfig.addFilter("plus", (value, addend) => (Number(value) || 0) + (Number(addend) || 0));
-
-  // Strip HTML tags
-  eleventyConfig.addFilter("strip_html", (str) => {
-    if (!str) return "";
-    return String(str).replace(/<[^>]*>/g, "");
-  });
-
   // date_to_xmlschema filter (Jekyll compatibility)
   eleventyConfig.addFilter("date_to_xmlschema", (date) => {
     if (!date) return "";
