@@ -41,6 +41,12 @@ jobs:
           config: cspell.json
           files: "_site/**/*.html"
           incremental_files_only: false
+      - name: HTMLProofer
+        uses: chabad360/htmlproofer@v2
+        continue-on-error: true
+        with:
+          directory: "./_site"
+          arguments: "--allow-hash-href --ignore-status-codes 429,999 --ignore-urls '/barnesandnobleinc\\.com/,/aidinternationalinc\\.org/,/twitter\\.com/,/etsy\\.com/,/nhtsa\\.gov/'"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
