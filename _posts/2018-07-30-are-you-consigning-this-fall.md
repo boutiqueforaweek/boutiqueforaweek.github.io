@@ -2,7 +2,7 @@
 title: "Are You Consigning This Fall?"
 ---
 
-[Registration]({% link pages/register.md %}) is open to [Restocking Consignors]({% link pages/consignors/restocking-consignors.md %}) for our 10th Anniversary Fall Sale. If you haven't registered yet and feel uncertain about consigning at Boutique For A Week, this post is for you!
+[Registration](pages/register.md) is open to [Restocking Consignors](pages/consignors/restocking-consignors.md) for our 10th Anniversary Fall Sale. If you haven't registered yet and feel uncertain about consigning at Boutique For A Week, this post is for you!
 
 ![](/img/blog/especiallyForConsignors.png)
 
@@ -12,4 +12,4 @@ Boutique For A Week allows you the luxury of deciding your own price. Stores do 
 
 Another big reason to choose to consign with us: we love our Consignors and vice versa! Our sale has been repeatedly voted Best Children's Consignment Sale in Central Florida as a result. It's our goal to serve you and to see you succeed. 
 
-We provide this blog and an entire website with the purpose of helping you navigate the consigning process, boost your sales, and more. If you're uncertain what it looks like to consign, check out some previous blog posts and site pages like ["Is It Worth It To Consign?"]({% post_url "2015-06-23-mom-to-mom-is-it-worth-it-to-consign" %}), "[Top Ten Reasons To Consign This Fall]({% post_url "2018-08-02-ten-reasons-to-consign-this-fall" %})", [Consignors 101]({% link pages/consignors/index.md %}), and [Preparing Your Merchandise]({% link pages/consignors/preparing-merchandise.md %}) to get an idea of what consigning is like and get motivated to earn some extra money. It is our continual goal to serve you and your family in this way.
+We provide this blog and an entire website with the purpose of helping you navigate the consigning process, boost your sales, and more. If you're uncertain what it looks like to consign, check out some previous blog posts and site pages like ["Is It Worth It To Consign?"](_posts/2015-06-23-mom-to-mom-is-it-worth-it-to-consign.md), "[Top Ten Reasons To Consign This Fall](_posts/2018-08-02-ten-reasons-to-consign-this-fall.md)", [Consignors 101](pages/consignors/index.md), and [Preparing Your Merchandise](pages/consignors/preparing-merchandise.md) to get an idea of what consigning is like and get motivated to earn some extra money. It is our continual goal to serve you and your family in this way.

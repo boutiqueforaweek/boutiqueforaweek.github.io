@@ -27,7 +27,7 @@ You can even send your man to work your volunteer hours for you or with you so y
 
 ## We Welcome Grandmothers Too
 
-We welcome Grandmas to work in your place and even have tasks suited for those with physical limitations. Click on "[Volunteer Opportunities]({% link "pages/volunteers/opportunities.md" %})"; for a brief description of how you might fit in!
+We welcome Grandmas to work in your place and even have tasks suited for those with physical limitations. Click on "[Volunteer Opportunities](pages/volunteers/opportunities.md)"; for a brief description of how you might fit in!
 
 Please note, due to the tasks that you may be doing and the amount of shoppers at any given time, we ask that you make other arrangements for your children during your volunteer shift.
 

@@ -41,7 +41,7 @@ It's the easiest way to clean out your closets and earn extra money for those gr
 
 ## How do I become a Consignor?
 
-You must obtain a Consignor code by completing the [Online Consignor Registration]({% link "pages/register.md" %}).
+You must obtain a Consignor code by completing the [Online Consignor Registration](pages/register.md).
 {% assign _stage = site.sale_stage %}{% assign _stage_data = sale[_stage] %}{{ _stage_data.consignors | markdownify }}
 Please note: all items must be entered into our tagging system by 11:59 p.m. on the Saturday before Sale Week.
 
@@ -49,6 +49,6 @@ Please note: all items must be entered into our tagging system by 11:59 p.m. on 
 
 **Your friends are invited to shop early at our [Friends of Consignors Pre-Sale](/events/){% if site.sale_stage != '13_saturday' %} ({{ site.dates.presale }}){% endif %}. You do not need to accompany them, but they will need to check in upon arrival and give us your name.**
 
-**If you elect to tag exclusively with white cardstock and donate all of your items, you can shop even EARLIER! White Tag Consignors may begin shopping the Pre-Sale an hour earlier than classic Consignors. Read the [White Tag Consignors]({% link "pages/consignors/white-tag-consignors.md" %}) page for more details.**
+**If you elect to tag exclusively with white cardstock and donate all of your items, you can shop even EARLIER! White Tag Consignors may begin shopping the Pre-Sale an hour earlier than classic Consignors. Read the [White Tag Consignors](pages/consignors/white-tag-consignors.md) page for more details.**
 
 **Consignors are also invited to shop the 50% off sale early.{% if site.sale_stage != '13_saturday' %} Discount shopping starts {{ site.schedule.restocking | ordinal }} for Consignors and Volunteers.{% endif %}**

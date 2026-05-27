@@ -21,7 +21,7 @@ redirect_from:
 * Maternity clothing purchased new in the last year.
 * Socks and underwear in "Like New" condition, in a Ziploc bag.
 * Shoes sizes infant through 8 (junior/adult)
-* Anything baby/children if not listed in the [Items Not Accepted]({% link "pages/consignors/items-we-cannot-accept.md" %}) section!
+* Anything baby/children if not listed in the [Items Not Accepted](pages/consignors/items-we-cannot-accept.md) section!
 * Infant Bath tubs - less than one year old and in excellent condition.
 * Handmade items like hats, clothing, etc may be sold with approval only. Please [email us](mailto:{{ site.email }}) pictures.
 * Baby equipment manufactured in the last 4 years. Check date on tag. Batteries MUST be included as needed! Please verify that your baby equipment meets all safety standards and is not on the [recall list](https://www.cpsc.gov/Recalls "Government Recall List").

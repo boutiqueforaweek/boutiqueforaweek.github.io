@@ -112,36 +112,9 @@ export default function (eleventyConfig) {
     return d.toISOString();
   });
 
-  // post_url shortcode - Jekyll {% post_url YYYY-MM-DD-slug %} compatibility
-  eleventyConfig.addShortcode("post_url", function (...args) {
-    const slug = String(args && args[0] !== undefined ? args[0] : "").trim();
-    if (!slug) return "#";
-    // Jekyll-style "YYYY-MM-DD-rest" → 11ty permalink "/blog/YYYY/MM/DD/rest/"
-    // (matches _posts/_posts.11tydata.js). Deterministic — no collection lookup
-    // because shortcode `this.ctx` is not reliably populated under Liquid.
-    const dated = slug.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/);
-    if (dated) {
-      return `/blog/${dated[1]}/${dated[2]}/${dated[3]}/${dated[4]}/`;
-    }
-    return `/blog/${slug}/`;
-  });
-
-  // Link shortcode - Jekyll {% link path %} compatibility (uses collections to resolve URL)
-  eleventyConfig.addShortcode("link", function (...args) {
-    const path = args && args[0] !== undefined ? args[0] : "";
-    const p = String(path || "").trim();
-    if (!p) return "#";
-    const all = this?.ctx?.collections?.all ?? [];
-    const norm = (s) => String(s || "").replace(/^\.\//, "").replace(/\\/g, "/");
-    const target = norm(p);
-    const match = all.find(
-      (page) =>
-        norm(page.inputPath || "") === target ||
-        (page.inputPath || "").endsWith(p) ||
-        (page.inputPath || "").includes(p)
-    );
-    return match ? match.url || `/${p}` : `/${p}`;
-  });
+  // Cross-links between content files use bare input paths
+  // (e.g. `[text](pages/X.md)` or `[text](_posts/Y.md)`); the
+  // InputPathToUrlTransformPlugin added above rewrites them to output URLs.
 
   // Posts collection — chronological (oldest first). The blog page paginates
   // with `reverse: true` so visitors see newest first.

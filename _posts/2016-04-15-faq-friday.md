@@ -4,7 +4,7 @@ title: "FAQ Friday"
 
 We have changed our Pick Up procedures!
 
-**We can no longer guarantee a complete sort at the end of our sale.** (It's still our goal though!) Make sure you're prepared for the time commitment and responsibility of finding your unsold items. Plan to spend at least 20 minutes at Pick Up. For more specific details about our new procedures and why they changed, please read our [Pick Up directions]({% link pages/consignors/picking-up.md %}).
+**We can no longer guarantee a complete sort at the end of our sale.** (It's still our goal though!) Make sure you're prepared for the time commitment and responsibility of finding your unsold items. Plan to spend at least 20 minutes at Pick Up. For more specific details about our new procedures and why they changed, please read our [Pick Up directions](pages/consignors/picking-up.md).
 
 This sale, more than ever, Consignors are wondering:
 
