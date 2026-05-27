@@ -1,29 +1,10 @@
 import { EleventyHtmlBasePlugin, InputPathToUrlTransformPlugin } from "@11ty/eleventy";
 import MarkdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
-import markdownItAnchor from "markdown-it-anchor";
 import yaml from "js-yaml";
 
 function configureMarkdown(mdLib) {
   mdLib.use(markdownItAttrs);
-  mdLib.use(markdownItAnchor, {
-    level: [2, 3, 4],
-    tabIndex: false,
-    slugify: (s) =>
-      String(s)
-        .toLowerCase()
-        .replace(/<[^>]+>/g, "")
-        .replace(/&[^;]+;/g, "")
-        .replace(/[^a-z0-9\s-]/g, "")
-        .trim()
-        .replace(/\s+/g, "-"),
-  });
-  // Kramdown / Jekyll behavior: do not HTML-escape " in text content
-  const baseText =
-    mdLib.renderer.rules.text ||
-    ((tokens, idx) => mdLib.utils.escapeHtml(tokens[idx].content));
-  mdLib.renderer.rules.text = (tokens, idx, options, env, self) =>
-    baseText(tokens, idx, options, env, self).replace(/&quot;/g, '"');
   return mdLib;
 }
 
@@ -56,10 +37,9 @@ export default function (eleventyConfig) {
   eleventyConfig.setIncludesDirectory("_includes");
   eleventyConfig.setLayoutsDirectory("_layouts");
 
-  // Configure the Eleventy markdown library to match the standalone instance.
-  // Enables kramdown-style attribute lists ({.img-fluid width="480"}), heading
-  // anchor IDs (Kramdown / Jekyll parity), and skips HTML-escaping of straight
-  // double quotes in body text.
+  // Match the Eleventy markdown library to the standalone instance used by
+  // `markdownify`. Enables kramdown-style attribute lists
+  // (`{.img-fluid width="480"}`, `{:target='_blank'}`).
   eleventyConfig.amendLibrary("md", configureMarkdown);
 
   // Use Liquid for all templates
