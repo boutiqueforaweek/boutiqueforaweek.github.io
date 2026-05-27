@@ -11,7 +11,8 @@
     "eleventy:serve": "npx @11ty/eleventy --serve",
     "eleventy:build": "npx @11ty/eleventy",
     "dev": "npm run js:dev && npm-run-all2 --parallel css:dev eleventy:serve",
-    "build": "npm-run-all2 --serial eleventy:build css:build css:prod js:build"
+    "build": "npm-run-all2 --serial eleventy:build css:build css:prod js:build",
+    "gen:workflow": "node scripts/gen-workflow.js"
   },
   "repository": {
     "type": "git",
