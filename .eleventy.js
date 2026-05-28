@@ -41,7 +41,7 @@ export default function (eleventyConfig) {
   });
   eleventyConfig.setLiquidParameterParsing("builtin");
 
-  // Markdownify filter — renders markdown stored in YAML data (e.g. _data/sale.yml).
+  // Markdownify filter — renders markdown stored in JSON data (e.g. _data/sale.json).
   // No Liquid built-in equivalent.
   eleventyConfig.addFilter("markdownify", (str) => {
     if (!str) return "";
