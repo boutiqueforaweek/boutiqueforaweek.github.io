@@ -64,7 +64,6 @@ export default function (eleventyConfig) {
     return collectionApi.getFilteredByGlob("_posts/*.md");
   });
 
-
   return {
     dir: {
       input: ".",
