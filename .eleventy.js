@@ -17,14 +17,14 @@ export default function (eleventyConfig) {
     img: "img",
     js: "js",
     pdf: "pdf",
+    "robots.txt": "robots.txt",
+    "site.webmanifest": "site.webmanifest",
+    "android-chrome-512x512.png": "android-chrome-512x512.png",
+    "favicon-32x32.png": "favicon-32x32.png",
+    "apple-touch-icon.png": "apple-touch-icon.png",
+    "favicon-16x16.png": "favicon-16x16.png",
+    CNAME: "CNAME",
   });
-  eleventyConfig.addPassthroughCopy("robots.txt");
-  eleventyConfig.addPassthroughCopy("site.webmanifest");
-  eleventyConfig.addPassthroughCopy("android-chrome-512x512.png");
-  eleventyConfig.addPassthroughCopy("favicon-32x32.png");
-  eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
-  eleventyConfig.addPassthroughCopy("favicon-16x16.png");
-  eleventyConfig.addPassthroughCopy("CNAME");
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
