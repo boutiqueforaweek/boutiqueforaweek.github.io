@@ -29,8 +29,6 @@ export default function (eleventyConfig) {
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
-  eleventyConfig.addGlobalData("site_title", "Boutique for a Week");
-
   // Match the Eleventy markdown library to the standalone instance used by
   // `markdownify`. Enables kramdown-style attribute lists
   // (`{.img-fluid width="480"}`, `{:target='_blank'}`).
