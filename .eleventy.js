@@ -27,6 +27,9 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  // Cross-links between content files use bare input paths
+  // (e.g. `[text](pages/X.md)` or `[text](_posts/Y.md)`);
+  // InputPathToUrlTransformPlugin rewrites them to output URLs.
   eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
   // Match the Eleventy markdown library to the standalone instance used by
@@ -54,10 +57,6 @@ export default function (eleventyConfig) {
     const d = date instanceof Date ? date : new Date(date);
     return d.toISOString();
   });
-
-  // Cross-links between content files use bare input paths
-  // (e.g. `[text](pages/X.md)` or `[text](_posts/Y.md)`); the
-  // InputPathToUrlTransformPlugin added above rewrites them to output URLs.
 
   // Posts collection — chronological (oldest first). The blog page paginates
   // with `reverse: true` so visitors see newest first.
