@@ -31,9 +31,6 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addGlobalData("site_title", "Boutique for a Week");
 
-  eleventyConfig.setIncludesDirectory("_includes");
-  eleventyConfig.setLayoutsDirectory("_layouts");
-
   // Match the Eleventy markdown library to the standalone instance used by
   // `markdownify`. Enables kramdown-style attribute lists
   // (`{.img-fluid width="480"}`, `{:target='_blank'}`).
@@ -45,7 +42,6 @@ export default function (eleventyConfig) {
     strictFilters: false,
   });
   eleventyConfig.setLiquidParameterParsing("builtin");
-  eleventyConfig.setTemplateFormats(["html", "md", "liquid"]);
 
   // Markdownify filter — renders markdown stored in YAML data (e.g. _data/sale.yml).
   // No Liquid built-in equivalent.
