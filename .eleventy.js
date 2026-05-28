@@ -38,11 +38,7 @@ export default function (eleventyConfig) {
   eleventyConfig.amendLibrary("md", configureMarkdown);
 
   // Use Liquid for all templates
-  eleventyConfig.setLiquidOptions({
-    dynamicPartials: false,
-    strictFilters: false,
-  });
-  eleventyConfig.setLiquidParameterParsing("builtin");
+  eleventyConfig.setLiquidOptions({ dynamicPartials: false });
 
   // Markdownify filter — renders markdown stored in JSON data (e.g. _data/sale.json).
   // No Liquid built-in equivalent.
