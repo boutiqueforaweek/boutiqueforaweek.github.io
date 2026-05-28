@@ -5,7 +5,7 @@ permalink: /about/our-sponsors/
 sponsors:
   - company: Fun 4 Seminole Kids
     image: /img/sponsors/fun4seminolekids.webp
-    link: "https://www.fun4seminolekids.com/"
+    link: "https://fun4seminolekids.com/"
     details: "Fun4SeminoleKids.com is your local resource for family friendly events and activities in Seminole County! Our website includes a Calendar and Directory detailing kids events, children programs and classes, youth sports, kids eat free directory, birthday party resources, rainy day activities, free fun for kids, summer camps and MORE fun things for kids and families to do in and around Seminole County."
   - company: My Central Florida Family
     image: /img/sponsors/my_central_florida_family.webp
@@ -30,11 +30,11 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
     details: "Anchor Pelvic Physical Therapy is more than just a clinic, they are partners in healing. As a locally owned, women-led pelvic health practice, their team is deeply committed to creating a space where every patient feels seen, valued, and empowered. They understand that pelvic health is personal, and they strive to provide care that is not only clinically excellent, but also compassionate, respectful, and rooted in connection. Through personalized, one-on-one, hour-long sessions with no overlap, their providers take the time to listen, educate, and develop thoughtful treatment plans tailored to each individual. They treat a wide variety of pelvic health concerns and conditions using a whole-body, evidence-based approach that recognizes the connection between movement, breath, nervous system regulation, and overall well-being. Guided by strong core values and an unwavering commitment to exceptional customer service, their team prioritizes a truly patient-centered experience from the first phone call to the final visit. Anchor Pelvic is dedicated to helping individuals heal, regain confidence, and reclaim their lives, feeling strong, supported, and at home in their bodies 💙."
   - company: Watermark
     image: /img/sponsors/watermark.webp
-    link: "https://www.bewatermark.com/"
+    link: "https://bewatermark.com/"
     details: "Watermark Homeschool Enrichment is a Christian non-profit and a leading resource for Central Florida's homeschooling families. Offering a one-day-a-week program at two Orlando-area locations, providing students with engaging à la carte classes. Courses are taught by local business partners and professionals, covering everything from art and science to technology and life skills. Beyond the classes, they offer enriching activities like field trips, middle and high school outings, and special events."
   - company: Elizabeth Bevill
     image: /img/sponsors/elizabeth-bevill.webp
-    link: https://www.marykay.com/EBevill
+    link: https://www.marykay.com/ebevill/en/home
     details: "Hi, Elizabeth here! Your go-to girl for glowing skin, effortless glam, and a sprinkle of Mary Kay magic. I help women feel confident, fabulous, and fearless—one pink moment at a time. Join me for in-person or virtual skincare experiences that bring out your natural glow. And if you’re ready to add a little extra sparkle, freedom, and fun to your life, the Mary Kay opportunity is pure pink magic waiting for you!"
   - company: Isabelle Chopin
     image: /img/sponsors/enhanced-home-inspection.webp

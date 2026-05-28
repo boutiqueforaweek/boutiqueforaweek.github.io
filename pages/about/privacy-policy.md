@@ -17,7 +17,7 @@ We are committed to protecting your privacy at Boutique For A Week. This policy 
 
 We do not collect personal information unless you voluntarily provide it. The information you may provide includes:
 
-* **Newsletter subscription**: When you subscribe to our mailing list, we collect your email address. Our newsletter is managed by [Brevo](https://www.brevo.com/) (formerly Sendinblue). By subscribing, your email is processed in accordance with [Brevo's Privacy Policy](https://www.brevo.com/en/legal/privacypolicy/).
+* **Newsletter subscription**: When you subscribe to our mailing list, we collect your email address. Our newsletter is managed by [Brevo](https://www.brevo.com/) (formerly Sendinblue). By subscribing, your email is processed in accordance with [Brevo's Privacy Policy](https://www.brevo.com/legal/privacypolicy/).
 * **Consignor and volunteer registration**: When you register as a consignor or volunteer, information is collected through our registration partner [MySaleManager.net](https://www.mysalemanager.net/), which is governed by their own privacy policy.
 
 ## Cookies and Analytics

@@ -10,7 +10,7 @@ Boutique for a Week is excited to be partnering with our community to get kids i
 
 In fact, it’s as easy as 1, 2, 3!
 
-1. Fill out this [form](https://docs.google.com/spreadsheet/viewform?formkey=dGV3TkcyeWRpYmp6TWZIZmNiMzFYRUE6MQ).
+1. Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdsEnPTGL6JsEQ1d0Z6XoFoxUkueXRJSmQ8g6dDp6uNizysrw/viewform?formkey=dGV3TkcyeWRpYmp6TWZIZmNiMzFYRUE6MQ).
 
 2. Purchase the required items. Example – 2 or 3 outfits, 1 pair of shoes, 1 book & 1 toy for the age range of your child.
 

@@ -9,7 +9,7 @@ permalink: /events/map-location/
 
 ## Our sale will be located at:
 
-[Metro Life Church 910 South Winter Park Drive Casselberry, FL 32707](https://maps.google.com/maps?q=910+South+Winter+Park+Drive,+Casselberry,+FL&hl=en&sll=27.698638,-83.804601&sspn=12.161551,13.07373&oq=910+South+Winter+Park+Dr&t=h&hnear=910+S+Winter+Park+Dr,+Casselberry,+Seminole,+Florida+32707&z=17)
+[Metro Life Church 910 South Winter Park Drive Casselberry, FL 32707](https://www.google.com/maps?q=910+South+Winter+Park+Drive,+Casselberry,+FL&hl=en&sll=27.698638,-83.804601&sspn=12.161551,13.07373&oq=910+South+Winter+Park+Dr&t=h&hnear=910+S+Winter+Park+Dr,+Casselberry,+Seminole,+Florida+32707&z=17)
 
 Click the above link to be directed to a Google Map for directions.
 

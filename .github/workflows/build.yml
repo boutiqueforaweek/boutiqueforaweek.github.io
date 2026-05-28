@@ -77,7 +77,7 @@ jobs:
             --no-progress
             --root-dir ${{ github.workspace }}/_site
             --accept '200..=299,429,999'
-            --exclude 'barnesandnobleinc\.com|aidinternationalinc\.org|twitter\.com|etsy\.com|nhtsa\.gov'
+            --exclude 'barnesandnobleinc\.com|aidinternationalinc\.org|twitter\.com|etsy\.com|nhtsa\.gov|mysalemanager\.net'
             './_site/**/*.html'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
