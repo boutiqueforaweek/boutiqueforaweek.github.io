@@ -1,7 +1,6 @@
 import { EleventyHtmlBasePlugin, InputPathToUrlTransformPlugin } from "@11ty/eleventy";
 import MarkdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
-import yaml from "js-yaml";
 
 function configureMarkdown(mdLib) {
   mdLib.use(markdownItAttrs);
@@ -11,8 +10,6 @@ function configureMarkdown(mdLib) {
 const md = configureMarkdown(new MarkdownIt());
 
 export default function (eleventyConfig) {
-  eleventyConfig.addDataExtension("yml,yaml", (contents) => yaml.load(contents));
-
   // Passthrough copy
   eleventyConfig.addPassthroughCopy({
     css: "css",
