@@ -12,3 +12,5 @@ package-lock.json
 .wordlist.txt
 .eleventyignore
 HANDOFF-*.md
+FOLLOW-UPS.md
+plan.md
