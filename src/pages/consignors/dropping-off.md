@@ -4,7 +4,7 @@ description: "Everything you need to know about dropping off consignment items a
 permalink: /consignors/dropping-off/
 eleventyNavigation:
   key: "Drop-off"
-  parent: "Drop-off & Pick-up"
+  parent: "Drop/Pick-up"
   order: 1
 ---
 

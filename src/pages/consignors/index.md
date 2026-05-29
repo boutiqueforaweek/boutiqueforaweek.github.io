@@ -17,7 +17,6 @@ faq:
 eleventyNavigation:
   key: "Consignors"
   order: 1
-  image: /img/consignors_menu.webp
 ---
 
 ## What is a Consignor?

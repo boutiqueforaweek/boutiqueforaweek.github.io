@@ -5,7 +5,6 @@ permalink: /events/
 eleventyNavigation:
   key: "Schedule"
   order: 4
-  image: /img/schedule_menu.webp
 ---
 
 {% if site.sale_stage != '13_saturday' %}

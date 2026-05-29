@@ -11,7 +11,6 @@ image_height: 608
 eleventyNavigation:
   key: "Register"
   order: 5
-  image: /img/register_menu.webp
 ---
 
 {% assign vol_registration_open = "01_before,02_before,03_before,04_before" | split: "," %}

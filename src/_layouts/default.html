@@ -20,7 +20,7 @@
         {%- assign top = nav | topLevelNavFor: page.url -%}
       {%- endif %}
       {%- if top %}
-      <img src="{{ top.image }}" alt="{{ top.key }} header" width="195" height="38" />
+      <p class="menu-heading">{{ top.key }}</p>
       <ul>
         <li><a href="{{ top.url }}">{{ top.data.title }}</a></li>
         {%- for child in top.children %}
@@ -33,7 +33,7 @@
       </ul>
         {%- for sub in top.children %}
           {%- if sub.children.size > 0 %}
-      <img src="{{ sub.image }}" alt="{{ sub.key }} header" width="195" height="38" />
+      <p class="menu-heading">{{ sub.key }}</p>
       <ul>
             {%- for leaf in sub.children %}
               {%- if leaf.showWhen == nil or leaf.showWhen == site.sale_stage %}

@@ -15,7 +15,6 @@ faq:
 eleventyNavigation:
   key: "Shoppers"
   order: 3
-  image: /img/shoppers_menu.webp
 ---
 
 _All Sales Final! No returns or exchanges! We accept Cash or Credit Cards. Credit cards require a $15 minimum purchase._

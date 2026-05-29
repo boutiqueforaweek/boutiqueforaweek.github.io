@@ -6,7 +6,6 @@ permalink: /volunteers/
 eleventyNavigation:
   key: "Volunteers"
   order: 2
-  image: /img/volunteers_menu.webp
 ---
 
 ## We need you!!! Volunteers are the heartbeat of the Boutique For A Week sale!

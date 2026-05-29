@@ -5,7 +5,6 @@ permalink: /about/who-we-are/
 eleventyNavigation:
   key: "About"
   order: 7
-  image: /img/about_menu.webp
   noDropdown: true
 ---
 

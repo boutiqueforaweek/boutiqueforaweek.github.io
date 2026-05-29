@@ -211,6 +211,27 @@ a {
 #col_left {
   background: rgba(250,248,232,1);
 
+  // Section / sub-section headers. Replaces the old text-as-image menu graphics:
+  // the heading is now real text in the brand script font, with a single shared
+  // pink brushstroke (stroke.webp) as the underline background.
+  .menu-heading {
+    display: block;
+    margin: 10px 0 6px;
+    padding-bottom: 14px;
+    background: url("/img/stroke.webp") no-repeat left bottom;
+    background-size: 100% auto;
+    color: #000;
+    font-family: "SignPainter";
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 0.5;
+    text-transform: uppercase;
+  }
+
+  ul + .menu-heading {
+    margin-top: 1.5rem;
+  }
+
   ul {
     font-size: 14px;
     padding-left: 0;
