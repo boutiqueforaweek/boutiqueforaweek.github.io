@@ -8,6 +8,8 @@
  * .github/workflows/build.yml so the sale-week cron schedule tracks the new date.
  */
 
+import { resolveSaleStage } from "../lib/sale-schedule.js";
+
 const STATIC = {
   title: "Boutique for a Week",
   description:
@@ -15,6 +17,9 @@ const STATIC = {
   url: "https://boutiqueforaweek.com",
   email: "info@boutiqueforaweek.com",
   sale_start: "2026-09-13",
+  // Manual fallback for the pre-sale registration phases (01_before–05_before),
+  // used until the sale week begins. During the sale week the stage is derived from
+  // the date (see lib/sale-schedule.js); after it, that resolves to 13_saturday.
   sale_stage: "13_saturday",
   times: {
     dropoff_day1: "4:00 p.m. - 9:00 p.m.",
@@ -39,7 +44,14 @@ export default function (data) {
   const menus = data.menus || {};
   const sale = data.sale || {};
   const saleStart = process.env.SALE_START || STATIC.sale_start;
-  const saleStage = process.env.SALE_STAGE || STATIC.sale_stage;
+  // Stage precedence: explicit override (testing / manual force) → date-derived
+  // sale-week stage (06–13) → manual pre-sale fallback (STATIC.sale_stage, set by
+  // hand during the 01–05 registration phases). resolveSaleStage returns null until
+  // the sale week begins, so before then the manual value wins.
+  const saleStage =
+    process.env.SALE_STAGE ||
+    resolveSaleStage(saleStart, new Date()) ||
+    STATIC.sale_stage;
 
   // Parse start date - sale starts on dropoff day, add offsets for other dates
   const startDate = new Date(saleStart + "T16:00:00-04:00");

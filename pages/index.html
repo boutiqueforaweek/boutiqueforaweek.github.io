@@ -5,9 +5,8 @@ description: "Shop Orlando's best kids consignment sale. Gently used children's 
 permalink: /
 layout:
 ---
-{% assign _stage = site.sale_stage %}
-{% assign _stage_data = sale[_stage] %}
-{% assign message = _stage_data.home | saleText: site | markdownify %}
+{% capture _message %}{% include sale/home.html %}{% endcapture %}
+{% assign message = _message | markdownify %}
 
 <!DOCTYPE html>
 <html lang="en">

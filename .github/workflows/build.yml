@@ -42,21 +42,6 @@ jobs:
         with:
           node-version: 22
           cache: 'npm'
-      - name: Resolve sale stage
-        if: github.event_name == 'schedule'
-        run: |
-          case "${{ github.event.schedule }}" in
-            # GENERATED:start resolver
-            "0 7 13 9 *")  echo "SALE_STAGE=06_sunday" >> "$GITHUB_ENV" ;;
-            "0 4 14 9 *")  echo "SALE_STAGE=07_monday" >> "$GITHUB_ENV" ;;
-            "0 4 15 9 *")  echo "SALE_STAGE=08_tuesday" >> "$GITHUB_ENV" ;;
-            "0 4 16 9 *")  echo "SALE_STAGE=09_wednesday" >> "$GITHUB_ENV" ;;
-            "0 4 17 9 *")  echo "SALE_STAGE=10_thursday" >> "$GITHUB_ENV" ;;
-            "0 4 18 9 *")  echo "SALE_STAGE=11_friday_1" >> "$GITHUB_ENV" ;;
-            "0 21 19 9 *") echo "SALE_STAGE=12_friday_2" >> "$GITHUB_ENV" ;;
-            "0 17 20 9 *") echo "SALE_STAGE=13_saturday" >> "$GITHUB_ENV" ;;
-            # GENERATED:end resolver
-          esac
       - name: Build
         run: |
           npm install

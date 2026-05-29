@@ -1,0 +1,9 @@
+{%- case site.sale_stage -%}
+{%- when "01_before" -%}
+[Registration](/register/) opens soon to Classic Consignors for our {{ site.dates.season_year }} Sale.
+{%- when "02_before" -%}
+{%- when "03_before" -%}
+[Registration](/register/) is now open for Restocking Consignors.
+{%- else -%}
+[Registration](/register/) is now closed.
+{%- endcase -%}

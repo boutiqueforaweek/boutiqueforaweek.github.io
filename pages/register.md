@@ -15,11 +15,9 @@ eleventyNavigation:
 ---
 
 {% assign vol_registration_open = "01_before,02_before,03_before,04_before" | split: "," %}
-{% assign _stage = site.sale_stage %}
-{% assign _stage_data = sale[_stage] %}
-## {{ _stage_data.register | saleText: site }}
+## {% capture _register %}{% include sale/register.html %}{% endcapture %}{{ _register | strip }}
 
-{{ _stage_data.register_fee }}
+{% capture _register_fee %}{% include sale/register_fee.html %}{% endcapture %}{{ _register_fee | strip }}
 
 <ul>
   {% if vol_registration_open contains site.sale_stage %}

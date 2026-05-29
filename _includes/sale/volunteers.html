@@ -1,0 +1,10 @@
+{%- case site.sale_stage -%}
+{%- when "01_before" -%}
+[Volunteer](/volunteers/) registration for our {{ site.dates.season_year }} Sale opens soon.
+{%- when "02_before" or "03_before" or "04_before" -%}
+[Volunteer registration](/register/) is now open for our {{ site.dates.season_year }} Sale.
+{%- when "12_friday_2" or "13_saturday" -%}
+[Volunteer](/volunteers/) registration will re-open this {{ site.dates.preseason }} for our {{ site.dates.season_year }} Sale.
+{%- else -%}
+[Volunteer registration](/register/) is now closed.
+{%- endcase -%}

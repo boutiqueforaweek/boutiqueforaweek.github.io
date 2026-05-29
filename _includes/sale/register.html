@@ -1,0 +1,12 @@
+{%- case site.sale_stage -%}
+{%- when "01_before" -%}
+Registration opens soon to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our {{ site.dates.season_year }} Sale!
+{%- when "02_before" -%}
+Registration is open for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our {{ site.dates.season_year }} Sale!
+{%- when "03_before" -%}
+Registration is open for [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers/) for our {{ site.dates.season_year }} Sale!
+{%- when "04_before" -%}
+Registration is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers/) for our {{ site.dates.season_year }} Sale!
+{%- else -%}
+Registration is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/).
+{%- endcase -%}

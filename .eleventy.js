@@ -69,37 +69,12 @@ export default function (eleventyConfig) {
   // Use Liquid for all templates
   eleventyConfig.setLiquidOptions({ dynamicPartials: false });
 
-  // Markdownify filter — renders markdown stored in JS data (e.g. _data/sale.js).
+  // Markdownify filter — renders markdown emitted by the sale-stage includes
+  // (_includes/sale/*) and other inline markdown (e.g. our-sponsors card text).
   // No Liquid built-in equivalent.
   eleventyConfig.addFilter("markdownify", (str) => {
     if (!str) return "";
     return md.render(String(str));
-  });
-
-  // saleText filter — substitutes the placeholder tokens used in sale-stage copy
-  // (_data/sale.js) with computed site dates/times. Replaces a fixed whitelist of
-  // tokens only; bracketed markdown links like `[shopping](/shoppers/)` are left
-  // untouched. Pass `site` as the argument: `{{ str | saleText: site }}`.
-  eleventyConfig.addFilter("saleText", (str, site) => {
-    if (!str) return "";
-    const { dates, times } = site;
-    const tokens = {
-      "[season_year]": dates.season_year,
-      "[preseason]": dates.preseason,
-      "[pickup]": dates.pickup_ordinal,
-      "[sale_start]": dates.sale_start,
-      "[sale_end]": dates.sale_end,
-      "[times.new_moms]": times.new_moms,
-      "[times.public_day1]": times.public_day1,
-      "[times.moms_night]": times.moms_night,
-      "[times.public_day2]": times.public_day2,
-      "[times.half_off]": times.half_off,
-      "[times.pickup]": times.pickup,
-    };
-    return Object.entries(tokens).reduce(
-      (s, [k, v]) => s.split(k).join(v ?? ""),
-      String(str),
-    );
   });
 
   // date_to_xmlschema filter (Jekyll compatibility)

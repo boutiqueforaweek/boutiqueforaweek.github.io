@@ -1,0 +1,52 @@
+{%- capture sale_run -%}
+Our [{{ site.dates.season_year }} Sale](/events/) runs {{ site.dates.sale_start }} through {{ site.dates.sale_end }} at [Metro Life Church](/events/map-location/)!
+{%- endcapture -%}
+{%- capture thanks -%}
+Thank you everyone for [shopping](/shoppers/), [consigning](/consignors/), and [volunteering](/volunteers/). We had a great sale!
+{%- endcapture -%}
+{%- case site.sale_stage -%}
+{%- when "01_before" -%}
+{{ sale_run }}
+{%- when "02_before" -%}
+[Registration](/register/) is open to [Consignors](/consignors/) and [Volunteers](/volunteers/) for our {{ site.dates.season_year }} Sale!
+
+{{ sale_run }}
+{%- when "03_before" -%}
+[Registration](/register/) is open to [Restocking Consignors](/consignors/restocking-consignors/) and [Volunteers](/volunteers/) for our {{ site.dates.season_year }} Sale!
+
+{{ sale_run }}
+{%- when "04_before" -%}
+[Registration](/register/) is now closed for [Consignors](/consignors/), but still open for [Volunteers](/volunteers/) and the [New Mom's Presale](/shoppers/first-time-moms/) for our {{ site.dates.season_year }} Sale!
+
+{{ sale_run }}
+{%- when "05_before" -%}
+[Registration](/register/) is now closed for [Consignors](/consignors/) and [Volunteers](/volunteers/) for our {{ site.dates.season_year }} Sale!
+
+{{ sale_run }}
+{%- when "06_sunday" or "07_monday" -%}
+[Volunteer](/volunteers/) slots are still available!
+
+{{ sale_run }}
+{%- when "08_tuesday" -%}
+Our [{{ site.dates.season_year }} Sale](/events/) is open to [new moms](/shoppers/first-time-moms/) today from {{ site.times.new_moms }}. Sign-ups for New Mom's Night will be available at the door.
+
+Our sale opens to the general public tomorrow!
+{%- when "09_wednesday" -%}
+Our [{{ site.dates.season_year }} Sale](/events/) is open to the public today from {{ site.times.public_day1 }}.
+
+We're also hosting [Mom's Night Out](/shoppers/moms-night-out/) tonight from {{ site.times.moms_night }}!
+{%- when "10_thursday" -%}
+Our [{{ site.dates.season_year }} Sale](/events/) continues! Today we're open to the public from {{ site.times.public_day2 }}.
+{%- when "11_friday_1" -%}
+Today is our [{{ site.dates.season_year }} Sale](/events/) 50% off day! We're open to the public from {{ site.times.half_off }}.
+{%- when "12_friday_2" -%}
+{{ thanks }}
+
+Please note that pickup is tomorrow, {{ site.dates.pickup_ordinal }} from {{ site.times.pickup }}.
+
+ANY ITEMS NOT PICKED UP will be [donated](/consignors/donating-unsold-items/).
+{%- when "13_saturday" -%}
+{{ thanks }}
+
+We'll be announcing dates for our next sale soon!
+{%- endcase -%}

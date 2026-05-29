@@ -12,7 +12,7 @@ eleventyNavigation:
 
 Classic volunteer slots are scheduled just before, during, and after the sale. These slots require time at the sale's location.
 
-{% assign _stage = site.sale_stage %}{% assign _stage_data = sale[_stage] %}{{ _stage_data.volunteers | saleText: site | markdownify }}
+{% capture _volunteers %}{% include sale/volunteers.html %}{% endcapture %}{{ _volunteers | markdownify }}
 
 Time slots are available in 4-hour shifts. By volunteering, you will get to shop the day before Consignors and two days before the general public.
 

@@ -36,4 +36,4 @@ Your items will be held safely until it's time to restock. On Wednesday, Volunte
 * You are automatically added to our Consignor Waiting List: if a Consignor un-registers, you can be offered an opportunity to consign with our classic Consignors during the Pre-Sale times.
 
 We charge a $12 Restocking Consignor registration fee (payable through Paypal during the registration process). This fee is non-refundable.
-{% assign _stage = site.sale_stage %}{% assign _stage_data = sale[_stage] %}{{ _stage_data.restocking | saleText: site | markdownify }}
+{% capture _restocking %}{% include sale/restocking.html %}{% endcapture %}{{ _restocking | markdownify }}
