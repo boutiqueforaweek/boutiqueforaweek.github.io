@@ -6,12 +6,10 @@
     "css:dev": "sass src/_css/style.scss:src/css/style.css --watch",
     "css:build": "sass src/_css/style.scss:_site/css/style.css --no-source-map",
     "css:prod": "postcss _site/css/style.css --replace",
-    "js:dev": "cp node_modules/bootstrap/dist/js/bootstrap.bundle.js src/js/script.js",
-    "js:build": "mkdir -p _site/js && cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.js _site/js/script.js",
     "eleventy:serve": "npx @11ty/eleventy --serve",
     "eleventy:build": "npx @11ty/eleventy",
-    "dev": "npm run js:dev && npm-run-all2 --parallel css:dev eleventy:serve",
-    "build": "npm-run-all2 --serial eleventy:build css:build css:prod js:build",
+    "dev": "npm-run-all2 --parallel css:dev eleventy:serve",
+    "build": "npm-run-all2 --serial eleventy:build css:build css:prod",
     "gen:workflow": "node scripts/gen-workflow.js"
   },
   "repository": {

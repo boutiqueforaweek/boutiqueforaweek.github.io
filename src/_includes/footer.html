@@ -80,24 +80,3 @@
 <div id="copyright" class="container mt-3">
   <p>&copy; {{ site.time | date: '%Y' }} Boutique for a Week</p>
 </div>
-<script>
-  // Disable menu dropdown for desktop.
-  if (window.matchMedia('(min-width: 992px)').matches) {
-    Array.from(document.getElementsByClassName('nav-link'))
-      .map(el => {
-        el.removeAttribute('data-bs-toggle');
-        el.parentElement.classList.remove('active');
-        el.nextElementSibling.classList.remove('show');
-      });
-  }
-
-  // Enable top level links for mobile.
-  if (window.matchMedia('(max-width: 992px)').matches) {
-    document.querySelectorAll('.register a, .sponsors a')
-      .forEach(elem => {
-        elem.removeAttribute('data-bs-toggle');
-        elem.parentElement.classList.remove('active');
-        elem.nextElementSibling.classList.remove('show');
-      });
-  }
-</script>

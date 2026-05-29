@@ -3,6 +3,5 @@
 .claude/
 _site
 src/css/style.css*
-src/js
 node_modules
 vendor
