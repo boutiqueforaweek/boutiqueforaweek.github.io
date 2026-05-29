@@ -2,6 +2,7 @@ import { EleventyHtmlBasePlugin, InputPathToUrlTransformPlugin } from "@11ty/ele
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import MarkdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
+import { minify } from "html-minifier-terser";
 
 function configureMarkdown(mdLib) {
   mdLib.use(markdownItAttrs);
@@ -90,6 +91,27 @@ export default function (eleventyConfig) {
   // with `reverse: true` so visitors see newest first.
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("src/_posts/*.md");
+  });
+
+  // Minify HTML output on production builds only (skip serve/watch so dev stays
+  // readable and reloads fast). collapseWhitespace is safe here — there are no
+  // <pre>/<textarea> blocks; JSON-LD (application/ld+json) is left verbatim since
+  // minifyJS only targets JS-type scripts.
+  eleventyConfig.addTransform("htmlmin", async function (content) {
+    if (
+      process.env.ELEVENTY_RUN_MODE === "build" &&
+      (this.page.outputPath || "").endsWith(".html")
+    ) {
+      return minify(content, {
+        collapseWhitespace: true,
+        removeComments: true,
+        useShortDoctype: true,
+        removeRedundantAttributes: true,
+        minifyCSS: true,
+        minifyJS: true,
+      });
+    }
+    return content;
   });
 
   return {
