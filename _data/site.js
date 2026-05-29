@@ -102,6 +102,8 @@ export default function (data) {
       year,
       season_year: `${season} ${year}`,
       sale_dates: `${formatShortWithOrdinal(saleStartDate)} through ${formatShortWithOrdinal(saleEnd)}`,
+      sale_start: formatShortWithOrdinal(saleStartDate),
+      sale_end: formatShortWithOrdinal(saleEnd),
       vol_presale: formatShortWithOrdinal(dropoff),
       presale: formatShortWithOrdinal(presale),
       moms_night: `${formatShortWithOrdinal(saleStartDate)} from 8:00 p.m. until 10:00 p.m.`,

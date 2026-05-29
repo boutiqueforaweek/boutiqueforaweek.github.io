@@ -17,7 +17,7 @@ eleventyNavigation:
 {% assign vol_registration_open = "01_before,02_before,03_before,04_before" | split: "," %}
 {% assign _stage = site.sale_stage %}
 {% assign _stage_data = sale[_stage] %}
-## {{ _stage_data.register | replace: "[season_year]", site.dates.season_year }}
+## {{ _stage_data.register | saleText: site }}
 
 {{ _stage_data.register_fee }}
 

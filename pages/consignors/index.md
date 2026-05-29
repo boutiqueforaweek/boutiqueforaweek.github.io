@@ -46,7 +46,7 @@ It's the easiest way to clean out your closets and earn extra money for those gr
 ## How do I become a Consignor?
 
 You must obtain a Consignor code by completing the [Online Consignor Registration](pages/register.md).
-{% assign _stage = site.sale_stage %}{% assign _stage_data = sale[_stage] %}{{ _stage_data.consignors | markdownify }}
+{% assign _stage = site.sale_stage %}{% assign _stage_data = sale[_stage] %}{{ _stage_data.consignors | saleText: site | markdownify }}
 Please note: all items must be entered into our tagging system by 11:59 p.m. on the Saturday before Sale Week.
 
 **Consignors may bring a spouse, grandparent and/or children under 18 to shop during the Consignor Pre-Sale shopping time. No sisters, friends, aunts, etc. We are not able to make exceptions. Please only bring children if absolutely necessary. <u>Children under 12 must remain with a parent at all times</u>.{% if site.sale_stage != '13_saturday' %} The [{{ site.dates.season_year }} Pre-Sale](/events/) is {{ site.dates.presale }}.{% endif %}**
