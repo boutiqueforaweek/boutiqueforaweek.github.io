@@ -1,4 +1,5 @@
 import { EleventyHtmlBasePlugin, InputPathToUrlTransformPlugin } from "@11ty/eleventy";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import MarkdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
@@ -18,7 +19,6 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "src/css": "css",
     "src/fonts": "fonts",
-    "src/img": "img",
     "src/js": "js",
     "src/pdf": "pdf",
     "src/robots.txt": "robots.txt",
@@ -28,6 +28,47 @@ export default function (eleventyConfig) {
     "src/apple-touch-icon.png": "apple-touch-icon.png",
     "src/favicon-16x16.png": "favicon-16x16.png",
     "src/CNAME": "CNAME",
+  });
+
+  // Image passthrough: eleventyImageTransformPlugin (below) reads originals
+  // straight from src/img and writes optimized variants to /img/optimized/, so
+  // content <img> images do NOT need their originals copied. We only ship:
+  //   - root-level src/img files: CSS backgrounds, the logo sprite, favicons,
+  //     and page photos (a single `*` glob skips the heavy blog/ subdir);
+  //   - the linked PDF in blog/ (referenced as a download, not an <img>).
+  // This drops the ~56 MB of unoptimized blog rasters from the build.
+  eleventyConfig.addPassthroughCopy("src/img/*");
+  eleventyConfig.addPassthroughCopy("src/img/blog/*.pdf");
+  // Lightbox originals: a handful of blog images are wrapped in a link to the
+  // full-size file (`[![thumb](x.jpg)](x.jpg)`). The plugin rewrites the inner
+  // <img> to /img/optimized/ but leaves the <a href> pointing at the original,
+  // so those few originals must still ship. CI's lychee link check flags any new
+  // lightbox link whose original isn't copied here.
+  eleventyConfig.addPassthroughCopy({
+    "src/img/blog/14289926_10153692379550836_4218995251695004065_o.jpg":
+      "img/blog/14289926_10153692379550836_4218995251695004065_o.jpg",
+    "src/img/blog/IMG_8263.jpg": "img/blog/IMG_8263.jpg",
+    "src/img/blog/crocodile-ladybug.jpg": "img/blog/crocodile-ladybug.jpg",
+    "src/img/blog/unnamed.jpg": "img/blog/unnamed.jpg",
+  });
+
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    // WebP only — universal browser support (~97%+) and the source images are
+    // already mostly WebP. A second "auto" fallback format would roughly double
+    // output for no practical compatibility gain.
+    formats: ["webp"],
+    // Capped widths, no "auto": the content column is ~720px (1200 covers 2x
+    // retina), so there's no reason to emit the full 4000px source. eleventy-img
+    // never upscales, so smaller sources (icons) stay a single intrinsic-width file.
+    widths: [400, 800, 1200],
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+      sizes: "(max-width: 768px) 100vw, 720px",
+    },
+    urlPath: "/img/optimized/",
+    outputDir: "_site/img/optimized/",
   });
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
