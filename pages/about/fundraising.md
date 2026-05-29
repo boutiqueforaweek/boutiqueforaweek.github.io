@@ -2,6 +2,10 @@
 title: Fundraising
 description: "Use Boutique for a Week for your group's fundraiser. Schools, churches and organizations in Central Florida can raise money through our consignment sale."
 permalink: /about/fundraising/
+eleventyNavigation:
+  key: "Fundraising Opportunities"
+  parent: "About"
+  order: 5
 ---
 
 ## You can use Boutique For A Week as a fundraiser for your church, school, club, or organization!

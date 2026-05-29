@@ -2,6 +2,10 @@
 title: Picking Up
 description: "Consignor pick-up details for Boutique for a Week. When and how to collect unsold items after our children's consignment sale in Casselberry, FL."
 permalink: /consignors/dropping-off/picking-up/
+eleventyNavigation:
+  key: "Pick Up"
+  parent: "Drop-off & Pick-up"
+  order: 2
 ---
 {% if site.sale_stage != '13_saturday' %}
 ## Pick Up for our {{ site.dates.season_year }} Sale is {{ site.dates.pickup }}

@@ -2,6 +2,10 @@
 title: Schedule
 description: "Consignor drop-off and pick-up schedule for Boutique for a Week. Important dates and times for our children's consignment sale in Casselberry, FL."
 permalink: /events/
+eleventyNavigation:
+  key: "Schedule"
+  order: 4
+  image: /img/schedule_menu.webp
 ---
 
 {% if site.sale_stage != '13_saturday' %}

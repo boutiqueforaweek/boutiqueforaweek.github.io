@@ -2,6 +2,10 @@
 title: Mom's Night Out
 description: "Join Mom's Night Out at Boutique for a Week. Shop early for the best kids consignment deals in a fun, social atmosphere in Casselberry, FL."
 permalink: /shoppers/moms-night-out/
+eleventyNavigation:
+  key: "Mom's Night Out"
+  parent: "Shoppers"
+  order: 3
 ---
 
 {% if site.sale_stage != '13_saturday' %}## We are excited to bring back Mom's Night Out for our {{ site.dates.season_year }} Sale!{% endif %}

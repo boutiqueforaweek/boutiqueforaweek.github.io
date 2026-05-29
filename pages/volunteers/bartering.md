@@ -2,6 +2,10 @@
 title: Bartering
 description: "Volunteer bartering options at Boutique for a Week. Trade volunteer hours for shopping credit at Central Florida's top children's consignment sale."
 permalink: /volunteers/bartering/
+eleventyNavigation:
+  key: "Bartering"
+  parent: "Volunteers"
+  order: 3
 ---
 
 ## Non-Traditional Volunteer Opportunities

@@ -47,6 +47,9 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
 From family-owned storefronts to growing local brands, we love helping our neighbors stand out. Whether you need a single banner or full-coverage window decals, you’ll get personal service, quality craftsmanship, and real people who genuinely care about getting it right.
 We’re not a big-box print factory. We’re your local print partner, right here in Orlando. We treat your signage like it matters, because it absolutely does.
 Reach out to us today to get a quote, ask a question, and get your project started!"
+eleventyNavigation:
+  key: "Sponsors"
+  order: 6
 ---
 
 We are proud to share our sponsors with you. When sponsors are listed, you can click on its logo below to visit its website.

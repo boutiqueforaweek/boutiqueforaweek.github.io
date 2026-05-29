@@ -2,6 +2,10 @@
 title: Attaching Tags
 description: "Step-by-step guide to attaching tags to your consignment items for Boutique for a Week. Video tutorials and tagging tips for clothing, toys and gear."
 permalink: /consignors/attaching-tags/
+eleventyNavigation:
+  key: "Attaching Tags"
+  parent: "Consignors"
+  order: 4
 ---
 
 When tags separate from items, everyone loses! We can not sell items without tags because the consignor cannot be properly credited. Help us to sell as many of your items as possible by making securely attaching your tags! Please note: Cardstock is REQUIRED for tags.

@@ -2,6 +2,10 @@
 title: Charities
 description: "Boutique for a Week partners with local Central Florida charities. Unsold consignment items are donated to families in need in the Orlando and Seminole County area."
 permalink: /about/charities/
+eleventyNavigation:
+  key: "Charities"
+  parent: "About"
+  order: 3
 ---
 
 Every sale we consider it a privilege to join with our Consignors to donate to worthy causes in our community. Our {{ site.dates.season_year }} Sale recipient is [The Christian Sharing Center](https://thesharingcenter.org/). We love participating in their stated mission- "to provide essential resources to those in need while ensuring dignity, reflecting Christian generosity, and sharing God's love."

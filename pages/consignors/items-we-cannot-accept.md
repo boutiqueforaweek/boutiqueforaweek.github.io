@@ -4,6 +4,10 @@ description: "Items not accepted at Boutique for a Week's consignment sale. Reca
 permalink: /consignors/items-we-cannot-accept/
 redirect_from:
   - /consignors/items-accepted/items-we-cannot-accept/
+eleventyNavigation:
+  key: "Items Not Accepted"
+  parent: "Items to Sell"
+  order: 2
 ---
 
 * Clothing manufactured more than 4 years ago. Check the inside tag! Most manufacturers print a copyright date on clothing tags.

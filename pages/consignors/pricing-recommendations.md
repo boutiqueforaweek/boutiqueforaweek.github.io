@@ -2,6 +2,10 @@
 title: Pricing Your Items
 description: "Pricing guide for consignors at Boutique for a Week. Recommended prices for children's clothing, toys, baby equipment and more to sell quickly at our Orlando sale."
 permalink: /consignors/items-accepted/pricing-recommendations/
+eleventyNavigation:
+  key: "Pricing Your Items"
+  parent: "Pricing"
+  order: 1
 ---
 
 ## General Tips

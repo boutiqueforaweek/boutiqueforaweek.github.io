@@ -3,6 +3,10 @@ title: Map &amp; Location
 seo_title: "Sale Location & Directions | Metro Life Church, Casselberry FL"
 description: "Get directions to Boutique for a Week at Metro Life Church, 910 S Winter Park Dr, Casselberry, FL 32707. Conveniently located in Seminole County near Orlando."
 permalink: /events/map-location/
+eleventyNavigation:
+  key: "Map & Location"
+  parent: "Schedule"
+  order: 3
 ---
 
 ![Map of Boutique for a Week sale location at Metro Life Church in Casselberry FL](/img/map.webp){.img-fluid width="436" height="402" loading="lazy"}

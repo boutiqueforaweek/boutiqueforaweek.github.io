@@ -4,6 +4,10 @@ description: "See what items are accepted at Boutique for a Week. Children's clo
 permalink: /consignors/items-accepted/
 redirect_from:
   - /consignors/items-accepted/items-accepted-2/
+eleventyNavigation:
+  key: "Items Accepted"
+  parent: "Items to Sell"
+  order: 1
 ---
 
 **You must verify that your items are not under recall. Items can be checked on this [website](https://www.cpsc.gov/Recalls). You will be required to sign a waiver at check in accepting liability of the items that you bring, stating you have ensured none of your items are recalled, and verifying that all your items meet safety standards.**

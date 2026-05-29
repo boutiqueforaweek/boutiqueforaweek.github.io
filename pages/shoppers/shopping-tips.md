@@ -2,6 +2,10 @@
 title: Shopping Tips
 description: "Top tips for shopping at Boutique for a Week. How to find the best deals on kids clothing, toys and baby gear at our consignment sale in Casselberry, FL."
 permalink: /shoppers/shopping-tips/
+eleventyNavigation:
+  key: "Shopping Tips"
+  parent: "Shoppers"
+  order: 5
 ---
 
 * We accept cash as well as MasterCard, Visa, and debit cards ($15 minimum) with proper ID.

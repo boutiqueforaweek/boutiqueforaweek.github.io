@@ -476,3 +476,44 @@ a img {
 .ratio {
   margin-bottom: 20px;
 }
+
+// Mobile (below xl): split nav item — link navigates, chevron toggles dropdown.
+// At xl+ both elements are hidden and the existing .dropdown-toggle link drives the menu.
+@include media-breakpoint-down(xl) {
+  .navbar-nav .nav-item.dropdown {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  .navbar-nav .split-link {
+    flex: 1 1 auto;
+    text-align: end;
+  }
+  .navbar-nav .split-toggle {
+    flex: 0 0 auto;
+    border: 0;
+    padding: 0.5rem 1rem;
+    background: transparent;
+    color: inherit;
+    &::after {
+      content: "";
+      display: inline-block;
+      width: 28px;
+      height: 15px;
+      border: 0;
+      background: url("/img/bow.png") center / contain no-repeat;
+      vertical-align: middle;
+      transition: transform 0.2s ease;
+    }
+    &[aria-expanded="true"]::after {
+      transform: rotate(180deg);
+    }
+    &:focus {
+      box-shadow: none;
+    }
+  }
+  .navbar-nav .dropdown-menu {
+    flex: 0 0 100%;
+  }
+}

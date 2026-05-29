@@ -2,6 +2,11 @@
 title: Restocking Consignors
 description: "Restocking consignor details for Boutique for a Week. Learn about restocking fees and guidelines for our children's consignment sale in Casselberry, FL."
 permalink: /consignors/restocking-consignors/
+eleventyNavigation:
+  key: "Restocking Consignors"
+  parent: "Consignors"
+  order: 2
+  showWhen: "04_before"
 ---
 
 {% if site.sale_stage != '13_saturday' %}

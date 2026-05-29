@@ -2,6 +2,10 @@
 title: Consignor Earnings
 description: "Learn how consignor earnings work at Boutique for a Week. Earn 65% on all sold items at Central Florida's top children's consignment sale."
 permalink: /consignors/consignor-earnings/
+eleventyNavigation:
+  key: "Consignor Earnings"
+  parent: "Consignors"
+  order: 8
 ---
 
 Consignors keep 65% of the selling price of each item!

@@ -2,6 +2,10 @@
 title: Advertise with Us
 description: "Advertise your business at Boutique for a Week. Reach thousands of Central Florida families at Orlando's top children's consignment sale in Casselberry, FL."
 permalink: /about/advertise-with-us/
+eleventyNavigation:
+  key: "Advertising Opportunities"
+  parent: "About"
+  order: 4
 ---
 
 We're GROWING! - You Can Too!

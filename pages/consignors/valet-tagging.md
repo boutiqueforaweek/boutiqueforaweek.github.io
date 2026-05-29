@@ -2,6 +2,10 @@
 title: Valet Tagging
 description: "Let us tag your items for you with Boutique for a Week's valet tagging service. We handle the prep work so you can consign without the hassle."
 permalink: /consignors/valet-tagging/
+eleventyNavigation:
+  key: "Valet Tagging"
+  parent: "Pricing"
+  order: 3
 ---
 
 Valet Tagging is available to those who want to consign and earn a little extra money, but can't seem to find the time to tag their items. This service is available on a first come, first serve basis.

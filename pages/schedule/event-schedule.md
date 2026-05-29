@@ -12,6 +12,10 @@ faq:
     answer: "Boutique for a Week is held at Metro Life Church, 910 S Winter Park Dr, Casselberry, FL 32707."
   - question: "When is the 50% off sale?"
     answer: "The 50% off sale runs on the last day of the sale and is open to the public all day. Volunteers and Consignors get early access to discount shopping the evening before."
+eleventyNavigation:
+  key: "When Can I Shop?"
+  parent: "Schedule"
+  order: 2
 ---
 
 {% if site.sale_stage != '13_saturday' %}

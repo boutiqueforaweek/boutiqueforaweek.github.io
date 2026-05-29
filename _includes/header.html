@@ -1,9 +1,4 @@
-{%- assign current_page = page.url | split: '/' -%}
-{%- assign current_menu = current_page[1] -%}
-{%- if current_menu == 'events' -%}
-{%- assign current_menu = 'schedule' -%}
-{%- endif -%}
-{%- assign consignor_menus = 'consignors,items_to_sell,pricing,drop_off_pick_up' | split: ',' -%}
+{%- assign nav = collections.all | eleventyNavigation -%}
 <div class="row">
   <div class="col">
     <nav class="navbar navbar-expand-xl">
@@ -11,35 +6,47 @@
         <a class="navbar-brand logo" href="/">
           <img src="/img/logo.gif" alt="Boutique for a Week - Kids Consignment Sale Orlando" width="131" height="160" />
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvas" aria-controls="navbarOffcanvas" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ms-auto me-0 me-xxl-auto text-end">
-            {%- for item in menus.navigation %}
-            <li class="nav-item {{ item.identifier }}{% if item.identifier == current_menu %} active{% endif %}{% unless menus[item.identifier] == empty %} dropdown{% endunless %}">
-              <a class="nav-link{%- unless menus[item.identifier] == empty %} dropdown-toggle{%- endunless -%}"{%- unless menus[item.identifier] == empty %} data-bs-toggle="dropdown"{%- endunless %} href="{{ item.url }}">{{ item.title }}</a>
-              {% unless menus[item.identifier] == empty -%}
-              <ul class="dropdown-menu text-end{%- if current_menu == item.identifier %} show{%- endif -%}">
-              {%- if item.identifier == 'consignors' -%}
-              {%- for menu in consignor_menus -%}
-                {%- for subitem in menus[menu] %}
-                {%- unless site.sale_stage != '04_before' and subitem.title == 'Restocking Consignors' -%}
-                <li{% if subitem.identifier == current_menu %} class="active"{% endif %}>
-                  <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
-                </li>
-                {% endunless -%}
-                {%- endfor -%}
-              {% endfor %}
-              {%- else -%}
-              {%- for subitem in menus[item.identifier] %}
-                <li{% if subitem.identifier == current_menu %} class="active"{% endif %}>
-                  <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
-                </li>
-              {%- endfor %}
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="navbarOffcanvas" aria-labelledby="navbarOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="navbarOffcanvasLabel">Menu</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#navbarOffcanvas" aria-label="Close"></button>
+          </div>
+          <ul class="navbar-nav ms-auto me-0 me-xxl-auto text-end offcanvas-body">
+            {%- for item in nav %}
+            {%- assign descendants = item | flatNavDescendants -%}
+            {%- assign hasChildren = descendants.size -%}
+            {%- if item.noDropdown -%}{%- assign hasChildren = 0 -%}{%- endif -%}
+            {%- assign isActive = false -%}
+            {%- if item.url == page.url -%}{%- assign isActive = true -%}
+            {%- else -%}
+              {%- for d in descendants -%}{%- if d.url == page.url -%}{%- assign isActive = true -%}{%- endif -%}{%- endfor -%}
+            {%- endif -%}
+            <li class="nav-item{% if isActive %} active{% endif %}{% if hasChildren > 0 %} dropdown{% endif %}">
+              {%- if hasChildren > 0 %}
+              {%- comment -%}Desktop (xl+): single clickable label that also toggles the dropdown{%- endcomment -%}
+              <a class="nav-link dropdown-toggle d-none d-xl-inline-block" data-bs-toggle="dropdown" href="{{ item.url }}">{{ item.key }}</a>
+              {%- comment -%}Mobile/offcanvas: plain link (navigates) + sibling chevron button (toggles submenu){%- endcomment -%}
+              <a class="nav-link d-xl-none d-inline-block split-link" href="{{ item.url }}">{{ item.key }}</a>
+              <button type="button" class="btn d-xl-none split-toggle dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Expand {{ item.key }} submenu"></button>
+              {%- else %}
+              <a class="nav-link" href="{{ item.url }}">{{ item.key }}</a>
               {%- endif %}
+              {%- if hasChildren > 0 %}
+              <ul class="dropdown-menu text-end{% if isActive %} show{% endif %}">
+                {%- for sub in descendants %}
+                {%- if sub.showWhen == nil or sub.showWhen == site.sale_stage %}
+                {%- assign subUrl = sub.url -%}
+                {%- if sub.data and sub.data.permalink == false %}{%- continue -%}{%- endif %}
+                <li{% if page.url == subUrl %} class="active"{% endif %}>
+                  <a class="dropdown-item" href="{{ subUrl }}">{{ sub.key }}</a>
+                </li>
+                {%- endif %}
+                {%- endfor %}
               </ul>
-              {%- endunless %}
+              {%- endif %}
             </li>
             {%- endfor %}
           </ul>

@@ -2,6 +2,10 @@
 title: Homeschool Curricula
 description: "Sell used homeschool curriculum and educational materials at Boutique for a Week in Casselberry, FL. Guidelines for consigning textbooks and learning supplies."
 permalink: /consignors/consigning-homeschool-curricula/
+eleventyNavigation:
+  key: "Homeschool Curricula"
+  parent: "Items to Sell"
+  order: 3
 ---
 
 To sell your home schooling curricula at our sale:

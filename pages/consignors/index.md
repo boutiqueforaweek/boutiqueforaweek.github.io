@@ -14,6 +14,10 @@ faq:
     answer: "Yes! Consignors get to shop during the Pre-Sale before we open to the public. Consignors may bring a spouse, grandparent, and/or children under 18 to shop during the Consignor Pre-Sale shopping time."
   - question: "What is a White Tag Consignor?"
     answer: "White Tag Consignors tag exclusively with white cardstock and donate all unsold items. In return, they can shop even earlier than classic Consignors during the Pre-Sale."
+eleventyNavigation:
+  key: "Consignors"
+  order: 1
+  image: /img/consignors_menu.webp
 ---
 
 ## What is a Consignor?

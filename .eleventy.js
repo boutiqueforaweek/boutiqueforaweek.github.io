@@ -1,4 +1,5 @@
 import { EleventyHtmlBasePlugin, InputPathToUrlTransformPlugin } from "@11ty/eleventy";
+import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import MarkdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
 
@@ -31,6 +32,34 @@ export default function (eleventyConfig) {
   // (e.g. `[text](pages/X.md)` or `[text](_posts/Y.md)`);
   // InputPathToUrlTransformPlugin rewrites them to output URLs.
   eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  // Flatten a nav tree node's descendants into a single ordered list — used by
+  // the header dropdown to render every descendant of e.g. "Consignors" as a
+  // flat menu, while the sidebar walks the same tree as nested groups.
+  eleventyConfig.addFilter("flatNavDescendants", function (node) {
+    const out = [];
+    function walk(children) {
+      for (const c of children || []) {
+        out.push(c);
+        if (c.children && c.children.length) walk(c.children);
+      }
+    }
+    walk(node?.children);
+    return out;
+  });
+
+  // Find the top-level nav node whose tree contains the given URL — used by the
+  // sidebar in _layouts/default.html to pick the section for the current page.
+  eleventyConfig.addFilter("topLevelNavFor", function (nav, url) {
+    function contains(node) {
+      if (node.url === url) return true;
+      for (const c of node.children || []) if (contains(c)) return true;
+      return false;
+    }
+    for (const top of nav || []) if (contains(top)) return top;
+    return null;
+  });
 
   // Match the Eleventy markdown library to the standalone instance used by
   // `markdownify`. Enables kramdown-style attribute lists

@@ -8,30 +8,47 @@
   {% include header.html %}
   <div class="row g-0">
     <div id="col_left" class="d-none d-lg-block col-lg-3 p-5">
-      {%- if section != 'consignors' -%}
-      <img src="/img/{{ section }}_menu.webp" alt="{{ section }} header" width="195" height="38" />
+      {%- assign nav = collections.all | eleventyNavigation -%}
+      {%- assign top = nil -%}
+      {%- if section %}
+        {%- assign section_cap = section | capitalize -%}
+        {%- for n in nav -%}
+          {%- if n.key == section_cap -%}{%- assign top = n -%}{%- endif -%}
+        {%- endfor -%}
+      {%- endif %}
+      {%- if top == nil %}
+        {%- assign top = nav | topLevelNavFor: page.url -%}
+      {%- endif %}
+      {%- if top %}
+      <img src="{{ top.image }}" alt="{{ top.key }} header" width="195" height="38" />
       <ul>
-        {% for item in menus[section] %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
+        <li><a href="{{ top.url }}">{{ top.data.title }}</a></li>
+        {%- for child in top.children %}
+          {%- if child.showWhen == nil or child.showWhen == site.sale_stage %}
+            {%- if child.children.size == 0 %}
+        <li><a href="{{ child.url }}">{{ child.key }}</a></li>
+            {%- endif %}
+          {%- endif %}
+        {%- endfor %}
       </ul>
-      {%- else -%}
-      {%- assign menu_keys = 'consignors,items_to_sell,pricing,drop_off_pick_up' | split: ',' -%}
-      {%- for menu in menu_keys %}
-      <img src="/img/{{ menu }}_menu.webp" alt="{{ menu }} header" width="195" height="38" />
+        {%- for sub in top.children %}
+          {%- if sub.children.size > 0 %}
+      <img src="{{ sub.image }}" alt="{{ sub.key }} header" width="195" height="38" />
       <ul>
-        {% for item in menus[menu] -%}
-        {%- unless site.sale_stage != '04_before' and item.title == 'Restocking Consignors' -%}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endunless -%}
-        {% endfor %}
+            {%- for leaf in sub.children %}
+              {%- if leaf.showWhen == nil or leaf.showWhen == site.sale_stage %}
+        <li><a href="{{ leaf.url }}">{{ leaf.key }}</a></li>
+              {%- endif %}
+            {%- endfor %}
       </ul>
-      {%- endfor -%}
+          {%- endif %}
+        {%- endfor %}
       {%- endif %}
       <img src="{{ image }}" alt="{{ section }} section" class="img-fluid mt-5" width="{{ image_width }}" height="{{ image_height }}" loading="lazy" />
     </div>
     <div id="col_right" class="col-12 col-lg-9">
       <div>
+        {% include breadcrumb.html %}
         <h1>{{ page_title }}</h1>
         {{ content }}
       </div>

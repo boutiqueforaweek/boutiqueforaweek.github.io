@@ -12,6 +12,10 @@ faq:
     answer: "Yes! Volunteers, Consignors, White Tag Consignors, and New/Expecting/Adopting/Foster Moms can all shop before we open to the public. Visit the relevant pages for details on how to qualify."
   - question: "Is there a half-price sale day?"
     answer: "Yes! The last day of the sale features 50% off on items designated by the Consignor. Volunteers and Consignors get early access to the discount shopping."
+eleventyNavigation:
+  key: "Shoppers"
+  order: 3
+  image: /img/shoppers_menu.webp
 ---
 
 _All Sales Final! No returns or exchanges! We accept Cash or Credit Cards. Credit cards require a $15 minimum purchase._
