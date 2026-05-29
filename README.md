@@ -7,7 +7,7 @@ this README documents which pages are dynamic and what each stage shows.
 ## How staging works
 
 A single value, `site.sale_stage` (one of `01_before` … `13_saturday`), drives all
-stage-dependent copy. It is resolved in `_data/site.js` with this precedence:
+stage-dependent copy. It is resolved in `src/_data/site.js` with this precedence:
 
 1. **`SALE_STAGE` env var** — explicit override, for previewing/forcing a stage:
    `SALE_STAGE=09_wednesday npx @11ty/eleventy --serve`
@@ -15,14 +15,14 @@ stage-dependent copy. It is resolved in `_data/site.js` with this precedence:
    computed from the current date vs. `sale_start` (see `lib/sale-schedule.js`). The
    GitHub Actions cron in `.github/workflows/build.yml` rebuilds the site at each
    transition so the live site rolls forward on its own.
-3. **Manual fallback** — `STATIC.sale_stage` in `_data/site.js`, used for the
+3. **Manual fallback** — `STATIC.sale_stage` in `src/_data/site.js`, used for the
    pre-sale registration phases `01_before`–`05_before`. Edit it and push to advance
    those; after the sale week it resolves to `13_saturday`.
 
 All dates and times shown in the copy are computed from `sale_start` in
-`_data/site.js` (`site.dates.*`, `site.times.*`) — never hard-coded in the copy.
+`src/_data/site.js` (`site.dates.*`, `site.times.*`) — never hard-coded in the copy.
 
-The stage copy lives in `_includes/sale/*.html`, one file per message type, each a
+The stage copy lives in `src/_includes/sale/*.html`, one file per message type, each a
 `{% case site.sale_stage %}` that emits markdown with dates interpolated directly.
 
 ## Dynamic pages
@@ -31,15 +31,15 @@ The stage copy lives in `_includes/sale/*.html`, one file per message type, each
 
 | Page | URL | Include(s) used |
 | --- | --- | --- |
-| `pages/index.html` | `/` | `sale/home.html` |
-| `pages/register.md` | `/register/` | `sale/register.html`, `sale/register_fee.html` |
-| `pages/consignors/index.md` | `/consignors/` | `sale/consignors.html` |
-| `pages/consignors/restocking-consignors.md` | `/consignors/restocking-consignors/` | `sale/restocking.html` |
-| `pages/volunteers/index.md` | `/volunteers/` | `sale/volunteers.html` |
-| `pages/volunteers/opportunities.md` | `/volunteers/volunteer-opportunities/` | `sale/volunteers.html` |
-| `pages/shoppers/moms-night-out.md` | `/shoppers/moms-night-out/` | `sale/moms_night.html` |
+| `src/pages/index.html` | `/` | `sale/home.html` |
+| `src/pages/register.md` | `/register/` | `sale/register.html`, `sale/register_fee.html` |
+| `src/pages/consignors/index.md` | `/consignors/` | `sale/consignors.html` |
+| `src/pages/consignors/restocking-consignors.md` | `/consignors/restocking-consignors/` | `sale/restocking.html` |
+| `src/pages/volunteers/index.md` | `/volunteers/` | `sale/volunteers.html` |
+| `src/pages/volunteers/opportunities.md` | `/volunteers/volunteer-opportunities/` | `sale/volunteers.html` |
+| `src/pages/shoppers/moms-night-out.md` | `/shoppers/moms-night-out/` | `sale/moms_night.html` |
 
-`pages/register.md` also shows/hides the actual registration links by stage
+`src/pages/register.md` also shows/hides the actual registration links by stage
 (Volunteer + New/Expecting Moms links during `01`–`04`; New Consignor links only in
 `02`; Restocking Consignor links only in `03`).
 
@@ -49,12 +49,12 @@ These pages are static except for a `{% if site.sale_stage != '13_saturday' %}` 
 that hides date-specific lines (drop-off/pre-sale/pickup dates, sign-up links) once
 the sale is over, so the off-season site doesn't show stale dates:
 
-`pages/schedule/index.md`, `pages/schedule/event-schedule.md`,
-`pages/schedule/printables.md`, `pages/consignors/dropping-off.md`,
-`pages/consignors/picking-up.md`, `pages/consignors/consignor-earnings.md`,
-`pages/consignors/white-tag-consignors.md`, `pages/consignors/index.md`,
-`pages/volunteers/index.md`, `pages/shoppers/index.md`,
-`pages/shoppers/first-time-moms.md`.
+`src/pages/schedule/index.md`, `src/pages/schedule/event-schedule.md`,
+`src/pages/schedule/printables.md`, `src/pages/consignors/dropping-off.md`,
+`src/pages/consignors/picking-up.md`, `src/pages/consignors/consignor-earnings.md`,
+`src/pages/consignors/white-tag-consignors.md`, `src/pages/consignors/index.md`,
+`src/pages/volunteers/index.md`, `src/pages/shoppers/index.md`,
+`src/pages/shoppers/first-time-moms.md`.
 
 So `13_saturday` doubles as the **off-season / no-active-sale** state.
 
@@ -80,7 +80,7 @@ date during sale week.
 | `13_saturday` | Post-sale / off-season | Home: thank-you + "announcing dates soon". Mom's Night Out copy hidden; all forward-looking dates hidden across the conditional pages above. |
 
 Across `04`–`13`, the Consignors / Restocking / Register messages read "Registration
-is now closed" (shared text in `_includes/sale/*`); `12`–`13` switch the Volunteer
+is now closed" (shared text in `src/_includes/sale/*`); `12`–`13` switch the Volunteer
 message to "registration will re-open this {season}".
 
 ## Local development

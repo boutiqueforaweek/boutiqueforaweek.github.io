@@ -11,7 +11,7 @@
 import fs from "fs";
 import path from "path";
 import url from "url";
-import siteFn from "../_data/site.js";
+import siteFn from "../src/_data/site.js";
 import { STAGES } from "../lib/sale-schedule.js";
 
 const ROOT = path.resolve(path.dirname(url.fileURLToPath(import.meta.url)), "..");

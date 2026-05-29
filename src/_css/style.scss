@@ -1,0 +1,525 @@
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+@font-face {
+  font-family: "SignPainter";
+  src: url("/fonts/SignPainter HouseScript.woff2") format("woff2"), url("/fonts/SignPainter HouseScript.ttf") format("truetype");
+  font-display: swap;
+}
+
+@keyframes spinner-loader {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+h1 {
+  background: url("/img/hr.png") no-repeat 0 bottom;
+  padding-bottom: 11px;
+  color: #b62041;
+  font-family: "SignPainter";
+  font-size: 32px;
+  font-weight: 100;
+  line-height: 55px;
+  margin-bottom: 10px;
+}
+
+@include media-breakpoint-up(sm) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.clear {
+  clear: both;
+  height: 0px;
+  overflow: hidden;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-image: url("/img/body_bg.jpg");
+  background-repeat: repeat;
+}
+
+h2 {
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  font-weight: normal;
+  color: #684913;
+  font-size: 18px;
+  line-height: 22px;
+  margin-top: 10px;
+}
+
+p {
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  line-height: 19px;
+  color: #6d5647;
+}
+
+a {
+  outline: none;
+
+  &:link {
+    color: #558268;
+    text-decoration: none;
+  }
+
+  &:visited {
+    text-decoration: none;
+    color: #b61e41;
+  }
+
+  &:hover {
+    text-decoration: underline;
+    color: #b61e41;
+  }
+
+  &:active {
+    text-decoration: none;
+    color: #b61e41;
+  }
+}
+
+.logo {
+  height: 80px;
+  width: 131px;
+  overflow: hidden;
+
+  img {
+    width: 131px;
+    height: auto;
+  }
+
+  &:hover img {
+    margin-top: -80px;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  .logo {
+    left: -40px;
+    height: 160px;
+    position: absolute;
+    top: -40px;
+    width: 262px;
+
+    img {
+      width: 262px;
+    }
+
+    &:hover img {
+      margin-top: -160px;
+    }
+  }
+}
+
+#logo {
+  top: -40px;
+  left: -34px;
+  width: 262px;
+  z-index: 100;
+  position: relative;
+  height: 160px;
+  visibility: visible;
+
+  a {
+    display: block;
+    width: 262px;
+    height: 160px;
+    text-indent: -999999px;
+    background-image: url(/img/logo.gif);
+    background-position: top left;
+
+    &:hover {
+      background-image: url(/img/logo.gif);
+      background-position: bottom left;
+    }
+  }
+}
+
+.navbar {
+  background-color: #f3d8ca;
+
+  .navbar-nav {
+    margin-left: 210px;
+  }
+
+  .nav-link {
+    color: #d3968b;
+    display: block;
+    font-family: "SignPainter";
+    font-size: 28px;
+    height: 65px;
+    line-height: 50px;
+    margin: 0 8px;
+    text-align: center;
+    text-decoration: none;
+    transform: scale(1, 1.3);
+    width: 100px;
+
+    &:hover,
+    &.active {
+      background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='99.024' height='52.218' viewBox='0 0 26.2 13.816'><ellipse cx='17.6' cy='27.785' rx='13.148' ry='6.817' transform='matrix(.995049 -.099384 .099384 .995049 -7.174656 -18.990476)' fill='%23fbefe9' fill-rule='evenodd'/></svg>") no-repeat center 5px;
+    }
+  }
+
+  .dropdown-toggle::after {
+    display: none;
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .navbar {
+    .nav-link {
+      text-align: right;
+      width: auto;
+
+      &:hover {
+        background-position: right;
+      }
+    }
+  }
+}
+
+#col_left {
+  background: rgba(250,248,232,1);
+
+  ul {
+    font-size: 14px;
+    padding-left: 0;
+
+    li {
+      list-style: none;
+      border-bottom-color: #ffcccc;
+      border-bottom-style: solid;
+      border-bottom-width: 2px;
+      margin-top: 6px;
+      padding-bottom: 4px;
+
+      a {
+        color: #352012;
+        font-weight: bold;
+
+        &:hover {
+          text-decoration: none;
+          color: #b61e41;
+        }
+      }
+    }
+  }
+}
+
+#col_right {
+  background: rgba(250,248,232,1);
+
+  p {
+    padding-bottom: 24px;
+  }
+
+  h2 {
+    padding-bottom: 6px;
+  }
+
+  ul {
+    padding-bottom: 12px;
+
+    li {
+      color: #6d5647;
+      list-style-image: url(/img/star.gif);
+      margin-bottom: 8px;
+    }
+  }
+
+  > div {
+    padding: 1.5rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  #col_right {
+    background: rgb(217,215,189);
+    background: linear-gradient(90deg, rgba(217,215,189,1) 1%, rgba(250,248,232,1) 4%);
+
+    > div {
+      padding: 3rem;
+    }
+  }
+}
+
+.blog {
+  img {
+    height: auto;
+    max-width: 100%;
+  }
+}
+
+.color-table {
+  tr {
+    text-align: center;
+  }
+
+  th, td {
+    background-color: transparent;
+    padding: 20px 40px;
+  }
+
+  .white {
+    background-color: #fff;
+  }
+
+  .blue {
+    background-color: #aae4f0;
+  }
+
+  .pink {
+    background-color: #ffc1dd;
+  }
+
+  .green {
+    background-color: #b7ffb1;
+  }
+
+  .yellow {
+    background-color: #fffd4b;
+  }
+
+  .orange {
+    background-color: #ffa81f;
+  }
+}
+
+#col_right {
+  .card-body p {
+    padding-bottom: 0;
+  }
+}
+
+#header {
+  margin: 0 auto;
+  padding: 0;
+}
+
+hr {
+  display: none;
+}
+
+a img {
+  border: none;
+}
+
+#home {
+  background-image: url(../img/img-noise-30x30.png);
+  background-repeat: repeat;
+
+  @include media-breakpoint-up(md) {
+    min-height: 500px;
+  }
+
+  @include media-breakpoint-up(lg) {
+    background-image: url('../img/blue-elipse-with-stars.svg'), url(../img/img-noise-30x30.png);
+    background-position: left 180px bottom 20px, top center;
+    background-repeat: no-repeat, repeat;
+    background-size: 500px, auto;
+
+    h1 {
+      padding-top: 230px;
+    }
+  }
+
+  h1 {
+    background: none;
+  }
+
+  .tagline {
+    font-size: 18px;
+    font-style: italic;
+    color: #b62041;
+    line-height: 1.4;
+    margin-top: -5px;
+
+    @include media-breakpoint-up(sm) {
+      font-size: 22px;
+    }
+  }
+
+  p {
+    font-size: 20px;
+    line-height: 1.25;
+    padding: 0 0 10px;
+  }
+
+  .col {
+    padding: 40px;
+  }
+}
+
+#sponsors {
+  > div {
+    padding: 0;
+
+    @include media-breakpoint-up(md) {
+      columns: 2;
+    }
+
+    > div {
+      break-inside: avoid-column;
+    }
+  }
+
+  .card-title {
+    background: url("/img/hr.png") no-repeat 0 bottom;
+    padding-bottom: 11px;
+    font-family: "SignPainter";
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 55px;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .card-text {
+    text-align: justify;
+  }
+
+  .card-img-top + .card-body {
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+#footer {
+  .sign {
+    background: #faf8e8 url(../img/bow.png) no-repeat right bottom;
+    border: 20px solid transparent;
+    margin-top: 20px;
+    min-height: 100%;
+  }
+
+  h2 {
+    font-size: 25px;
+    line-height: 27px;
+    color: #ce393a;
+    margin: 0px 0px 15px 0px;
+    padding: 0px;
+  }
+
+  p {
+    color: #50290b;
+
+    img {
+      padding: 0;
+      max-width: 100%;
+    }
+  }
+
+  ul {
+    color: #50290b;
+    line-height: 24px;
+    padding-left: 0;
+
+    li {
+      list-style: none;
+
+      a {
+        text-decoration: none;
+        color: #558268;
+
+        &:hover {
+          text-decoration: underline;
+          color: #b61e41;
+        }
+      }
+    }
+  }
+}
+
+#copyright {
+  font-size: 12px;
+  line-height: 16px;
+  padding: 20px;
+
+  p {
+    color: #333;
+  }
+}
+
+.ratio {
+  margin-bottom: 20px;
+}
+
+// Mobile (below xl): split nav item — link navigates, chevron toggles dropdown.
+// At xl+ both elements are hidden and the existing .dropdown-toggle link drives the menu.
+@include media-breakpoint-down(xl) {
+  .navbar-nav .nav-item.dropdown {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  .navbar-nav .split-link {
+    flex: 1 1 auto;
+    text-align: end;
+  }
+  .navbar-nav .split-toggle {
+    flex: 0 0 auto;
+    border: 0;
+    padding: 0.5rem 1rem;
+    background: transparent;
+    color: inherit;
+    &::after {
+      content: "";
+      display: inline-block;
+      width: 28px;
+      height: 15px;
+      border: 0;
+      background: url("/img/bow.png") center / contain no-repeat;
+      vertical-align: middle;
+      transition: transform 0.2s ease;
+    }
+    &[aria-expanded="true"]::after {
+      transform: rotate(180deg);
+    }
+    &:focus {
+      box-shadow: none;
+    }
+  }
+  .navbar-nav .dropdown-menu {
+    flex: 0 0 100%;
+  }
+  // Keep the current section's submenu expanded in the offcanvas menu. (At xl+
+  // the dropdown is position:absolute, so forcing it open there would float it
+  // under the navbar — hence this lives only in the mobile breakpoint.)
+  .navbar-nav .nav-item.active .dropdown-menu {
+    display: block;
+  }
+}

@@ -2,7 +2,7 @@
 **/._.DS_Store
 .claude/
 _site
-css/style.css
-js
+src/css/style.css*
+src/js
 node_modules
 vendor

@@ -11,20 +11,22 @@ function configureMarkdown(mdLib) {
 const md = configureMarkdown(new MarkdownIt());
 
 export default function (eleventyConfig) {
-  // Passthrough copy
+  // Passthrough copy. Input paths are relative to the project root (NOT the
+  // Eleventy input dir), so they keep the `src/` prefix; output paths are
+  // relative to the output dir and stay at the site root.
   eleventyConfig.addPassthroughCopy({
-    css: "css",
-    fonts: "fonts",
-    img: "img",
-    js: "js",
-    pdf: "pdf",
-    "robots.txt": "robots.txt",
-    "site.webmanifest": "site.webmanifest",
-    "android-chrome-512x512.png": "android-chrome-512x512.png",
-    "favicon-32x32.png": "favicon-32x32.png",
-    "apple-touch-icon.png": "apple-touch-icon.png",
-    "favicon-16x16.png": "favicon-16x16.png",
-    CNAME: "CNAME",
+    "src/css": "css",
+    "src/fonts": "fonts",
+    "src/img": "img",
+    "src/js": "js",
+    "src/pdf": "pdf",
+    "src/robots.txt": "robots.txt",
+    "src/site.webmanifest": "site.webmanifest",
+    "src/android-chrome-512x512.png": "android-chrome-512x512.png",
+    "src/favicon-32x32.png": "favicon-32x32.png",
+    "src/apple-touch-icon.png": "apple-touch-icon.png",
+    "src/favicon-16x16.png": "favicon-16x16.png",
+    "src/CNAME": "CNAME",
   });
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
@@ -87,12 +89,12 @@ export default function (eleventyConfig) {
   // Posts collection — chronological (oldest first). The blog page paginates
   // with `reverse: true` so visitors see newest first.
   eleventyConfig.addCollection("posts", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("_posts/*.md");
+    return collectionApi.getFilteredByGlob("src/_posts/*.md");
   });
 
   return {
     dir: {
-      input: ".",
+      input: "src",
       output: "_site",
       includes: "_includes",
       layouts: "_layouts",
