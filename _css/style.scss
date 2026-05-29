@@ -516,4 +516,10 @@ a img {
   .navbar-nav .dropdown-menu {
     flex: 0 0 100%;
   }
+  // Keep the current section's submenu expanded in the offcanvas menu. (At xl+
+  // the dropdown is position:absolute, so forcing it open there would float it
+  // under the navbar — hence this lives only in the mobile breakpoint.)
+  .navbar-nav .nav-item.active .dropdown-menu {
+    display: block;
+  }
 }
