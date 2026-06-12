@@ -20,7 +20,7 @@ const STATIC = {
   // Manual fallback for the pre-sale registration phases (01_before–05_before),
   // used until the sale week begins. During the sale week the stage is derived from
   // the date (see lib/sale-schedule.js); after it, that resolves to 13_saturday.
-  sale_stage: "13_saturday",
+  sale_stage: "01_before",
   times: {
     dropoff_day1: "4:00 p.m. - 9:00 p.m.",
     dropoff_day2: "10:00 a.m. - 1:00 p.m.",
