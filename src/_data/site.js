@@ -20,6 +20,9 @@ const STATIC = {
   // Manual fallback for the pre-sale registration phases (01_before–05_before),
   // used until the sale week begins. During the sale week the stage is derived from
   // the date (see lib/sale-schedule.js); after it, that resolves to 13_saturday.
+  // When switching to 05_before: update the Google Business Profile — set main hours
+  // for sale week (per-weekday: public day 1 4-10pm, day 2 12-9pm, half-off 10am-5pm,
+  // others closed) and post a GBP Event with the sale dates. Clear hours after pickup.
   sale_stage: "01_before",
   times: {
     dropoff_day1: "4:00 p.m. - 9:00 p.m.",
