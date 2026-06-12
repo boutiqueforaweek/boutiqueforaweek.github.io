@@ -94,7 +94,7 @@
           "about": {
             "@id": "https://boutiqueforaweek.com/#localbusiness"
           }
-  {% if page.url contains "/events/event-schedule" %}
+  {% if page.url == "/" or page.url contains "/events/event-schedule" %}
         }, {
           "@type": "ChildrensEvent",
           "@id": "https://boutiqueforaweek.com/#{{ site.dates.season_year | downcase | replace: ' ', '-' }}-event",
@@ -123,7 +123,7 @@
             "name": "Kendall Volkman",
             "email": "info@boutiqueforaweek.com"
           },
-          "image": "https://boutiqueforaweek.com/img/bfaw-logo.webp"
+          "image": "https://boutiqueforaweek.com/img/save-the-date-fall-2026-kids-consignment-casselberry-fl.jpg"
   {% endif %}
         }
       ]
