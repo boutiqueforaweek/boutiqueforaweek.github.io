@@ -31,7 +31,7 @@ Visit [Consignors](src/pages/consignors/index.md), [White Tag Consignors](src/pa
 * {{ site.dates.sale_start_ordinal }}, {{ site.times.public_day1 }}
 * {{ site.dates.restocking_ordinal }}, {{ site.times.public_day2 }}, 50% off* shopping open to Volunteers and Consignors from {{ site.times.discount_consignors_volunteers }}
 * {{ site.dates.sale_end_ordinal }}, {{ site.times.half_off }}, 50% off* sale open to the public all day
-*50% off applies only to items specified by the Consignor.
+*50% off applies only to items designated by the Consignor.
 {% else %}
 We'll be announcing dates for our next sale soon!
 {% endif %}

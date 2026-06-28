@@ -29,7 +29,7 @@ Due to safety issues, we are no longer allowing children at Pick Up or [Drop Off
 * **Last, you will receive your Consignor earnings check.**
 * **Remember to bring boxes or bins to help carry your items home.**
 
-**Please allot the appropriate amount of time for Pick Up. Keep in mind the procedures, the length to which we are able to sort, and the amount of Consignors picking up at the time of your arrival will all impact the time required. Plan for at least 30 minutes on site (or more if you have many items to retrieve).**
+**Please allot the appropriate amount of time for Pick Up. Keep in mind the procedures, the length to which we are able to sort, and the number of Consignors picking up at the time of your arrival will all impact the time required. Plan for at least 30 minutes on site (or more if you have many items to retrieve).**
 
 ## Remember that any items you tagged with WHITE CARDSTOCK will be donated and will not be sorted.
 

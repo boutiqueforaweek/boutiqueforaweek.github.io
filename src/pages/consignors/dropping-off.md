@@ -24,7 +24,7 @@ Due to the limited facility space and a desire to serve our Shoppers and Consign
 For your items to sell, they must be seen:
 
 * Crammed racks are challenging to browse.
-* Out-dated or stained clothing and bedding clutters already full areas. These items are also automatically removed when discovered.
+* Outdated or stained clothing and bedding clutters already full areas. These items are also automatically removed when discovered.
 
 We still want to stock all items that are clean, tagged correctly, sale quality, and fit the criteria on the [Items Accepted page](src/pages/consignors/items-accepted.md). Inspecting merchandise ensures the best sale possible for Consignors and Shoppers. While we recognize this will lengthen the time it takes to Drop-off, Consignors who have prepared their items correctly should anticipate an efficient experience.
 

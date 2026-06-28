@@ -16,4 +16,4 @@ Consider how BOUTIQUE FOR A WEEK marketing opportunities might BUILD YOUR BUSINE
 
 Email [Boutique For A Week](mailto:{{ site.email }}?subject=Advertising%20Opportunities) now for more information on opportunities to maximize your company visibility.
 
-We will include your logo or an ad on our website, emails, Facebook and Twitter but we will not share or sell our contacts.
+We will include your logo or an ad on our website, emails, Facebook and X but we will not share or sell our contacts.
