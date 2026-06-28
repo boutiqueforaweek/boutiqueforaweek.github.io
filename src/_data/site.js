@@ -81,8 +81,9 @@ export default function (data) {
 
   function formatDateWithOrdinal(date) {
     const day = date.getDate();
-    const options = { weekday: "long", month: "long" };
-    return `${date.toLocaleDateString("en-US", options)} ${day}${ordinal(String(day))}`;
+    const weekday = date.toLocaleDateString("en-US", { weekday: "long" });
+    const month = date.toLocaleDateString("en-US", { month: "long" });
+    return `${weekday}, ${month} ${day}${ordinal(String(day))}`;
   }
 
   function formatShortWithOrdinal(date) {
