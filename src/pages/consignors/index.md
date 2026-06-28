@@ -27,7 +27,7 @@ A _Boutique For A Week_ Consignor is anyone who has a minimum of 10 items to sel
 
 * You earn 65% of the selling price of every item you consign.
 * Thousands of shoppers look at your items in a week's time.
-* _Boutique For A Week_ takes care of the all the advertising - TV, Newsprint, Radio, Community Updates, Children's Publications, etc.
+* _Boutique For A Week_ takes care of all the advertising - TV, Newsprint, Radio, Community Updates, Children's Publications, etc.
 * You set the price of your items.
 * At the end of the week, when the sale is done, you pick up your check!
 

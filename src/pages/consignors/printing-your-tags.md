@@ -16,7 +16,7 @@ _Consignors: if you are using a Mac product to enter and print your tags, please
 
 All tags MUST be printed on <u>pastel cardstock</u>! Dark color cardstock does not scan well. Paper tags are too easily separated from their items.
 
-Print tags using the normal setting on your printer, not high quality. Make sure your pop-up blocker is turned off, and you are using Internet Explorer as your browser. Our tags should print 10 to a page.
+Print tags using the normal setting on your printer, not high quality. Make sure your pop-up blocker is turned off, and you are using Chrome or Safari as your browser. Our tags should print 10 to a page.
 
 Use your [assigned colored cardstock](src/pages/consignors/cardstock-color-list.html) for any items you want to pick up if not sold.
 
@@ -40,4 +40,4 @@ If it looks like the one below or is faded, replace your ink cartridge with a ne
 
 Check with someone who has a laser printer. This type of printer is your best option.
 
-Upload a PDF copy of your tags to Office Max, Kinkos, or another local printer. You can upload the file from your computer at home or work and pick them up within a short time.
+Upload a PDF copy of your tags to Office Max, FedEx Office, or another local printer. You can upload the file from your computer at home or work and pick them up within a short time.

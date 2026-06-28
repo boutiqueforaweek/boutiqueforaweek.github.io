@@ -15,7 +15,7 @@ eleventyNavigation:
 
 Restocking Consignors restock our shelves after the Pre-Sale shopping and before we open to the public.
 
-## Why Register as a Restocking Consignors?
+## Why Register as a Restocking Consignor?
 
 Some Consignors wait to register until after our initial registration spots are filled. Due to limited sales space, we open Restocking Consignor spaces. This works well because during our first two days of Pre-Sale many of the items on the sales floor are sold. This allows room for new merchandise to be added before we open to the Public.
 
@@ -23,7 +23,7 @@ Some Consignors wait to register until after our initial registration spots are 
 
 We offer Restocking Consignor Drop Off appointments on Sunday or Wednesday! A weekend day for Drop Off is a great option for Restocking Consignors. We know it serves those whose schedule makes it challenging to coordinate dropping off mid-week. **Please note, Sunday appointments are very limited and may not be available depending on time of registration.**
 
-If you elect to drop off before our restocking day on Wednesday, you need to be aware the procedure. Instead of putting your items directly on the sales floor, you (and a Volunteer assigned to you) will bring your items to a secured room in the building. This room will be set up similar to the sales floor. You will hang your clothes on the appropriate rack, distribute your shoes, sort your toys from your sheets, etc.
+If you elect to drop off before our restocking day on Wednesday, you need to be aware of the procedure. Instead of putting your items directly on the sales floor, you (and a Volunteer assigned to you) will bring your items to a secured room in the building. This room will be set up similar to the sales floor. You will hang your clothes on the appropriate rack, distribute your shoes, sort your toys from your sheets, etc.
 
 Your items will be held safely until it's time to restock. On Wednesday, Volunteers will put your merchandise out on the sales floor before we open to the Public!
 

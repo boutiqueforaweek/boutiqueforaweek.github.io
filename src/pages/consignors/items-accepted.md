@@ -33,7 +33,7 @@ eleventyNavigation:
 * Disposable diapers and cloth diapers (in New condition)
 * Batteries MUST be included for battery-operated stuffed animals.
 * Juvenile/nursery furniture including: changing tables, rockers, gliders, children's dressers, and bunk beds as well as children's bedroom sets. All items MUST be assembled by Consignor. Please bring necessary tools.
-* Nursery Bedding - any bedding must be manufactured with in the past 3 years and must be name brand. All Bedding MUST be brought in zippered Comforter Bags or big Ziploc bags (available at Walmart). Bedding does not sell well if it is not current or easy to see. Any bedding improperly displayed will not be placed on the sales floor.
+* Nursery Bedding - any bedding must be manufactured within the past 3 years and must be name brand. All Bedding MUST be brought in zippered Comforter Bags or big Ziploc bags (available at Walmart). Bedding does not sell well if it is not current or easy to see. Any bedding improperly displayed will not be placed on the sales floor.
 * Outdoor play equipment including Little Tikes and Step 2\. Equipment MUST be clean and in good condition!
 * Parenting and children's books.
 * Kids DVDs, CDs, and CD-ROMs.
@@ -60,4 +60,4 @@ _Spring and Summer clothing may be consigned at all of our sales (cowboy items a
 
 _Fall and Winter clothing may be consigned only in our Fall Sale: winter coats, winter sweaters, corduroys, winter boots, turtlenecks, black patent shoes, velvet, flannel, fleece, thermal, wool, sweatshirts/sweatpants, Halloween / Thanksgiving / Christmas items, footed pj's and similar items that are clearly intended for cold weather._
 
-_All of the items at our sale get handled frequently. Please note that fragile or easily breakable could possibly become damaged during our sale. As a reminder, we are not responsible for any damaged items._
+_All of the items at our sale get handled frequently. Please note that fragile or easily breakable items could possibly become damaged during our sale. As a reminder, we are not responsible for any damaged items._

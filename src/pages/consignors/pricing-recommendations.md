@@ -24,5 +24,5 @@ eleventyNavigation:
 
 * Toys sell very well! Perfect condition, newer style equipment may sell at half the retail price!
 * Need help pricing toys & equipment and cannot remember the original price? Check these websites:
-* [Little Tykes](https://www.littletikes.com/)
+* [Little Tikes](https://www.littletikes.com/)
 * [Fisher Price](https://shop.mattel.com/pages/fisher-price)

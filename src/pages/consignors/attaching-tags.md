@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 4
 ---
 
-When tags separate from items, everyone loses! We can not sell items without tags because the consignor cannot be properly credited. Help us to sell as many of your items as possible by making securely attaching your tags! Please note: Cardstock is REQUIRED for tags.
+When tags separate from items, everyone loses! We can not sell items without tags because the consignor cannot be properly credited. Help us to sell as many of your items as possible by securely attaching your tags! Please note: Cardstock is REQUIRED for tags.
 
 _Consignors: if you are using a Mac product to enter and print your tags, please be advised that you must not use FIREFOX to print the tags. Please use Chrome or Safari instead!_
 
@@ -57,7 +57,7 @@ This video will show you how to tag shoes, accessories, and tagless items of clo
 * Please do not put a price tag on each shoe, only one tag per pair.
 * Only as a last resort, when there is no way to attach the tag to the shoes and to join the shoes, put them in a Ziploc bag, seal the bag with clear packing tape and tape tag to bag.
 
-## **Attaching Tags to Toys, Books Equipment and Multiple Piece Items**
+## **Attaching Tags to Toys, Books, Equipment and Multiple Piece Items**
 
 Toys can be some of the easiest items to tag! This video will show you how to tag toys as well as other non-clothing items.
 
