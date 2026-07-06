@@ -18,7 +18,7 @@ If you are interested in being added as a Sponsor/Vendor please [contact us](mai
 
 <div class="container">
   <div id="sponsors" class="row">
-    <div>
+    <div{% if sponsors.size > 1 %} class="multi-col"{% endif %}>
       {% for sponsor in sponsors %}
       <div class="p-2">
         <div class="card col">

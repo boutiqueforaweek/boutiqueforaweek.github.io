@@ -407,12 +407,14 @@ a img {
   > div {
     padding: 0;
 
-    @include media-breakpoint-up(md) {
-      columns: 2;
-    }
+    &.multi-col {
+      @include media-breakpoint-up(md) {
+        columns: 2;
+      }
 
-    > div {
-      break-inside: avoid-column;
+      > div {
+        break-inside: avoid-column;
+      }
     }
   }
 
