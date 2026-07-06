@@ -9,6 +9,8 @@ eleventyNavigation:
 
 {% if site.sale_stage != '13_saturday' %}
 
+# Drop Off / Pickup
+
 ## {{ site.dates.start_ordinal }}
 
 **Drop Off**: {{ site.times.dropoff_day1 }}
