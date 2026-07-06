@@ -51,7 +51,7 @@ eleventyNavigation:
     </tr>
   </thead>
   <tbody>
-    {% for cardstock in page.cardstocks %}
+    {% for cardstock in cardstocks %}
     <tr class="{{ cardstock.class }}">
       <td><a href="{{ cardstock.link }}" target="_blank" rel="noopener noreferrer">{{ cardstock.color }}</a></td>
       <td>{{ cardstock.details }}</td>
