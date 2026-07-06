@@ -416,6 +416,12 @@ a img {
         break-inside: avoid-column;
       }
     }
+
+    &:not(.multi-col) > div {
+      @include media-breakpoint-up(md) {
+        width: 50%;
+      }
+    }
   }
 
   .card-title {
