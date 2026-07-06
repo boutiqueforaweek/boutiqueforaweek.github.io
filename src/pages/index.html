@@ -42,23 +42,50 @@ layout:
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       var popup = document.getElementById('newsletter-signup');
-      if (popup) {
-        var myModal = new bootstrap.Modal(popup, {});
-        var popupCookie = document.cookie.split('; ').find(function(row) { return row.startsWith('newsletter='); });
-        if (!popupCookie) { myModal.toggle(); }
-        popup.addEventListener('hidden.bs.modal', function() { document.cookie = 'newsletter=true'; });
-      }
-    });
+      if (!popup) return;
 
-    window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
-    window.LOCALE = 'en';
-    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
-    window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
-    window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
-    window.translation = { common: { selectedList: '{quantity} list selected', selectedLists: '{quantity} lists selected' } };
-    var AUTOHIDE = Boolean(0);
+      var popupCookie = document.cookie.split('; ').find(function(row) { return row.startsWith('newsletter='); });
+      if (popupCookie) return;
+
+      // Warm the connections now so the popup's third-party assets aren't a cold start once it appears.
+      ['https://sibforms.com', 'https://assets.brevo.com', 'https://challenges.cloudflare.com'].forEach(function(origin) {
+        var link = document.createElement('link');
+        link.rel = 'preconnect';
+        link.href = origin;
+        document.head.appendChild(link);
+      });
+
+      // Delay both the popup and its third-party assets so they don't compete with initial page render.
+      setTimeout(function() {
+        window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+        window.LOCALE = 'en';
+        window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+        window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+        window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+        window.translation = { common: { selectedList: '{quantity} list selected', selectedLists: '{quantity} lists selected' } };
+        var AUTOHIDE = Boolean(0);
+
+        var sibCss = document.createElement('link');
+        sibCss.rel = 'stylesheet';
+        sibCss.href = 'https://sibforms.com/forms/end-form/build/sib-styles.css';
+        document.head.appendChild(sibCss);
+
+        var sibJs = document.createElement('script');
+        sibJs.src = 'https://sibforms.com/forms/end-form/build/main.js';
+        sibJs.defer = true;
+        document.body.appendChild(sibJs);
+
+        var turnstile = document.createElement('script');
+        turnstile.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+        turnstile.async = true;
+        turnstile.defer = true;
+        document.body.appendChild(turnstile);
+
+        var myModal = new bootstrap.Modal(popup, {});
+        myModal.toggle();
+        popup.addEventListener('hidden.bs.modal', function() { document.cookie = 'newsletter=true'; });
+      }, 4000);
+    });
   </script>
-  <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
-  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </body>
 </html>
