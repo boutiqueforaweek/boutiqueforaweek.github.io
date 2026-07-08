@@ -5,7 +5,7 @@
   "scripts": {
     "css:dev": "sass src/_css/style.scss:src/css/style.css --watch",
     "css:build": "sass src/_css/style.scss:_site/css/style.css --no-source-map",
-    "css:prod": "postcss _site/css/style.css --replace",
+    "css:prod": "lightningcss --minify --targets '>= 0.25%' _site/css/style.css -o _site/css/style.css",
     "eleventy:serve": "npx @11ty/eleventy --serve",
     "eleventy:build": "npx @11ty/eleventy",
     "dev": "npm-run-all2 --parallel css:dev eleventy:serve",
@@ -25,16 +25,12 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.5",
     "@11ty/eleventy-navigation": "^1.0.5",
-    "@fullhuman/postcss-purgecss": "^8.0.0",
     "bootstrap": "^5.3.8",
-    "cssnano": "^8.0.1",
     "html-minifier-terser": "^7.2.0",
+    "lightningcss-cli": "^1.32.0",
     "markdown-it": "^14.2.0",
     "markdown-it-attrs": "^5.0.0",
     "npm-run-all2": "^8.0.4",
-    "postcss": "^8.5.15",
-    "postcss-cli": "^11.0.1",
-    "postcss-discard-comments": "^8.0.0",
     "sass": "^1.100.0"
   },
   "devDependencies": {
