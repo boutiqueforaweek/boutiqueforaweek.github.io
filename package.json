@@ -9,7 +9,8 @@
     "eleventy:serve": "npx @11ty/eleventy --serve",
     "eleventy:build": "npx @11ty/eleventy",
     "dev": "npm-run-all2 --parallel css:dev eleventy:serve",
-    "build": "npm-run-all2 --serial eleventy:build css:build css:prod",
+    "build": "npm-run-all2 --serial eleventy:build css:build css:prod hash:assets",
+    "hash:assets": "node scripts/hash-assets.js",
     "gen:workflow": "node scripts/gen-workflow.js"
   },
   "repository": {
