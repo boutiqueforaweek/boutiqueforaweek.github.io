@@ -2,6 +2,10 @@
 title: Join Our Mailing List
 description: "Sign up for Boutique for a Week email updates. Get sale dates, early shopping access and consignment tips for our Orlando-area kids consignment sale."
 permalink: /about/join-our-mailing-list/
+eleventyNavigation:
+  key: "Join Our Mailing List"
+  parent: "About"
+  order: 8
 ---
 
 Thank you for your interest in joining the Boutique For A Week mailing list. Members of our mailing list receive occasional emails about upcoming sales.
