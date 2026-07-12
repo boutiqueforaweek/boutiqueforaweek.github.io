@@ -37,20 +37,7 @@ eleventyNavigation:
 * Kids DVDs, CDs, and CD-ROMs.
 * Video game systems and games
 * Scooters and perfect condition bikes - absolutely NO rust.
-* Car seats which meet the following criteria:
-    * Your car seat has NOT been in an automobile accident (with or without child sitting in it).
-    * Your car seat contains its identification label with date of manufacture, model name and/or number.
-    * Your car seat is less than four years old.
-    * Your car seat has all parts including (if applicable) harness straps, harness clip, seat cover, padding, shield, tether, and bolts.
-    * The straps are not worn or frayed.
-    * Your carseat is not dirty or stained.
-    * No buckle or metal part shows signs of rust.
-    * There are no cracks, bends, or breaks in the plastic shell.
-    * Your car seat locking mechanism locks securely and remains locked.
-    * Your car seat has a label showing it meets all Federal Motor Vehicle Safety Standards.
-    * Your car seat has never been broken or fixed in any way except to retrofit for safety recalls if applicable. You have checked for [safety recalls](https://www.nhtsa.gov/recalls#car-seat) and have made any necessary safety retrofits required to meet Motor Vehicle Safety Standards.
-    * You have included the instructional manual (copy may be printed easily from most manufacturer websites).
-    * You are the original owner.
+* Car seats that meet our safety criteria. Car seats have strict requirements — see [Car Seat Requirements](src/pages/consignors/car-seat-requirements.md) for the full checklist before you bring one.
 
 Boutique For A Week reserves the right to remove items that do not meet these standards and leave them unsorted at sale end.
 
