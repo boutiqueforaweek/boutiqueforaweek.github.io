@@ -1,0 +1,10 @@
+source,target,status,preserve_query_string,include_subdomains,subpath_matching,preserve_path_suffix
+https://boutiqueforaweek.com/consignors/attaching-tags/,https://boutiqueforaweek.com/consignors/tagging/attach/,301,true,false,false,false
+https://boutiqueforaweek.com/consignors/cardstock-color-list/,https://boutiqueforaweek.com/consignors/tagging/cardstock/,301,true,false,false,false
+https://boutiqueforaweek.com/consignors/preparing-merchandise/,https://boutiqueforaweek.com/consignors/tagging/prepare/,301,true,false,false,false
+https://boutiqueforaweek.com/consignors/completing-tag-information/,https://boutiqueforaweek.com/consignors/tagging/complete/,301,true,false,false,false
+https://boutiqueforaweek.com/consignors/items-accepted/pricing-recommendations/,https://boutiqueforaweek.com/consignors/tagging/pricing/,301,true,false,false,false
+https://boutiqueforaweek.com/consignors/items-accepted/printing-your-tags/,https://boutiqueforaweek.com/consignors/tagging/print/,301,true,false,false,false
+https://boutiqueforaweek.com/events/event-schedule/,https://boutiqueforaweek.com/events/,301,true,false,false,false
+https://boutiqueforaweek.com/consignors/items-accepted/items-accepted-2/,https://boutiqueforaweek.com/consignors/items-accepted/,301,true,false,false,false
+https://boutiqueforaweek.com/consignors/items-accepted/items-we-cannot-accept/,https://boutiqueforaweek.com/consignors/items-we-cannot-accept/,301,true,false,false,false
