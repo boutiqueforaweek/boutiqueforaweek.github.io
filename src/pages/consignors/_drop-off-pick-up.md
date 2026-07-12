@@ -3,8 +3,8 @@ title: Drop-off & Pick-up
 permalink: false
 eleventyExcludeFromCollections: false
 eleventyNavigation:
-  key: "Drop/Pick-up"
+  key: "Drop-off & Pick-up"
   parent: "Consignors"
-  order: 12
+  order: 6
   url: /consignors/dropping-off/
 ---

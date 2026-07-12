@@ -1,10 +1,10 @@
 ---
-title: Pricing
+title: Tag Your Items
 permalink: false
 eleventyExcludeFromCollections: false
 eleventyNavigation:
-  key: "Pricing"
+  key: "Tag Your Items"
   parent: "Consignors"
-  order: 11
-  url: /consignors/items-accepted/pricing-recommendations/
+  order: 5
+  url: /consignors/tagging/prepare/
 ---

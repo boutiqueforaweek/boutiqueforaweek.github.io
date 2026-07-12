@@ -4,7 +4,7 @@ description: "Consignor pick-up details for Boutique for a Week. When and how to
 permalink: /consignors/dropping-off/picking-up/
 eleventyNavigation:
   key: "Pick Up"
-  parent: "Drop/Pick-up"
+  parent: "Drop-off & Pick-up"
   order: 2
 ---
 {% if site.sale_stage != '13_saturday' %}

@@ -4,7 +4,7 @@ description: "Let us tag your items for you with Boutique for a Week's valet tag
 permalink: /consignors/valet-tagging/
 eleventyNavigation:
   key: "Valet Tagging"
-  parent: "Pricing"
+  parent: "Consignors"
   order: 3
 ---
 

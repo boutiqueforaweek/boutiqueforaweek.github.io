@@ -4,8 +4,8 @@ description: "Sell used homeschool curriculum and educational materials at Bouti
 permalink: /consignors/consigning-homeschool-curricula/
 eleventyNavigation:
   key: "Homeschool Curricula"
-  parent: "Items to Sell"
-  order: 3
+  parent: "What Can I Sell?"
+  order: 4
 ---
 
 To sell your home schooling curricula at our sale:

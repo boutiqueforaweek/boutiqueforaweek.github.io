@@ -4,8 +4,8 @@ description: "Donate unsold consignment items to local Central Florida charities
 permalink: /consignors/donating-unsold-items/
 eleventyNavigation:
   key: "Donating Unsold Items"
-  parent: "Consignors"
-  order: 9
+  parent: "Donating & White Tag"
+  order: 1
 ---
 
 Boutique For A Week makes huge contributions at the end of our sale because of our Consignors' generosity. Each sale we donate thousands of items to local charities to benefit those in crisis in our community. Please choose to donate your unsold items! It makes a difference in someone's life!

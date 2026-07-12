@@ -1,10 +1,10 @@
 ---
-title: Items to Sell
+title: What Can I Sell?
 permalink: false
 eleventyExcludeFromCollections: false
 eleventyNavigation:
-  key: "Items to Sell"
+  key: "What Can I Sell?"
   parent: "Consignors"
-  order: 10
+  order: 4
   url: /consignors/items-accepted/
 ---

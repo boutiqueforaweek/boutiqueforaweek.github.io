@@ -4,8 +4,8 @@ description: "White tag consigning at Boutique for a Week. Donate unsold items t
 permalink: /consignors/white-tag-consignors/
 eleventyNavigation:
   key: "White Tag Consignors"
-  parent: "Consignors"
-  order: 3
+  parent: "Donating & White Tag"
+  order: 2
 ---
 
 ## Consignors who donate all of their items at sale end are known as White Tag Consignors.

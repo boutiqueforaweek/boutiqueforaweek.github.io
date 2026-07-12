@@ -2,12 +2,10 @@
 title: Items We Cannot Accept
 description: "Items not accepted at Boutique for a Week's consignment sale. Recalled items, safety guidelines and restricted categories for our Casselberry, FL event."
 permalink: /consignors/items-we-cannot-accept/
-redirect_from:
-  - /consignors/items-accepted/items-we-cannot-accept/
 eleventyNavigation:
   key: "Items Not Accepted"
-  parent: "Items to Sell"
-  order: 2
+  parent: "What Can I Sell?"
+  order: 3
 ---
 
 * Clothing manufactured more than 4 years ago. Check the inside tag! Most manufacturers print a copyright date on clothing tags.

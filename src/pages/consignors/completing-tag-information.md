@@ -1,11 +1,11 @@
 ---
 title: Completing Tag Information
 description: "How to fill out your consignment tags for Boutique for a Week. Learn what information goes on each tag to ensure your items sell at our Orlando-area sale."
-permalink: /consignors/completing-tag-information/
+permalink: /consignors/tagging/complete/
 eleventyNavigation:
-  key: "Completing Tag Information"
-  parent: "Consignors"
-  order: 7
+  key: "5. Complete Tag Information"
+  parent: "Tag Your Items"
+  order: 5
 ---
 
 * Each sale we team up with a local charity to bless those in our community. Please consider donating your few unsold items which do not sell! It is a great blessing to hundreds of needy families in our community. Use WHITE CARDSTOCK to tag any items that you wish to donate. Please consider donating! See "[Donating Unsold Items](src/pages/consignors/donating-unsold-items.md)" for more information on who gets donated items. Also, please make sure that you do not select the "DONATE" button and then print on colored cardstock. At the end of the sale we sort all unsold items based on colored cardstock. If you wish to donate but print on colored cardstock those items will not get donated.

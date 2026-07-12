@@ -1,11 +1,11 @@
 ---
 title: Preparing Merchandise
 description: "How to prepare your kids' clothing, toys and gear for consignment at Boutique for a Week. Washing, sorting and presentation tips to maximize your sales."
-permalink: /consignors/preparing-merchandise/
+permalink: /consignors/tagging/prepare/
 eleventyNavigation:
-  key: "Preparing Your Merchandise"
-  parent: "Consignors"
-  order: 6
+  key: "1. Prepare Your Merchandise"
+  parent: "Tag Your Items"
+  order: 1
 ---
 
 ## How to Prepare Your Merchandise

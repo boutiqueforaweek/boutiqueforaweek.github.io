@@ -1,11 +1,11 @@
 ---
 title: Print Your Tags
 description: "How to print consignment tags for Boutique for a Week. Cardstock requirements, printer settings and tag printing instructions for our Casselberry, FL sale."
-permalink: /consignors/items-accepted/printing-your-tags/
+permalink: /consignors/tagging/print/
 eleventyNavigation:
-  key: "Print Your Tags"
-  parent: "Pricing"
-  order: 2
+  key: "4. Print Your Tags"
+  parent: "Tag Your Items"
+  order: 4
 ---
 
 You must [register](src/pages/register.md) for this upcoming sale, even if you have previously registered as a Consignor with Boutique For A Week. To begin your inventory and print tags for this sale, [select this link](https://www.mysalemanager.net/itm_start.aspx?partnercode=BFAW) and enter your assigned code and password. Note: Please double check that you enter the correct code. If you print tags with another Consignor's code, that Consignor will be paid for the sale of your items.
