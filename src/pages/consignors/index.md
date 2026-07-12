@@ -46,9 +46,9 @@ It's the easiest way to clean out your closets and earn extra money for those gr
 
 You must obtain a Consignor code by completing the [Online Consignor Registration](src/pages/register.md).
 {% capture _consignors %}{% include sale/consignors.html %}{% endcapture %}{{ _consignors | markdownify }}
-Please note: all items must be entered into our tagging system by 11:59 p.m. on the Saturday before Sale Week.
+Please note: all items must be entered into our tagging system by {% include policy/tagging-deadline.html %}.
 
-**Consignors may bring a spouse, grandparent and/or children under 18 to shop during the Consignor Pre-Sale shopping time. No sisters, friends, aunts, etc. We are not able to make exceptions. Please only bring children if absolutely necessary. <u>Children under 12 must remain with a parent at all times</u>.{% if site.sale_stage != '13_saturday' %} The [{{ site.dates.season_year }} Pre-Sale](/events/) is {{ site.dates.presale }}.{% endif %}**
+{% assign gp_role = "Consignors" %}{% assign gp_presale = "Consignor Pre-Sale" %}**{% include policy/guest-policy.html %}{% if site.sale_stage != '13_saturday' %} The [{{ site.dates.season_year }} Pre-Sale](/events/) is {{ site.dates.presale }}.{% endif %}**
 
 **Your friends are invited to shop early at our [Friends of Consignors Pre-Sale](/events/){% if site.sale_stage != '13_saturday' %} ({{ site.dates.presale }}){% endif %}. You do not need to accompany them, but they will need to check in upon arrival and give us your name.**
 

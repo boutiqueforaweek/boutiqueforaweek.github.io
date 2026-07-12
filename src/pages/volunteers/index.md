@@ -18,7 +18,7 @@ Imagine short lines, great prices, and all the best items waiting for you becaus
 
 Your time, skills, and resources are invaluable contributions to the overall success of Boutique For A Week. Quite simply, we cannot effectively handle all the finer details that make our sale great without you &ndash; our GREAT Volunteers! As our way of saying thank you, we open this early shopping time to you! However, we are not able to allow you to shop during your volunteer shift. This also means you may not set aside items before your appropriate shopping time. Please be sure to check the schedule and plan your shifts around your shopping time.
 
-**Volunteers may bring a spouse, grandparent and/or children under 18 to shop during the Volunteer Shopping Pre-Sale shopping time. No sisters, friends, aunts, etc. We are not able to make exceptions. Please only bring children if absolutely necessary. <u>Children under 12 must remain with a parent at all times</u>.{% if site.sale_stage != '13_saturday' %} The [{{ site.dates.season_year }} Pre-Sale](/events/) is {{ site.dates.vol_presale }}.{% endif %}**
+{% assign gp_role = "Volunteers" %}{% assign gp_presale = "Volunteer Shopping Pre-Sale" %}**{% include policy/guest-policy.html %}{% if site.sale_stage != '13_saturday' %} The [{{ site.dates.season_year }} Pre-Sale](/events/) is {{ site.dates.vol_presale }}.{% endif %}**
 
 ## If you have small children at home&hellip;
 
@@ -31,8 +31,6 @@ You can even send your man to work your volunteer hours for you or with you so y
 ## We Welcome Grandmothers Too
 
 We welcome Grandmas to work in your place and even have tasks suited for those with physical limitations. Click on "[Volunteer Opportunities](src/pages/volunteers/opportunities.md)" for a brief description of how you might fit in!
-
-Please note, due to the tasks that you may be doing and the number of shoppers at any given time, we ask that you make other arrangements for your children during your volunteer shift.
 
 ## Volunteer Testimonial
 

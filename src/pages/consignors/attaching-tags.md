@@ -10,7 +10,7 @@ eleventyNavigation:
 
 When tags separate from items, everyone loses! We can not sell items without tags because the consignor cannot be properly credited. Help us to sell as many of your items as possible by securely attaching your tags! Please note: Cardstock is REQUIRED for tags.
 
-_Consignors: if you are using a Mac product to enter and print your tags, please be advised that you must not use FIREFOX to print the tags. Please use Chrome or Safari instead!_
+{% include policy/browser-note.html %}
 
 ## **Supplies Needed**
 

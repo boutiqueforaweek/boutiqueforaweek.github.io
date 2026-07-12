@@ -12,7 +12,7 @@ You must [register](src/pages/register.md) for this upcoming sale, even if you h
 
 ## Printing Your Barcoded Tags:
 
-_Consignors: if you are using a Mac product to enter and print your tags, please be advised that you must not use FIREFOX to print the tags. Please use Chrome or Safari instead!_
+{% include policy/browser-note.html %}
 
 All tags MUST be printed on <u>pastel cardstock</u>! Dark color cardstock does not scan well. Paper tags are too easily separated from their items.
 

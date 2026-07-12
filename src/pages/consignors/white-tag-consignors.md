@@ -16,7 +16,7 @@ Any Consignor can choose to designate some of her items for donation by tagging 
 
 If you elect to tag all your items with white cardstock, you can shop our Consignor Pre-Sale one hour earlier than regular Consignors.{% if site.sale_stage != '13_saturday' %} The Pre-Sale is {{ site.dates.presale }} from {{ site.times.consignors }}{% endif %} **White Tag Consignors may shop from {{ site.times.white_tag }}**
 
-**White Tag Consignors may bring a spouse, grandparent and/or children under 18 to shop during the [White Tag Consignor Pre-Sale](/events/) shopping time. No sisters, friends, aunts, etc. We are not able to make exceptions. Please only bring children if absolutely necessary. <u>Children under 12 must remain with a parent at all times</u>.{% if site.sale_stage != '13_saturday' %} Friends can shop our [Friends of Consignors Pre-Sale](/events/) that night from {{ site.times.friends }}{% endif %}**
+{% assign gp_role = "White Tag Consignors" %}{% assign gp_presale = "[White Tag Consignor Pre-Sale](/events/)" %}**{% include policy/guest-policy.html %}{% if site.sale_stage != '13_saturday' %} Friends can shop our [Friends of Consignors Pre-Sale](/events/) that night from {{ site.times.friends }}{% endif %}**
 
 Only Consignors with ALL white tags can shop early. If you decide after Drop Off to have your items donated, but the items are printed on colored cardstock, you will not be eligible to shop until the regular Consignor Pre-Sale.
 
@@ -26,6 +26,6 @@ At Drop Off, you need to check in and have your White Tag Consignor status verif
 
 ## Remember ALL your items MUST be tagged with white cardstock for you to be considered a White Tag Consignor.
 
-Tagging must be completed by midnight on the Saturday before Sale Week.
+Tagging must be completed by {% include policy/tagging-deadline.html %}.
 
 _*If you have a big ticket item that you do not want to donate, we will consider an exception. Please [email us](mailto:{{ site.email }}) with any specific questions. Note: Exceptions are only for big ticket items and are at the discretion of Boutique For A Week._

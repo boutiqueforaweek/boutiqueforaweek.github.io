@@ -1,0 +1,8 @@
+{%- comment -%}
+Shared guest / who-you-may-bring policy. Included in the same scope, so the caller
+sets `gp_role` (e.g. "Consignors") and `gp_presale` (the Pre-Sale phrase, may contain a
+markdown link) via {% assign %} before including, then wraps the include in **…** and
+appends its own role-specific trailing sentence. Single source of truth for the core
+policy wording — reinforcement is fine, forking the text is what caused the drift.
+{%- endcomment -%}
+{{ gp_role }} may bring a spouse, grandparent and/or children under 18 to shop during the {{ gp_presale }} shopping time. No sisters, friends, aunts, etc. We are not able to make exceptions. Please only bring children if absolutely necessary. <u>Children under 12 must remain with a parent at all times</u>.
