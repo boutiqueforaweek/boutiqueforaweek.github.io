@@ -21,9 +21,7 @@ _All Sales Final! No returns or exchanges! We accept Cash or Credit Cards. Credi
 
 Everyone is invited to shop at Boutique For A Week. Tell your friends, neighbors, co-workers, relatives, and anyone that shops for kids!
 
-Remember that Volunteers and Consignors shop before we open to the public! New/Expecting/Adopting or Foster Moms can shop early too!
-
-Visit [Consignors](src/pages/consignors/index.md), [White Tag Consignors](src/pages/consignors/white-tag-consignors.md), [Volunteers](src/pages/volunteers/index.md), and [New/Expecting Moms](src/pages/shoppers/first-time-moms.md) for more details.
+Want in before the public? Volunteers, Consignors, White Tag Consignors, and New/Expecting/Adopting/Foster Moms all shop the Pre-Sale — see **[How to Shop Early](src/pages/shoppers/how-to-shop-early.md)** for every way to qualify and who shops when.
 
 {% if site.sale_stage != '13_saturday' %}
 ## The public sale hours for our {{ site.dates.season_year }} Sale are:
