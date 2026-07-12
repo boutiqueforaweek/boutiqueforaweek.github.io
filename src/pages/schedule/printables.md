@@ -2,6 +2,10 @@
 title: Printables
 description: "Download printable resources for Boutique for a Week. Consignor checklists, tagging guides and helpful documents for our Casselberry, FL consignment sale."
 permalink: /events/printables/
+eleventyNavigation:
+  key: "Printables"
+  parent: "Schedule"
+  order: 4
 ---
 
 All printables are .PDF files and require Adobe Reader to read. If you cannot view them, please [download a free copy of Adobe Reader](https://get.adobe.com/reader/).

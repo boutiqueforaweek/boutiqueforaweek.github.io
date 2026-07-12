@@ -94,7 +94,7 @@
           "about": {
             "@id": "https://boutiqueforaweek.com/#localbusiness"
           }
-  {% if page.url == "/" or page.url contains "/events/event-schedule" %}
+  {% if page.url == "/" or page.url == "/events/" %}
         }, {
           "@type": "ChildrensEvent",
           "@id": "https://boutiqueforaweek.com/#{{ site.dates.season_year | downcase | replace: ' ', '-' }}-event",
