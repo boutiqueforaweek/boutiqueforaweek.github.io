@@ -213,11 +213,11 @@ a {
     width: 262px;
     height: 160px;
     text-indent: -999999px;
-    background-image: url(/img/logo.gif);
+    background-image: url(/img/logo.webp);
     background-position: top left;
 
     &:hover {
-      background-image: url(/img/logo.gif);
+      background-image: url(/img/logo.webp);
       background-position: bottom left;
     }
   }
