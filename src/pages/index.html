@@ -81,9 +81,50 @@ layout:
         turnstile.defer = true;
         document.body.appendChild(turnstile);
 
-        var myModal = new bootstrap.Modal(popup, {});
-        myModal.toggle();
-        popup.addEventListener('hidden.bs.modal', function() { document.cookie = 'newsletter=true'; });
+        // Vanilla modal. Bootstrap's modal *CSS* is compiled in, but its JS is
+        // not loaded (nav.js replaced the Offcanvas/dropdown JS), so we show and
+        // dismiss the popup by hand instead of `new bootstrap.Modal(...)`.
+        var backdrop = document.createElement('div');
+        backdrop.className = 'modal-backdrop fade';
+        document.body.appendChild(backdrop);
+        document.body.classList.add('modal-open');
+        document.body.style.overflow = 'hidden';
+        popup.style.display = 'block';
+        popup.removeAttribute('aria-hidden');
+        popup.setAttribute('aria-modal', 'true');
+        popup.setAttribute('role', 'dialog');
+        void popup.offsetHeight; // reflow so the fade/slide transition plays
+        popup.classList.add('show');
+        backdrop.classList.add('show');
+
+        var closeBtn = popup.querySelector('[data-bs-dismiss="modal"]');
+        if (closeBtn) closeBtn.focus();
+
+        var closed = false;
+        function closeModal() {
+          if (closed) return;
+          closed = true;
+          document.cookie = 'newsletter=true; path=/; max-age=31536000';
+          popup.classList.remove('show');
+          backdrop.classList.remove('show');
+          setTimeout(function () {
+            popup.style.display = 'none';
+            popup.setAttribute('aria-hidden', 'true');
+            popup.removeAttribute('aria-modal');
+            backdrop.remove();
+            document.body.classList.remove('modal-open');
+            document.body.style.overflow = '';
+          }, 200);
+        }
+
+        // data-bs-backdrop="static": clicking the backdrop does NOT close; only
+        // the × button or Escape dismisses.
+        popup.querySelectorAll('[data-bs-dismiss="modal"]').forEach(function (btn) {
+          btn.addEventListener('click', closeModal);
+        });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape') closeModal();
+        });
       }, 4000);
     });
   </script>
