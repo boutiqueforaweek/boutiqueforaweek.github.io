@@ -7,6 +7,11 @@ sponsors:
     image: /img/sponsors/nrg-dance.webp
     link: "https://nrg-dancestudios.weebly.com/"
     details: "NRG Dance, located inside the Winter Park Community Center, offers dance classes for children 3-18. We offer classes for all levels of dancers. We love to have fun & DANCE, DANCE, DANCE!!! Sign up for a FREE trial class & join our dance family! Call or text with any questions 407-519-0477"
+  - company: Tie A Bow On
+    image: /img/sponsors/tie-a-bow-on.webp
+    link: "https://www.etsy.com/shop/tieabowon/"
+    details: "Meet Bethany, the owner and creator behind Tie A Bow On! With over 14 years of experience, Bethany has been handcrafting beautiful boutique-style hair bows designed to add the perfect finishing touch to any outfit.
+From solid, everyday bows in popular styles to stunning one-of-a-kind bows for special occasions, each piece is thoughtfully made with care and attention to detail. Whether it’s for school days, celebrations, or photo-perfect moments, Tie A Bow On has a bow for every occasion. Tie A Bow has been a vendor with BFAW since Fall of 2015."
 eleventyNavigation:
   key: "Sponsors"
   order: 6
