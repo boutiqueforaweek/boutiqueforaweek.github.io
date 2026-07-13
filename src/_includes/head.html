@@ -176,11 +176,33 @@
   </script>
   {% endif %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YE0BVFQVDL"></script>
   <script>
+    // Google Analytics, deferred. Queue config immediately so hits buffer in
+    // dataLayer, but hold off the ~155 KB gtag.js download until the browser is
+    // idle or the visitor first interacts — keeps it off the initial render path
+    // without dropping analytics for real sessions.
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'G-YE0BVFQVDL');
+    (function () {
+      var loaded = false;
+      var events = ['scroll', 'mousemove', 'touchstart', 'keydown', 'click'];
+      var opts = { passive: true };
+      function loadGA() {
+        if (loaded) return;
+        loaded = true;
+        events.forEach(function (e) { window.removeEventListener(e, loadGA, opts); });
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-YE0BVFQVDL';
+        document.head.appendChild(s);
+      }
+      events.forEach(function (e) { window.addEventListener(e, loadGA, opts); });
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(loadGA, { timeout: 6000 });
+      } else {
+        window.addEventListener('load', function () { setTimeout(loadGA, 4000); });
+      }
+    })();
   </script>
