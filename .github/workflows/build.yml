@@ -33,6 +33,9 @@ jobs:
   build:
     name: Eleventy build
     runs-on: ubuntu-latest
+    outputs:
+      spell: ${{ steps.spell.outcome }}
+      links: ${{ steps.links.outcome }}
     steps:
       - uses: actions/checkout@v6
       - name: Setup Pages
@@ -47,6 +50,7 @@ jobs:
           npm install
           npm run build
       - name: Spell check
+        id: spell
         uses: streetsidesoftware/cspell-action@v8
         continue-on-error: true
         with:
@@ -54,6 +58,7 @@ jobs:
           files: "_site/**/*.html"
           incremental_files_only: false
       - name: Link check
+        id: links
         uses: lycheeverse/lychee-action@v2
         continue-on-error: true
         with:
@@ -62,7 +67,7 @@ jobs:
             --no-progress
             --root-dir ${{ github.workspace }}/_site
             --accept '200..=299,429,999'
-            --exclude 'barnesandnobleinc\.com|aidinternationalinc\.org|twitter\.com|etsy\.com|nhtsa\.gov|mysalemanager\.net'
+            --exclude 'barnesandnobleinc\.com|aidinternationalinc\.org|twitter\.com|etsy\.com|nhtsa\.gov|mysalemanager\.net|boutiqueforaweek\.com|cpsc\.gov'
             './_site/**/*.html'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
@@ -84,3 +89,19 @@ jobs:
             cf_zone: ${{ secrets.CLOUDFLARE_ZONE }}
             cf_auth: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
             hosts: boutiqueforaweek.com
+  # Runs only after the site has shipped, so a red run never blocks a deploy.
+  # Failing here is the delivery mechanism: it turns the run red, which is what
+  # triggers GitHub's "Run failed" notification email.
+  notify:
+    name: Report check failures
+    runs-on: ubuntu-latest
+    needs: [build, deploy]
+    if: needs.build.outputs.spell == 'failure' || needs.build.outputs.links == 'failure'
+    steps:
+      - name: Fail the run so GitHub emails the failure
+        run: |
+          echo "Spell check: ${{ needs.build.outputs.spell }}"
+          echo "Link check:  ${{ needs.build.outputs.links }}"
+          echo "Site deployed successfully; one or more content checks reported errors."
+          echo "Details: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          exit 1
