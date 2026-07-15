@@ -92,6 +92,24 @@ export default function (data) {
     return `${date.toLocaleDateString("en-US", options)} ${day}${ordinal(String(day))}`;
   }
 
+  // STATIC.times is the only place an hour is written down. The prose strings in
+  // `dates` below read through this rather than restating a time, so a page can
+  // never publish hours that contradict the schedule at /events/.
+  function hours(key) {
+    const range = STATIC.times[key];
+    if (!range) throw new Error(`site.js: no such entry in times: ${key}`);
+    const [start, end] = range.split(/\s*[-–]\s*/);
+    if (!start || !end) {
+      throw new Error(`site.js: times.${key} is not a range: ${range}`);
+    }
+    return { start, end };
+  }
+
+  const momsNight = hours("moms_night");
+  const dropoffDay1 = hours("dropoff_day1");
+  const dropoffDay2 = hours("dropoff_day2");
+  const pickupHours = hours("pickup");
+
   return {
     data: { menus, sale },
     time: new Date(),
@@ -122,10 +140,9 @@ export default function (data) {
       sale_end: formatShortWithOrdinal(saleEnd),
       vol_presale: formatShortWithOrdinal(dropoff),
       presale: formatShortWithOrdinal(presale),
-      moms_night: `${formatShortWithOrdinal(saleStartDate)} from 8:00 p.m. until 10:00 p.m.`,
-      discount_shopping: `${formatShortWithOrdinal(saleEnd)} from 2:00 p.m. until 8:00 p.m.`,
-      dropoff: `${formatDateWithOrdinal(startDate)} from 4:00 p.m. to 9:00 p.m. and ${formatDateWithOrdinal(dropoff)} from 10:00 a.m. to 1:00 p.m.`,
-      pickup: `${formatDateWithOrdinal(pickup)} from 9:30 a.m. – 12:30 p.m.`,
+      moms_night: `${formatShortWithOrdinal(saleStartDate)} from ${momsNight.start} until ${momsNight.end}`,
+      dropoff: `${formatDateWithOrdinal(startDate)} from ${dropoffDay1.start} to ${dropoffDay1.end} and ${formatDateWithOrdinal(dropoff)} from ${dropoffDay2.start} to ${dropoffDay2.end}`,
+      pickup: `${formatDateWithOrdinal(pickup)} from ${pickupHours.start} – ${pickupHours.end}`,
       start_ordinal: formatDateWithOrdinal(startDate),
       dropoff_ordinal: formatDateWithOrdinal(dropoff),
       presale_ordinal: formatDateWithOrdinal(presale),
