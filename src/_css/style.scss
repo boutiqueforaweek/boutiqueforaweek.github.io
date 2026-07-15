@@ -496,6 +496,11 @@ a img {
 
   .card-text {
     text-align: justify;
+
+    // Wraps markdownify output, so it holds <p> children rather than raw text.
+    p:last-child {
+      margin-bottom: 0;
+    }
   }
 
   .card-img-top + .card-body {

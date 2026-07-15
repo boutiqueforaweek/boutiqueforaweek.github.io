@@ -33,28 +33,31 @@ We are proud to share our sponsors with you. When sponsors are listed, you can c
 
 If you are interested in being added as a Sponsor/Vendor please [contact us](mailto:{{ site.email }}?subject=Becoming%20a%20Sponsor) for more details.
 
+<!-- Liquid block tags below use whitespace-control hyphens throughout. Without them
+     the rendered tags leave blank lines behind, which end markdown-it's HTML block
+     and let it wrap this markup in stray paragraph elements. -->
 <div class="container">
   <div id="sponsors" class="row">
     <div{% if sponsors.size > 1 %} class="multi-col"{% endif %}>
-      {% for sponsor in sponsors %}
+      {%- for sponsor in sponsors -%}
       <div class="p-2">
         <div class="card col">
-          {% if sponsor.link %}
+          {%- if sponsor.link -%}
           <a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer">
             <img src="{{ sponsor.image }}" class="card-img-top" alt="{{ sponsor.company }}" loading="lazy">
           </a>
-          {% else %}
+          {%- else -%}
           <img src="{{ sponsor.image }}" class="card-img-top" alt="{{ sponsor.company }}" loading="lazy">
-          {% endif %}
+          {%- endif -%}
           <div class="card-body">
             <h2 class="card-title">
               {% if sponsor.link %}<a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer">{{ sponsor.company }}</a>{% else %}{{ sponsor.company }}{% endif %}
             </h2>
-            <p class="card-text">{{ sponsor.details | markdownify }}</p>
+            <div class="card-text">{{ sponsor.details | markdownify }}</div>
           </div>
         </div>
       </div>
-      {% endfor %}
+      {%- endfor -%}
     </div>
   </div>
 </div>
