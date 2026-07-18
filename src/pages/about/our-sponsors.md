@@ -24,6 +24,10 @@ From solid, everyday bows in popular styles to stunning one-of-a-kind bows for s
     image: /img/sponsors/little-mess-express.webp
     details: "Hi, my name is Danae, also known as Ms. Nae. For six years, I've been blessed to provide TLC to children through both a commercial daycare and an in-home Mother's Day Out In Home Program. I have always loved providing parents with peace of mind — knowing their little ones are not only cared for with love, but also in a clean and safe environment.
 Little Mess Express allows me to continue this service. My goal is to help parents maintain that same peace of mind by keeping car seats, strollers, and other everyday essentials fresh, sanitized, and safe from the germs that come with daily use. Because when children are cared for in clean, healthy spaces, everyone can breathe easier. Exceptional cleaning service for baby gear, including car seats, high chairs and more. Bundle and save when you book 3 or more items. Gift cards available — ask about our bundle packages."
+  - company: Extra Blessings
+    image: /img/sponsors/extra-blessings.webp
+    link: "https://www.instagram.com/extrablessings"
+    details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which all can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that are close to your heart and make you happy."
 eleventyNavigation:
   key: "Sponsors"
   order: 6
