@@ -23,7 +23,7 @@ const STATIC = {
   // When switching to 05_before: update the Google Business Profile — set main hours
   // for sale week (per-weekday: public day 1 4-10pm, day 2 12-9pm, half-off 10am-5pm,
   // others closed) and post a GBP Event with the sale dates. Clear hours after pickup.
-  sale_stage: "02_before",
+  sale_stage: "03_before",
   times: {
     dropoff_day1: "4:00 p.m. - 9:00 p.m.",
     dropoff_day2: "10:00 a.m. - 12:00 p.m.",
