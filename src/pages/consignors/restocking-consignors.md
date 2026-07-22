@@ -6,7 +6,7 @@ eleventyNavigation:
   key: "Restocking Consignors"
   parent: "Consignors"
   order: 2
-  showWhen: "04_before"
+  showFrom: "03_before"
 ---
 
 {% if site.sale_stage != '13_saturday' %}

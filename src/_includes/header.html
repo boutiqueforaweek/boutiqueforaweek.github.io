@@ -37,7 +37,7 @@
               {%- if hasChildren > 0 %}
               <ul class="dropdown-menu text-end">
                 {%- for sub in descendants %}
-                {%- if sub.showWhen == nil or sub.showWhen == site.sale_stage %}
+                {%- if sub.showFrom == nil or sub.showFrom <= site.sale_stage %}
                 {%- assign subUrl = sub.url -%}
                 {%- if sub.data and sub.data.permalink == false %}{%- continue -%}{%- endif %}
                 <li{% if page.url == subUrl %} class="active"{% endif %}>
