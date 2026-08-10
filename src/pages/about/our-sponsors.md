@@ -28,6 +28,10 @@ Little Mess Express allows me to continue this service. My goal is to help paren
     image: /img/sponsors/extra-blessings.webp
     link: "https://www.instagram.com/extrablessings"
     details: "Hi, my name is Ory, the person behind EXTRA BLESSINGS. I’ll always be a message away to help you with any special orders that you are looking for. Here at the shop, you will find cups, tumblers, t-shirts, tote bags, bows, keychains, bracelets, and earrings, and more, which all can be personalized to your liking with custom designs or with designs we have already made. We specialize in personalized items, those that are close to your heart and make you happy."
+  - company: Cruise Planners
+    image: /img/sponsors/cruise-planners.webp
+    link: "https://www.ststraveladvisors.com/"
+    details: "Looking to plan your next family adventure? Let Jimmy and your local travel experts at Cruise Planners – STS Travel help! As your local hometown travel advisor, we provide complimentary personalized service, expert guidance, and support to you before, during, and after your trip. From all-inclusive resorts, family vacations, European adventures, guided tours, and group travel, to cruises and river cruises and more, we’re here for all your travel needs—not just cruises! When you work with a local travel advisor, you get a real person who knows you, understands your travel goals, and is there to help make your journey easier and more enjoyable from start to finish. Travel with confidence. Travel with STS Travel. Reach out today to take advantage of our free services and to make sure you save time and money on your next vacation! 904-513-0085 · jsteele@cruiseplanners.com"
 eleventyNavigation:
   key: "Sponsors"
   order: 6
