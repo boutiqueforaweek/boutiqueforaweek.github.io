@@ -503,6 +503,14 @@ a img {
     }
   }
 
+  // eleventy-img stamps width/height attributes on every sponsor logo. Bootstrap's
+  // .card-img-top sets width:100%, which beats the width attribute, but nothing
+  // overrides the height attribute — so below the logo's natural width the image
+  // keeps its 362px height and squashes. Let height follow the width.
+  .card-img-top {
+    height: auto;
+  }
+
   .card-img-top + .card-body {
     a {
       text-decoration: none;
