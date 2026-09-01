@@ -32,6 +32,10 @@ Little Mess Clean allows me to continue this service. My goal is to help parents
     image: /img/sponsors/cruise-planners.webp
     link: "https://www.ststraveladvisors.com/"
     details: "Looking to plan your next family adventure? Let Jimmy and your local travel experts at Cruise Planners – STS Travel help! As your local hometown travel advisor, we provide complimentary personalized service, expert guidance, and support to you before, during, and after your trip. From all-inclusive resorts, family vacations, European adventures, guided tours, and group travel, to cruises and river cruises and more, we’re here for all your travel needs—not just cruises! When you work with a local travel advisor, you get a real person who knows you, understands your travel goals, and is there to help make your journey easier and more enjoyable from start to finish. Travel with confidence. Travel with STS Travel. Reach out today to take advantage of our free services and to make sure you save time and money on your next vacation! 904-513-0085 · jsteele@cruiseplanners.com"
+  - company: Central Florida Motherhood Collective
+    image: /img/sponsors/central-florida-motherhood-collective.webp
+    link: "https://centralflmotherhoodco.com/"
+    details: "Central Florida Motherhood Collective (CFMC) is a community created to bring moms together, build friendships, attend play dates, meetups, and more. Find the village that you deserve and let’s do motherhood together."
 eleventyNavigation:
   key: "Sponsors"
   order: 6
