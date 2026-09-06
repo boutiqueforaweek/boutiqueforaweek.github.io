@@ -36,6 +36,13 @@ Little Mess Clean allows me to continue this service. My goal is to help parents
     image: /img/sponsors/central-florida-motherhood-collective.webp
     link: "https://centralflmotherhoodco.com/"
     details: "Central Florida Motherhood Collective (CFMC) is a community created to bring moms together, build friendships, attend play dates, meetups, and more. Find the village that you deserve and let’s do motherhood together."
+  - company: Motherlove Massage
+    image: /img/sponsors/motherlove-massage.webp
+    link: "https://motherlovemassage.com/"
+    details: "Motherlove Massage is joining Boutique For A Week with complimentary chair massage while you shop!
+Take a break, put down those shopping bags, and enjoy a few minutes of expert massage designed to melt away neck and shoulder tension and leave you feeling energized.
+Plus, stop by Motherlove’s table for a special offer you can use toward a full massage at their location in Winter Park.
+Shop. Relax. Treat yourself. You deserve all three. 💛"
 eleventyNavigation:
   key: "Sponsors"
   order: 6
