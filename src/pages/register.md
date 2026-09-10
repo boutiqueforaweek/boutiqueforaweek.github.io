@@ -39,4 +39,4 @@ eleventyNavigation:
 
 You can still print your tags after the tagging deadline, but you may not enter additional items.
 
-[![Boutique For A Week Facebook Page](/img/FacebookBadge_SM.webp)](https://www.facebook.com/BoutiqueForAWeek "Visit Our Facebook Page") [![Follow Boutique4AWeek on X](/img/x.webp)](https://x.com/Boutique4AWeek) [![Instagram](/img/instagram.webp)](https://www.instagram.com/boutiqueforaweek/)
+[![Boutique For A Week Facebook Page](/img/FacebookBadge_SM.webp)](https://www.facebook.com/BoutiqueForAWeek "Visit Our Facebook Page") [![Instagram](/img/instagram.webp)](https://www.instagram.com/boutiqueforaweek/)
