@@ -43,6 +43,13 @@ Little Mess Clean allows me to continue this service. My goal is to help parents
 Take a break, put down those shopping bags, and enjoy a few minutes of expert massage designed to melt away neck and shoulder tension and leave you feeling energized.
 Plus, stop by Motherlove’s table for a special offer you can use toward a full massage at their location in Winter Park.
 Shop. Relax. Treat yourself. You deserve all three. 💛"
+  - company: Elizabeth Bevill
+    image: /img/sponsors/elizabeth-bevill.webp
+    link: "https://www.facebook.com/share/19NyAbBnHB/"
+    details: "Hello everyone! I’m Elizabeth, your Mary Kay glow gal! 💖✨
+A little about me… I’m a wife, mom to 2 grown kids, dog-mom to 1 sweet girl, and grandma to 3 granddogs! 🐾💕 One of my big dreams is to travel the U.S. in an RV with my hubby! 🚍🏞️
+I’ve been building my Mary Kay business for over 5 years, and I truly love what I get to do! I’ve gained so much confidence along the way, and I especially love the girlfriend time 👭, meeting new friends, reconnecting with old ones, and helping women discover skincare and beauty products they love. 💞
+I’m excited to be here for Tuesday and Wednesday! 🎉 I can’t wait to share some Mary Kay favorites, show you what’s new, and have some fun with you all! 💕✨💗"
 eleventyNavigation:
   key: "Sponsors"
   order: 6
